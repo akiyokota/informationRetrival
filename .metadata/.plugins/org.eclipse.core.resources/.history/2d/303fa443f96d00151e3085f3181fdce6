@@ -10,8 +10,8 @@ import java.net.URL;
 
 public class crawling {
 	
-	public static String downloadFile() throws IOException, MalformedURLException {
-		String url = "http://www.cs.ucr.edu";
+	public String downloadFile() throws IOException, MalformedURLException {
+		String url = "";
 		URL urlObj = new URL(url);
 		
 		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
@@ -25,23 +25,13 @@ public class crawling {
 			fos.write(line);
 			fos.write("\n");
 		}
-		
-		x.close();
-		fos.close();
-		
-		return fileName;
 	}
 	
 	public static void main(String [] args) {
 		System.out.println("hello world");
 		
 		
-		try {
-			downloadFile();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		
 		
 	}
 	
