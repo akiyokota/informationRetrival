@@ -11,7 +11,7 @@ import java.net.URL;
 public class crawling {
 	
 	public static String downloadFile() throws IOException, MalformedURLException {
-		String url = "http://www.cs.ucr.edu";
+		String url = "http://www.about.com/robots.txt";
 		URL urlObj = new URL(url);
 		
 		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
