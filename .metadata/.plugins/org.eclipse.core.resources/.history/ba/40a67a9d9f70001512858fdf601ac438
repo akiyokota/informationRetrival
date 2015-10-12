@@ -1,0 +1,42 @@
+package CS172_Info_Ret.webCrawler.Objects;
+
+public class NormalizedUrl {
+	private String protocol;
+	private String port ;
+	private String host ;
+	private String path ;
+	private String query ;
+	private String bookmark ;
+	
+	public NormalizedUrl() {
+		this.protocol="";
+		this.port="";
+		this.host="";
+		this.path="";
+		this.query="";
+		this.bookmark="";
+	}
+	
+	/**
+	 * Takes in whole url as a string, analyze and normalize it into NormalizedUrl object
+	 * @param whole url as a String
+	 * @return NormalizedUlr object
+	 */
+	public NormalizedUrl UrlNormalization (String url) {
+		NormalizedUrl temp = null;
+		if (url.equals("") || url==null) {
+			System.err.println("Invalid url");
+			return temp;
+		}
+		
+		temp = new NormalizedUrl ();
+		
+		
+		
+		return temp;
+	}
+	
+	public static void main(String args[]) {
+		System.out.println("hello\n");
+	}
+}

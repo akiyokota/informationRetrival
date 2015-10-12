@@ -1,0 +1,14 @@
+package CS172_Info_Ret.webCrawler.Objects;
+
+public class CleanUrl {
+	private String protocol = "";
+	private String port = "";
+	private String host = "";
+	private String path = "";
+	private String query = "";
+	private String bookmark = "";
+	
+	public CleanUrl(String url) {
+		
+	}
+}
