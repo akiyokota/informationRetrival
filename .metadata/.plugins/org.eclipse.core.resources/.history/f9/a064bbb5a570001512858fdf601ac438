@@ -1,0 +1,18 @@
+package CS172_Info_Ret.webCrawler;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	String filename = "sample.dld";
+    	String url = "http://www.cs.ucr.edu";
+    	
+    	Crawler c = new Crawler ();
+    	c.downloadPage("./", filename, url);
+    	
+    }
+}

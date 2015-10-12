@@ -73,42 +73,42 @@ public class NormalizedUrl {
 	 * @param whole url as a String
 	 * @return NormalizedUlr object
 	 */
-	public  void UrlNormalization (String url) {
+	public  void UrlNormalization (URL url) throws MalformedURLException {
 		if (url.equals("") || url==null) {
 			System.err.println("Invalid url");
 		}
-		try {
-			URL u = new URL(url);
-			this.protocol = u.getProtocol();
-			this.port= u.getPort();
-			this.host=u.getHost();
-			this.path=u.getPath();
-			this.query=u.getQuery();
-			this.bookmark=u.getRef();
-		} catch (MalformedURLException e) {
-			e.printStackTrace();
-		}
-		
-		
+		this.protocol = url.getProtocol();
+		this.port= url.getPort();
+		this.host=url.getHost();
+		this.path=url.getPath();
+		this.query=url.getQuery();
+		this.bookmark=url.getRef();
 	}
 	
 	public void print() {
-		System.out.println("Protocol is : " + this.protocol + "\n");
-		System.out.println("Port is : " + this.port + "\n");
-		System.out.println("Host is : " + this.host + "\n");
-		System.out.println("Path is : " + this.path + "\n");
-		System.out.println("Query is : " + this.query + "\n");
-		System.out.println("Bookmark is : " + this.bookmark + "\n");
+		System.out.println("Protocol is : " + this.protocol );
+		System.out.println("Port is : " + this.port );
+		System.out.println("Host is : " + this.host );
+		System.out.println("Path is : " + this.path );
+		System.out.println("Query is : " + this.query );
+		System.out.println("Bookmark is : " + this.bookmark );
 	}
 	
 	/**
 	 * testing
 	 */
 	public static void main(String args[]) {		
-		String url = "http://www.pe.com:8080/local-news/riverside- county/riverside/riverside-headlines-index/20120408- riverside-ucr-develops-sensory-detection-for- smartphones.ece?ssimg=532988#ssStory533";
-		NormalizedUrl nu = new NormalizedUrl();
-		nu.UrlNormalization(url);
+		URL url;
+		try {
+			url = new URL("http://www.pe.com:8080/local-news/riverside- county/riverside/riverside-headlines-index/20120408- riverside-ucr-develops-sensory-detection-for- smartphones.ece?ssimg=532988#ssStory533");
+			NormalizedUrl nu = new NormalizedUrl();
+			nu.UrlNormalization(url);
+			nu.print();
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
-		nu.print();
+		
 	}
 }
