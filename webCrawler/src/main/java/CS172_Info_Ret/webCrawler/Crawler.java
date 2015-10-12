@@ -10,20 +10,54 @@ import java.net.URL;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
 import CS172_Info_Ret.webCrawler.Objects.NormalizedUrl;
 
 public class Crawler {
 	
 	private List <NormalizedUrl> normalizedUrlList;
+	private Document doc;
 	
-	
-	public Crawler () {
-		normalizedUrlList = new LinkedList<NormalizedUrl> ();
+	/**
+	 * Constructor
+	 */
+	public Crawler (String url) {
+		try {
+			this.normalizedUrlList = new LinkedList<NormalizedUrl> ();
+			this.doc = Jsoup.connect(url).get();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 
+	/**
+	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
+	 */
+	public void linkExtraction () {
+		try {
+			List<URL> urlList = new LinkedList<URL> ();
+			urlList = new ParseHTML().parseHTML(doc);
+			
+			for (URL u : urlList) {
+				NormalizedUrl nUrl = new NormalizedUrl();
+				nUrl.UrlNormalization(u);
+				this.normalizedUrlList.add(nUrl);
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 	
-	
-	public  String downloadPage(String path, String fileName, String url) throws IOException, MalformedURLException {
+	/**
+	 * Download a webcontent the primative way
+	 * @param path : the path of the folder
+	 * @param fileName : name of the file that saves all the web content
+	 * @return url : the url you wish to download
+	 */
+	public  void downloadPage(String path, String fileName, String url) throws IOException, MalformedURLException {
 		URL urlObj = new URL(url);
 
 		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
@@ -38,15 +72,7 @@ public class Crawler {
 		
 		x.close();
 		fos.close();
-		
-		return fileName;
 	}
-	
-	public static void main(String [] args) {		
-
-	}
-
-
 
 	public List<NormalizedUrl> getNormalizedUrlList() {
 		return normalizedUrlList;

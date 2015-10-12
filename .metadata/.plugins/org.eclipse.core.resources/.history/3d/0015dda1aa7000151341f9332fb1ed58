@@ -1,0 +1,35 @@
+package CS172_Info_Ret.webCrawler;
+
+import java.io.IOException;
+import java.net.MalformedURLException;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	String filename = "sample.dld";
+    	String url = "http://www.cs.ucr.edu";
+    	
+    	Crawler c = new Crawler (url);
+    	try {
+    		//download the page into sample.dld
+			c.downloadPage("./", filename, url);
+			
+
+			//put them into normalized object
+
+			
+
+			
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		} catch (IOException e) {			
+			e.printStackTrace();
+		}
+    	
+    }
+}

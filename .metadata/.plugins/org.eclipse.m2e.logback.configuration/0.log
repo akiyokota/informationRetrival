@@ -100,3 +100,167 @@
 2015-10-11 23:20:52,527 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
 2015-10-11 23:20:52,529 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-10-11 23:20:52,529 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:23:19,429 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:23:19,429 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:23:19,431 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:23:19,431 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:27:13,109 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:13,109 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:27:13,111 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:13,111 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:27:20,626 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:20,626 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:27:20,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:20,627 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:27:30,797 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:30,797 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:27:30,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:27:30,799 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:28:19,775 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:28:19,775 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:28:19,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:28:19,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:28:47,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:28:47,481 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:28:47,482 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:28:47,482 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:06,935 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:06,935 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:06,936 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:06,937 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:16,065 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:16,065 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:16,067 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:16,067 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:23,049 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:23,049 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:23,050 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:23,050 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:25,026 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:25,026 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:25,028 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:25,028 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:28,541 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:28,541 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:28,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:28,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:29:46,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:46,822 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:29:46,823 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:29:46,823 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:30:06,687 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:06,687 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:30:06,688 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:06,688 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:30:17,159 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:17,159 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:30:17,160 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:17,160 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:30:30,062 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:30,062 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:30:30,064 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:30,064 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:30:47,515 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:47,515 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:30:47,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:30:47,516 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:31:07,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:07,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:31:07,006 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:07,006 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:31:36,781 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:36,781 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:31:36,782 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:36,783 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:31:52,018 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:52,018 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:31:52,020 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:52,020 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:31:56,601 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:56,601 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:31:56,602 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:31:56,602 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:22,013 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:22,014 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:22,016 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:22,016 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:40,457 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:40,458 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:40,459 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:40,459 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:47,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:47,382 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:47,383 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:47,384 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:50,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:50,645 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:50,646 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:50,646 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:54,058 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:54,058 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:54,059 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:54,059 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:32:59,965 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:59,965 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:32:59,967 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:32:59,967 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:33:04,808 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:04,808 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:33:04,809 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:04,809 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:33:33,125 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:33,125 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:33:33,126 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:33,126 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:33:36,407 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:36,407 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:33:36,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:36,408 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:33:43,707 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:43,707 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:33:43,708 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:43,708 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:33:59,112 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:59,113 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:33:59,114 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:33:59,114 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:34:09,563 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:34:09,563 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:34:09,564 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:34:09,564 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:34:29,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:34:29,008 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:34:29,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:34:29,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:35:03,032 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:03,032 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:35:03,034 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:03,034 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:35:07,909 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:07,909 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:35:07,910 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:07,910 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:35:26,048 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:26,048 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:35:26,049 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:26,049 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:35:34,389 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:34,389 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:35:34,391 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:35:34,391 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:38:49,321 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:38:49,321 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:38:49,322 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:38:49,322 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:39:06,333 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:06,333 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:39:06,334 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:06,335 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:39:13,741 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:13,741 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:39:13,742 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:13,742 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
+2015-10-11 23:39:37,615 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:37,615 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/main/resources
+2015-10-11 23:39:37,616 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-11 23:39:37,616 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ayokota/Desktop/projects/informationRetrival/webCrawler/src/test/resources
