@@ -11,21 +11,12 @@ public class robot {
 	// don't-follow-path
 	private List<String> DisallowList;
 	// the craw-delay
-	private int Crawl_Delay;
+	private int Crawl-Delay;
 	
 	public robot () {
 		this.UserAgent= "";
 		this.AllowList= new LinkedList<String> ();
 		this.DisallowList = new LinkedList<String> ();
-		this.Crawl_Delay = 0;
-	}
-
-	public int getCrawl_Delay() {
-		return Crawl_Delay;
-	}
-
-	public void setCrawl_Delay(int crawl_Delay) {
-		Crawl_Delay = crawl_Delay;
 	}
 
 	public String getUserAgent() {

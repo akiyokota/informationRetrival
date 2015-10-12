@@ -106,9 +106,9 @@ public class NormalizedUrl {
 	 */
 	public static void main(String args[]) {		
 		String url = "http://www.pe.com:8080/local-news/riverside- county/riverside/riverside-headlines-index/20120408- riverside-ucr-develops-sensory-detection-for- smartphones.ece?ssimg=532988#ssStory533";
+		
 		NormalizedUrl nu = new NormalizedUrl();
 		nu.UrlNormalization(url);
-		
 		nu.print();
 	}
 }

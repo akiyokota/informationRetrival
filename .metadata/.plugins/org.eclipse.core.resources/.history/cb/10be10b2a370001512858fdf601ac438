@@ -20,14 +20,6 @@ public class robot {
 		this.Crawl_Delay = 0;
 	}
 
-	public int getCrawl_Delay() {
-		return Crawl_Delay;
-	}
-
-	public void setCrawl_Delay(int crawl_Delay) {
-		Crawl_Delay = crawl_Delay;
-	}
-
 	public String getUserAgent() {
 		return UserAgent;
 	}

@@ -52,12 +52,15 @@ public class Crawler {
 		return fileName;
 	}
 	
-	public static void main(String [] args) {		
+	public static void main(String [] args) {
+		System.out.println("hello world");
+		
 		
 		try {
-			//downloadPage("./", "sample.dld", "http://www.about.com/robots.txt");
-			downloadPage("./", "robot.dld", "http://www.about.com/robots.txt");
+			//downloadFile();
+			downloadPage("./", "sample.dld", "http://www.about.com/robots.txt");
 		} catch (IOException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

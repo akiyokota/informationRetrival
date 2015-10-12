@@ -56,7 +56,7 @@ public class Crawler {
 		
 		try {
 			//downloadPage("./", "sample.dld", "http://www.about.com/robots.txt");
-			downloadPage("./", "robot.dld", "http://www.about.com/robots.txt");
+			downloadPage("./", "robot.txt", "http://www.about.com/robot.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
