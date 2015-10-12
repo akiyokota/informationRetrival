@@ -9,16 +9,21 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.StringTokenizer;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import CS172_Info_Ret.webCrawler.Objects.NormalizedUrl;
+import CS172_Info_Ret.webCrawler.Objects.robot;
 
 public class Crawler {
 	
 	private List <NormalizedUrl> normalizedUrlList;
+	private List <robot> robots;
 	private Document doc;
+	private String url;
+	
 	
 	/**
 	 * Constructor
@@ -26,6 +31,9 @@ public class Crawler {
 	public Crawler (String url) {
 		try {
 			this.normalizedUrlList = new LinkedList<NormalizedUrl> ();
+			this.robots = new LinkedList<robot> ();
+
+			this.url = url;
 			this.doc = Jsoup.connect(url).get();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -55,7 +63,7 @@ public class Crawler {
 	 * Download a webcontent the primative way
 	 * @param path : the path of the folder
 	 * @param fileName : name of the file that saves all the web content
-	 * @return url : the url you wish to download
+	 * @param url : the url you wish to download
 	 */
 	public  void downloadPage(String path, String fileName, String url) throws IOException, MalformedURLException {
 		URL urlObj = new URL(url);
@@ -74,6 +82,82 @@ public class Crawler {
 		fos.close();
 	}
 
+	/**
+	 * Download a webcontent the primative way
+	 * @param url : the url you wish to download
+	 * @return content of the page
+	 */
+	private  String fetchPageToMemory(String url) throws IOException, MalformedURLException {
+		URL urlObj = new URL(url);
+		StringBuilder content = new StringBuilder();
+		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
+		
+		
+		while(x.ready()) {
+			content.append(x.readLine());
+			content.append("\n");
+		}
+		
+		x.close();
+		
+		return content.toString();
+	}
+	
+	private void printRobots() {
+		for (robot r : this.robots) {
+			System.out.println(r.getUserAgent());
+			System.out.println(r.getCrawl_Delay());
+			for(String s: r.getAllowList()) {
+				System.out.println(s);
+			}
+			for(String s: r.getDisallowList()) {
+				System.out.println(s);
+			}
+		}
+	}
+	
+	public void ParseRobots() {
+		try {
+			String robots = fetchPageToMemory("http://www.about.com/robots.txt");
+			StringTokenizer st = new StringTokenizer(robots, "\n");
+			
+			robot agent = null;
+			
+			while(st.hasMoreElements()) {
+				String token = st.nextElement().toString();
+				StringTokenizer split = new StringTokenizer(token, ": ");
+				String type = split.nextElement().toString();
+				if(type.equals("User-agent")) {
+					if(agent != null)
+						this.robots.add(agent);
+					agent = new robot();
+					if(split.hasMoreElements())
+						agent.setUserAgent(split.nextElement().toString());
+				} else if(type.equals("Allow")) {
+					if(split.hasMoreElements())
+						agent.getAllowList().add(split.nextElement().toString());
+				} else if(type.equals("Disallow")) {
+					if(split.hasMoreElements())
+						agent.getDisallowList().add(split.nextElement().toString());
+				} else if(type.equals("Crawl-Delay")) {
+					if(split.hasMoreElements())
+						agent.setCrawl_Delay(Integer.parseInt(split.nextElement().toString()));
+				} else {
+					
+				}
+				
+			}
+			this.robots.add(agent);
+			
+			printRobots();
+			
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
 	public List<NormalizedUrl> getNormalizedUrlList() {
 		return normalizedUrlList;
 	}

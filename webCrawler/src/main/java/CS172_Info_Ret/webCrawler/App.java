@@ -18,10 +18,11 @@ public class App
         	c.linkExtraction() ;
 			
 			//print them out
-			for(NormalizedUrl Nurl : c.getNormalizedUrlList()) {
-				Nurl.print();
-			}
-        	
+//			for(NormalizedUrl Nurl : c.getNormalizedUrlList()) {
+//				Nurl.print();
+//			}
+			
+        	c.ParseRobots();
 		} catch (Exception e) {			
 			e.printStackTrace();
 		}
