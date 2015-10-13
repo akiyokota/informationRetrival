@@ -13,15 +13,8 @@ public class App
     public static void main( String[] args ) throws MalformedURLException
     {
     	try {
-    		
-    		
-    		
-    		
         	String url = "http://www.about.com/";
         	Crawler c = new Crawler (url);
-        	
-        	
-        	
         	c.linkExtraction() ;
 			
 			//print them out

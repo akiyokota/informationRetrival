@@ -106,6 +106,7 @@ public class Crawler {
 				return null;
 			BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
 			
+			
 			while(x.ready()) {
 				content.append(x.readLine());
 				content.append("\n");

@@ -20,16 +20,19 @@ public class App
         	String url = "http://www.about.com/";
         	Crawler c = new Crawler (url);
         	
+        	if (c.validateUrl("http://www.googgle.com")){
+        		System.out.println("works");
+        	}
         	
         	
-        	c.linkExtraction() ;
-			
-			//print them out
-			for(NormalizedUrl Nurl : c.getNormalizedUrlList()) {
-				Nurl.print();
-			}
-			
-        	c.ParseRobots();
+//        	c.linkExtraction() ;
+//			
+//			//print them out
+//			for(NormalizedUrl Nurl : c.getNormalizedUrlList()) {
+//				Nurl.print();
+//			}
+//			
+//        	c.ParseRobots();
 		} catch (Exception e) {			
 			e.printStackTrace();
 		}

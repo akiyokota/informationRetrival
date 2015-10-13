@@ -81,17 +81,6 @@ public class Crawler {
 		x.close();
 		fos.close();
 	}
-	
-	private boolean validateUrl (String url) {
-		try {
-			URL urlObj = new URL(url);
-			if (urlObj.openStream()!=null){
-				return true;
-			}
-		} catch (Exception e) {
-		}
-		return false;
-	}
 
 	/**
 	 * Download a webcontent the primative way
@@ -99,25 +88,19 @@ public class Crawler {
 	 * @return content of the page
 	 */
 	private  String fetchPageToMemory(String url) throws IOException, MalformedURLException {
-		try {
-			URL urlObj = new URL(url);
-			StringBuilder content = new StringBuilder();
-			if (!validateUrl(url))
-				return null;
-			BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
-			
-			while(x.ready()) {
-				content.append(x.readLine());
-				content.append("\n");
-			}
-			
-			x.close();
-			
-			return content.toString();
-		} catch (Exception e) {
-			e.printStackTrace();
-			return null;
+		URL urlObj = new URL(url);
+		StringBuilder content = new StringBuilder();
+		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
+		
+		
+		while(x.ready()) {
+			content.append(x.readLine());
+			content.append("\n");
 		}
+		
+		x.close();
+		
+		return content.toString();
 	}
 	
 	private void printRobots() {
@@ -136,8 +119,6 @@ public class Crawler {
 	public void ParseRobots() {
 		try {
 			String robots = fetchPageToMemory(url + "/robots.txt");
-			if(robots==null)
-				return;
 			StringTokenizer st = new StringTokenizer(robots, "\n");
 			
 			robot agent = null;

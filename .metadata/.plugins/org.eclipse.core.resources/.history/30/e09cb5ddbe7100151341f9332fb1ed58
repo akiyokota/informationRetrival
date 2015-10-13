@@ -85,12 +85,10 @@ public class Crawler {
 	private boolean validateUrl (String url) {
 		try {
 			URL urlObj = new URL(url);
-			if (urlObj.openStream()!=null){
-				return true;
+			if (url.openStream()!=null){
+				
 			}
-		} catch (Exception e) {
 		}
-		return false;
 	}
 
 	/**
@@ -102,9 +100,8 @@ public class Crawler {
 		try {
 			URL urlObj = new URL(url);
 			StringBuilder content = new StringBuilder();
-			if (!validateUrl(url))
-				return null;
 			BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
+			
 			
 			while(x.ready()) {
 				content.append(x.readLine());

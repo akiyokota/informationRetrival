@@ -19,9 +19,6 @@ public class App
     		
         	String url = "http://www.about.com/";
         	Crawler c = new Crawler (url);
-        	
-        	
-        	
         	c.linkExtraction() ;
 			
 			//print them out
