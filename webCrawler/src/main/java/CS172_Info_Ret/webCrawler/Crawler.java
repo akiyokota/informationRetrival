@@ -23,7 +23,7 @@ public class Crawler {
 	private List <robot> robots;
 	private Document doc;
 	private String url;
-	
+	private NormalizedUrl normalizedUrl;
 	
 	/**
 	 * Constructor
@@ -35,6 +35,10 @@ public class Crawler {
 
 			this.url = url;
 			this.doc = Jsoup.connect(url).get();
+			
+			NormalizedUrl n = new NormalizedUrl();
+			n.UrlNormalization(new URL(url));
+			this.normalizedUrl = n;
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -50,6 +54,7 @@ public class Crawler {
 			
 			for (URL u : urlList) {
 				NormalizedUrl nUrl = new NormalizedUrl();
+				
 				nUrl.UrlNormalization(u);
 				this.normalizedUrlList.add(nUrl);
 			}
@@ -135,9 +140,11 @@ public class Crawler {
 	
 	public void ParseRobots() {
 		try {
-			String robots = fetchPageToMemory(url + "/robots.txt");
-			if(robots==null)
+			String robotsUrl = normalizedUrl.getProtocol() + "://" + normalizedUrl.getHost() + "/robots.txt";
+			String robots = fetchPageToMemory(robotsUrl);
+			if(robots==null){
 				return;
+			}
 			StringTokenizer st = new StringTokenizer(robots, "\n");
 			
 			robot agent = null;
