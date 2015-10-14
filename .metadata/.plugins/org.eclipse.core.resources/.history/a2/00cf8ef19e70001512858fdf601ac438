@@ -1,0 +1,27 @@
+package CS172_Info_Ret.webCrawler.Objects;
+
+public class CleanUrl {
+	private String protocol;
+	private String port ;
+	private String host ;
+	private String path ;
+	private String query ;
+	private String bookmark ;
+	
+	public CleanUrl() {
+		this.protocol="";
+		this.port="";
+		this.host="";
+		this.path="";
+		this.query="";
+		this.bookmark="";
+	}
+	
+	
+	public CleanUrl UrlNormalization (String Url) {
+		if (url.equals("") || url==null) {
+			System.err.println("Invalid url");
+			return null;
+		}
+	}
+}
