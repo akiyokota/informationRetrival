@@ -21,11 +21,9 @@ public class ParseHTML {
 		Elements links = doc.select("a[href]");
 		for (Element link : links) {
 			try{
-				//TODO: Ignore PDF files
-				//Do not add to queue at all, or download and avoid parsing?
 				String url = link.attr("abs:href").replace("#main","");
 				// "Parse only http links (avoid ftp, https or any other protocol)" 
-				if (url.substring(0,7).equals("http://")) {
+				if (url.length() >= 7 && url.substring(0,7).equals("http://")) {
 					linkList.add(new URL(url));
 				}
 			} catch(MalformedURLException ex) {

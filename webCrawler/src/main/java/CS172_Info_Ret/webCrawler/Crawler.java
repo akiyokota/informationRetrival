@@ -175,7 +175,7 @@ public class Crawler {
 			}
 			this.robots.add(agent);
 			
-			printRobots();
+			//printRobots();
 			
 		} catch (MalformedURLException e) {
 			e.printStackTrace();

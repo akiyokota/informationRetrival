@@ -10,6 +10,7 @@ public class NormalizedUrl {
 	private String path ;
 	private String query ;
 	private String bookmark ;
+	private String url ;
 	
 	public NormalizedUrl() {
 		this.protocol="";
@@ -18,6 +19,7 @@ public class NormalizedUrl {
 		this.path="";
 		this.query="";
 		this.bookmark="";
+		this.url="";
 	}
 	
 	public String getProtocol() {
@@ -67,6 +69,14 @@ public class NormalizedUrl {
 	public void setBookmark(String bookmark) {
 		this.bookmark = bookmark;
 	}
+	
+	public void setURL(String urlString) {
+		this.url = urlString;
+	}
+	
+	public String getUrl() {
+		return this.url;
+	}
 
 	/**
 	 * Takes in whole url as a string, analyze and normalize it into NormalizedUrl object
@@ -83,6 +93,7 @@ public class NormalizedUrl {
 		this.path=url.getPath();
 		this.query=url.getQuery();
 		this.bookmark=url.getRef();
+		this.url = url.toString();
 	}
 	
 	public void print() {
@@ -92,6 +103,15 @@ public class NormalizedUrl {
 		System.out.println("Path is : " + this.path );
 		System.out.println("Query is : " + this.query );
 		System.out.println("Bookmark is : " + this.bookmark );
+	}
+	
+	public String generateCleanUrl() {
+		String cleanUrl = this.protocol + "://"
+				+ this.host 
+				+ (this.port >= 0 ? "" + this.port: "") 
+				+ (this.path == null ? "" : this.path)
+				+ (this.query == null ? "" : this.query);
+		return cleanUrl;
 	}
 	
 	/**
