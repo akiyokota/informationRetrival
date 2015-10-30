@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.MalformedURLException;
+import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.util.LinkedList;
 import java.util.List;
@@ -34,7 +35,12 @@ public class Crawler {
 			this.robots = new LinkedList<robot> ();
 
 			this.url = url;
-			this.doc = Jsoup.connect(url).get();
+			try {
+				this.doc = Jsoup.connect(url).get();
+			} catch (SocketTimeoutException e) {
+				this.doc = new Document("");
+				System.out.println("Timed out\t" + url);
+			}
 			
 			NormalizedUrl n = new NormalizedUrl();
 			n.UrlNormalization(new URL(url));
