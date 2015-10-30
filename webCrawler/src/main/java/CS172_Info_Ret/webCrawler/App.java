@@ -3,7 +3,6 @@ package CS172_Info_Ret.webCrawler;
 import java.net.MalformedURLException;
 import java.util.HashMap;
 import java.util.LinkedList;
-import java.util.Map.Entry;
 import java.util.Queue;
 
 import CS172_Info_Ret.webCrawler.Objects.NormalizedUrl;
@@ -70,6 +69,8 @@ public class App
 				System.out.println("\t" + url);
 				parseUrl(url,next.getDepth());
 			}
+			
+			System.out.println("Done!");
         	
 		} catch (Exception e) {			
 			e.printStackTrace();
