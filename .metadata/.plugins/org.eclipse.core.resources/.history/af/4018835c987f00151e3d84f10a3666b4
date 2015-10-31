@@ -1,0 +1,33 @@
+package CS172_Info_Ret.webCrawler;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class CrawlerUtilities {
+	public String readFile(String filename) {
+		String content = null;
+	    File file = new File(filename); //for ex foo.txt
+	    FileReader reader = null;
+	    try {
+	        reader = new FileReader(file);
+	        char[] chars = new char[(int) file.length()];
+	        reader.read(chars);
+	        content = new String(chars);
+	        reader.close();
+	    } catch (IOException e) {
+	        e.printStackTrace();
+	    }
+	    return content;
+	}
+	
+	public void writeFile(String filename, String content) {
+		BufferedWriter fos = new BufferedWriter(new FileWriter( filename));
+
+		fos.write(content);
+		
+		fos.close();
+	}
+}

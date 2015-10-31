@@ -1,0 +1,17 @@
+package CS172_Info_Ret.webCrawler.Objects;
+
+public class META {
+	private boolean noindex;
+	private boolean index;
+	private boolean nofollow;
+	private boolean follow;
+	
+	public META () {
+		noindex = false;
+		index = false;
+		nofollow = false;
+		follow = false;
+	}
+	
+	
+}

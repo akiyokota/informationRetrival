@@ -1,0 +1,48 @@
+package CS172_Info_Ret.webCrawler;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.StringTokenizer;
+
+public class CrawlerUtilities {
+	public String readFile(String filename) {
+		StringBuilder content = new StringBuilder();
+	    try {
+	    	BufferedReader br = new BufferedReader(new FileReader(filename));
+	    	String line;
+	    	while((line = br.readLine())!=null) 
+	    		content.append(line).append("\n");
+	    	
+	    	br.close();
+	    } catch (IOException e) {
+	        e.printStackTrace();
+	    }
+	    return content.toString();
+	}
+	
+	public void writeFile(String filename, String content) {
+		try {
+			BufferedWriter fos = new BufferedWriter(new FileWriter( filename));
+			fos.write(content);
+			fos.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public List<String> TokenizeByNewLine(String content) {
+		List <String> tokens = new LinkedList<String> ();
+		
+		StringTokenizer st = new StringTokenizer(content, "\n");
+		
+		while(st.hasMoreElements()) {
+			tokens.add(st.nextToken())
+		}
+		return tokens;
+	}
+}

@@ -1,7 +1,9 @@
 package CS172_Info_Ret.webCrawler.Objects;
 
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 
 public class robot {
 	// crawler name
@@ -11,13 +13,24 @@ public class robot {
 	// don't-follow-path
 	private List<String> DisallowList;
 	// the craw-delay
+	
+	private Map<String, META> metaContents;
 	private int Crawl_Delay;
 	
 	public robot () {
 		this.UserAgent= "";
+		this.metaContents = new HashMap<String, META> ();
 		this.AllowList= new LinkedList<String> ();
 		this.DisallowList = new LinkedList<String> ();
 		this.Crawl_Delay = 0;
+	}
+
+	public Map<String, META> getMetaContents() {
+		return metaContents;
+	}
+
+	public void setMetaContents(Map<String, META> metaContents) {
+		this.metaContents = metaContents;
 	}
 
 	public int getCrawl_Delay() {
