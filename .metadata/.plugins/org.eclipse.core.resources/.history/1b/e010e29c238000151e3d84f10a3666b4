@@ -1,6 +1,12 @@
 package CS172_Info_Ret.webCrawler;
 
 import java.net.MalformedURLException;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Queue;
+
+import CS172_Info_Ret.webCrawler.Objects.NormalizedUrl;
+import CS172_Info_Ret.webCrawler.Objects.Pair;
 
 /**
  * Hello world!

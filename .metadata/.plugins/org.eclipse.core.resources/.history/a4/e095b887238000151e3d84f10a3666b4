@@ -1,6 +1,8 @@
 package CS172_Info_Ret.webCrawler.Objects;
 
 import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 
 public class robot {
@@ -39,6 +41,22 @@ public class robot {
 
 	public void setUserAgent(String userAgent) {
 		UserAgent = userAgent;
+	}
+
+	public List<String> getAllowList() {
+		return AllowList;
+	}
+
+	public void setAllowList(List<String> allowList) {
+		AllowList = allowList;
+	}
+
+	public List<String> getDisallowList() {
+		return DisallowList;
+	}
+
+	public void setDisallowList(List<String> disallowList) {
+		DisallowList = disallowList;
 	}
 	
 }
