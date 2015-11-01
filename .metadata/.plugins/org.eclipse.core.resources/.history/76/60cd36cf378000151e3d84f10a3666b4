@@ -269,7 +269,7 @@ public class Crawler {
 	
 	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots) {
 		for(NormalizedUrl nUrl : fullList) {
-			System.out.println(nUrl.generateCleanUrl());
+			
 		}
 	}
 	

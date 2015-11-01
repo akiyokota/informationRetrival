@@ -267,13 +267,8 @@ public class Crawler {
 		return false;
 	}
 	
-	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots) {
-		for(NormalizedUrl nUrl : fullList) {
-			System.out.println(nUrl.generateCleanUrl());
-		}
-	}
-	
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
+		
 		try {
 			//load seeds into the queue
 			urlQueue = utility.loadSeeds(filePathSeeds);
@@ -293,11 +288,11 @@ public class Crawler {
 					List<robot> robots = null;
 					if(robotExists(nUrl)) {
 						robots = ParseRobots(nUrl);
+
 					}
 					//extract link
-					List<NormalizedUrl> nUrlList = urlExtraction(urlPair.getURL());
+					
 					//valid url -> queue
-					enqueueUrls(nUrlList, robots);
 				}
 			}
 		} catch (Exception e) {

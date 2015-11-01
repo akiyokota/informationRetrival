@@ -16,15 +16,15 @@ public class ParseHTML {
 	 * @param doc The document to be parsed
 	 * @return List of URL's found
 	 */
-	public List<String> parseHTML(Document doc) {
-		List<String> linkList = new ArrayList<String>();
+	public List<URL> parseHTML(Document doc) {
+		List<URL> linkList = new ArrayList<URL>();
 		Elements links = doc.select("a[href]");
 		for (Element link : links) {
 			try{
 				String url = link.attr("abs:href").replace("#main","");
 				// "Parse only http links (avoid ftp, https or any other protocol)" 
 				if (url.length() >= 7 && url.substring(0,7).equals("http://")) {
-					linkList.add(new URL(url).toString());
+					linkList.add(new URL(url));
 				}
 			} catch(MalformedURLException ex) {
 				ex.printStackTrace();

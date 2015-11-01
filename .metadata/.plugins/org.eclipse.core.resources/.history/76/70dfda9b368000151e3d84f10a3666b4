@@ -17,7 +17,7 @@ public class ParseHTML {
 	 * @return List of URL's found
 	 */
 	public List<String> parseHTML(Document doc) {
-		List<String> linkList = new ArrayList<String>();
+		List<String> linkList = new ArrayList<URL>();
 		Elements links = doc.select("a[href]");
 		for (Element link : links) {
 			try{

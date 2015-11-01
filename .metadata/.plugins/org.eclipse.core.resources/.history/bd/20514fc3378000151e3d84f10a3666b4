@@ -268,9 +268,7 @@ public class Crawler {
 	}
 	
 	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots) {
-		for(NormalizedUrl nUrl : fullList) {
-			System.out.println(nUrl.generateCleanUrl());
-		}
+		
 	}
 	
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {

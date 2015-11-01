@@ -61,6 +61,25 @@ public class Crawler {
 		utility.appendToFile(historyPath, url);
 	}
 	
+	/**
+	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
+	 */
+	public void linkExtraction () {
+		try {
+			List<URL> urlList = new LinkedList<URL> ();
+			urlList = new ParseHTML().parseHTML(doc);
+			
+			for (URL u : urlList) {
+				NormalizedUrl nUrl = new NormalizedUrl();
+				
+				nUrl.UrlNormalization(u);
+				this.normalizedUrlList.add(nUrl);
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
@@ -68,14 +87,14 @@ public class Crawler {
 	public List<NormalizedUrl> urlExtraction (String url) {
 		List <NormalizedUrl> NormalizedList = new LinkedList<NormalizedUrl> ();
 		try {
-			List<String> urlList = new LinkedList<String> ();
+			List<URL> urlList = new LinkedList<URL> ();
 			Document doc = Jsoup.connect(url).get();
 			urlList = new ParseHTML().parseHTML(doc);
 			
-			for (String u : urlList) {
+			for (URL u : urlList) {
 				NormalizedUrl nUrl = new NormalizedUrl();
 				
-				nUrl.UrlNormalization(new URL(u));
+				nUrl.UrlNormalization(u);
 				NormalizedList.add(nUrl);
 			}
 
@@ -267,13 +286,8 @@ public class Crawler {
 		return false;
 	}
 	
-	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots) {
-		for(NormalizedUrl nUrl : fullList) {
-			System.out.println(nUrl.generateCleanUrl());
-		}
-	}
-	
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
+		
 		try {
 			//load seeds into the queue
 			urlQueue = utility.loadSeeds(filePathSeeds);
@@ -293,19 +307,16 @@ public class Crawler {
 					List<robot> robots = null;
 					if(robotExists(nUrl)) {
 						robots = ParseRobots(nUrl);
+
 					}
 					//extract link
-					List<NormalizedUrl> nUrlList = urlExtraction(urlPair.getURL());
 					//valid url -> queue
-					enqueueUrls(nUrlList, robots);
 				}
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
-	
-	
 	/*--- all testing function goes here ---*/
 	/*for testing*/
 	private void printRobots(List<robot> robots) {
