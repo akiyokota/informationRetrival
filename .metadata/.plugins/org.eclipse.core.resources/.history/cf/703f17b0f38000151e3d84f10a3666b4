@@ -307,7 +307,6 @@ public class Crawler {
 		try {
 			URL u = new URL(url);
 			HttpURLConnection connection = (HttpURLConnection)u.openConnection();
-			connection.setConnectTimeout(5000);
 			connection.connect();
 	
 			 if(connection.getResponseCode()==200) 
