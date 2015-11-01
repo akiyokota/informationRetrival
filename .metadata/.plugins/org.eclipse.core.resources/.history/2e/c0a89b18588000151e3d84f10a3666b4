@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="b950ef059e1f5b6b990021b1"
+ data-ch="entertainment"
+ data-gs="top40"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe9" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061869248" loadTimeTaken="3147" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="entertainment"/>
+<meta name="lotame:site" content="top40"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VEFSwzAM_BBM3kCZ9gT0ADxAsdVUg2N7JDm0v8cQCpWTXuL1Sll7JSVOpPN4gBK0YxTUO1cZd4QYMUgHfSp6n90PK5lJ0SZgVGQFimNFl8SL4CFFFcPoOWOb1RfVFKV5k0fLSIDeEK6Kr53JiCPwB_KWObGJFaVASmiVCc12YPKtKHjphqwP_j2SrgUZfKD4IW1sBJkf6-yOTuh3JQRrNTmC0MkRGDdzcW7qviKwO27SyXoIqYfwAlMXYerBViFNyAHOjelU8nf-BdgOMYJ3XMZernF7KclJAw3HK7To9fmJIsrvetP1PiutuI74KQG1TtwVtHVB1H3h7SnXqVyTZ7HNd8TuieQftGd-kh9QF1dxoDgkPs_vXm3soYjPia1PYCUXag0uoJXOMCzJiTymZWrt4zwhC1Obput4yqFe5fHvw7X7xlydAkE7lQcELYz-LWVy6_n7ebKWv4H03bJ5qcEvmROzmA.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'top40',
+	channel: 'entertainment',
+	articleId: 'b950ef059e1f5b6b990021b1',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe9"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061869248",
+loadTimeTaken : "3147"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe9"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061869248",
+loadTimeTaken : "3147"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://top40.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "top40",
+ch: "entertainment",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-basic",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_top40 tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'entertainment',
+gs = 'top40',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_top40 tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-basic';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/entertainment/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/entertainment/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/entertainment/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/entertainment/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/entertainment/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/entertainment/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/entertainment/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/entertainment/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/entertainment/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/entertainment/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/entertainment/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://top40.about.com/" />
+<title>Top 40 Pop: Latest Songs, New Music, Top Songs, and Charts</title>
+<meta name="description" content="Expert guide to top 40 pop, the latest songs, new albums, charts, news, playlists, and reviews. It&#39;s the best in current and classic pop music." itemprop="description">
+<meta name="sailthru.tags" content="entertainment,top40" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Top 40 Pop: Latest Songs, New Music, Top Songs, and Charts" />
+<meta property="article:section" content="Entertainment" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Entertainment" />
+<meta property="og:url" content="http://top40.about.com/" />
+<meta property="og:title" content="Top 40 Pop: Latest Songs, New Music, Top Songs, and Charts" />
+<meta property="og:image" content="http://f.tqn.com/y/top40/1/S/m/C/4/michael-jackson-thriller.jpg" />
+<meta property="article:author" content="https://www.facebook.com/popmusictoday" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Top 40 Pop: Latest Songs, New Music, Top Songs, and Charts" />
+<meta name="twitter:description" content="Expert guide to top 40 pop, the latest songs, new albums, charts, news, playlists, and reviews. It&#39;s the best in current and classic pop music." />
+<meta name="twitter:image" content="http://f.tqn.com/y/top40/1/S/m/C/4/michael-jackson-thriller.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Entertainment) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5C33R9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5C33R9');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/entertainment" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left nowrap">
+							<div class="sprite logo-scroll"></div><div class="sprite entertainment-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://top40.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Top 40 & Pop Music" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="top40">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://top40.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav><header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/entertainment" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" itemprop="url" source="ChannelHomepage" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-entertainment"></div>
+</a>			</div>
+				<div class="col col-10">
+<div class="row">
+		<div class="col col-6">
+<form class="mast-search s-b-col" method="get" action="http://top40.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Top 40 & Pop Music" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="top40">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-10">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Movies%20%26%20TV" data-base-url="/">
+						<div class="heading">
+							Movies & TV
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Music%20%26%20Entertainment" data-base-url="/">
+						<div class="heading">
+							Music & Entertainment
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Books" data-base-url="/">
+						<div class="heading">
+							Books
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Funny%20%26%20Shareable" data-base-url="/">
+						<div class="heading">
+							Funny & Shareable
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://top40.about.com/sitesearch.htm?boost=3&SUName=top40",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+			<div class="col col-11">
+				
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/entertainment" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Entertainment</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://top40.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Top 40 & Pop Music</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Top 40 & Pop Music</h1>
+<a href="http://top40.about.com/od/holidaymusic/ss/Top-10-Halloween-Songs.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/top40/1/T/m/C/4/michael-jackson-thriller.jpg" alt="Michael Jackson Thriller - Courtesy Epic" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://top40.about.com/od/holidaymusic/ss/Top-10-Halloween-Songs.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">10 Best Halloween Songs</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/holidaymusic/ss/Top-10-Halloween-Songs.htm"
+data-social-title="10 Best Halloween Songs"
+data-description="10 great Halloween songs for your holiday playlists. From Michael Jackson to "The Monster Mash," these are the best."
+data-social-image="http://f.tqn.com/y/top40/1/S/m/C/4/michael-jackson-thriller.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://top40.about.com/od/Best-Songs-By-Current-Artists/ss/Top-10-Adele-Songs.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/top40/1/U/E/D/4/adele-cold-shoulder.jpg" alt="Adele Cold Shoulder - Courtesy Columbia" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://top40.about.com/od/Best-Songs-By-Current-Artists/ss/Top-10-Adele-Songs.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">Adele's 10 Best Songs</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/Best-Songs-By-Current-Artists/ss/Top-10-Adele-Songs.htm"
+data-social-title="Adele's 10 Best Songs"
+data-description="The very best Adele songs. She is a worldwide pop phenomenon. Her album 21 is one of the bestselling of all time."
+data-social-image="http://f.tqn.com/y/top40/1/S/E/D/4/adele-cold-shoulder.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://top40.about.com/od/Christmas-Pop-Music/tp/Top-10-New-Christmas-Albums-for-2015-Gift-Giving.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/top40/1/U/p/C/4/kenny-rogers-once-again-its-christmas.jpg" alt="Kenny Rogers Once Again It's Christmas - Courtesy Warner Nashville" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://top40.about.com/od/Christmas-Pop-Music/tp/Top-10-New-Christmas-Albums-for-2015-Gift-Giving.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">10 Best New Christmas Albums for 2015 Gift Giving</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/Christmas-Pop-Music/tp/Top-10-New-Christmas-Albums-for-2015-Gift-Giving.htm"
+data-social-title="10 Best New Christmas Albums for 2015 Gift Giving"
+data-description="The best new Christmas albums for 2015. Included are the latest from Kenny Rogers, LeAnn Rimes, Kylie Minogue, Brian Setzer, and more."
+data-social-image="http://f.tqn.com/y/top40/1/S/p/C/4/kenny-rogers-once-again-its-christmas.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>				<div class="row">
+					<div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Top 40 & Pop Music Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/15651.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Bill Lamb</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://top40.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Top 40 & Pop Music Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Bill</div>
+		<div class="buttons"><a href="https://www.facebook.com/popmusictoday" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="http://twitter.com/billtop40" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/+BillLamb" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/top40_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="entertainment">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Entertainment</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_top40">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Top 40/Pop</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="stylensl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Style</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Top 40 & Pop Music Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/top10lists/ss/28-Pop-Artists-Who-Died-Too-Young.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/y/3/4/buddy-holly.jpg" alt="Buddy Holly - Photo by RB / Redferns" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>28 Great Pop Artists Who Died Far Too Young</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/top10lists/tp/top40essentialsongsalltime.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/U/8/1/takeonme.jpg" alt="A-Ha - Take On Me - Courtesy Warner Bros." width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 100 Pop Songs Of All Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/hitsofthe90s/tp/top1001990s.-CSM.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/4/m/3/john-mellencamp-wild-night.jpg" alt="John Mellencamp with Me'Shell NdegeOcello - Wild Night - Courtesy Mercury" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 100 Songs From the 90s</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/top10lists/tp/top100lovesongs.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/m/a/3/steve-winwood-higher-love.jpg" alt="Steve Winwood - Higher Love - Courtesy Island" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 100 Best Love Songs of All Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/top10lists/ss/Top-20-Bestselling-Pop-Recording-Artists-of-All-Time.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/t/-/4/u2.jpg" alt="U2 - Photo by Terry McGinnis / WireImage" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 20 Bestselling Pop Artists of All Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Top 40 & Pop Music Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://top40.about.com/od/top10lists/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Pop Music <span class="last">Lists<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/Pop-Music-Charts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Pop Music <span class="last">Charts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/Best-Pop-Songs/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> The Best Pop <span class="last">Songs<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/2014bestmusic/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Best Pop Music of <span class="last">2014<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/Christmas-Pop-Music/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Christmas Pop <span class="last">Music<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/reviews/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Pop Song and Album <span class="last">Reviews<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/Performers/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Top Pop <span class="last">Artists<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/concerts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Pop Concert <span class="last">Tours<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/popmusictiv/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Pop Music TV <span class="last">Shows<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/popmusic101/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Pop Music <span class="last">101<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/popmusicpicsandvideos/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Pop Music Pictures and <span class="last">Videos<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/awards/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Pop Music <span class="last">Awards<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://top40.about.com/od/artistsac/u/artistsstyles.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Pop Music Artists &amp; <span class="last">Styles<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://top40.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/top40/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/hitsofthe90s/tp/top1001990s.-CSM.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/4/m/3/john-mellencamp-wild-night.jpg" alt="John Mellencamp with Me'Shell NdegeOcello - Wild Night - Courtesy Mercury" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 100 Songs From the 90s</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/americanidolguide/ss/American-Idols-13-Winners-and-Where-They-Are-Now.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/o/y/3/kelly-clarkson.jpg" alt="Kelly Clarkson - Photo by Cindy Ord / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Where Are American Idol's 13 Winners Now?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://top40.about.com/od/top10lists/tp/top100lovesongs.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/m/a/3/steve-winwood-higher-love.jpg" alt="Steve Winwood - Higher Love - Courtesy Island" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Top 100 Best Love Songs of All Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://top40.about.com/od/holidaymusic/tp/Top-100-Christmas-Songs.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/8/s/3/74257993-crop.jpg" alt="Singer Nat 'King' Cole and his daughter Natalie Cole pose for a portrait session in front of a Christmas tree in circa 1955 - Michael Ochs Archives/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>100 Greatest Christmas Songs of All Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://top40.about.com/od/americanidolguide/ss/13-Seasons-of-the-American-Idol-Finale.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/top40/1/O/R/6/4/kelly-clarkson-justin-guarini.jpg" alt="Kelly Clarkson and Justin Guarini - Photo by SGranitz / WireImage" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>The American Idol Finale - 14 Seasons of Winners and Runner-Ups</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>					</div>
+					<div class="col col-8">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Top 40 & Pop Music</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/artistsac/p/ryancabrera.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/top40/1/V/U/D/4/ryan-cabrera.jpg" alt="Ryan Cabrera - Photo by Michael Tullberg / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/artistsac/p/ryancabrera.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">The Ryan Cabrera Story</a>
+						</h5>
+							<a href="http://top40.about.com/od/artistsac/p/ryancabrera.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">Profile of singer Ryan Cabrera, a Colombian-American pop singer-songwriter.  His major label debut album reached the top 10.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/artistsac/p/ryancabrera.htm"
+data-social-title="The Ryan Cabrera Story"
+data-description="Profile of singer Ryan Cabrera, a Colombian-American pop singer-songwriter. His major label debut album reached the top 10."
+data-social-image="http://f.tqn.com/y/top40/1/S/U/D/4/ryan-cabrera.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/albums/fr/unwrittennb.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/top40/1/V/V/D/4/natasha-bedingfield-unwritten.jpg" alt="Natasha Bedingfield Unwritten - Courtesy Sony" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/albums/fr/unwrittennb.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">Review of Natasha Bedingfield's Album Unwritten</a>
+						</h5>
+							<a href="http://top40.about.com/od/albums/fr/unwrittennb.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">Unwritten by Natasha Bedingfield is reviewed.  This is the first album by the British singer-songwriter.  It includes the hit single "These Words."</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/albums/fr/unwrittennb.htm"
+data-social-title="Review of Natasha Bedingfield's Album Unwritten"
+data-description="Unwritten by Natasha Bedingfield is reviewed. This is the first album by the British singer-songwriter. It includes the hit single "These Words.""
+data-social-image="http://f.tqn.com/y/top40/1/S/V/D/4/natasha-bedingfield-unwritten.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/albums/fr/backstreetboysthisisus.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/top40/1/V/T/D/4/backstreet-boys-this-is-us.jpg" alt="Backstreet Boys This Is Us - Courtesy Jive" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/albums/fr/backstreetboysthisisus.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">Review of the Backstreet Boys' This Is Us</a>
+						</h5>
+							<a href="http://top40.about.com/od/albums/fr/backstreetboysthisisus.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">This Is Us by the Backstreet Boys is a return to their classic styles.  Among the producers on the project are Max Martin and RedOne.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/albums/fr/backstreetboysthisisus.htm"
+data-social-title="Review of the Backstreet Boys' This Is Us"
+data-description="This Is Us by the Backstreet Boys is a return to their classic styles. Among the producers on the project are Max Martin and RedOne."
+data-social-image="http://f.tqn.com/y/top40/1/S/T/D/4/backstreet-boys-this-is-us.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-November-5-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/top40/1/V/f/2/3/newjames.jpg" alt="James Masterton - Courtesy James Masterton" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-November-5-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">UK Pop Charts for November 5, 2015</a>
+						</h5>
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-November-5-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">James Masterton covers the official UK pop singles and albums charts for the week ending November 5, 2015 with chart history and commentary.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-November-5-2015.htm"
+data-social-title="UK Pop Charts for November 5, 2015"
+data-description="James Masterton covers the official UK pop singles and albums charts for the week ending November 5, 2015 with chart history and commentary."
+data-social-image="http://f.tqn.com/y/default/entertainment/S/476302667.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/popmusicproducers/a/ryantedderinterview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/top40/1/V/S/D/4/ryan-tedder.jpg" alt="Ryan Tedder - Photo by Michael Tran / FilmMagic" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/popmusicproducers/a/ryantedderinterview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">Interview with Ryan Tedder of OneRepublic</a>
+						</h5>
+							<a href="http://top40.about.com/od/popmusicproducers/a/ryantedderinterview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">Ryan Tedder is simultaneously the leader of the band OneRepublic and one of the top pop songwriters and producers for other artists in the music business.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/popmusicproducers/a/ryantedderinterview.htm"
+data-social-title="Interview with Ryan Tedder of OneRepublic"
+data-description="Ryan Tedder is simultaneously the leader of the band OneRepublic and one of the top pop songwriters and producers for other artists in the music business."
+data-social-image="http://f.tqn.com/y/top40/1/S/S/D/4/ryan-tedder.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/artistsac/a/3oh3interview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/top40/1/V/W/D/4/nathaniel-motte.jpg" alt="Nathaniel Motte - Photo by Joey Foley / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/artistsac/a/3oh3interview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">3OH!3's Nathaniel Motte Talks About Success</a>
+						</h5>
+							<a href="http://top40.about.com/od/artistsac/a/3oh3interview.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">Nathaniel Motte of 3OH!3 was interviewed by phone in May 2010 in advance of the album 'Streets of Gold.'</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/artistsac/a/3oh3interview.htm"
+data-social-title="3OH!3's Nathaniel Motte Talks About Success"
+data-description="Nathaniel Motte of 3OH!3 was interviewed by phone in May 2010 in advance of the album 'Streets of Gold.'"
+data-social-image="http://f.tqn.com/y/top40/1/S/W/D/4/nathaniel-motte.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/singles/gr/caguilerahurt.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/top40/1/V/R/D/4/christina-aguilera-hurt.jpg" alt="Christina Aguilera Hurt - Courtesy RCA" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/singles/gr/caguilerahurt.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">Review of Christina Aguilera's "Hurt"</a>
+						</h5>
+							<a href="http://top40.about.com/od/singles/gr/caguilerahurt.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">Christina Aguilera's "Hurt" is the second single from her album 'Back to Basics.'  It is a collaboration with producer/songwriter Linda Perry.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/singles/gr/caguilerahurt.htm"
+data-social-title="Review of Christina Aguilera's "Hurt""
+data-description="Christina Aguilera's "Hurt" is the second single from her album 'Back to Basics.' It is a collaboration with producer/songwriter Linda Perry."
+data-social-image="http://f.tqn.com/y/top40/1/S/R/D/4/christina-aguilera-hurt.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/singles/gr/sarablovesong.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/top40/1/V/P/D/4/sara-bareilles-little-voice.jpg" alt="Sara Bareilles Little Voice - Courtesy Epic" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/singles/gr/sarablovesong.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">Review of Sara Bareilles' "Love Song"</a>
+						</h5>
+							<a href="http://top40.about.com/od/singles/gr/sarablovesong.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">"Love Song" is Sara Bareilles' first pop hit.  It kicked off her career with a Grammy Award nomination for Song of the Year.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/singles/gr/sarablovesong.htm"
+data-social-title="Review of Sara Bareilles' "Love Song""
+data-description=""Love Song" is Sara Bareilles' first pop hit. It kicked off her career with a Grammy Award nomination for Song of the Year."
+data-social-image="http://f.tqn.com/y/top40/1/S/P/D/4/sara-bareilles-little-voice.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/Reading-the-Charts/fl/US-Pop-Music-Charts-October-27-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/top40/1/V/p/A/4/the-weeknd-the-hills.png" alt="The Weeknd The Hills - Courtesy Republic" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/US-Pop-Music-Charts-October-27-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">US Pop Music Charts October 27, 2015</a>
+						</h5>
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/US-Pop-Music-Charts-October-27-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">U.S. pop music charts for the week of October 27, 2015 with commentary.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/Reading-the-Charts/fl/US-Pop-Music-Charts-October-27-2015.htm"
+data-social-title="US Pop Music Charts October 27, 2015"
+data-description="U.S. pop music charts for the week of October 27, 2015 with commentary."
+data-social-image="http://f.tqn.com/y/top40/1/S/p/A/4/the-weeknd-the-hills.png">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/albums/fr/jordinsparksbattlefield.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/top40/1/V/O/D/4/jordin-sparks-battlefield.jpg" alt="Jordin Sparks Battlefield - Courtesy Jive" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/albums/fr/jordinsparksbattlefield.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">Review of Jordin Sparks' Album Battlefield</a>
+						</h5>
+							<a href="http://top40.about.com/od/albums/fr/jordinsparksbattlefield.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Battlefield is the second studio album from Jordin Sparks, American Idol champion  The first single from the album is also titled "Battlefield."</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/albums/fr/jordinsparksbattlefield.htm"
+data-social-title="Review of Jordin Sparks' Album Battlefield"
+data-description="Battlefield is the second studio album from Jordin Sparks, American Idol champion The first single from the album is also titled "Battlefield.""
+data-social-image="http://f.tqn.com/y/top40/1/S/O/D/4/jordin-sparks-battlefield.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/albums/fr/barbrastreisandloveistheanswer.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/top40/1/V/N/D/4/barbra-streisand-love-is-the-answer.jpg" alt="Barbra Streisand Love Is the Answer - Courtesy Columbia" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/albums/fr/barbrastreisandloveistheanswer.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">Review of Barbra Streisand's Love Is the Answer</a>
+						</h5>
+							<a href="http://top40.about.com/od/albums/fr/barbrastreisandloveistheanswer.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">Love Is the Answer is a Barbra Streisand studio album of jazz and pop standards.  The producer of the album is jazz vocalist and pianist Diana Krall.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/albums/fr/barbrastreisandloveistheanswer.htm"
+data-social-title="Review of Barbra Streisand's Love Is the Answer"
+data-description="Love Is the Answer is a Barbra Streisand studio album of jazz and pop standards. The producer of the album is jazz vocalist and pianist Diana Krall."
+data-social-image="http://f.tqn.com/y/top40/1/S/N/D/4/barbra-streisand-love-is-the-answer.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-October-29-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/top40/1/V/f/2/3/newjames.jpg" alt="James Masterton - Courtesy James Masterton" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-October-29-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">UK Pop Charts for October 29, 2015</a>
+						</h5>
+							<a href="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-October-29-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">James Masterton covers the official UK pop singles and albums charts for the week ending October 29, 2015 with chart history and commentary.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/Reading-the-Charts/fl/UK-Pop-Charts-for-the-Week-Ending-October-29-2015.htm"
+data-social-title="UK Pop Charts for October 29, 2015"
+data-description="James Masterton covers the official UK pop singles and albums charts for the week ending October 29, 2015 with chart history and commentary."
+data-social-image="http://f.tqn.com/y/default/entertainment/S/476302667.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/singles/gr/Katy-Perry-Firework.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/top40/1/V/w/p/1/katyperryfirework.jpg" alt="Katy Perry - "Firework" - Courtesy Capitol Records" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/singles/gr/Katy-Perry-Firework.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">Review of Katy Perry's "Firework"</a>
+						</h5>
+							<a href="http://top40.about.com/od/singles/gr/Katy-Perry-Firework.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">"Firework" is the third single from Katy Perry's 'Teenage Dream' album.  It is a powerful self-esteem anthem influenced by Jack Kerouac's 'On the Road.'  Stargate co-wrote and co-produced the track.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/singles/gr/Katy-Perry-Firework.htm"
+data-social-title="Review of Katy Perry's "Firework""
+data-description=""Firework" is the third single from Katy Perry's 'Teenage Dream' album. It is a powerful self-esteem anthem influenced by Jack Kerouac's 'On the Road.' Stargate co-wrote and co-produced the track."
+data-social-image="http://f.tqn.com/y/default/entertainment/S/476302667.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/g/p/girlsaloud.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/top40/1/V/0/D/4/girls-aloud.jpg" alt="Girls Aloud - Photo by Dave J. Hogan / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/g/p/girlsaloud.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">Girls Aloud From Popstars to Pop Superstars</a>
+						</h5>
+							<a href="http://top40.about.com/od/g/p/girlsaloud.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">Girls Aloud were an all-female pop band from the UK.  The group was formed on the television show Popstars: The Rivals and released 21 UK top 10 hits.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/g/p/girlsaloud.htm"
+data-social-title="Girls Aloud From Popstars to Pop Superstars"
+data-description="Girls Aloud were an all-female pop band from the UK. The group was formed on the television show Popstars: The Rivals and released 21 UK top 10 hits."
+data-social-image="http://f.tqn.com/y/top40/1/S/0/D/4/girls-aloud.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://top40.about.com/od/n/p/nelly.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/top40/1/V/1/D/4/nelly.jpg" alt="Nelly - Photo by Cindy Ord / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://top40.about.com/od/n/p/nelly.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">The Story of Rapper Nelly</a>
+						</h5>
+							<a href="http://top40.about.com/od/n/p/nelly.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">Nelly is a rap and pop artist who was one of the bestselling recording artists of the decade 2000-2009.  Among his biggest hits are "Hot In Herre" and "Dilemma."</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://top40.about.com/od/n/p/nelly.htm"
+data-social-title="The Story of Rapper Nelly"
+data-description="Nelly is a rap and pop artist who was one of the bestselling recording artists of the decade 2000-2009. Among his biggest hits are "Hot In Herre" and "Dilemma.""
+data-social-image="http://f.tqn.com/y/top40/1/S/1/D/4/nelly.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>	
+</main>
+<div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/entertainment" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-entertainment"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-entertainment"><span class="sprite entertainment-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/entertainment" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Entertainment</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://top40.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Top 40 & Pop Music</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/entertainment" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Entertainment</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutstyle" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutstyle" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutpopstyle" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutpopstyle" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutpopstyle/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutpopstyle" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/entertainment" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Entertainment</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="musicsl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-entertainment"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjapu0jd9m7ADaQOTo3p0n390os06JIXy5xj-_gAXWoc7iCTNhRMA4azPnQ1eMToWBr1wqqE9_SlZ2uFiWapryCagd6hnW99CklZTguq3SGjnDbwc9owuIWigcCiZ3IoZUWIihKBmqzhGmbZCUC5RsFa4ib73E_Lp5LpIV3DOozo1rn2ntgGoE2I-89JdL5xiyDWl1RLbIBe4fiXGZAFy2ZMFO78tsJ5uPTfkpI0guCs5N6kIv-QHG21-sBKofW6oiz_PTXJg-DboIFj5SvidyLU6UqLdGH3HgJZj3Y_M9-xzT1G3Z51Kh7xhWsIOhjP32oFaRYvMQvTnSSsngnHgaaRjx5iREr357J0x9KnX5eDNw4.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02top40-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529841.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

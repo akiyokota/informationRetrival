@@ -1,0 +1,1684 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+
+ data-ch="homepage"
+ data-gs="www"
+
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe7" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061858606" loadTimeTaken="3289" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1UltOAzEMvBBoz0Al-gUU8TiAN_FmrWbjyHb6uD2l7QJJl5_YmslMRnacaudxgBKtE1S0O3dC3AgpYdQOei52n90Z1SxkeG5nycDJtELsmHEWzFhfzDhpo5SpRjRCXwHuZI7JWrdBECeQLcqjCEvFFaNIRlg7Ux06CPnWFLx2IduD_0xkS6SAj5S22nIhcg_xBXZdgl0PdRzeoUQ4VtgEejmW0TUd0K9LjPVs2BHETkcQXF2m2Qb5cXhHEDeu-FDRI0_4CqGehGa2SGH8093s7vhECfVa_w21yUYLoeZXPwSTpxQqck8-oN1orp_vjfc31IBgRdB_cCZX79iBcFGMi-DmsofWThGfWdofzYZyLa0g4V4j2veF3_YLHkI-bQ.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'www',
+	channel: 'homepage',
+	articleId: '',
+	templateId: '19',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe7"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061858606",
+loadTimeTaken : "3289"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe7"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061858606",
+loadTimeTaken : "3289"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://www.about.com/" + location.hash,
+title: "",
+contentGroup: "Homepage",
+gs: "www",
+ch: "homepage",
+authorId: "",
+templateId: "19",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_channel_homepage tt19",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'homepage',
+gs = 'www',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '19',
+zGAtg ='Homepage',
+google_ad_channel = 'primedia_channel_homepage tt19',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/default/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/default/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/default/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/default/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/default/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/default/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/default/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://www.about.com/" />
+<title>About.com</title>
+<meta name="description" content="The largest source for Expert content on the Internet that helps users answer questions, solve problems, learn something new or find inspiration." itemprop="description">
+<!-- Pinterest Pins -->
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com" />
+<meta property="og:image" content="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:image" content="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://search.about.com/?q={query}",
+     "query-input": "required"
+   }
+}
+</script></head>
+<body id="homePage">
+<!-- Google Tag Manager () -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W82XPQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W82XPQ');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/" data-component="mastFixedFull" data-source="mastFixedFull" data-type="channel.logo" data-ordinal="1">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite scroll-dotcom"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://search.about.com/">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="About" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-3">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtons" class="share-btns">
+			<div class="heading">Follow us</div>
+		<div class="buttons"><a href="https://www.facebook.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelFacebook_aboutdotcom" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn " target="_blank"> <span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelTwitter_aboutdotcom" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn " target="_blank"> <span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn " target="_blank"> <span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn " target="_blank"> <span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a></div>
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><header class="mast static p-bg mast-no-group-nav">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/" data-component="mast" data-source="mast" data-type="homepage.logo" data-ordinal="1" itemprop="url" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-dotcom"></div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-6">
+<form class="mast-search s-b-col" method="get" action="http://search.about.com/">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="About" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="mast-share share-btns pull-right">
+
+<div id="shareButtons" class="share-btns">
+			<div class="heading">Follow us</div>
+		<div class="buttons"><a href="https://www.facebook.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelFacebook_aboutdotcom" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn " target="_blank"> <span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelTwitter_aboutdotcom" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn " target="_blank"> <span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn " target="_blank"> <span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn " target="_blank"> <span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a></div>
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header>
+<main id="main" class="slab">
+	<div class="container homepage">
+		<div class="row spotlight-trending">
+			<div class="col col-11">
+				
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-hero">
+<a href="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/T/J/E/U/-/GettyImages-184314292.jpg" alt="" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">Forgot a Costume? DIYs You Can Make ASAP</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/5856.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="1" class="muted"> <span class="byline-heading">Sherri Osborn</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://familycrafts.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="1" class="muted">		                	Family Crafts Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm"
+data-social-title="Forgot a Costume? DIYs You Can Make ASAP"
+data-description="Here are some creative, last-minute costumes you can throw together quickly to wear for Halloween trick-or-treating or to a party."
+data-social-image="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/thaifood/1/U/Z/j/pumpkincustard640.jpg" alt="Beautiful Thai Pumpkin Custard - Taken by D.Schmidt for About.com (Copyright)" width="215" height="216" class="" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">This Pumpkin Custard Is Baked ... in a Pumpkin</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm"
+data-social-title="This Pumpkin Custard Is Baked ... in a Pumpkin"
+data-description="A spectacular autumn dessert that will receive ooo's and ahh's from your guests. Pumpkin custard is a common fall favorite, but this Thai version is baked inside a small pie pumpkin, and both are sliced and eaten together with a drizzle of syrup or caramel sauce over top. Perfect for a Thanksgiving dessert or Halloween treat!"
+data-social-image="http://f.tqn.com/y/thaifood/1/S/Z/j/pumpkincustard640.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/U/C/E/U/-/lulus.jpg" alt="" width="215" height="216" class="" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">Where to Find Cute Cocktail Dresses for Cheap</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm"
+data-social-title="Where to Find Cute Cocktail Dresses for Cheap"
+data-description="While this is easily my favorite time of the year, it can also be a time of immense wardrobe juggling depending on how many parties you have to attend. If you want to mix up your wardrobe check out these online shopping destinations where you will find cute cocktail dresses without spending a fortune."
+data-social-image="http://f.tqn.com/y/create/1/S/C/E/U/-/lulus.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-sidekick">
+<a href="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="4" class="spotlight-image-link"><img src="http://f.tqn.com/y/cocktails/1/X/k/n/-/-/Lychee-Eyeball-Garnish.jpg" alt="Lychee Eyeball Garnish for Halloween Cocktails - Photo Courtesy: &copy; Shannon Graham" width="640" height="437" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="4" class="heading-link">Creepy and Amazing Ways to Garnish Cocktails</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://cocktails.about.com/bio/Colleen-Graham-18097.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/18097.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://cocktails.about.com/bio/Colleen-Graham-18097.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="2" class="muted"> <span class="byline-heading">Colleen Graham</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://cocktails.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="2" class="muted">		                	Cocktails Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm"
+data-social-title="Creepy and Amazing Ways to Garnish Cocktails"
+data-description="Halloween is an ideal occasion to get creative with garnishing cocktails. These ideas are a good starting place to fuel your creepy garnish adventure."
+data-social-image="http://f.tqn.com/y/cocktails/1/S/k/n/-/-/Lychee-Eyeball-Garnish.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-sidekick last">
+<a href="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="5" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/X/D/E/U/-/GettyImages-475230910-copy.jpg" alt="" width="640" height="437" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="5" class="heading-link">How to Stop Your Brain From Shrinking as You Age</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://psychology.about.com/bio/Kendra-Cherry-17268.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="3" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/17268.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://psychology.about.com/bio/Kendra-Cherry-17268.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="3" class="muted"> <span class="byline-heading">Kendra Cherry</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://psychology.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="3" class="muted">		                	Psychology Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm"
+data-social-title="How to Stop Your Brain From Shrinking as You Age"
+data-description="The brain shrinks as we age, but researchers have found that exercise might be critical to protecting the brain from the damages of the aging process."
+data-social-image="http://f.tqn.com/y/create/1/S/D/E/U/-/GettyImages-475230910-copy.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div class="hp-trending">
+	<h4 class="hp-trending-title p-col">Trending on About.com</h4>
+	<ul class="hp-trending-list">
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://top40.about.com/od/holidaymusic/ss/Top-10-Halloween-Songs.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="1">The 10 Best Halloween Songs</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/15651.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="1" class="muted"> <span class="by-line-heading">Bill Lamb</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://top40.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="1" class="muted">		                	Top 40 & Pop Music Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://travelwithkids.about.com/od/Staying-Healthy-on-Vacation/fl/6-Things-to-Disinfect-in-the-Airport-and-on-the-Plane.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="2">6 Things to Disinfect Every Time You Fly</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://travelwithkids.about.com/bio/Suzanne-Rowan-Kelleher-121501.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/121501.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://travelwithkids.about.com/bio/Suzanne-Rowan-Kelleher-121501.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="2" class="muted"> <span class="by-line-heading">Suzanne Rowan Kelleher</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://travelwithkids.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="2" class="muted">		                	Family Vacations Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="3">How to Backup Facebook Data</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="3" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/90925.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="3" class="muted"> <span class="by-line-heading">Leslie Walker</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://personalweb.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="3" class="muted">		                	Social Media Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://bullying.about.com/od/Responses/a/8-Ways-To-Cope-With-Mean-Girls.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="4">8 Ways to Deal With Mean Girls</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="4" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/102617.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="4" class="muted"> <span class="by-line-heading">Sherri Gordon</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://bullying.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="4" class="muted">		                	Bullying Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://tattoo.about.com/od/tattoosgeneralinfo/tp/Top-10-Reasons-To-Not-Get-Tattooed.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="5">10 Reasons Not to Get Tattooed</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://tattoo.about.com/bio/Karen-L-Hudson-6802.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="5" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/6802.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://tattoo.about.com/bio/Karen-L-Hudson-6802.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="5" class="muted"> <span class="by-line-heading">Karen L. Hudson</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://tattoo.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="5" class="muted">		                	Tattoos & Body Piercings Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+	</ul>
+</div>			</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/homegarden/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="1"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-homegarden"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="1"><img src="http://f.tqn.com/y/quilting/1/Y/M/C/0/-/Vintage-Quilt-with-Sashing-edit.jpg" alt="Quilt - Marcie Cheatham / E+ / Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="1">10 Things Every Quilter Needs to Know</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://quilting.about.com/bio/Janet-Wickell-18651.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/18651.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://quilting.about.com/bio/Janet-Wickell-18651.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="1" class="muted"> <span class="by-line-heading">Janet Wickell</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://quilting.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="1" class="muted">		                	Quilting Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm"
+data-social-title="10 Things Every Quilter Needs to Know"
+data-description="Ten important skills every quilter should know. A must-read for new quilters. Learn the ins and outs of quilting before you sew that first project."
+data-social-image="http://f.tqn.com/y/quilting/1/S/M/C/0/-/Vintage-Quilt-with-Sashing-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite homegarden-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="2"><img src="http://f.tqn.com/y/homestaging/1/Y/7/7/-/-/Home-staging-tips-interior.jpg" alt="Home staging tips interiors - Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="2">5 Budget-Friendly Home Staging Tips</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/135645.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="2" class="muted"> <span class="by-line-heading">Ronique Gibson</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://homestaging.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="2" class="muted">		                	Home Staging Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm"
+data-social-title="5 Budget-Friendly Home Staging Tips"
+data-description="Clear your home's clutter throughout your interiors for buyer appeal. Create curb appeal in your outdoor home to entice buyers to come inside."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/7/7/-/-/Home-staging-tips-interior.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite homegarden-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://diy.about.com/od/DIY/tp/10-Clever-Ikea-Hacks.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="3"><img src="http://f.tqn.com/y/create/1/Y/r/C/U/-/ikea_marmor_inspiration.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://diy.about.com/od/DIY/tp/10-Clever-Ikea-Hacks.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="3">10 Genius Ikea Furniture Hacks</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://diy.about.com/bio/Stephanie-White-120957.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="3" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/120957.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://diy.about.com/bio/Stephanie-White-120957.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="3" class="muted"> <span class="by-line-heading">Stephanie White</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://diy.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="3" class="muted">		                	DIY Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://diy.about.com/od/DIY/tp/10-Clever-Ikea-Hacks.htm"
+data-social-title="10 Genius Ikea Furniture Hacks"
+data-description="These 10 clever Ikea do-it-yourself hacks will show you how to give a fresh and stylish update to your Ikea furniture."
+data-social-image="http://f.tqn.com/y/create/1/S/r/C/U/-/ikea_marmor_inspiration.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite homegarden-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading homegarden-col">
+										Trending in Home
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://freebies.about.com/od/otherfreebies/ss/never-spend-money.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="4">6 Things You Should Never Pay For</a>
+								</li>
+								<li>
+									<a href="http://fleamarket.about.com/od/insidershoppingtips/fl/7-Myths-About-Yard-Sale-Shopping.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="5">7 Myths About Yard Sale Shopping, Debunked</a>
+								</li>
+								<li class="odd">
+									<a href="http://housekeeping.about.com/cs/15minutecleanups/ht/15minkitchen.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="6">How to Clean the Kitchen in 15 Minutes or Less</a>
+								</li>
+								<li>
+									<a href="http://containergardening.about.com/od/containersyearround/a/How-Not-To-Kill-Your-Mums.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="7">How Not to Kill Your Mums</a>
+								</li>
+								<li class="odd">
+									<a href="http://bedroom.about.com/od/BedroomLiving/fl/5-Reasons-Why-You-Should-Make-Your-Bed-Every-Day.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="8">5 Reasons to Make Your Bed Every Day</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/food/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="2"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-food"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="4"><img src="http://f.tqn.com/y/candy/1/Y/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg" alt="3-D Chocolate Truffle Pumpkins - (c) 2015 Elizabeth LaBau" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="9">3-D Chocolate Truffle Pumpkins</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://candy.about.com/bio/Elizabeth-LaBau-23434.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="4" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/23434.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://candy.about.com/bio/Elizabeth-LaBau-23434.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="4" class="muted"> <span class="by-line-heading">Elizabeth LaBau</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://candy.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="4" class="muted">		                	Candy Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm"
+data-social-title="3-D Chocolate Truffle Pumpkins"
+data-description="3-D Chocolate Truffle Pumpkins are two candies in one! Eat the creamy truffle filling first, then gobble up the edible chocolate pumpkin shell."
+data-social-image="http://f.tqn.com/y/candy/1/S/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn"> <span class="sprite food-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://vegan.about.com/od/Vegan-Dessert-Recipes/r/Toffee-Popcorn-Balls.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="5"><img src="http://f.tqn.com/y/vegan/1/Y/1/2/-/-/ChocolateToffeePopcornBalls.png" alt=" - Photo Credit: Allyson Kramer" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://vegan.about.com/od/Vegan-Dessert-Recipes/r/Toffee-Popcorn-Balls.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="10">Toffee Popcorn Balls</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://vegan.about.com/bio/Allyson-Kramer-121502.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="5" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/121502.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://vegan.about.com/bio/Allyson-Kramer-121502.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="5" class="muted"> <span class="by-line-heading">Allyson Kramer</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://vegan.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="5" class="muted">		                	Vegan Food Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://vegan.about.com/od/Vegan-Dessert-Recipes/r/Toffee-Popcorn-Balls.htm"
+data-social-title="Toffee Popcorn Balls"
+data-description="Recipe for Vegan Toffee Popcorn Balls"
+data-social-image="http://f.tqn.com/y/vegan/1/S/1/2/-/-/ChocolateToffeePopcornBalls.png">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn"> <span class="sprite food-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://produce.about.com/od/Fall-Produce/r/Maple-Sweet-Potato-Cake.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="6"><img src="http://f.tqn.com/y/produce/1/Y/a/1/-/-/sweet-potato-cake.JPG" alt=" - Garrett McCord" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://produce.about.com/od/Fall-Produce/r/Maple-Sweet-Potato-Cake.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="11">Maple Sweet Potato Cake</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://produce.about.com/bio/Garrett-McCord-134792.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="6" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/134792.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://produce.about.com/bio/Garrett-McCord-134792.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="6" class="muted"> <span class="by-line-heading">Garrett McCord</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://produce.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="6" class="muted">		                	Fruits & Vegetables Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://produce.about.com/od/Fall-Produce/r/Maple-Sweet-Potato-Cake.htm"
+data-social-title="Maple Sweet Potato Cake"
+data-description="An epic and easy sweet potato cake flavored with maple syrup that takes 5 minutes!"
+data-social-image="http://f.tqn.com/y/produce/1/S/a/1/-/-/sweet-potato-cake.JPG">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn"> <span class="sprite food-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading food-col">
+										Trending in Food
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://southernfood.about.com/od/Savory-Yeast-Rolls-and-Sandwich-Buns/r/Savory-Herb-and-Bacon-Yeast-Rolls.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="12">Why You Should Always Bake With Bacon</a>
+								</li>
+								<li>
+									<a href="http://cocktails.about.com/od/Scotch-Cocktail-Recipes/r/Bugs-Cutty-Cocktail-Recipe.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="13">Spiked Carrot Juice</a>
+								</li>
+								<li class="odd">
+									<a href="http://macrobiotic.about.com/od/cereal/r/Overnight-Toasted-Oat-and-Quinoa-Porridge.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="14">Easy Overnight Oats</a>
+								</li>
+								<li>
+									<a href="http://mideastfood.about.com/od/middleeasternfood101/r/Spiced-Beef-Hand-Pies.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="15">Spiced Beef Hand Pies</a>
+								</li>
+								<li class="odd">
+									<a href="http://southamericanfood.about.com/od/desserts/r/Apple-Cider-Dulce-de-Leche-Doughnuts-Bola-de-Fraile.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="16">Apple Cider Doughnut Holes with Dulce de Leche</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/health/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="3"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-health"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="7"><img src="http://f.tqn.com/y/dietadvice/1/Y/a/-/-/-/hg-yum-yum-brownie-muffins.jpg" alt="Hungry Girl's Yum Yum Brownie Muffins - Courtesy of Hungry-Girl.com" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="17">The Best Diet-Friendly Ways to Kick a Chocolate Craving</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="7" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/127384.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="7" class="muted"> <span class="by-line-heading">Lisa Lillien, a.k.a. Hungry Girl</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://dietadvice.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="7" class="muted">		                	Diet Advice Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm"
+data-social-title="The Best Diet-Friendly Ways to Kick a Chocolate Craving"
+data-description="Looking for a low-calorie chocolate fix? Hungry Girl Lisa Lillien has recipe ideas and product finds to feed your chocolate cravings!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/a/-/-/-/hg-yum-yum-brownie-muffins.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn"> <span class="sprite health-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://diseaseprevention.about.com/od/Cancer/fl/Should-Humans-Eat-Meat.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="8"><img src="http://f.tqn.com/y/diseaseprevention/1/Y/v/-/-/-/GettyImages-518449543.jpg" alt=" - Portra Images/Taxi/Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://diseaseprevention.about.com/od/Cancer/fl/Should-Humans-Eat-Meat.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="18">Should Humans Eat Meat?</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://diseaseprevention.about.com/bio/David-L-Katz-MD-139225.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="8" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/139225.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://diseaseprevention.about.com/bio/David-L-Katz-MD-139225.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="8" class="muted"> <span class="by-line-heading">David L. Katz, MD</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://diseaseprevention.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="8" class="muted">		                	Disease Prevention Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://diseaseprevention.about.com/od/Cancer/fl/Should-Humans-Eat-Meat.htm"
+data-social-title="Should Humans Eat Meat?"
+data-description="Should humans eat meat? Does meat cause cancer? Dr. David Katz identifies 7 lenses through which to view this debate to arrive at a bigger picture."
+data-social-image="http://f.tqn.com/y/diseaseprevention/1/S/v/-/-/-/GettyImages-518449543.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn"> <span class="sprite health-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://contraception.about.com/od/contraceptionfailure/ht/pilltips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="9"><img src="http://f.tqn.com/y/contraception/1/Y/y/H/-/-/GettyImages-147220275.jpg" alt="Prevent Oral Contraceptive Failure - TEK IMAGE/Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://contraception.about.com/od/contraceptionfailure/ht/pilltips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="19">4 Reasons the Pill Could Stop Working</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://contraception.about.com/bio/Dawn-Stacey-M-Ed-LMHC-24387.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="9" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/24387.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://contraception.about.com/bio/Dawn-Stacey-M-Ed-LMHC-24387.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="9" class="muted"> <span class="by-line-heading">Dawn Stacey M.Ed, LMHC</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://contraception.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="9" class="muted">		                	Contraception Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://contraception.about.com/od/contraceptionfailure/ht/pilltips.htm"
+data-social-title="4 Reasons the Pill Could Stop Working"
+data-description="Pill failure happens. Knowing some of the simple reasons why the pill may fail can help better your chances of preventing oral contraceptive failure."
+data-social-image="http://f.tqn.com/y/contraception/1/S/y/H/-/-/GettyImages-147220275.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn"> <span class="sprite health-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading health-col">
+										Trending in Health
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://sportsmedicine.about.com/od/Lower-Body-Exercises/a/Best-Butt-Exercises-Gluteus-Maximus-Medius.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="20">Science Finds the Best Exercises for a Firmer Butt</a>
+								</li>
+								<li>
+									<a href="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="21">8 Mistakes NICU Moms Often Make</a>
+								</li>
+								<li class="odd">
+									<a href="http://depression.about.com/od/patientsrights/fl/Can-Antidepressants-Make-You-Less-Creative.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="22">Can Antidepressants Make You Less Creative?</a>
+								</li>
+								<li>
+									<a href="http://testicularcancer.about.com/od/Testicular-Cancer-Basics/fl/Signs-and-Symptoms-of-Testicular-Cancer.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="23">7 Can't-Miss Signs of Testicular Cancer</a>
+								</li>
+								<li class="odd">
+									<a href="http://link.about.com/join/3op/allhealthsignup" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="24">Where to Get Daily Health Info for Free</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/style/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="4"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-style"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://www.about.com/style/topic/halloween-costumes-diy-ideas" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="10"><img src="http://f.tqn.com/y/create/1/Y/1/A/U/-/DIY-Pizza-Slice-and-Delivery-Boy-Couples-Costume-crop.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://www.about.com/style/topic/halloween-costumes-diy-ideas" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="25">The Best Halloween Costumes Ever</a></h2>
+									<div class="group">
+												<div class="by-line by-line-inline">
+													<a class="by-line-author-img"><span style="display:block; width:40px; height:40px"></span></a>
+													<div class="by-line-info"></div>
+												</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://www.about.com/style/topic/halloween-costumes-diy-ideas"
+data-social-title="The Best Halloween Costumes Ever"
+data-description=""
+data-social-image="http://f.tqn.com/y/create/1/S/1/A/U/-/DIY-Pizza-Slice-and-Delivery-Boy-Couples-Costume-crop.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn"> <span class="sprite style-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://www.about.com/style/topic/fall-beauty-trends" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="11"><img src="http://f.tqn.com/y/create/1/Y/r/v/T/-/GettyImages-135559560-edit.jpg" alt="redheaded woman in field - " width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://www.about.com/style/topic/fall-beauty-trends" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="26">The Ultimate Guide to Fall Beauty</a></h2>
+									<div class="group">
+												<div class="by-line by-line-inline">
+													<a class="by-line-author-img"><span style="display:block; width:40px; height:40px"></span></a>
+													<div class="by-line-info"></div>
+												</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://www.about.com/style/topic/fall-beauty-trends"
+data-social-title="The Ultimate Guide to Fall Beauty"
+data-description=""
+data-social-image="http://f.tqn.com/y/create/1/S/r/v/T/-/GettyImages-135559560-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn"> <span class="sprite style-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://personalstyle.about.com/od/Style-with-a-Sense-of-Humor/ss/Celebrity-Halloween-Costumes-The-Dos-and-Donts.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="12"><img src="http://f.tqn.com/y/create/1/Y/q/C/U/-/Matt-Lauer-crop.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://personalstyle.about.com/od/Style-with-a-Sense-of-Humor/ss/Celebrity-Halloween-Costumes-The-Dos-and-Donts.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="27">Halloween Costumes: Dos and Don'ts</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="10" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/134255.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="10" class="muted"> <span class="by-line-heading">Brandon Holley</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://personalstyle.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="10" class="muted">		                	Personal Style Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalstyle.about.com/od/Style-with-a-Sense-of-Humor/ss/Celebrity-Halloween-Costumes-The-Dos-and-Donts.htm"
+data-social-title="Halloween Costumes: Dos and Don'ts"
+data-description="The good, the bad, and the disasters."
+data-social-image="http://f.tqn.com/y/create/1/S/q/C/U/-/Matt-Lauer-crop.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn"> <span class="sprite style-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading style-col">
+										Trending in Style
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://shoes.about.com/od/what-to-wear-with/tp/5-Ways-to-Style-Leopard-Shoes.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="28">5 Ways to Style Leopard Shoes</a>
+								</li>
+								<li>
+									<a href="http://skincare.about.com/od/AcneTips/fl/Stopping-Oily-Skin.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="29">How to Get Rid of Oily Skin</a>
+								</li>
+								<li class="odd">
+									<a href="http://jeans.about.com/od/JeanStyleGuide/tp/Skinny-Jeans-Style-Guide.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="30">The Definitive Skinny Jeans Style Guide</a>
+								</li>
+								<li>
+									<a href="http://shoppingtips.about.com/od/clothingshopping/fl/How-Much-Should-You-Spend-on-Clothing-Each-Year.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="31">Are You Spending Too Much Money on Clothes?</a>
+								</li>
+								<li class="odd">
+									<a href="http://link.about.com/join/3op/stylesignup?source=homepage" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="32">Get Style Tips Delivered Right to Your Inbox</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/money/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="5"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-money"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://humanresources.about.com/od/teambuildingholidays/a/halloween_legal.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="13"><img src="http://f.tqn.com/y/create/1/Y/M/D/U/-/GettyImages-200174763-001-1-crop.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://humanresources.about.com/od/teambuildingholidays/a/halloween_legal.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="33">How Your Halloween Party Could End in a Lawsuit</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://humanresources.about.com/bio/Susan-M-Heathfield-6016.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="11" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/6016.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://humanresources.about.com/bio/Susan-M-Heathfield-6016.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="11" class="muted"> <span class="by-line-heading">Susan M. Heathfield</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://humanresources.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="11" class="muted">		                	Human Resources Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://humanresources.about.com/od/teambuildingholidays/a/halloween_legal.htm"
+data-social-title="How Your Halloween Party Could End in a Lawsuit"
+data-description="Halloween celebrations in the office bring challenges for employers. You need to worry about the fun stuff for employees, but also your legal exposure."
+data-social-image="http://f.tqn.com/y/create/1/S/M/D/U/-/GettyImages-200174763-001-1-crop.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn"> <span class="sprite money-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://retireplan.about.com/od/planningbythedecade/ss/Islands-Where-You-Get-the-Most-Bang-for-Your-Retiremetn-Buck.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="14"><img src="http://f.tqn.com/y/retireplan/1/Y/7/3/-/-/GettyImages-163640693.jpg" alt="Spending their retirement relaxing together - Troels Graugaard/E+/Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://retireplan.about.com/od/planningbythedecade/ss/Islands-Where-You-Get-the-Most-Bang-for-Your-Retiremetn-Buck.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="34">10 Islands Where You Can Retire Like Royalty</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://retireplan.about.com/bio/Melissa-Phipps-109098.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="12" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/109098.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://retireplan.about.com/bio/Melissa-Phipps-109098.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="12" class="muted"> <span class="by-line-heading">Melissa Phipps</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://retireplan.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="12" class="muted">		                	Retirement Planning Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://retireplan.about.com/od/planningbythedecade/ss/Islands-Where-You-Get-the-Most-Bang-for-Your-Retiremetn-Buck.htm"
+data-social-title="10 Islands Where You Can Retire Like Royalty"
+data-description="Retire in paradise. Here are 11 fabulous island destinations where you can stretch your dollars in retirement."
+data-social-image="http://f.tqn.com/y/retireplan/1/S/7/3/-/-/GettyImages-163640693.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn"> <span class="sprite money-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://biztaxlaw.about.com/od/biztaxrecords/fl/Dont-Make-These-5-Small-Business-Money-Mistakes.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="15"><img src="http://f.tqn.com/y/biztaxlaw/1/Y/3/B/-/-/GettyImages-457728899.jpg" alt="business people on roller coaster losing money - retrorocket/DigitalVision Vectors/Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://biztaxlaw.about.com/od/biztaxrecords/fl/Dont-Make-These-5-Small-Business-Money-Mistakes.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="35">Don't Make These 5 Small Biz Money Mistakes</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://biztaxlaw.about.com/bio/Jean-Murray-40292.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="13" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/40292.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://biztaxlaw.about.com/bio/Jean-Murray-40292.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="13" class="muted"> <span class="by-line-heading">Jean   Murray</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://biztaxlaw.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="13" class="muted">		                	US Business Law / Taxes Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://biztaxlaw.about.com/od/biztaxrecords/fl/Dont-Make-These-5-Small-Business-Money-Mistakes.htm"
+data-social-title="Don't Make These 5 Small Biz Money Mistakes"
+data-description="Don't make these 5 common small business money mistakes, relating to cash businesses, checking accounts, advisors, and taxes."
+data-social-image="http://f.tqn.com/y/biztaxlaw/1/S/3/B/-/-/GettyImages-457728899.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn"> <span class="sprite money-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading money-col">
+										Trending in Money
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="36">The 10 Most Annoying Stereotypes in Advertising</a>
+								</li>
+								<li>
+									<a href="http://frugalliving.about.com/od/moneymanagement/ss/How-Long-Things-are-Supposed-to-Last.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="37">Here's When You Can Expect Your Stuff to Break</a>
+								</li>
+								<li class="odd">
+									<a href="http://moneyfor20s.about.com/od/moneyinyour20sbasics/ss/20-Challenges-You-Can-Take-to-Change-Your-Financial-Picture.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="38">20 Challenges to Help You Master Your Finances</a>
+								</li>
+								<li>
+									<a href="http://www.about.com/money/topic/savingmoney" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="39">How to Save Money Around the House</a>
+								</li>
+								<li class="odd">
+									<a href="http://moneyover55.about.com/od/safeinvestments/ss/5-Safe-Investments.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="40">5 Investments That Keep Your Nest Egg Safe</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/careers/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="6"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-careers"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://jobsearch.about.com/od/Bl2014/fl/Social-Security-Numbers-on-Job-Applications.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="16"><img src="http://f.tqn.com/y/create/1/Y/v/C/U/-/GettyImages-515791383-edit.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://jobsearch.about.com/od/Bl2014/fl/Social-Security-Numbers-on-Job-Applications.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="41">When and When Not to Share Your Social Security Number</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://jobsearch.about.com/bio/Alison-Doyle-2335.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="14" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/2335.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://jobsearch.about.com/bio/Alison-Doyle-2335.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="14" class="muted"> <span class="by-line-heading">Alison Doyle</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://jobsearch.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="14" class="muted">		                	Job Searching Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://jobsearch.about.com/od/Bl2014/fl/Social-Security-Numbers-on-Job-Applications.htm"
+data-social-title="When and When Not to Share Your Social Security Number"
+data-description="Do you have to put your social security number on a job application? Here's information on what to do when an application asks for your social security number."
+data-social-image="http://f.tqn.com/y/create/1/S/v/C/U/-/GettyImages-515791383-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="16" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="16" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="16" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="16" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="16" class="share-btn share-options-btn"> <span class="sprite careers-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://jobsearchtech.about.com/od/yourjobsearch/fl/How-Much-Should-I-Charge-as-a-First-Time-Freelancer.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="17"><img src="http://f.tqn.com/y/jobsearchtech/1/Y/y/8/-/-/freelancer-discussion.jpg" alt="communication when freelancing - Cultura RM/Alys Tomlinson" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://jobsearchtech.about.com/od/yourjobsearch/fl/How-Much-Should-I-Charge-as-a-First-Time-Freelancer.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="42">Do You Know How Much to Charge as a First-Time Freelancer?</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://jobsearchtech.about.com/bio/Laurence-Bradford-139317.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="15" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/139317.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://jobsearchtech.about.com/bio/Laurence-Bradford-139317.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="15" class="muted"> <span class="by-line-heading">Laurence Bradford</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://jobsearchtech.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="15" class="muted">		                	Tech Careers Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://jobsearchtech.about.com/od/yourjobsearch/fl/How-Much-Should-I-Charge-as-a-First-Time-Freelancer.htm"
+data-social-title="Do You Know How Much to Charge as a First-Time Freelancer?"
+data-description="Want to move into the world of freelancing, but don't know what to charge? Here are 13 tips on how to put a price tag on your work&mdash;starting now."
+data-social-image="http://f.tqn.com/y/jobsearchtech/1/S/y/8/-/-/freelancer-discussion.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="17" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="17" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="17" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="17" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="17" class="share-btn share-options-btn"> <span class="sprite careers-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://financecareers.about.com/od/jobfinding/a/Contingent_Job_Offers.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="18"><img src="http://f.tqn.com/y/create/1/Y/u/C/U/-/GettyImages-175822651-edit.jpg" alt="" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://financecareers.about.com/od/jobfinding/a/Contingent_Job_Offers.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="43">What You Should Know About Job Offers with Strings Attached</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://financecareers.about.com/bio/Mark-Kolakowski-33968.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="16" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/33968.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://financecareers.about.com/bio/Mark-Kolakowski-33968.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="16" class="muted"> <span class="by-line-heading">Mark Kolakowski</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://financecareers.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="16" class="muted">		                	Financial Careers Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://financecareers.about.com/od/jobfinding/a/Contingent_Job_Offers.htm"
+data-social-title="What You Should Know About Job Offers with Strings Attached"
+data-description="Contingent job offers have strings attached. They may be withdrawn based on various facts about you that may come to light later. Before accepting a job, be careful to understand these contingencies."
+data-social-image="http://f.tqn.com/y/create/1/S/u/C/U/-/GettyImages-175822651-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="18" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="18" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="18" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="18" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="18" class="share-btn share-options-btn"> <span class="sprite careers-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+								<div class="col col-3 channel-row-trending">
+									<h3 class="heading careers-col">
+										Trending in Careers
+									</h3>
+									<ul>
+								<li class="odd">
+									<a href="http://freelancewrite.about.com/od/freelancejobresources/tp/Freelance-Jobs.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="44">28 Places for Work-at-Home Freelance Writing Jobs</a>
+								</li>
+								<li>
+									<a href="http://www.about.com/careers/topic/How-to-Behave-in-the-Workplace" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="45">Job Etiquette: Basic Rules to Get Along at Work</a>
+								</li>
+								<li class="odd">
+									<a href="http://jobsearch.about.com/od/resumetips/a/top-resume-mistakes.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="46">10 Common Resume Mistakes You Should Avoid</a>
+								</li>
+								<li>
+									<a href="http://salescareers.about.com/od/Networking/tp/Become-a-Master-of-Networking.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="47">6 Ways to Become a Master of Networking</a>
+								</li>
+								<li class="odd">
+									<a href="http://jobsearch.about.com/od/skills/qt/communication-skills.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="48">10 Communication Skills That Employers Want</a>
+								</li>
+									</ul>
+								</div>
+				</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/compute/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="7"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-compute"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="19"><img src="http://f.tqn.com/y/create/1/Y/R/D/U/-/oldharddrive-edit.jpg" alt="Old Hard Drive - Sean Gallup/Getty Images News/Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="49">The Billion Dollar Hard Drive</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="17" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/21913.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="17" class="muted"> <span class="by-line-heading">Tim Fisher</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://pcsupport.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="17" class="muted">		                	PC Support Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm"
+data-social-title="The Billion Dollar Hard Drive"
+data-description="Did you know the first hard drive came out in 1958? and that today's are 300 million times cheaper? Here are 21 things you didn't know about your computer's hard drive."
+data-social-image="http://f.tqn.com/y/create/1/S/R/D/U/-/oldharddrive-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="19" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="19" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="19" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="19" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="19" class="share-btn share-options-btn"> <span class="sprite compute-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://xbox.about.com/od/XboxOneReviews/fl/Elite-Dangerous-Review-XONE.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="20"><img src="http://f.tqn.com/y/xbox/1/Y/K/3/1/elitedangerous1.jpg" alt="Elite: Dangerous screen 1 - Frontier Developments" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://xbox.about.com/od/XboxOneReviews/fl/Elite-Dangerous-Review-XONE.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="50">Are You Ready for the Dangerous Exploration of Space?</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://xbox.about.com/bio/Eric-Qualls-13177.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="18" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/13177.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://xbox.about.com/bio/Eric-Qualls-13177.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="18" class="muted"> <span class="by-line-heading">Eric Qualls</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://xbox.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="18" class="muted">		                	Xbox Games Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://xbox.about.com/od/XboxOneReviews/fl/Elite-Dangerous-Review-XONE.htm"
+data-social-title="Are You Ready for the Dangerous Exploration of Space?"
+data-description="Elite: Dangerous is a space exploration fan's dream game. Find out all of the details here in our review."
+data-social-image="http://f.tqn.com/y/xbox/1/S/K/3/1/elitedangerous1.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="20" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>

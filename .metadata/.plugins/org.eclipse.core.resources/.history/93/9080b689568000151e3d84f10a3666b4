@@ -1,0 +1,1780 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="2f53469ec7001bfc6100005c"
+ data-ch="health"
+ data-gs="dietadvice"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe4" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058837658" loadTimeTaken="3268" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="health"/>
+<meta name="lotame:site" content="dietadvice"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VEFSwzAM_BBM3kAZOAE9AA9Q7G2iwbU9klza3xMIGWonXGJpJa-9khyn2nkcqATrBAq7cRPiRooRQTvqU7Hb7H5QzcKGOmEEBRuXjIXpkKJphdglo83qi1mK2uyUY41ooL4C3ESOaKszBTiSfEAeRJJUsWIc2Bg1M6NyB2HfkpLXbsh2598j21ZQyAeOH9rGjqTzZxt95DP8YwmhlpocU-h0JMFuLs6_vK8gceMunWsNIfUUXujURTr1VFchnSCBLo3oVPJ3_mLUHRKQd1KOvV7b7aU0Jws8jFfWqteXJ47Q3_Vf1ftsvKE64lMDzCBXZl0XwPZFHs4ZYlv0onXzHYt7Yv0z2jM_2Q-w1VUcGYYkl3nvlVMfCjwnqXWSGLsw1WAxWupMwxo8sUdap059nCdkJWrXdB3nHKar3C8vtvEbcdMUKOqpPICsCPxbyuy28_fzZK1_A-m7ZfMyBb8AOm6wkA.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kEtuwzAMRC-UWHdoUWQbFEb3-kwUOpLoUlRc9_R1myzcwFmRmOE8EhyqCTjZltQ4niAmnMY9rihaf9sujtoljhHS8RUiFLAbHjOOOUNsifsl0lOmEv_CN07nrT8v0s5zHrnc0P_yw2eDzPeyxidyZmEEFuOZL4T66DalRLphWMdNjzbirajM_Tzi6cQHYVqbT1bdD8kcIIW-5bVV5bxJPRz7Tf29f1nrBVNNUF1e4M_wF8dfqD_jC5lj.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'dietadvice',
+	channel: 'health',
+	articleId: '2f53469ec7001bfc6100005c',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes About.com implementation of boomerang",
+bucketName: "includeDingo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe4"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058837658",
+loadTimeTaken : "3268"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes About.com implementation of boomerang",
+bucketName:"includeDingo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe4"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058837658",
+loadTimeTaken : "3268"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://dietadvice.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "dietadvice",
+ch: "health",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-health",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_dietadvice tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'health',
+gs = 'dietadvice',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_dietadvice tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-health';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/health/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/health/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://dietadvice.about.com/" />
+<title>Diet and Healthy Eating Advice from About.com</title>
+<meta name="description" content="Diet advice and healthy eating tips for weight loss, wellness, and overall health from About.com Diet Advice Expert, Lisa Lillien, a.k.a. Hungry Girl." itemprop="description">
+<meta name="sailthru.tags" content="health,dietadvice" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Diet and Healthy Eating Advice from About.com" />
+<meta property="article:section" content="Health" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Health" />
+<meta property="og:url" content="http://dietadvice.about.com/" />
+<meta property="og:title" content="Diet and Healthy Eating Advice from About.com" />
+<meta property="og:image" content="http://f.tqn.com/y/dietadvice/1/S/E/4/-/-/Weight-Loss-Trick-Make-Healthy-Food-Visible.png" />
+<meta property="article:author" content="https://www.facebook.com/HungryGirl" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Diet and Healthy Eating Advice from About.com" />
+<meta name="twitter:description" content="Diet advice and healthy eating tips for weight loss, wellness, and overall health from About.com Diet Advice Expert, Lisa Lillien, a.k.a. Hungry Girl." />
+<meta name="twitter:image" content="http://f.tqn.com/y/dietadvice/1/S/E/4/-/-/Weight-Loss-Trick-Make-Healthy-Food-Visible.png" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Health) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML7BFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ML7BFK');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/health" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite health-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://dietadvice.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Diet Advice" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="dietadvice">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+				<div class="sprite advertisement label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="p-col">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://dietadvice.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav><header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/health" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" itemprop="url" source="ChannelHomepage" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-health"></div>
+</a>			</div>
+				<div class="col col-11">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://dietadvice.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Diet Advice" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="dietadvice">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-11">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Conditions" data-base-url="/">
+						<div class="heading">
+							Conditions
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Diet" data-base-url="/">
+						<div class="heading">
+							Diet
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Family" data-base-url="/">
+						<div class="heading">
+							Family
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Healthy%20Living" data-base-url="/">
+						<div class="heading">
+							Healthy Living
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+				 
+				<li class="group-nav-submenu">
+					<div class="more">
+						<a href="#" data-component="groupNav" data-source="groupNav" data-type="more" data-ordinal="1">More</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://dietadvice.about.com/sitesearch.htm?boost=3&SUName=dietadvice",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+			<div class="col col-11">
+				
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Health</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://dietadvice.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Diet Advice</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Diet Advice</h1>
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Ways-to-Trick-Yourself-Into-Losing-Weight.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/dietadvice/1/T/E/4/-/-/Weight-Loss-Trick-Make-Healthy-Food-Visible.png" alt="Weight-Loss Trick: Make Healthy Food Visible - Courtesy of Hungry-Girl.com / Getty Images" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Ways-to-Trick-Yourself-Into-Losing-Weight.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">5 Ways to Trick Yourself Into Losing Weight</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Ways-to-Trick-Yourself-Into-Losing-Weight.htm"
+data-social-title="5 Ways to Trick Yourself Into Losing Weight"
+data-description="Get your body to cooperate by using your brain! I&rsquo;m Hungry Girl Lisa Lillien, and I've got some tips for tricking yourself into losing weight&hellip;"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/E/4/-/-/Weight-Loss-Trick-Make-Healthy-Food-Visible.png">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/dietadvice/1/U/x/4/-/-/can-caffeine-help-you-lose-weight.jpg" alt="Can Caffeine Help You Lose Weight? - Courtesy of Getty Images / Hungry-Girl.com" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">Can Caffeine Help You Lose Weight?</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm"
+data-social-title="Can Caffeine Help You Lose Weight?"
+data-description="Mmmmm&hellip; Coffee. It tastes good, it&rsquo;s a great way to start your morning, and the hot mug warms up your hands when it&rsquo;s cold outside... but could it also help you lose weight?"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/x/4/-/-/can-caffeine-help-you-lose-weight.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/dietadvice/1/U/a/-/-/-/hg-yum-yum-brownie-muffins.jpg" alt="Hungry Girl's Yum Yum Brownie Muffins - Courtesy of Hungry-Girl.com" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">The Best Diet-Friendly Ways to Kick a Chocolate Craving</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/Best-Diet-Friendly-Ways-to-Kick-a-Chocolate-Craving.htm"
+data-social-title="The Best Diet-Friendly Ways to Kick a Chocolate Craving"
+data-description="Looking for a low-calorie chocolate fix? Hungry Girl Lisa Lillien has recipe ideas and product finds to feed your chocolate cravings!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/a/-/-/-/hg-yum-yum-brownie-muffins.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>				<div class="row">
+					<div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Diet Advice Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/127384.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Lisa Lillien, a.k.a. Hungry Girl</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://dietadvice.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Diet Advice Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Lisa</div>
+		<div class="buttons"><a href="https://www.facebook.com/HungryGirl" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/HungryGirl" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/105469753838894576899" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/dietadvice_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Health</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="fitsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Staying Active</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="familysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Parenting</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Diet Advice Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/O/5/-/-/5-Healthy-Comfort-Food-Hacks.jpg" alt="5 Healthy Comfort Food Hacks - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Healthy Comfort Food Hacks</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/N/5/-/-/How-to-Not-Blow-Your-Diet-at-Brunch.jpg" alt="How to Not Blow Your Diet at Brunch - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Enjoy Brunch Without Blowing Your Diet</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/M/5/-/-/Housewalk-Your-Way-to-Weight-Loss.jpg" alt="Housewalk Your Way to Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Housewalk Your Way to Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/F/5/-/-/High-Fiber-Foods-for-Weight-Loss.jpg" alt="High-Fiber Foods for Weight Loss - Courtesy of Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 High-Fiber Foods for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg" alt="5 Lunch Tricks for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Lunch Time Tricks for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Diet Advice Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://dietadvice.about.com/od/recipe-ideas/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Recipe <span class="last">Ideas<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/food-finds-and-shopping-tips/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Food Finds and Shopping <span class="last">Tips<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/dining-out-advice/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Dining Out <span class="last">Advice<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Weight-Loss <span class="last">Strategies<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://dietadvice.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/x/4/-/-/can-caffeine-help-you-lose-weight.jpg" alt="Can Caffeine Help You Lose Weight? - Courtesy of Getty Images / Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Can Caffeine Help You Lose Weight?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/y/4/-/-/Does-Coconut-Oil-Help-With-Weight-Loss.jpg" alt="Does Coconut Oil Help With Weight Loss? - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Does Coconut Oil Help With Weight Loss?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg" alt="5 Lunch Tricks for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Lunch Time Tricks for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Do-Bananas-Cause-Weight-Gain.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/f/3/-/-/Do-Bananas-Cause-Weight-Gain.png" alt="Do Bananas Cause Weight Gain? - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Do Bananas Cause Weight Gain?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/recipe-ideas/ss/5-Healthy-Meals-with-5-Ingredients-or-Less.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/b/1/-/-/hg-healthy-5-ingredient-meals-overnight-oatmeal-parfait.jpg" alt="Hungry Girl's Healthy Meals with 5 Ingredients or Less: Overnight Oatmeal Parfait - Courtesy of Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Healthy Meals With 5 Ingredients or Less</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>					</div>
+					<div class="col col-8">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Diet Advice</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/What-Is-Powdered-Peanut-Butter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/dietadvice/1/V/Q/5/-/-/What-Is-Powdered-Peanut-Butter.png" alt="What Is Powdered Peanut Butter? - Courtesy of Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/What-Is-Powdered-Peanut-Butter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">What Is Powdered Peanut Butter?</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/What-Is-Powdered-Peanut-Butter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">Is there really such a thing as low-fat peanut butter without a lot of calories? The answer is YES! Get your hands on powdered peanut butter, one of the most magical products on shelves today&hellip;</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/What-Is-Powdered-Peanut-Butter.htm"
+data-social-title="What Is Powdered Peanut Butter?"
+data-description="Is there really such a thing as low-fat peanut butter without a lot of calories? The answer is YES! Get your hands on powdered peanut butter, one of the most magical products on shelves today&hellip;"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/Q/5/-/-/What-Is-Powdered-Peanut-Butter.png">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/dietadvice/1/V/O/5/-/-/5-Healthy-Comfort-Food-Hacks.jpg" alt="5 Healthy Comfort Food Hacks - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">5 Healthy Comfort Food Hacks</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">Comfort food doesn&rsquo;t have to be bad for you! You might associate it with meals that are high in calories and fat, but there are plenty of ways to satisfy your hunger without breaking the calorie bank....</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm"
+data-social-title="5 Healthy Comfort Food Hacks"
+data-description="Comfort food doesn&rsquo;t have to be bad for you! You might associate it with meals that are high in calories and fat, but there are plenty of ways to satisfy your hunger without breaking the calorie bank...."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/O/5/-/-/5-Healthy-Comfort-Food-Hacks.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/dietadvice/1/V/N/5/-/-/How-to-Not-Blow-Your-Diet-at-Brunch.jpg" alt="How to Not Blow Your Diet at Brunch - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">How to Enjoy Brunch Without Blowing Your Diet</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">Brunch doesn&rsquo;t have to be a diet disaster! Once you know how to navigate it, it&rsquo;s perfectly possible to put together a nutritious meal...</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm"
+data-social-title="How to Enjoy Brunch Without Blowing Your Diet"
+data-description="Brunch doesn&rsquo;t have to be a diet disaster! Once you know how to navigate it, it&rsquo;s perfectly possible to put together a nutritious meal..."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/N/5/-/-/How-to-Not-Blow-Your-Diet-at-Brunch.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/dietadvice/1/V/M/5/-/-/Housewalk-Your-Way-to-Weight-Loss.jpg" alt="Housewalk Your Way to Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">Housewalk Your Way to Weight Loss</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">Housewalking is an easy way to burn extra calories throughout the day... and all you need is your own two feet!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm"
+data-social-title="Housewalk Your Way to Weight Loss"
+data-description="Housewalking is an easy way to burn extra calories throughout the day... and all you need is your own two feet!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/M/5/-/-/Housewalk-Your-Way-to-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/dietadvice/1/V/F/5/-/-/High-Fiber-Foods-for-Weight-Loss.jpg" alt="High-Fiber Foods for Weight Loss - Courtesy of Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">5 High-Fiber Foods for Weight Loss</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">Fiber: We all know it&rsquo;s important, but most people don&rsquo;t get enough of it. Fiber helps with digestion and overall health... plus, it makes you feel full. Here are five delicious ways to get your fix!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm"
+data-social-title="5 High-Fiber Foods for Weight Loss"
+data-description="Fiber: We all know it&rsquo;s important, but most people don&rsquo;t get enough of it. Fiber helps with digestion and overall health... plus, it makes you feel full. Here are five delicious ways to get your fix!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/F/5/-/-/High-Fiber-Foods-for-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Habits-of-Successful-Dieters.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/dietadvice/1/V/4/5/-/-/5-Habits-to-Form-to-Lose-Weight.jpg" alt="5 Habits to Form to Lose Weight - Courtesy of Getty Images / Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Habits-of-Successful-Dieters.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">5 Habits of Successful Dieters</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Habits-of-Successful-Dieters.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">The key to long-term weight loss is forming healthy habits. Counting calories and exercising may jumpstart your diet, but you&rsquo;ve gotta find strategies to keep it going. Here are five habits of successful dieters...</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Habits-of-Successful-Dieters.htm"
+data-social-title="5 Habits of Successful Dieters"
+data-description="The key to long-term weight loss is forming healthy habits. Counting calories and exercising may jumpstart your diet, but you&rsquo;ve gotta find strategies to keep it going. Here are five habits of successful dieters..."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/4/5/-/-/5-Habits-to-Form-to-Lose-Weight.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/dietadvice/1/V/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg" alt="5 Lunch Tricks for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">5 Lunch Time Tricks for Weight Loss</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">They say breakfast is the most important meal of the day, but I say lunch is just as important! If you&rsquo;re looking to lose or maintain weight, you&rsquo;ve gotta plan for that midday meal...</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm"
+data-social-title="5 Lunch Time Tricks for Weight Loss"
+data-description="They say breakfast is the most important meal of the day, but I say lunch is just as important! If you&rsquo;re looking to lose or maintain weight, you&rsquo;ve gotta plan for that midday meal..."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/dietadvice/1/V/y/4/-/-/Does-Coconut-Oil-Help-With-Weight-Loss.jpg" alt="Does Coconut Oil Help With Weight Loss? - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">Does Coconut Oil Help With Weight Loss?</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">Coconut oil is popping up everywhere these days. More than ever, people are using it as a go-to ingredient in the kitchen, with hopes that it&rsquo;ll help with weight loss. Is it true that coconut oil is an effective weight-loss tool?</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm"
+data-social-title="Does Coconut Oil Help With Weight Loss?"
+data-description="Coconut oil is popping up everywhere these days. More than ever, people are using it as a go-to ingredient in the kitchen, with hopes that it&rsquo;ll help with weight loss. Is it true that coconut oil is an effective weight-loss tool?"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/y/4/-/-/Does-Coconut-Oil-Help-With-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/dietadvice/1/V/x/4/-/-/can-caffeine-help-you-lose-weight.jpg" alt="Can Caffeine Help You Lose Weight? - Courtesy of Getty Images / Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">Can Caffeine Help You Lose Weight?</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">Mmmmm&hellip; Coffee. It tastes good, it&rsquo;s a great way to start your morning, and the hot mug warms up your hands when it&rsquo;s cold outside... but could it also help you lose weight?</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm"
+data-social-title="Can Caffeine Help You Lose Weight?"
+data-description="Mmmmm&hellip; Coffee. It tastes good, it&rsquo;s a great way to start your morning, and the hot mug warms up your hands when it&rsquo;s cold outside... but could it also help you lose weight?"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/x/4/-/-/can-caffeine-help-you-lose-weight.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/How-to-Maintain-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/dietadvice/1/V/p/4/-/-/How-to-Maintain-Weight-Loss.jpg" alt="How to Maintain Weight Loss - Courtesy of Getty Images / Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/How-to-Maintain-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">How to Maintain Weight Loss</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/How-to-Maintain-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Reaching your goal weight is a HUGE accomplishment, but the journey doesn&rsquo;t end there. You&rsquo;ve still gotta keep it off. I&rsquo;m Hungry Girl Lisa Lillien, and I&rsquo;m here with some tips for maintaining your weight loss...</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/How-to-Maintain-Weight-Loss.htm"
+data-social-title="How to Maintain Weight Loss"
+data-description="Reaching your goal weight is a HUGE accomplishment, but the journey doesn&rsquo;t end there. You&rsquo;ve still gotta keep it off. I&rsquo;m Hungry Girl Lisa Lillien, and I&rsquo;m here with some tips for maintaining your weight loss..."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/p/4/-/-/How-to-Maintain-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Rice-out-of-Cauliflower.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/dietadvice/1/V/o/4/-/-/Cauliflower-Rice.jpg" alt="Cauliflower Rice - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Rice-out-of-Cauliflower.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">How to Make Rice out of Cauliflower</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Rice-out-of-Cauliflower.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">Cauliflower is delicious and nutritious on its own, and it&rsquo;s an ideal rice swap. You can use cauliflower virtually anywhere you&rsquo;d use rice, and for a fraction of the calories!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Rice-out-of-Cauliflower.htm"
+data-social-title="How to Make Rice out of Cauliflower"
+data-description="Cauliflower is delicious and nutritious on its own, and it&rsquo;s an ideal rice swap. You can use cauliflower virtually anywhere you&rsquo;d use rice, and for a fraction of the calories!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/o/4/-/-/Cauliflower-Rice.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Spaghetti-Squash.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/dietadvice/1/V/n/4/-/-/Spaghetti-Squash.jpg" alt="Spaghetti Squash - Courtesy of Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Spaghetti-Squash.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">How to Make Spaghetti Squash</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Spaghetti-Squash.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">Spaghetti squash is a perfect pasta swap that just happens to grow in nature! This is a step-by-step guide to making healthy meals using spaghetti squash.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-Spaghetti-Squash.htm"
+data-social-title="How to Make Spaghetti Squash"
+data-description="Spaghetti squash is a perfect pasta swap that just happens to grow in nature! This is a step-by-step guide to making healthy meals using spaghetti squash."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/n/4/-/-/Spaghetti-Squash.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-a-Salad-in-a-Jar.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/dietadvice/1/V/l/4/-/-/Salad-in-a-Jar.png" alt="Salad in a Jar - Courtesy of Hungry-Girl.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-a-Salad-in-a-Jar.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">Here's How to Make a Salad in a Jar</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-a-Salad-in-a-Jar.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">Mason jars are the best thing to happen to salads since lettuce. Pack a salad without worrying about sogginess... Plus, your lunch will look super cute!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/recipe-ideas/fl/How-to-Make-a-Salad-in-a-Jar.htm"
+data-social-title="Here's How to Make a Salad in a Jar"
+data-description="Mason jars are the best thing to happen to salads since lettuce. Pack a salad without worrying about sogginess... Plus, your lunch will look super cute!"
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/l/4/-/-/Salad-in-a-Jar.png">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/Think-Yourself-Thin-6-Mental-Strategies-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/dietadvice/1/V/h/4/-/-/6-Mental-Strategies-For-Weight-Loss.jpg" alt="6 Mental Strategies for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/Think-Yourself-Thin-6-Mental-Strategies-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">Think Yourself Thin: 6 Mental Strategies for Weight Loss</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/Think-Yourself-Thin-6-Mental-Strategies-for-Weight-Loss.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">It's not exactly a secret that diet and exercise are key when it comes to weight loss, but there are also plenty of mental strategies that can help you reach your goals.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/weight-loss-strategies/ss/Think-Yourself-Thin-6-Mental-Strategies-for-Weight-Loss.htm"
+data-social-title="Think Yourself Thin: 6 Mental Strategies for Weight Loss"
+data-description="It's not exactly a secret that diet and exercise are key when it comes to weight loss, but there are also plenty of mental strategies that can help you reach your goals."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/h/4/-/-/6-Mental-Strategies-For-Weight-Loss.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://dietadvice.about.com/od/food-finds-and-shopping-tips/ss/Which-Milk-Is-Right-for-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/dietadvice/1/V/Y/4/-/-/Which-Milk-Is-Right-for-You.jpg" alt="Which Milk Is Right for You? - Courtesy of Hungry-Girl.com / Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://dietadvice.about.com/od/food-finds-and-shopping-tips/ss/Which-Milk-Is-Right-for-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">Which Milk Is Right for You?</a>
+						</h5>
+							<a href="http://dietadvice.about.com/od/food-finds-and-shopping-tips/ss/Which-Milk-Is-Right-for-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">Almond milk, soymilk, coconut milk... Curious about the differences? Here you go.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://dietadvice.about.com/od/food-finds-and-shopping-tips/ss/Which-Milk-Is-Right-for-You.htm"
+data-social-title="Which Milk Is Right for You?"
+data-description="Almond milk, soymilk, coconut milk... Curious about the differences? Here you go."
+data-social-image="http://f.tqn.com/y/dietadvice/1/S/Y/4/-/-/Which-Milk-Is-Right-for-You.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard3" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>	
+</main>
+<div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/health" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-health"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-health"><span class="sprite health-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Health</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://dietadvice.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Diet Advice</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/health" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/abouthealth" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_abouthealth" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutcomhealth" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutcomhealth" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutcomhealth/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutcomhealth" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-health"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+Also from About.com: <a href="http://www.caloriecount.com" data-component="calorieCount" data-source="calorieCount" data-type="calorieCount" data-ordinal="1" rel="nofollow">Calorie Count</a>			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjapu0jd9m7ADaQOTo3p0n390os06JIXy5xj-_gAXWoc7iCTNhRMA4azPnQ1eMToWBr1wqqE9_SlZ2uFiWapryCagd6hnW99CklZTguq3SGjnDbwc9owuIWigcCiZ3IoZUWIihKBmqzhGmbZCUC5RsFa4ib73E_Lp5LpIV3DOozo1rn2ntgGoE2I-89JdL5xiyDWl1RLbIBe4fiXGZAFy2ZMFO78tsJ5uPTfkpI0guCs5N6kIv-QHG21-sBKofW6oiz_PTXJg-DboIFj5SvidyLU6UqLdGH3HgJZj3Y_M9-xzT1G3Z51Kh7xhWsIOhjP32oFaRYvMQvTnSSsngnHgaaRjx5iREr357J0x9KnX5eDNw4.min.js"></script>
+<script type="text/javascript">(function(){
+  var dom, doc, where, iframe = document.createElement('iframe');
+  
+  iframe.src = "javascript:false";
+  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
+  var where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    //TEST URLS
+    //boomerang-0.9.<timestamp>-debug.js
+    var src = 'https://rd.about.com/webapp/dist/boomerang-0.9.1444923999719.min.js';
+    if(dom) this.domain = dom;
+    //DO NOT CHANGE
+    //boomerang uses this ID if using the iframe approach
+    js.id = "boomr-if-as"; 
+    js.src = src;
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+  
+
+  function init(b) {
+      
+      b.addVar({
+          'abTests': [{
+              'testName':"relatedClickabilityTest",
+              'bucketValue':2
+          },{
+              'testName':"indexTest",
+              'bucketValue':1
+          },{
+              'testName':"lock728Test",
+              'bucketValue':2
+          },{
+              'testName':"soastaBoomerang",
+              'bucketValue':2
+          },{
+              'testName':"optimizelyInclusion",
+              'bucketValue':0
+          }],
+          'channel': 'health',
+          'site': 'dietadvice',
+          'templateId': '1',
+          'templateName': 'landingPage',
+          'templateView': 'PERSONAL_COMPUTER',
+          'tmog': 'g1253cb384e23736a676c6f626534ae',
+          'mint': 'g1253cb384e23736a676c6f626534ae',
+          'idstamp': 'g1253cb384e23736a676c6f626534ae',
+          'dataCenter': 'sj',
+          'serverName': 'sjglobe4',
+          'serverVersion': '1.55.0',
+          'resourceVersion': '1.55.0',
+          'cc': 'US',
+          'city': 'Riverside',
+          'lat': '33.968',
+          'lon': '-117.319',
+          'rg': 'CA',
+          'timestamp': new Date().getTime(),
+          'referrer': document.referrer,
+          'sessionPc': '1',
+          'userAgent[familyName]': 'Java',
+          'userAgent[versionMajor]': '1',
+          'userAgent[versionMinor]': '7',
+          'userAgent[osName]': 'JVM (Java)',
+          'userAgent[osVersion]': '1.7.0_67',
+          'userAgent[mobile]': 'false',
+          'userAgent[raw]': 'Java/1.7.0_67'
+      });
+      
+      b.init({
+          beacon_url: 'https://rd.about.com/boomerang',
+          user_ip: '76.232.205.236',
+          site_domain: 'about.com',
+          BW: { enable: false },
+          RT: {
+              cookie: 'abtRT'
+          },
+          DFPTiming: {}
+      });
+  }
+  
+  if (document.addEventListener) {
+      document.addEventListener("onBoomerangLoaded", function(e) {
+          // e.detail.BOOMR is a reference to the BOOMR global object
+          init(e.detail.BOOMR);
+      });
+   } else if (document.attachEvent) {
+       // IE 6, 7, 8 we use onPropertyChange and look for propertyName === "onBoomerangLoaded"
+       document.attachEvent("onpropertychange", function(e) {
+         if (!e) e=event;
+         if (e.propertyName === "onBoomerangLoaded") {
+             // e.detail.BOOMR is a reference to the BOOMR global object
+             init(e.detail.BOOMR);
+         }
+      });
+   }
+})();var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02dietadvice-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529947.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

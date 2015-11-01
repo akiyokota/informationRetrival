@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="b950eef6602b153ef50041ec"
+ data-ch="homegarden"
+ data-gs="familycrafts"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe5" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061847567" loadTimeTaken="3469" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="homegarden"/>
+<meta name="lotame:site" content="familycrafts"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VEFy2zAM_FA7ekPdSU5OfGj7AIhcS5hQJAcAHfv3katoYlLKRQQW4JILgHKqnceZSrBOoLAfbkbcSDEiaEd9KvYzu_-oZmFDnTCmCQOJR1yzVrZziqYVYreMNqsvZilqs1OmGtFAfQW4mRzRNmcKMJG8QZ5EklSxYhzYGDUzo3IHYd-SktduyPbL_4tse0EhHzi-aRubSJfPPvrMV_jnEkItNTmm0OlIgsNSnG95_4DEjYd0rTWE1FN4pUsX6dJTXYV0gQS6NaJTyff81ag7JCDvpEy9PtrtpTQnCzyMD9am17cjR-jn-q3qUzbeUR3xrgFmkAezrgtgpyJP1wyxPXrRuvmOxR1Zv4z2zHf2A2xzFUeGIclt2fvg1IcCL0lqnSTGLsw1WI2WOtOwBS_skbapcx-XCdmIOjRdxzWH-Sq_11fb-I24eQoU9VSeQVYE_m_K7PbzT8tkbX8D6d6yZZmDH3n_sjQ.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'familycrafts',
+	channel: 'homegarden',
+	articleId: 'b950eef6602b153ef50041ec',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe5"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061847567",
+loadTimeTaken : "3469"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe5"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061847567",
+loadTimeTaken : "3469"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://familycrafts.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "familycrafts",
+ch: "homegarden",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-basic",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_familycrafts tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'homegarden',
+gs = 'familycrafts',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_familycrafts tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-basic';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://familycrafts.about.com/" />
+<title>Family Crafts - Crafts for Kids, DIY Gifts &amp; More</title>
+<meta name="description" content="Get free tutorials and printables for fun crafts for kids, holiday crafts, DIY gift ideas, easy Halloween costumes and more!" itemprop="description">
+<meta name="sailthru.tags" content="homegarden,familycrafts" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Family Crafts - Crafts for Kids, DIY Gifts &amp; More" />
+<meta property="article:section" content="Home" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Home" />
+<meta property="og:url" content="http://familycrafts.about.com/" />
+<meta property="og:title" content="Family Crafts - Crafts for Kids, DIY Gifts &amp; More" />
+<meta property="og:image" content="http://f.tqn.com/y/familycrafts/1/S/d/P/4/25-DIY-Family-Halloween-Costumes.jpg" />
+<meta property="article:author" content="https://www.facebook.com/makeandtakes" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Family Crafts - Crafts for Kids, DIY Gifts &amp; More" />
+<meta name="twitter:description" content="Get free tutorials and printables for fun crafts for kids, holiday crafts, DIY gift ideas, easy Halloween costumes and more!" />
+<meta name="twitter:image" content="http://f.tqn.com/y/familycrafts/1/S/d/P/4/25-DIY-Family-Halloween-Costumes.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Home) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PQWLP2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PQWLP2');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/homegarden" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite homegarden-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://familycrafts.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Family Crafts" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="familycrafts">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="p-col">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://familycrafts.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav><header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/homegarden" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" itemprop="url" source="ChannelHomepage" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-homegarden"></div>
+</a>			</div>
+				<div class="col col-11">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://familycrafts.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Family Crafts" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="familycrafts">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-11">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Rooms%20%26%20Decor" data-base-url="/">
+						<div class="heading">
+							Rooms & Decor
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Repair%20%26%20Reno" data-base-url="/">
+						<div class="heading">
+							Repair & Reno
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Home%20Life%20%26%20Pets" data-base-url="/">
+						<div class="heading">
+							Home Life & Pets
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Outdoors" data-base-url="/">
+						<div class="heading">
+							Outdoors
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+				 
+				<li class="group-nav-submenu">
+					<div class="more">
+						<a href="#" data-component="groupNav" data-source="groupNav" data-type="more" data-ordinal="1">More</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://familycrafts.about.com/sitesearch.htm?boost=3&SUName=familycrafts",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+			<div class="col col-11">
+				
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Home</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://familycrafts.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Family Crafts</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Family Crafts</h1>
+<a href="http://familycrafts.about.com/od/costumeideas/ss/25-DIY-Costumes-for-a-Family-Themed-Halloween.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/familycrafts/1/T/d/P/4/25-DIY-Family-Halloween-Costumes.jpg" alt=" - " width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://familycrafts.about.com/od/costumeideas/ss/25-DIY-Costumes-for-a-Family-Themed-Halloween.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">25 DIY Costumes for a Family Themed Halloween</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/costumeideas/ss/25-DIY-Costumes-for-a-Family-Themed-Halloween.htm"
+data-social-title="25 DIY Costumes for a Family Themed Halloween"
+data-description="Here are 25 costumes I've found around the internet that would be perfect to choose from for a fun family-themed Halloween."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/d/P/4/25-DIY-Family-Halloween-Costumes.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/familycrafts/1/U/1/R/4/Funny-Mummy-Bookmarks.jpg" alt="DIY Mummy Craft Stick Bookmarks - firefliesandmudpies.com" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">DIY: Mummy Craft Stick Bookmarks</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm"
+data-social-title="DIY: Mummy Craft Stick Bookmarks"
+data-description="Funny Mummy Bookmarks are a whimsical Halloween craft, perfect for home or school. Encourage young readers to save their place in a favorite fall book or simply enjoy the bookmarks for imaginative play or seasonal decor."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/1/R/4/Funny-Mummy-Bookmarks.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/familycrafts/1/U/f/Q/4/wood-slice-pumpkins-fall-craft-for-kids-final.jpg" alt="Wood Slice Pumpkins for Fall - whereimaginationgrows.com" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">DIY: Wood Sliced Pumpkin Craft</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm"
+data-social-title="DIY: Wood Sliced Pumpkin Craft"
+data-description="We love to create simple fall crafts that we can use to decorate the house with and this easy wood slice pumpkin craft was the perfect craft for that. It's easy to make and they really got us in the mood for more Halloween and fall crafts. Plus they look so cute when they are all done!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/f/Q/4/wood-slice-pumpkins-fall-craft-for-kids-final.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>				<div class="row">
+					<div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Family Crafts Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://familycrafts.about.com/bio/Marie-LeBaron-130484.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/130484.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://familycrafts.about.com/bio/Marie-LeBaron-130484.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Marie LeBaron</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://familycrafts.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Family Crafts Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Marie</div>
+		<div class="buttons"><a href="https://www.facebook.com/makeandtakes" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/makeandtakes" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/114429362395475307635" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/familycrafts_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="househomesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Home</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_familycrafts">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Family Crafts</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="artcraftsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Arts & Crafts</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="needlesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Needlecrafts</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Family Crafts Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/E/R/4/15-Spooktacular-Halloween-Crafts.jpg" alt="15 Spooktacular Halloween Crafts - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>15 Spooktacular Halloween Crafts for Kids</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/u/Q/4/5-Purple-Projects-for-Kids-to-Make.jpg" alt="5 Purple Projects for Kids to Make - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Purple Projects to Make with Kids</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Googly-Eyes.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/-/E/4/Googly-Eye-Hand-Craft.jpg" alt="Googly Eye Kids Craft Ideas - Marie LeBaron" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Googly Eye Kids Craft Ideas</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/dogcrafts/ss/7-Crafts-to-Make-for-the-Family-Dog.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/Y/M/4/7-Crafts-to-Make-for-the-Family-Dog.jpg" alt=" - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>7 Crafts to Make for the Family Dog</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/e/Q/4/Craft-Supply-Spotlight-with-Crayons.jpg" alt="Craft Supply Spotlight on Crayons - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Craft Supply Spotlight: Crayons</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Family Crafts Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://familycrafts.about.com/od/craftprojectsbyage/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Crafts by <span class="last">Age<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/holidays/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Holiday Crafts and <span class="last">Activities<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftsbyproduct/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Crafts by <span class="last">Material<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftprojectsbytype/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Crafts by <span class="last">Technique<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftprojectsbytheme/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Crafts by <span class="last">Theme<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Craft How-Tos and <span class="last">Lessons<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftyrecipes/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Snack and Craft <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/eduactionalcrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Educational <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/EcoFriendlyCrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Eco-Friendly <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/CraftsAsGifts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Crafts as <span class="last">Gifts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftingtips/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Crafting <span class="last">Tips<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftingforcharity/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Crafting for <span class="last">Charity<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/giftgiving/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Gifts, Wraps, and Cards to <span class="last">Make<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/paperprojects/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Coloring Pages and Printable <span class="last">Projects<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/HolidayCrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Holiday <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/u/findaproject.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17"> Find a Craft <span class="last">Project<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/paperprojects/u/printables.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="18"> Printable Pages for Kids and <span class="last">Families<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/u/crafttechniques.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="19"> Learn a Craft Technique - Tutorials, Tips, and <span class="last">Resources<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://familycrafts.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="20">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li class="hidden">
+<a href="http://video.about.com/familycrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="21">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/cs/halloweengames/a/halloweengames.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/Q/F/3/Halloween-Bingo-Game-Craft.jpg" alt="Halloween Party Games for Kids - Sherri Osborn" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Fun Crafts for a Spooktacular Halloween Party</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/giftstomake/tp/HomeMadeGiftIdeas.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/G/B/4/148210646.jpg" alt="Bowls of bath salts - Yagi Studio/Stockbyte/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>100 Homemade Holiday Gift Ideas</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/papermache/a/nocookpmpaste.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/T/9/4/95891480-1-.jpg" alt="Making paper mache - Just One Film/The Image Bank/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Make Paper Mache Paste</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/cs/halloweengames/a/blhfeelbox.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/e/E/3/Feel-Box-Halloween-Game.jpg" alt="Halloween Feel Box Game - Photodisk/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Halloween Feel Box Game</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/od/costumeideas/ss/25-DIY-Costumes-for-a-Family-Themed-Halloween.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/d/P/4/25-DIY-Family-Halloween-Costumes.jpg" alt=" - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>25 DIY Costumes for a Family Themed Halloween</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>					</div>
+					<div class="col col-8">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Family Crafts</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/candycrafts/ss/8-Candy-Corn-Crafts-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/familycrafts/1/V/k/R/4/8-Candy-Corn-Crafts-to-Make.jpg" alt="8 Candy Corn Crafts to Make - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/candycrafts/ss/8-Candy-Corn-Crafts-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">8 Candy Corn Crafts to Make</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/candycrafts/ss/8-Candy-Corn-Crafts-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">There are lots of different projects you can make with candy corn and I&rsquo;ve found some of the best ones. Craft these and try not to eat all of the candy corn pieces! Here's 8 Candy Corn Crafts to Make!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/candycrafts/ss/8-Candy-Corn-Crafts-to-Make.htm"
+data-social-title="8 Candy Corn Crafts to Make"
+data-description="There are lots of different projects you can make with candy corn and I&rsquo;ve found some of the best ones. Craft these and try not to eat all of the candy corn pieces! Here's 8 Candy Corn Crafts to Make!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/k/R/4/8-Candy-Corn-Crafts-to-Make.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Paper-Bag-Pumpkins.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/familycrafts/1/V/Z/R/4/Making-Paper-Bag-Pumpkins.jpg" alt="Make Paper Bag Pumpkins - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Paper-Bag-Pumpkins.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">DIY: Paper Bag Pumpkins</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Paper-Bag-Pumpkins.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">Searching for an easy, last minute Halloween craft that is perfect for home or school? Look no further! Kids will love making their very own Paper Bag Pumpkins. Click through for a step-by-step tutorial for making this fun, fall craft.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Paper-Bag-Pumpkins.htm"
+data-social-title="DIY: Paper Bag Pumpkins"
+data-description="Searching for an easy, last minute Halloween craft that is perfect for home or school? Look no further! Kids will love making their very own Paper Bag Pumpkins. Click through for a step-by-step tutorial for making this fun, fall craft."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/Z/R/4/Making-Paper-Bag-Pumpkins.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/halloween/ss/6-Black-and-White-Crafts-for-Halloween.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/familycrafts/1/V/d/R/4/6-Black-and-White-Crafts-for-Halloween.jpg" alt="6 Black and White Crafts for Halloween - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/halloween/ss/6-Black-and-White-Crafts-for-Halloween.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">6 Black and White Crafts for Halloween</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/halloween/ss/6-Black-and-White-Crafts-for-Halloween.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">Halloween is just around the corner! Get in some last minute crafts in this week with these 6 black and white crafts. I love how stylish and fun these crafts are! Decorate your house or front porch with your finished product.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/halloween/ss/6-Black-and-White-Crafts-for-Halloween.htm"
+data-social-title="6 Black and White Crafts for Halloween"
+data-description="Halloween is just around the corner! Get in some last minute crafts in this week with these 6 black and white crafts. I love how stylish and fun these crafts are! Decorate your house or front porch with your finished product."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/d/R/4/6-Black-and-White-Crafts-for-Halloween.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-99-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/familycrafts/1/V/Y/R/4/99-Crafts-for-Kids.jpg" alt="99 Crafts for Kids - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-99-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">Book Review: 99 Crafts for Kids</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-99-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">In the book Crafts for Kids: 99 Fun Packed Projects For Kids Of All Ages!, there are 99 fabulously fun and silly crafts to share with your kids. You will find all sorts of fabulous family crafts in this book. From Personalized Painted Mugs and Eggshell Seed Bombs to an Unsinkable Snowman and Potato Print Gift Paper. You'll be sure to have a great time being creative with your kids.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-99-Crafts-for-Kids.htm"
+data-social-title="Book Review: 99 Crafts for Kids"
+data-description="In the book Crafts for Kids: 99 Fun Packed Projects For Kids Of All Ages!, there are 99 fabulously fun and silly crafts to share with your kids. You will find all sorts of fabulous family crafts in this book. From Personalized Painted Mugs and Eggshell Seed Bombs to an Unsinkable Snowman and Potato Print Gift Paper. You'll be sure to have a great time being creative with your kids."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/Y/R/4/99-Crafts-for-Kids.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/halloween/ss/Tissue-Paper-Mache-Halloween-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/familycrafts/1/V/P/R/4/halloween-toilet-paper-ghosts-bat-craft-main.jpg" alt="Paper Mache Ghosts - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/halloween/ss/Tissue-Paper-Mache-Halloween-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">DIY: Tissue Paper Mache Halloween Craft</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/halloween/ss/Tissue-Paper-Mache-Halloween-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">These cute little ghosts and bats are perfect DIY decorations you can make with kids that uses materials your already have around the house! Here's the step-by-step tutorial for making a tissue paper mache halloween craft!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/halloween/ss/Tissue-Paper-Mache-Halloween-Craft.htm"
+data-social-title="DIY: Tissue Paper Mache Halloween Craft"
+data-description="These cute little ghosts and bats are perfect DIY decorations you can make with kids that uses materials your already have around the house! Here's the step-by-step tutorial for making a tissue paper mache halloween craft!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/P/R/4/halloween-toilet-paper-ghosts-bat-craft-main.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/pumpkindecorating/ss/9-No-Carve-Pumpkin-Decorations.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/familycrafts/1/V/F/R/4/9-DIY-No-Carve-Pumpkins.jpg" alt="9 DIY No-Carve Pumpkins - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/pumpkindecorating/ss/9-No-Carve-Pumpkin-Decorations.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">9 No-Carve Pumpkin Decorations</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/pumpkindecorating/ss/9-No-Carve-Pumpkin-Decorations.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">One of the best parts about Halloween is picking out a pumpkin and decorating it! Skip all that mess this year and try one of these 9 DIY no-carve pumpkin decorating ideas!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/pumpkindecorating/ss/9-No-Carve-Pumpkin-Decorations.htm"
+data-social-title="9 No-Carve Pumpkin Decorations"
+data-description="One of the best parts about Halloween is picking out a pumpkin and decorating it! Skip all that mess this year and try one of these 9 DIY no-carve pumpkin decorating ideas!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/F/R/4/9-DIY-No-Carve-Pumpkins.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/familycrafts/1/V/E/R/4/15-Spooktacular-Halloween-Crafts.jpg" alt="15 Spooktacular Halloween Crafts - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">15 Spooktacular Halloween Crafts for Kids</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">With Halloween just around the corner, we're sharing all sorts of fabulously spooky crafts to make. There's projects to wear, craft, and decorate for Halloween. Here are 15 Bootastic Halloween crafts to make with kids!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm"
+data-social-title="15 Spooktacular Halloween Crafts for Kids"
+data-description="With Halloween just around the corner, we're sharing all sorts of fabulously spooky crafts to make. There's projects to wear, craft, and decorate for Halloween. Here are 15 Bootastic Halloween crafts to make with kids!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/E/R/4/15-Spooktacular-Halloween-Crafts.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/painting1/fl/Craft-Supply-Spotlight-Puffy-Paint.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/familycrafts/1/V/6/R/4/10-Puffy-Paint-Projects-to-Make.jpg" alt="10 Puffy Paint Projects to Make - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/painting1/fl/Craft-Supply-Spotlight-Puffy-Paint.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">Craft Supply Spotlight: Puffy Paint</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/painting1/fl/Craft-Supply-Spotlight-Puffy-Paint.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">There are a lot of ways to use puffy paint to make your crafts really pop. Here are 10 ways to get creative with the craft supply puffy paint!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/painting1/fl/Craft-Supply-Spotlight-Puffy-Paint.htm"
+data-social-title="Craft Supply Spotlight: Puffy Paint"
+data-description="There are a lot of ways to use puffy paint to make your crafts really pop. Here are 10 ways to get creative with the craft supply puffy paint!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/6/R/4/10-Puffy-Paint-Projects-to-Make.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/Blog/fl/Kids-Craft-Blog-Frogs-Snails-and-Puppy-Dog-Tails.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/familycrafts/1/V/5/R/4/FSPDT-logo.jpg" alt="Frogs Snails and Puppy Dog Tails Blog - frogsandsnailsandpuppydogtail.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/Blog/fl/Kids-Craft-Blog-Frogs-Snails-and-Puppy-Dog-Tails.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">Kids Craft Blog: Frogs, Snails, and Puppy Dog Tails</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/Blog/fl/Kids-Craft-Blog-Frogs-Snails-and-Puppy-Dog-Tails.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">We're huge fans of the fabulous kids craft blog Frogs, Snails, and Puppy Dog Tails, written by a mom of 3, Jaime! Here's a little more about what makes this blog so much fun!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/Blog/fl/Kids-Craft-Blog-Frogs-Snails-and-Puppy-Dog-Tails.htm"
+data-social-title="Kids Craft Blog: Frogs, Snails, and Puppy Dog Tails"
+data-description="We're huge fans of the fabulous kids craft blog Frogs, Snails, and Puppy Dog Tails, written by a mom of 3, Jaime! Here's a little more about what makes this blog so much fun!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/5/R/4/FSPDT-logo.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/familycrafts/1/V/u/Q/4/5-Purple-Projects-for-Kids-to-Make.jpg" alt="5 Purple Projects for Kids to Make - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">5 Purple Projects to Make with Kids</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Kids will love these purple projects that they can create on their own! Here are 5 purple projects to make with kids!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm"
+data-social-title="5 Purple Projects to Make with Kids"
+data-description="Kids will love these purple projects that they can create on their own! Here are 5 purple projects to make with kids!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/u/Q/4/5-Purple-Projects-for-Kids-to-Make.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/familycrafts/1/V/1/R/4/Funny-Mummy-Bookmarks.jpg" alt="DIY Mummy Craft Stick Bookmarks - firefliesandmudpies.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">DIY: Mummy Craft Stick Bookmarks</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">Funny Mummy Bookmarks are a whimsical Halloween craft, perfect for home or school. Encourage young readers to save their place in a favorite fall book or simply enjoy the bookmarks for imaginative play or seasonal decor.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/halloween/ss/DIY-Mummy-Craft-Stick-Bookmarks.htm"
+data-social-title="DIY: Mummy Craft Stick Bookmarks"
+data-description="Funny Mummy Bookmarks are a whimsical Halloween craft, perfect for home or school. Encourage young readers to save their place in a favorite fall book or simply enjoy the bookmarks for imaginative play or seasonal decor."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/1/R/4/Funny-Mummy-Bookmarks.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-Playful.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/familycrafts/1/V/-/R/4/Playful-Craft-Book.jpg" alt="Playful Kids Craft Book - mermagblog.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-Playful.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">Book Review: Playful</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-Playful.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">There's nothing kids love to do more than play. So how wonderful is it that craft blogger Mer Mag designed her kids craft book after play?! Her book, Playful, is all about that, playing, pretending, dramatic play, and oodles of amazing kids crafts.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/toddlersandpreschoolers/fl/Book-Review-Playful.htm"
+data-social-title="Book Review: Playful"
+data-description="There's nothing kids love to do more than play. So how wonderful is it that craft blogger Mer Mag designed her kids craft book after play?! Her book, Playful, is all about that, playing, pretending, dramatic play, and oodles of amazing kids crafts."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/-/R/4/Playful-Craft-Book.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/claytyperecipes/ss/7-Play-Dough-Recipes-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/familycrafts/1/V/m/Q/4/7-Play-Dough-Recipes-to-Make.jpg" alt="7 Play Dough Recipes to Make - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/claytyperecipes/ss/7-Play-Dough-Recipes-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">7 Play Dough Recipes to Make</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/claytyperecipes/ss/7-Play-Dough-Recipes-to-Make.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">We're having fun crafting with play dough, but are always on the lookout for a new and different way to explore it. From different colors and scents to adding in different materials for texture, there are so many ways to create with play dough that the kids will love!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/claytyperecipes/ss/7-Play-Dough-Recipes-to-Make.htm"
+data-social-title="7 Play Dough Recipes to Make"
+data-description="We're having fun crafting with play dough, but are always on the lookout for a new and different way to explore it. From different colors and scents to adding in different materials for texture, there are so many ways to create with play dough that the kids will love!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/m/Q/4/7-Play-Dough-Recipes-to-Make.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/familycrafts/1/V/f/Q/4/wood-slice-pumpkins-fall-craft-for-kids-final.jpg" alt="Wood Slice Pumpkins for Fall - whereimaginationgrows.com" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">DIY: Wood Sliced Pumpkin Craft</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">We love to create simple fall crafts that we can use to decorate the house with and this easy wood slice pumpkin craft was the perfect craft for that.  It's easy to make and they really got us in the mood for more Halloween and fall crafts. Plus they look so cute when they are all done!</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/pumpkincrafts/ss/DIY-Wood-Sliced-Pumpkin-Craft.htm"
+data-social-title="DIY: Wood Sliced Pumpkin Craft"
+data-description="We love to create simple fall crafts that we can use to decorate the house with and this easy wood slice pumpkin craft was the perfect craft for that. It's easy to make and they really got us in the mood for more Halloween and fall crafts. Plus they look so cute when they are all done!"
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/f/Q/4/wood-slice-pumpkins-fall-craft-for-kids-final.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/familycrafts/1/V/e/Q/4/Craft-Supply-Spotlight-with-Crayons.jpg" alt="Craft Supply Spotlight on Crayons - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">Craft Supply Spotlight: Crayons</a>
+						</h5>
+							<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">We LOVE to craft with crayons, it's today's craft supply spotlight. They are one of the most used craft material for kids crafts. Every kids craft project can always use a little bit of color, and crayons are so child-friendly for crafters to use.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm"
+data-social-title="Craft Supply Spotlight: Crayons"
+data-description="We LOVE to craft with crayons, it's today's craft supply spotlight. They are one of the most used craft material for kids crafts. Every kids craft project can always use a little bit of color, and crayons are so child-friendly for crafters to use."
+data-social-image="http://f.tqn.com/y/familycrafts/1/S/e/Q/4/Craft-Supply-Spotlight-with-Crayons.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>	
+</main>
+<div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/homegarden" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-homegarden"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-homegarden"><span class="sprite homegarden-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Home</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://familycrafts.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Family Crafts</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/homegarden" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutathome" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutathome" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutathome/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutathome" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/homegarden" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="househomesl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-homegarden"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjapu0jd9u6AG0gdnBrTpfv6pRdp0JEXy5zjw7ENfWws7iCRNuTb5ojBsjSRISo89CUJLSe9B28KdcKqhFXN1ggTVakvL5qA3qGrS598VJbTgmt_SCinDfycNgx2oWgkMOiYLEpe4YOiBKAmqb-GKjsDKNcoWFrcbJ-HufmYM8O8vUtY-wntOpWzRzYeaOPD_nM2rQu3CGJcTnXELdArHP-yFmRh5HaK5O_m7YTTeNHfkpxsBcEaSUMbs_xDUjBF6yMr-c7pipL8n6mJDgTfRvUcirkCfkdCnVeapQu9D-DJODT7yv2WTRow6PbsU_CIL1xC0MN0_lYriFU8xwzMO4lYPBNOI81XPjoIASnen_PSHcsQfwEbAUII.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02familycrafts-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529946.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

@@ -1,0 +1,1705 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="b950eeee0d001bfe3600005b"
+ data-ch="health"
+ data-gs="bullying"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe2" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058826901" loadTimeTaken="3291" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="health"/>
+<meta name="lotame:site" content="bullying"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VEFSwzAM_BBM3kAZOAE9AA9Q7G2iwbU9klza3xMIGWonXGJpJa-9khyn2nkcqATrBAq7cRPiRooRQTvqU7Hb7H5QzcKGOmEEBRuXjIXpkKJphdglo83qi1mK2uyUY41ooL4C3ESOaKszBTiSfEAeRJJUsWIc2Bg1M6NyB2HfkpLXbsh2598j21ZQyAeOH9rGjqTzZxt95DP8YwmhlpocU-h0JMFuLs6_vK8gceMunWsNIfUUXujURTr1VFchnSCBLo3oVPJ3_mLUHRKQd1KOvV7b7aU0Jws8jFfWqteXJ47Q3_Vf1ftsvKE64lMDzCBXZl0XwPZFHs4ZYlv0onXzHYt7Yv0z2jM_2Q-w1VUcGYYkl3nvlVMfCjwnqXWSGLsw1WAxWupMwxo8sUdap059nCdkJWrXdB3nHKar3C8vtvEbcdMUKOqpPICsCPxbyuy28_fzZK1_A-m7ZfMyBb8AOm6wkA.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'bullying',
+	channel: 'health',
+	articleId: 'b950eeee0d001bfe3600005b',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe2"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058826901",
+loadTimeTaken : "3291"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe2"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058826901",
+loadTimeTaken : "3291"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://bullying.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "bullying",
+ch: "health",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-health",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_bullying tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'health',
+gs = 'bullying',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_bullying tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-health';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/health/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/health/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://bullying.about.com/" />
+<title>Bullying Advice from About.com</title>
+<meta name="description" content="Credible advice about understanding and preventing school bullying, cyberbullying, mean girls, and workplace bullying." itemprop="description">
+<meta name="sailthru.tags" content="health,bullying" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Bullying Advice from About.com" />
+<meta property="article:section" content="Health" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Health" />
+<meta property="og:url" content="http://bullying.about.com/" />
+<meta property="og:title" content="Bullying Advice from About.com" />
+<meta property="og:image" content="http://f.tqn.com/y/bullying/1/S/7/3/-/-/iStock_000020733040Medium.jpg" />
+<meta property="article:author" content="https://www.facebook.com/BullyingInformationOnAboutcom" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Bullying Advice from About.com" />
+<meta name="twitter:description" content="Credible advice about understanding and preventing school bullying, cyberbullying, mean girls, and workplace bullying." />
+<meta name="twitter:image" content="http://f.tqn.com/y/bullying/1/S/7/3/-/-/iStock_000020733040Medium.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Health) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML7BFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ML7BFK');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/health" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite health-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://bullying.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Bullying" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="bullying">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+				<div class="sprite advertisement label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="p-col">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://bullying.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav><header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/health" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" itemprop="url" source="ChannelHomepage" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-health"></div>
+</a>			</div>
+				<div class="col col-11">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://bullying.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Bullying" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="bullying">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-11">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Conditions" data-base-url="/">
+						<div class="heading">
+							Conditions
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Diet" data-base-url="/">
+						<div class="heading">
+							Diet
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Family" data-base-url="/">
+						<div class="heading">
+							Family
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Healthy%20Living" data-base-url="/">
+						<div class="heading">
+							Healthy Living
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+				 
+				<li class="group-nav-submenu">
+					<div class="more">
+						<a href="#" data-component="groupNav" data-source="groupNav" data-type="more" data-ordinal="1">More</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://bullying.about.com/sitesearch.htm?boost=3&SUName=bullying",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+			<div class="col col-11">
+				
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Health</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://bullying.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Bullying</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Bullying</h1>
+<a href="http://bullying.about.com/od/Basics/fl/7-Surprising-Things-Parents-Donrsquot-Know-About-Bullying-But-Should.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/bullying/1/T/7/3/-/-/iStock_000020733040Medium.jpg" alt="iStock_000020733040Medium.jpg - iStockphoto" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://bullying.about.com/od/Basics/fl/7-Surprising-Things-Parents-Donrsquot-Know-About-Bullying-But-Should.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">7 Surprising Things Parents Do Not Know About Bullying But Should</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Basics/fl/7-Surprising-Things-Parents-Donrsquot-Know-About-Bullying-But-Should.htm"
+data-social-title="7 Surprising Things Parents Do Not Know About Bullying But Should"
+data-description="Bullying is a complex issue. Discover the top seven things that parents often don't realize about bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/7/3/-/-/iStock_000020733040Medium.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://bullying.about.com/od/Responses/fl/7-Strategies-That-Encourage-Your-Child-to-Talk-about-Bullying.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/bullying/1/U/w/3/-/-/iStock_000027149315Medium.jpg" alt="iStock_000027149315Medium.jpg - iStockphoto" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://bullying.about.com/od/Responses/fl/7-Strategies-That-Encourage-Your-Child-to-Talk-about-Bullying.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">4 Strategies That Encourage Your Child to Talk about Bullying</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Responses/fl/7-Strategies-That-Encourage-Your-Child-to-Talk-about-Bullying.htm"
+data-social-title="4 Strategies That Encourage Your Child to Talk about Bullying"
+data-description="Kids usually do not tell anyone when they are being bullied. Discover how to get your child to open up about the bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/w/3/-/-/iStock_000027149315Medium.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://bullying.about.com/od/Victims/a/8-Things-Victims-Of-Bullying-Should-Never-Do.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/bullying/1/U/a/5/-/-/iStock_000001582735_Medium.jpg" alt=" - iStockphoto" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://bullying.about.com/od/Victims/a/8-Things-Victims-Of-Bullying-Should-Never-Do.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">8 Things Victims of Bullying Should Never Do</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Victims/a/8-Things-Victims-Of-Bullying-Should-Never-Do.htm"
+data-social-title="8 Things Victims of Bullying Should Never Do"
+data-description="When young people are bullied, they need advice and direction from the adults in their lives. Learn eight common sense tips that you can share with victims of bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/a/5/-/-/iStock_000001582735_Medium.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>				<div class="row">
+					<div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Bullying Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/102617.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Sherri Gordon</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://bullying.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Bullying Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Sherri Gordon</div>
+		<div class="buttons"><a href="https://www.facebook.com/BullyingInformationOnAboutcom" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/SherriMGordon" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/109704146774249372665" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/bullying_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_bullying">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Bullying</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="fitsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Staying Active</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="familysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Parenting</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Bullying Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Basics/a/6-Types-Of-Bullying.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/6/3/-/-/GettyImages_84180856.jpg" alt="Girl left out - Toby Maudsley/The Image Bank/Getty IMages" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>6 Types of Bullying Parents Should Know About</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Victims/fl/5-Things-You-Should-Never-Say-to-a-Bullied-Kid.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/A/2/-/-/iStock_000015456524XSmall.jpg" alt="iStock_000015456524XSmall.jpg - iStockphoto" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Things You Should Never Say to a Bullied Kid</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Basics/a/10-Common-Myths-And-Misconceptions-About-Bullying.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/R/3/-/-/81714499.jpg" alt="Mixed Race boy pulling girl's hair in school - Andersen Ross/Blend Images/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>10 Common Myths and Misconceptions about Bullying</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Schools/a/5-Things-Every-Parent-Can-Do-To-Prevent-Bullying.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/A/4/-/-/iStock_000015515974Medium.jpg" alt="iStock_000015515974Medium.jpg - iStockphoto" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Things Every Parent Can Do to Prevent Bullying</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Victims/a/8-Ways-To-Spot-Bullying-In-Your-Childs-Life.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/T/3/-/-/466112071.jpg" alt="Children sitting on bench in school hall, boy sitting alone on floor in background - Cultura RM/Annie Engel/Collection Mix: Subjects/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>8 Ways to Spot Bullying in Your Child's Life</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Bullying Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://bullying.about.com/od/Basics/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Bullying <span class="last">Basics<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Victims/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Victims of <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Bullies/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Defining <span class="last">Bullies<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Effects/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Effects of <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Schools/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> School Bullying <span class="last">Prevention<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Cyberbullying/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> <span class="last">Cyberbullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Responses/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Responses to <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Teens/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Help for <span class="last">Teens<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Educators/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Tips for <span class="last">Educators<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Workplace-Bullying/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Workplace <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Age-By-Age/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Age-by-Age Guide to <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Bullying-Research/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Bullying <span class="last">Research<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Help-for-Parents/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Help for <span class="last">Parents<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Basics/u/A-Guide-To-Bullying.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> A Guide to <span class="last">Bullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Cyberbullying/u/A-Guide-To-Cyberbullying.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> A Guide To <span class="last">Cyberbullying<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://bullying.about.com/od/Schools/u/A-Guide-To-Bullying-Prevention.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16"> A Guide to Bullying <span class="last">Prevention<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://bullying.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Basics/a/6-Types-Of-Bullying.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/6/3/-/-/GettyImages_84180856.jpg" alt="Girl left out - Toby Maudsley/The Image Bank/Getty IMages" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>6 Types of Bullying Parents Should Know About</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Victims/a/8-Signs-Your-Boss-Is-A-Bully.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/5/3/-/-/GettyImages_200495936-001.jpg" alt="Mature businessman yelling at coworker in office - Noel Hendrickson/Digital Vision/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>8 Signs Your Boss Is a Bully</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bullying.about.com/od/Victims/a/10-Reasons-Why-Kids-Are-Bullied.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/0/3/-/-/GettyImages_sb10064450b-001.jpg" alt="Two girls (12-13) bullying other school girl (10-11), differential focus - Chris Whitehead/Digital Vision/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>10 Common Ways Bullies Choose Their Targets</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://bullying.about.com/od/Cyberbullying/a/What-Are-The-Effects-Of-Cyberbullying.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/2/3/-/-/GettyImages_168162115.jpg" alt="School girls bullying at desk - Peter Dazeley/The Image Bank/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How Does Cyberbullying Affect Your Child?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://bullying.about.com/od/Responses/a/8-Ways-To-Cope-With-Mean-Girls.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bullying/1/O/X/3/-/-/169949823.jpg" alt="Teenage students sitting in the classroom - Kristian Sekulic/E+/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>8 Ways to Deal With Mean Friends</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>					</div>
+					<div class="col col-8">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Bullying</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Teens/fl/3-Steps-to-Breaking-Up-With-A-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/bullying/1/V/D/6/-/-/iStock_000031567050_Medium.jpg" alt="Girl crying with boyfriend in background - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Teens/fl/3-Steps-to-Breaking-Up-With-A-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">3 Steps to Breaking Up With A Bullying Boyfriend</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Teens/fl/3-Steps-to-Breaking-Up-With-A-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">Enough is enough. If your boyfriend is a bully, it is time to break up. Find out three ways to handle this volatile situation.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Teens/fl/3-Steps-to-Breaking-Up-With-A-Bullying-Boyfriend.htm"
+data-social-title="3 Steps to Breaking Up With A Bullying Boyfriend"
+data-description="Enough is enough. If your boyfriend is a bully, it is time to break up. Find out three ways to handle this volatile situation."
+data-social-image="http://f.tqn.com/y/bullying/1/S/D/6/-/-/iStock_000031567050_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Teens/fl/7-Ways-to-Deal-With-a-Boyfriend-That-Bullies-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/bullying/1/V/C/6/-/-/iStock_000051173000_Medium.jpg" alt="Upset teen girl and boyfriend - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Teens/fl/7-Ways-to-Deal-With-a-Boyfriend-That-Bullies-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">7 Ways to Deal With a Boyfriend That Bullies You</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Teens/fl/7-Ways-to-Deal-With-a-Boyfriend-That-Bullies-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">Is your boyfriend a bully, but you are not sure what to do? Learn seven ways you can deal with your bullying boyfriend and take back your life.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Teens/fl/7-Ways-to-Deal-With-a-Boyfriend-That-Bullies-You.htm"
+data-social-title="7 Ways to Deal With a Boyfriend That Bullies You"
+data-description="Is your boyfriend a bully, but you are not sure what to do? Learn seven ways you can deal with your bullying boyfriend and take back your life."
+data-social-image="http://f.tqn.com/y/bullying/1/S/C/6/-/-/iStock_000051173000_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Ways-to-Help-Your-Daughter-End-a-Relationship-With-a-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/bullying/1/V/A/6/-/-/iStock_000076402283_Medium.jpg" alt="Sad girl looking out window - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Ways-to-Help-Your-Daughter-End-a-Relationship-With-a-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">5 Ways to Help Your Daughter End a Relationship With a Bullying Boyfriend</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Ways-to-Help-Your-Daughter-End-a-Relationship-With-a-Bullying-Boyfriend.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">If your daughter has a bully for a boyfriend, it can be hard to watch the pain she experiences. Learn five ways you can help her end her relationship.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Help-for-Parents/fl/5-Ways-to-Help-Your-Daughter-End-a-Relationship-With-a-Bullying-Boyfriend.htm"
+data-social-title="5 Ways to Help Your Daughter End a Relationship With a Bullying Boyfriend"
+data-description="If your daughter has a bully for a boyfriend, it can be hard to watch the pain she experiences. Learn five ways you can help her end her relationship."
+data-social-image="http://f.tqn.com/y/bullying/1/S/A/6/-/-/iStock_000076402283_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Cyberbullying/fl/Understanding-the-Health-Risks-of-Cyberbullying-in-College.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/bullying/1/V/E/6/-/-/iStock_000020744980_Medium.jpg" alt="Upset girl on smartphone - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Cyberbullying/fl/Understanding-the-Health-Risks-of-Cyberbullying-in-College.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">Understanding the Health Risks of Cyberbullying in College</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Cyberbullying/fl/Understanding-the-Health-Risks-of-Cyberbullying-in-College.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">People rarely consider college students at risk for cyberbullying. But a new study uncovers the health risks associate with college cyberbullying.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Cyberbullying/fl/Understanding-the-Health-Risks-of-Cyberbullying-in-College.htm"
+data-social-title="Understanding the Health Risks of Cyberbullying in College"
+data-description="People rarely consider college students at risk for cyberbullying. But a new study uncovers the health risks associate with college cyberbullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/E/6/-/-/iStock_000020744980_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Friendship/fl/3-Ways-Social-Media-Is-Changing-Friendships-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/bullying/1/V/F/6/-/-/iStock_000020677177_Medium.jpg" alt="Happy teen boy on smartphone - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Friendship/fl/3-Ways-Social-Media-Is-Changing-Friendships-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">3 Ways Social Media Is Changing Friendships</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Friendship/fl/3-Ways-Social-Media-Is-Changing-Friendships-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">Social media is a big part of teens' lives. Find out how this tool is changing the way teens make and interact with friends.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Friendship/fl/3-Ways-Social-Media-Is-Changing-Friendships-and-Bullying.htm"
+data-social-title="3 Ways Social Media Is Changing Friendships"
+data-description="Social media is a big part of teens' lives. Find out how this tool is changing the way teens make and interact with friends."
+data-social-image="http://f.tqn.com/y/bullying/1/S/F/6/-/-/iStock_000020677177_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Bullying-Research/fl/Study-Shows-Some-Anti-Bullying-Laws-Effective.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/bullying/1/V/H/6/-/-/iStock_000025056947_Medium.jpg" alt="gavel - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Bullying-Research/fl/Study-Shows-Some-Anti-Bullying-Laws-Effective.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">Anti-Bullying Legislation Is Reducing Bullying</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Bullying-Research/fl/Study-Shows-Some-Anti-Bullying-Laws-Effective.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">All 50 states have some sort of anti-bullying laws on the books. But just how effective are they? Discover the impact these laws have on bullying.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Bullying-Research/fl/Study-Shows-Some-Anti-Bullying-Laws-Effective.htm"
+data-social-title="Anti-Bullying Legislation Is Reducing Bullying"
+data-description="All 50 states have some sort of anti-bullying laws on the books. But just how effective are they? Discover the impact these laws have on bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/H/6/-/-/iStock_000025056947_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Help-for-Parents/fl/9-AAP-Technology-Guidelines-for-Parents.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/bullying/1/V/G/6/-/-/iStock_000043878496_Medium.jpg" alt="Young girl on an iPad - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/9-AAP-Technology-Guidelines-for-Parents.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">9 Technology Guidelines for Parents</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/9-AAP-Technology-Guidelines-for-Parents.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">Kids today are growing up digital. Discover how the American Academy of Pediatrics suggests parents respond to the changing roles of parenting.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Help-for-Parents/fl/9-AAP-Technology-Guidelines-for-Parents.htm"
+data-social-title="9 Technology Guidelines for Parents"
+data-description="Kids today are growing up digital. Discover how the American Academy of Pediatrics suggests parents respond to the changing roles of parenting."
+data-social-image="http://f.tqn.com/y/bullying/1/S/G/6/-/-/iStock_000043878496_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Responses/fl/How-Massage-Therapy-Impacts-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/bullying/1/V/B/6/-/-/iStock_000003148857_Medium.jpg" alt="Woman getting a massage - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Responses/fl/How-Massage-Therapy-Impacts-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">How Massage Therapy Impacts Bullying</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Responses/fl/How-Massage-Therapy-Impacts-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">Regular massage is q proven to stress reliever. Discover how massage therapy may be useful in overcoming bullying situations.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Responses/fl/How-Massage-Therapy-Impacts-Bullying.htm"
+data-social-title="How Massage Therapy Impacts Bullying"
+data-description="Regular massage is q proven to stress reliever. Discover how massage therapy may be useful in overcoming bullying situations."
+data-social-image="http://f.tqn.com/y/bullying/1/S/B/6/-/-/iStock_000003148857_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Dangers-of-Cliques.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/bullying/1/V/2/6/-/-/iStock_000025420750_Medium.jpg" alt="group of happy teen girls - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Dangers-of-Cliques.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">5 Dangers of Cliques</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/5-Dangers-of-Cliques.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">Cliques often masquerade as a close knit group of friends, but really are destructive groups. Discover   why cliques are dangerous for your teen.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Help-for-Parents/fl/5-Dangers-of-Cliques.htm"
+data-social-title="5 Dangers of Cliques"
+data-description="Cliques often masquerade as a close knit group of friends, but really are destructive groups. Discover why cliques are dangerous for your teen."
+data-social-image="http://f.tqn.com/y/bullying/1/S/2/6/-/-/iStock_000025420750_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Help-for-Parents/fl/How-to-Bully-Proof-Your-Compliant-Child.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/bullying/1/V/3/6/-/-/iStock_000012549798_Medium.jpg" alt="Upset teen girl with two friends - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/How-to-Bully-Proof-Your-Compliant-Child.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">How to Bully-Proof Your Compliant Child</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/How-to-Bully-Proof-Your-Compliant-Child.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Compliant teens are often bullied because they so easygoing. Discover how you can teach your compliant child to stand up for herself.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Help-for-Parents/fl/How-to-Bully-Proof-Your-Compliant-Child.htm"
+data-social-title="How to Bully-Proof Your Compliant Child"
+data-description="Compliant teens are often bullied because they so easygoing. Discover how you can teach your compliant child to stand up for herself."
+data-social-image="http://f.tqn.com/y/bullying/1/S/3/6/-/-/iStock_000012549798_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Victims/fl/Why-Compliant-Kids-Are-Targets-for-Bullies.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/bullying/1/V/8/6/-/-/iStock_000046921748_Medium.jpg" alt="good girl doing homework - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Victims/fl/Why-Compliant-Kids-Are-Targets-for-Bullies.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">Why Compliant Kids Are Targets for Bullies</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Victims/fl/Why-Compliant-Kids-Are-Targets-for-Bullies.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">Compliant kids are a joy to be around. But their easygoing nature also makes them targets for bullying. Find out why they are susceptible to bullying.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Victims/fl/Why-Compliant-Kids-Are-Targets-for-Bullies.htm"
+data-social-title="Why Compliant Kids Are Targets for Bullies"
+data-description="Compliant kids are a joy to be around. But their easygoing nature also makes them targets for bullying. Find out why they are susceptible to bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/8/6/-/-/iStock_000046921748_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Victims/fl/How-Problem-Solving-Skills-Help-Kids-Cope-with-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/bullying/1/V/5/6/-/-/iStock_000055846814_Medium.jpg" alt="bullied teen - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Victims/fl/How-Problem-Solving-Skills-Help-Kids-Cope-with-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">How Problem-Solving Skills Help Kids Cope with Bullying</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Victims/fl/How-Problem-Solving-Skills-Help-Kids-Cope-with-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">Learning how to solve problems is an important life skill. Discover how victims of bullying can benefit from sharpening their problem-solving skills.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Victims/fl/How-Problem-Solving-Skills-Help-Kids-Cope-with-Bullying.htm"
+data-social-title="How Problem-Solving Skills Help Kids Cope with Bullying"
+data-description="Learning how to solve problems is an important life skill. Discover how victims of bullying can benefit from sharpening their problem-solving skills."
+data-social-image="http://f.tqn.com/y/bullying/1/S/5/6/-/-/iStock_000055846814_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Bullies/fl/5-Tips-for-Recognizing-the-Connection-Between-Narcissism-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/bullying/1/V/4/6/-/-/iStock_000014048594_Medium.jpg" alt="arrogant young man - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Bullies/fl/5-Tips-for-Recognizing-the-Connection-Between-Narcissism-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">The Connection Between Narcissism and Bullying</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Bullies/fl/5-Tips-for-Recognizing-the-Connection-Between-Narcissism-and-Bullying.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">Narcissists are often prone to bullying others. Find out five characteristics that link narcissism and bullying.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Bullies/fl/5-Tips-for-Recognizing-the-Connection-Between-Narcissism-and-Bullying.htm"
+data-social-title="The Connection Between Narcissism and Bullying"
+data-description="Narcissists are often prone to bullying others. Find out five characteristics that link narcissism and bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/4/6/-/-/iStock_000014048594_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Cyberbullying/fl/5-Guidelines-for-Bully-Proof-Passwords.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/bullying/1/V/6/6/-/-/iStock_000046361686_Medium.jpg" alt="two upset kids and computer - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Cyberbullying/fl/5-Guidelines-for-Bully-Proof-Passwords.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">5 Guidelines for Bully-Proof Passwords</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Cyberbullying/fl/5-Guidelines-for-Bully-Proof-Passwords.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">An important line of defense against cyberbullying is a solid password. Learn five tips for creating bully-proof passwords.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Cyberbullying/fl/5-Guidelines-for-Bully-Proof-Passwords.htm"
+data-social-title="5 Guidelines for Bully-Proof Passwords"
+data-description="An important line of defense against cyberbullying is a solid password. Learn five tips for creating bully-proof passwords."
+data-social-image="http://f.tqn.com/y/bullying/1/S/6/6/-/-/iStock_000046361686_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://bullying.about.com/od/Help-for-Parents/fl/10-Internet-Rules-For-Young-Kids-That-Prevent-Bullying-Later.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/bullying/1/V/7/6/-/-/iStock_000058433960_Medium.jpg" alt="young girl and father on computer - iStockphoto" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/10-Internet-Rules-For-Young-Kids-That-Prevent-Bullying-Later.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">10 Internet Rules For Young Kids That Prevent Bullying Later</a>
+						</h5>
+							<a href="http://bullying.about.com/od/Help-for-Parents/fl/10-Internet-Rules-For-Young-Kids-That-Prevent-Bullying-Later.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">The Internet can be scary for parents of young children. But with appropriate rules in the beginning, parents can head off big issues like bullying.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://bullying.about.com/od/Help-for-Parents/fl/10-Internet-Rules-For-Young-Kids-That-Prevent-Bullying-Later.htm"
+data-social-title="10 Internet Rules For Young Kids That Prevent Bullying Later"
+data-description="The Internet can be scary for parents of young children. But with appropriate rules in the beginning, parents can head off big issues like bullying."
+data-social-image="http://f.tqn.com/y/bullying/1/S/7/6/-/-/iStock_000058433960_Medium.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard3" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>	
+</main>
+<div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/health" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-health"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-health"><span class="sprite health-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Health</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://bullying.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Bullying</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/health" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/abouthealth" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_abouthealth" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutcomhealth" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutcomhealth" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutcomhealth/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutcomhealth" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/health" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="healthsl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-health"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+Also from About.com: <a href="http://www.caloriecount.com" data-component="calorieCount" data-source="calorieCount" data-type="calorieCount" data-ordinal="1" rel="nofollow">Calorie Count</a>			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjapu0jd9m7ADaQOTo3p0n390os06JIXy5xj-_gAXWoc7iCTNhRMA4azPnQ1eMToWBr1wqqE9_SlZ2uFiWapryCagd6hnW99CklZTguq3SGjnDbwc9owuIWigcCiZ3IoZUWIihKBmqzhGmbZCUC5RsFa4ib73E_Lp5LpIV3DOozo1rn2ntgGoE2I-89JdL5xiyDWl1RLbIBe4fiXGZAFy2ZMFO78tsJ5uPTfkpI0guCs5N6kIv-QHG21-sBKofW6oiz_PTXJg-DboIFj5SvidyLU6UqLdGH3HgJZj3Y_M9-xzT1G3Z51Kh7xhWsIOhjP32oFaRYvMQvTnSSsngnHgaaRjx5iREr357J0x9KnX5eDNw4.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02bullying-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529947.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

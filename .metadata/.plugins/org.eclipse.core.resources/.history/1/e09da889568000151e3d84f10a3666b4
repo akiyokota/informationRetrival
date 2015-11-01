@@ -1,0 +1,1662 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="b950eefff30e3d033b0013dd"
+ data-ch="compute"
+ data-gs="personalweb"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe11" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062429688" loadTimeTaken="3159" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="compute"/>
+<meta name="lotame:site" content="personalweb"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VEFSwzAM_BBM3kAZOAE9AA9Q7G2qwbE9klza3xMIGWonXGJpJa-9khyn2nkcqATrBAq7cRPijhQjgnbUp2K32f2gmoUNdYJLYy6GJWWhOqRoWiF2yausvpilqM1OGWtEA_UV4CZyRFudKcBI8gF5EElSxYpxYGPUzIzKHYR9S0peuyHbnX-PbFtBIR84fmgbG0nnzzb6yGf4xxJCLTU5ptDpkQS7uTj_8r6CxB136VxrCKmn8EKnLtKpp7oK6QQJdGlEp5K_8xej7pCAvJMy9nptt5fSnCzwcLyyVr2-PHGE_q7_qt5n4w3VEZ8aYAa5Muu6ALYv8nDOENuiF62b71jcE-uf0Z75yX6Ara7iyDAkucx7r5z6UOA5Sa2TxNiFqQaL0VJnGtbgiT3SOnXq4zwhK1G7pus45zBd5X55so3fiJumQFFP5QFkReDfUma3nb-fJ2v9G0jfLZuXKfgFhryxFw.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'personalweb',
+	channel: 'compute',
+	articleId: 'b950eefff30e3d033b0013dd',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe11"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe11"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://personalweb.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "personalweb",
+ch: "compute",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_personalweb tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'compute',
+gs = 'personalweb',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_personalweb tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/compute/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://personalweb.about.com/" />
+<title>Social Media is the New Way to Connect to Everyone</title>
+<meta name="description" content="Twitter, Facebook, Pinterest, and more! Find out what everyone is using and learn what makes sense (and what doesn&#39;t) in social media today." itemprop="description">
+<meta name="sailthru.tags" content="compute,personalweb" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Social Media is the New Way to Connect to Everyone" />
+<meta property="article:section" content="Tech" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Tech" />
+<meta property="og:url" content="http://personalweb.about.com/" />
+<meta property="og:title" content="Social Media is the New Way to Connect to Everyone" />
+<meta property="og:image" content="http://f.tqn.com/y/personalweb/1/S/I/T/FacebookSearchTutorials.jpg" />
+<meta property="article:author" content="http://www.facebook.com/pages/Aboutcom-Social-Media/200954906606608" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Social Media is the New Way to Connect to Everyone" />
+<meta name="twitter:description" content="Twitter, Facebook, Pinterest, and more! Find out what everyone is using and learn what makes sense (and what doesn&#39;t) in social media today." />
+<meta name="twitter:image" content="http://f.tqn.com/y/personalweb/1/S/I/T/FacebookSearchTutorials.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Compute) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56JFV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56JFV2');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/compute" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite compute-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://personalweb.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Social Media" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="personalweb">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="p-col">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://personalweb.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav><header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/compute" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" itemprop="url" source="ChannelHomepage" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-compute"></div>
+</a>			</div>
+				<div class="col col-11">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://personalweb.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Social Media" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="personalweb">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-11">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Mobile%20%26%20Computers" data-base-url="/">
+						<div class="heading">
+							Mobile & Computers
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Software" data-base-url="/">
+						<div class="heading">
+							Software
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Online" data-base-url="/">
+						<div class="heading">
+							Online
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Gaming" data-base-url="/">
+						<div class="heading">
+							Gaming
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+				 
+				<li class="group-nav-submenu">
+					<div class="more">
+						<a href="#" data-component="groupNav" data-source="groupNav" data-type="more" data-ordinal="1">More</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://personalweb.about.com/sitesearch.htm?boost=3&SUName=personalweb",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+			<div class="col col-11">
+				
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Tech</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalweb.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Social Media</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Social Media</h1>
+<a href="http://personalweb.about.com/od/Facebook/u/Facebook.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/personalweb/1/T/I/T/FacebookSearchTutorials.jpg" alt="Facebook search tutorials - Getty Images/Dan Kitwood" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://personalweb.about.com/od/Facebook/u/Facebook.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">Facebook Guide: A User's Manual</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/Facebook/u/Facebook.htm"
+data-social-title="Facebook Guide: A User's Manual"
+data-description="This beginner's guide to Facebook 2014 offers a user's manual for the world's largest social network, explaining key features in plain language and helping new users understand how to use Facebook's key communication and networking features."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/I/T/FacebookSearchTutorials.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://personalweb.about.com/od/Humor-Websites/fl/7-Best-Funny-Websites-for-Chuckles.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/personalweb/1/U/T/_/getty-elephant-humor-john-lund.jpg" alt="Elephant humor - Getty Images/John Lund/Stephanie Roeser" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://personalweb.about.com/od/Humor-Websites/fl/7-Best-Funny-Websites-for-Chuckles.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">Come On, It's Time to Laugh</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/Humor-Websites/fl/7-Best-Funny-Websites-for-Chuckles.htm"
+data-social-title="Come On, It's Time to Laugh"
+data-description="These 7 funny websites are among the best places online to get a quick laugh; each draws millions of humor-seeking viewers every month ."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/T/_/getty-elephant-humor-john-lund.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/personalweb/1/U/y/a/mobile-video-concert.jpg" alt="mobile video concert - Getty Images" width="215" height="216" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">Broadcast Yourself from Your Phone With these Live Stream Video Apps</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm"
+data-social-title="Broadcast Yourself from Your Phone With these Live Stream Video Apps"
+data-description="These 5 free mobile apps will let you broadcast live video from your mobile phone, with no extra equipment or services needed."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/y/a/mobile-video-concert.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>				<div class="row">
+					<div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="computersl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Tech Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_personalweb">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Social Media</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Social Media Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/t/a/Meerkat-screenshot.jpg" alt="Meerkat live streaming app - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Meet Meerkat, Your Live Twitter Cam</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/socialmediaaddiction/a/Social-Networking-Addiction.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/I/Y/96572545.jpg" alt="Woman peering inside laptop screen - Tim Robberts/Digital Vision/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Tell If You Have a Social Networking Addiction</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/images-and-photos/a/Instagram-On-Computer-PC-Or-Mac.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/V/Y/Instagram_Phones_01.jpg" alt="Instagram screenshots - Courtesy Instagram" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Access Instagram Features From Your PC</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/b/a/facebook-chris-jackson.jpg" alt="Facebook profile - Getty Images/Chris Jackson" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Assign an Heir to Your Facebook Account</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/a/a/make-money-online-KTSFotos.jpg" alt="Make money online - Getty Images/KTS Fotos" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Users Are Making Money on These Social Networks</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Social Media Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://personalweb.about.com/od/learn-social-media/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Social Media <span class="last">Tutorials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Facebook/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> <span class="last">Facebook<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/twitter/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> <span class="last">Twitter<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialnetworking/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Social <span class="last">Networking<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/social-marketing/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Marketing &amp; <span class="last">Business<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/mobileapps/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Mobile <span class="last">Apps<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/images-and-photos/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Photo &amp; Image <span class="last">Sharing<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialmedia/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Social Sites <span class="last">Directory<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/linkedin/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> LinkedIn &amp; Business <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialtv/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Video: YouTube &amp; Social <span class="last">TV<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/microbloggingguide/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Web Design &amp; <span class="last">Blogging<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Social Media News and <span class="last">Updates<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Facebook/u/Facebook.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Facebook Guide: A User's <span class="last">Manual<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/twitter/u/Twitter.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Twitter Guide: A User's <span class="last">Manual<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/designapersonalwebsite/u/websitetools.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Web Site <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://personalweb.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/personalweb/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/images-and-photos/a/Instagram-On-Computer-PC-Or-Mac.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/V/Y/Instagram_Phones_01.jpg" alt="Instagram screenshots - Courtesy Instagram" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Access Instagram Features From Your PC</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/youtube/a/Youtube-Account-Signup.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/n/R/createYouTubeAccount1.jpg" alt="Create a YouTube Account - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Sign Up For a YouTube Account</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/mobile-messaging/tp/8-Mobile-Messaging-Apps.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/X/Y/495329137.jpg" alt="Young woman texting on her phone in a cafe - Eternity in an Instant/The Image Bank/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>10 Cool Mobile Messaging Apps</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalweb.about.com/od/facebook-photos/a/Upload-Multiple-Photos-Facebook.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/z/Z/multiple-facebook-photos-john-lund-2.jpg" alt="Posting multiple photos to Facebook - Background: John Lund/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Post Multiple Pictures to Facebook at One Time</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalweb.about.com/od/facebookprivacysettings/ss/make-facebook-private.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/O/J/W/Facebook-privacy-settings.jpg" alt="Facebook private - &copy;Facebook" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Make Facebook Private: Three Simple Changes</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>					</div>
+					<div class="col col-8">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Social Media</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/contentsharing/fl/6-News-Feed-Apps-That-Personalize-the-News-For-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/personalweb/1/V/x/a/news-apps.jpg" alt="news-apps.jpg - By Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/contentsharing/fl/6-News-Feed-Apps-That-Personalize-the-News-For-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">Let These Apps Bring You the News</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/contentsharing/fl/6-News-Feed-Apps-That-Personalize-the-News-For-You.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">Let these six leading news feed apps and readers bring the news to you. They typically use personalization filters and social signals to figure out what interests you most.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/contentsharing/fl/6-News-Feed-Apps-That-Personalize-the-News-For-You.htm"
+data-social-title="Let These Apps Bring You the News"
+data-description="Let these six leading news feed apps and readers bring the news to you. They typically use personalization filters and social signals to figure out what interests you most."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/x/a/news-apps.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/images-and-photos/fl/EyeEm-Social-Network-and-Marketplace-for-Photographers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/personalweb/1/V/w/a/photographers-cocoon.jpg" alt="Photographers - Getty Images/Cocoon" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/images-and-photos/fl/EyeEm-Social-Network-and-Marketplace-for-Photographers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">If You Like Instagram, You Should Love EyeEm</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/images-and-photos/fl/EyeEm-Social-Network-and-Marketplace-for-Photographers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">EyeEm is a blend between a social networking app and commercial marketplace for photographers.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/images-and-photos/fl/EyeEm-Social-Network-and-Marketplace-for-Photographers.htm"
+data-social-title="If You Like Instagram, You Should Love EyeEm"
+data-description="EyeEm is a blend between a social networking app and commercial marketplace for photographers."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/w/a/photographers-cocoon.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/mobilevideo/fl/Periscope-Video-Live-Streaming-App-A-Review.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/personalweb/1/V/u/a/periscope-app.jpg" alt="Periscope video app - Periscope" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/mobilevideo/fl/Periscope-Video-Live-Streaming-App-A-Review.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">Broadcasting with Periscope is Easy</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/mobilevideo/fl/Periscope-Video-Live-Streaming-App-A-Review.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">Periscope is an easy to use app for broadcasting live video feeds from smart phones. It's free and available for iOS devices.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/mobilevideo/fl/Periscope-Video-Live-Streaming-App-A-Review.htm"
+data-social-title="Broadcasting with Periscope is Easy"
+data-description="Periscope is an easy to use app for broadcasting live video feeds from smart phones. It's free and available for iOS devices."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/u/a/periscope-app.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/personalweb/1/V/M/Y/facebook-justin-sullivan.jpg" alt="Facebook - Justin Sullivan/Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">Facebook makes it easy for you to save a backup of all your personal data, including all the photos and posts you shared on the network. Here's how.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm"
+data-social-title="Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?"
+data-description="Facebook makes it easy for you to save a backup of all your personal data, including all the photos and posts you shared on the network. Here's how."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/M/Y/facebook-justin-sullivan.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/personalweb/1/V/y/a/mobile-video-concert.jpg" alt="mobile video concert - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">Broadcast Yourself from Your Phone With these Live Stream Video Apps</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">These 5 free mobile apps will let you broadcast live video from your mobile phone, with no extra equipment or services needed.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/video-sharing/fl/5-Free-Live-Stream-Video-Apps-for-Mobile-Phones.htm"
+data-social-title="Broadcast Yourself from Your Phone With these Live Stream Video Apps"
+data-description="These 5 free mobile apps will let you broadcast live video from your mobile phone, with no extra equipment or services needed."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/y/a/mobile-video-concert.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/personalweb/1/V/t/a/Meerkat-screenshot.jpg" alt="Meerkat live streaming app - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">Meet Meerkat, Your Live Twitter Cam</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">Meerkat is a mobile app for broadcasting live video from your cell phone to Twitter. Think of it as a live Twitter cam. Here's how it works.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm"
+data-social-title="Meet Meerkat, Your Live Twitter Cam"
+data-description="Meerkat is a mobile app for broadcasting live video from your cell phone to Twitter. Think of it as a live Twitter cam. Here's how it works."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/t/a/Meerkat-screenshot.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/socialcommerce/fl/Etsy-Seeks-IPO-for-Crafts-Marketplace.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/personalweb/1/V/s/a/etsy-jewelry.jpg" alt="Etsy screenshot - " width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/socialcommerce/fl/Etsy-Seeks-IPO-for-Crafts-Marketplace.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">What You Should Know About Etsy's IPO</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/socialcommerce/fl/Etsy-Seeks-IPO-for-Crafts-Marketplace.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">Etsy, the online marketplace for crafts, vintage goods and handmade arts, wants to sell stock to the public. Here's what investors should know.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/socialcommerce/fl/Etsy-Seeks-IPO-for-Crafts-Marketplace.htm"
+data-social-title="What You Should Know About Etsy's IPO"
+data-description="Etsy, the online marketplace for crafts, vintage goods and handmade arts, wants to sell stock to the public. Here's what investors should know."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/s/a/etsy-jewelry.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/Online-News/ss/10-Best-Political-News-Aggregator-Sites-and-Apps-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/personalweb/1/V/h/a/political-news-StudioThreeDots.jpg" alt="political news politics - Getty Images/ StudioThreeDots" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/Online-News/ss/10-Best-Political-News-Aggregator-Sites-and-Apps-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">How to Follow Politics on the Net</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/Online-News/ss/10-Best-Political-News-Aggregator-Sites-and-Apps-2015.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">These 10 political news aggregator tools can help you stay on top of politics with the free news feeds they offer.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/Online-News/ss/10-Best-Political-News-Aggregator-Sites-and-Apps-2015.htm"
+data-social-title="How to Follow Politics on the Net"
+data-description="These 10 political news aggregator tools can help you stay on top of politics with the free news feeds they offer."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/h/a/political-news-StudioThreeDots.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/facebookmobile/fl/Facebook-Stickers-for-Photos.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/personalweb/1/V/f/a/facebook-sticker-store.jpg" alt="Facebook sticker store - Screenshot" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/facebookmobile/fl/Facebook-Stickers-for-Photos.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">Want Wacky Facebook Selfies? Try Stickers</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/facebookmobile/fl/Facebook-Stickers-for-Photos.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">Facebook stickers for mobile allow phone users to affix cartoon like images to dress up their photos before sharing them. Here's how they work.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/facebookmobile/fl/Facebook-Stickers-for-Photos.htm"
+data-social-title="Want Wacky Facebook Selfies? Try Stickers"
+data-description="Facebook stickers for mobile allow phone users to affix cartoon like images to dress up their photos before sharing them. Here's how they work."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/f/a/facebook-sticker-store.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/facebooktimeline/fl/Create-a-Custom-Gender-Identity-on-Facebook.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/personalweb/1/V/M/Y/facebook-justin-sullivan.jpg" alt="Facebook - Justin Sullivan/Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/facebooktimeline/fl/Create-a-Custom-Gender-Identity-on-Facebook.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">Creating Unique Gender Identities on Facebook</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/facebooktimeline/fl/Create-a-Custom-Gender-Identity-on-Facebook.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Facebook now offers a new gender option on profile pages-- a describe-your-own-gender freeform field allowing people to describe their gender as they see fit.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/facebooktimeline/fl/Create-a-Custom-Gender-Identity-on-Facebook.htm"
+data-social-title="Creating Unique Gender Identities on Facebook"
+data-description="Facebook now offers a new gender option on profile pages-- a describe-your-own-gender freeform field allowing people to describe their gender as they see fit."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/M/Y/facebook-justin-sullivan.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/youtube/fl/YouTube-Kids-App-Kid-Friendly-Video-Viewing.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/personalweb/1/V/c/a/kids-mobile-app.jpg" alt="Kids using mobile apps - Getty Images/Kidstock" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/youtube/fl/YouTube-Kids-App-Kid-Friendly-Video-Viewing.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">Listen Up Parents, You Need YouTube Kids</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/youtube/fl/YouTube-Kids-App-Kid-Friendly-Video-Viewing.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">YouTube Kids is a mobile app providing a safer video viewing experience for youngsters through parental controls and original content aimed at kids.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/youtube/fl/YouTube-Kids-App-Kid-Friendly-Video-Viewing.htm"
+data-social-title="Listen Up Parents, You Need YouTube Kids"
+data-description="YouTube Kids is a mobile app providing a safer video viewing experience for youngsters through parental controls and original content aimed at kids."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/c/a/kids-mobile-app.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/twitterpeople/fl/Emoji-for-Oscars-Best-Picture.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/personalweb/1/V/e/a/emojis-oscars.jpg" alt="Emojis for Oscars - Screenshot" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/twitterpeople/fl/Emoji-for-Oscars-Best-Picture.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">Can You Read the Oscar Emojis?</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/twitterpeople/fl/Emoji-for-Oscars-Best-Picture.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">Original emojis showing the Oscar nominees for best picture in 2015 drew a lot of attention on Twitter.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/twitterpeople/fl/Emoji-for-Oscars-Best-Picture.htm"
+data-social-title="Can You Read the Oscar Emojis?"
+data-description="Original emojis showing the Oscar nominees for best picture in 2015 drew a lot of attention on Twitter."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/e/a/emojis-oscars.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/personalweb/1/V/b/a/facebook-chris-jackson.jpg" alt="Facebook profile - Getty Images/Chris Jackson" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">Assign an Heir to Your Facebook Account</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">Facebook users can designate a "legacy contact" to manage their accounts after they die, serving as a personal representative. Here's how it works.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm"
+data-social-title="Assign an Heir to Your Facebook Account"
+data-description="Facebook users can designate a "legacy contact" to manage their accounts after they die, serving as a personal representative. Here's how it works."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/b/a/facebook-chris-jackson.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/personalweb/1/V/a/a/make-money-online-KTSFotos.jpg" alt="Make money online - Getty Images/KTS Fotos" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">Users Are Making Money on These Social Networks</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">These 5 social networks--Tsu, Bubblews, BonzoMe, GetGems and Persona Paper--pay users for content by sharing ad revenue with them. See how they work.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm"
+data-social-title="Users Are Making Money on These Social Networks"
+data-description="These 5 social networks--Tsu, Bubblews, BonzoMe, GetGems and Persona Paper--pay users for content by sharing ad revenue with them. See how they work."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/a/a/make-money-online-KTSFotos.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://personalweb.about.com/od/Emerging-Networks/fl/Tsu-Social-Network-Signup-and-Tutorial.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/personalweb/1/V/Y/a/Tsu-Profile-Page.jpg" alt="Tsu profile page - Tsu" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://personalweb.about.com/od/Emerging-Networks/fl/Tsu-Social-Network-Signup-and-Tutorial.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">Tsu Pays Pennies for Your Thoughts, er, Posts</a>
+						</h5>
+							<a href="http://personalweb.about.com/od/Emerging-Networks/fl/Tsu-Social-Network-Signup-and-Tutorial.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">Signing up for Tsu Social Network is easy once you have a shortcode; here are  instructions on how to join and start earning a share of ad revenue.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://personalweb.about.com/od/Emerging-Networks/fl/Tsu-Social-Network-Signup-and-Tutorial.htm"
+data-social-title="Tsu Pays Pennies for Your Thoughts, er, Posts"
+data-description="Signing up for Tsu Social Network is easy once you have a shortcode; here are instructions on how to join and start earning a share of ad revenue."
+data-social-image="http://f.tqn.com/y/personalweb/1/S/Y/a/Tsu-Profile-Page.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>	
+</main>
+<div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/compute" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-compute"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-compute"><span class="sprite compute-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Tech</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalweb.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Social Media</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/compute" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutdotcomtech" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutdotcomtech" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/abouttech" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_abouttech" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/compute" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="computersl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-compute"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjapu0jd9m7ADaQOTo3p0n390os06JIXy5xj-_gAXWoc7iCTNhRMA4azPnQ1eMToWBr1wqqE9_SlZ2uFiWapryCagd6hnW99CklZTguq3SGjnDbwc9owuIWigcCiZ3IoZUWIihKBmqzhGmbZCUC5RsFa4ib73E_Lp5LpIV3DOozo1rn2ntgGoE2I-89JdL5xiyDWl1RLbIBe4fiXGZAFy2ZMFO78tsJ5uPTfkpI0guCs5N6kIv-QHG21-sBKofW6oiz_PTXJg-DboIFj5SvidyLU6UqLdGH3HgJZj3Y_M9-xzT1G3Z51Kh7xhWsIOhjP32oFaRYvMQvTnSSsngnHgaaRjx5iREr357J0x9KnX5eDNw4.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02personalweb-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529941.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

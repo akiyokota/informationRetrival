@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="2f53469ec7007bfc610000bc"
+ data-ch="health"
+ data-gs="dietadvice"
+ data-template-type="BIO"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe6" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061852815" loadTimeTaken="2977" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="health"/>
+<meta name="lotame:site" content="dietadvice"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNptU1tOxDAMvBCoZ2ARiI8FPoADuMnQWpsmle3u4_YUygqc9qOJPTNxnNoOqk3EJ03JGoHCbsKMhJ5yRtKG2jLZ7Rh-UB2FDV7Qg5L1V8U10mfJpg6xy4ha1U5mJWt1UgaPaKLWAWEOjmyrOwUYSA6QB5EijpuMExvDR2Y4txOOdVCK2nSj3cWPzLZFCsXE-aA116XSUnqhY5Pp2JJPpxwhiS4OG0iX5ZHPiNvUNvoGktDvytnRqYTDHhQhbSFZP0yMQ8LTj8J7qzLJDAeZhlb_27VsAOx1kofzCPGZtpc9Z-jv7otbAlNqtCfBbmmHOu6vRNQXL-OkCWZz9n-m7xOWsGf9M-rIJ44dbHVhIENX5LKc_ef4tIDnIpuvGXlulp1lx-E8pll_fx2cyq8ykDIpku9vkE2C-F5GDtv616Wv1tNYvn_Tsm018fwh6_d8fgEQiYwa.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'dietadvice',
+	channel: 'health',
+	articleId: '2f53469ec7007bfc610000bc',
+	templateId: '17',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe6"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061852815",
+loadTimeTaken : "2977"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe6"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061852815",
+loadTimeTaken : "2977"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" + location.hash,
+title: "",
+contentGroup: "Other",
+gs: "dietadvice",
+ch: "health",
+authorId: "127384",
+templateId: "17",
+googleAdClient: "ca-aj-about-health",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "Bio",
+characterCount: 0,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2014-04-11",
+updateDate: "2015-05-07",
+numOfImages: 0,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_dietadvice tt17",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'health',
+gs = 'dietadvice',
+zccnt = '0',
+zGAst = 'Bio',
+zAth = '127384',
+zTt = '17',
+zGAtg ='Other',
+google_ad_channel = 'primedia_dietadvice tt17',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-health';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/health/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/health/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" />
+<meta name="description" content="&lt;p&gt;Hungry Girl is not a nutritionist. She&#39;s just hungry.&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Lisa Lillien (a.k.a. Hungry Girl) is a &lt;/span&gt;&lt;em&gt;New York Times&lt;/em&gt;&lt;span&gt; best-selling author and the creator of the Hungry Girl brand. She is the founder of &lt;/span&gt;&lt;a href=&quot;http://www.hungry-girl.com/?utm_source=about.com&amp;amp;utm_medium=bio&amp;amp;utm_term=bio&amp;amp;utm_campaign=about.com&quot; style=&quot;font-size: 13px; line-height: 1.4;&quot; target=&quot;_blank&quot; zT=&quot;-o1/XJ&quot;&gt;www.hungry-girl.com&lt;/a&gt;&lt;span&gt;, the free daily email service that entertains and informs hungry people everywhere. Lisa is a typical woman battling the same food issues most females struggle with every day. She considers herself a &amp;ldquo;foodologist,&amp;rdquo; not because she has some kind of fancy degree, but because she is obsessed with food &amp;ndash;&amp;ndash; how wonderful it is, and how much of it she can eat and still fit into her pants.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;More than 1,000,000 fans eagerly wait for Hungry Girl&amp;rsquo;s recipes, food finds, and tips &amp;amp; tricks each weekday. &lt;/span&gt;&lt;a href=&quot;http://www.hungry-girl.com/subscribe?utm_source=about.com&amp;amp;utm_medium=bio&amp;amp;utm_term=subscribe&amp;amp;utm_campaign=about.com&quot; target=&quot;_blank&quot; zT=&quot;-o1/XJ&quot;&gt;Click here&lt;/a&gt; and sign up for Hungry Girl&#39;s free daily emails!&lt;/p&gt;" itemprop="description">
+<meta name="sailthru.tags" content="health,dietadvice" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Bio" />
+<meta property="article:section" content="Health" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Health" />
+<meta property="og:url" content="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" />
+<meta property="og:title" content="Bio" />
+<meta property="og:description" content="<p>Hungry Girl is not a nutritionist. She's just hungry.</p>
+<p><span>Lisa Lillien (a.k.a. Hungry Girl) is a </span><em>New York Times</em><span> best-selling author and the creator of the Hungry Girl brand. She is the founder of </span><a href=&quot;http://www.hungry-girl.com/?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=bio&amp;utm_campaign=about.com&quot; style=&quot;font-size: 13px; line-height: 1.4;&quot; target=&quot;_blank&quot; zT=&quot;-o1/XJ&quot;>www.hungry-girl.com</a><span>, the free daily email service that entertains and informs hungry people everywhere. Lisa is a typical woman battling the same food issues most females struggle with every day. She considers herself a &ldquo;foodologist,&rdquo; not because she has some kind of fancy degree, but because she is obsessed with food &ndash;&ndash; how wonderful it is, and how much of it she can eat and still fit into her pants.</span></p>
+<p><span>More than 1,000,000 fans eagerly wait for Hungry Girl&rsquo;s recipes, food finds, and tips &amp; tricks each weekday. </span><a href=&quot;http://www.hungry-girl.com/subscribe?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=subscribe&amp;utm_campaign=about.com&quot; target=&quot;_blank&quot; zT=&quot;-o1/XJ&quot;>Click here</a> and sign up for Hungry Girl's free daily emails!</p>" />
+<meta property="og:image" content="http://f.tqn.com/y/default/health/S/140175502.jpg" />
+<meta property="article:author" content="https://www.facebook.com/HungryGirl" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Bio" />
+<meta name="twitter:image" content="http://f.tqn.com/y/default/health/S/140175502.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="bioPage">
+<!-- Google Tag Manager (Health) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML7BFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ML7BFK');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="p-col">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/health" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite health-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://dietadvice.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Diet Advice" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="dietadvice">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+				<div class="sprite advertisement label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Health</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://dietadvice.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Diet Advice</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-mini">
+	<h1 itemprop="headline ">About Lisa Lillien, a.k.a. Hungry Girl, Our Diet Advice Expert</h1>
+</div>
+
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Diet Advice Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/127384.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://dietadvice.about.com/bio/Lisa-Lillien-127384.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Lisa Lillien, a.k.a. Hungry Girl</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://dietadvice.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Diet Advice Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Lisa</div>
+		<div class="buttons"><a href="https://www.facebook.com/HungryGirl" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/HungryGirl" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/105469753838894576899" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/dietadvice_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Health</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="fitsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Staying Active</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="familysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Parenting</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Diet Advice Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://dietadvice.about.com/od/recipe-ideas/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Recipe <span class="last">Ideas<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/food-finds-and-shopping-tips/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Food Finds and Shopping <span class="last">Tips<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/dining-out-advice/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Dining Out <span class="last">Advice<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Weight-Loss <span class="last">Strategies<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://dietadvice.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Diet Advice Essentials
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/recipe-ideas/fl/5-Healthy-Comfort-Food-Hacks.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/O/5/-/-/5-Healthy-Comfort-Food-Hacks.jpg" alt="5 Healthy Comfort Food Hacks - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Healthy Comfort Food Hacks</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/How-to-Enjoy-Brunch-Without-Blowing-Your-Diet.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/N/5/-/-/How-to-Not-Blow-Your-Diet-at-Brunch.jpg" alt="How to Not Blow Your Diet at Brunch - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Enjoy Brunch Without Blowing Your Diet</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Housewalk-Your-Way-to-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/M/5/-/-/Housewalk-Your-Way-to-Weight-Loss.jpg" alt="Housewalk Your Way to Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Housewalk Your Way to Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-High-Fiber-Foods-for-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/F/5/-/-/High-Fiber-Foods-for-Weight-Loss.jpg" alt="High-Fiber Foods for Weight Loss - Courtesy of Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 High-Fiber Foods for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg" alt="5 Lunch Tricks for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Lunch Time Tricks for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Can-Caffeine-Help-You-Lose-Weight.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/x/4/-/-/can-caffeine-help-you-lose-weight.jpg" alt="Can Caffeine Help You Lose Weight? - Courtesy of Getty Images / Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Can Caffeine Help You Lose Weight?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Does-Coconut-Oil-Help-With-Weight-Loss.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/y/4/-/-/Does-Coconut-Oil-Help-With-Weight-Loss.jpg" alt="Does Coconut Oil Help With Weight Loss? - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Does Coconut Oil Help With Weight Loss?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/ss/5-Lunch-Tricks-for-Weight-Loss.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/z/4/-/-/5-Lunch-Tricks-for-Weight-Loss.jpg" alt="5 Lunch Tricks for Weight Loss - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Lunch Time Tricks for Weight Loss</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/weight-loss-strategies/fl/Do-Bananas-Cause-Weight-Gain.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/f/3/-/-/Do-Bananas-Cause-Weight-Gain.png" alt="Do Bananas Cause Weight Gain? - Courtesy of Hungry-Girl.com / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Do Bananas Cause Weight Gain?</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://dietadvice.about.com/od/recipe-ideas/ss/5-Healthy-Meals-with-5-Ingredients-or-Less.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/dietadvice/1/O/b/1/-/-/hg-healthy-5-ingredient-meals-overnight-oatmeal-parfait.jpg" alt="Hungry Girl's Healthy Meals with 5 Ingredients or Less: Overnight Oatmeal Parfait - Courtesy of Hungry-Girl.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Healthy Meals With 5 Ingredients or Less</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="3-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+<article class="content widget">
+		<div class="expert-content-text">
+		<p>To see all Diet Advice articles, <a href="http://dietadvice.about.com/" data-component="contentBioPage" data-source="channelhomepage" data-type="site.displayName" data-ordinal="1" itemprop="url">click here</a>.</p>
+		<p><p>Hungry Girl is not a nutritionist. She's just hungry.</p>
+
+<p><span>Lisa Lillien (a.k.a. Hungry Girl) is a </span><em>New York Times</em><span> best-selling author and the creator of the Hungry Girl brand. She is the founder of </span><a href="http://www.hungry-girl.com/?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=bio&amp;utm_campaign=about.com" style="font-size: 13px; line-height: 1.4;" target="_blank" zT="-o1/XJ">www.hungry-girl.com</a><span>, the free daily email service that entertains and informs hungry people everywhere. Lisa is a typical woman battling the same food issues most females struggle with every day. She considers herself a &ldquo;foodologist,&rdquo; not because she has some kind of fancy degree, but because she is obsessed with food &ndash;&ndash; how wonderful it is, and how much of it she can eat and still fit into her pants.</span></p>
+
+<p><span>More than 1,000,000 fans eagerly wait for Hungry Girl&rsquo;s recipes, food finds, and tips &amp; tricks each weekday. </span><a href="http://www.hungry-girl.com/subscribe?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=subscribe&amp;utm_campaign=about.com" target="_blank" zT="-o1/XJ">Click here</a> and sign up for Hungry Girl's free daily emails!</p></p>
+		<h5>Experience</h5>
+		<p><p><span>What started as a daily email to friends and family has turned into a nationwide, multimedia phenomenon! In addition to the million-plus die-hard subscribers to her daily emails, Lisa also reaches millions more with weekly columns on </span>WeightWatchers.com<span> and People.com, regular contributions to </span><em>Redbook</em><span> magazine, and recurring appearances on television shows like </span><em>The</em><span> </span><em>Dr. Oz Show</em><span>.</span></p>
+
+<p><span>Lisa is the author of <a href="http://www.hungry-girl.com/books?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=nine-best-selling-books&amp;utm_campaign=about.com" target="_blank" zT="-o1/XJ">ten best-selling books</a> -- six of which debuted at number one on the </span><em>New York Times</em><span> Best Sellers list. Her most recent book,&nbsp;</span><em><a href="http://www.hungry-girl.com/books/sale/16?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=diet-advice-bio&amp;utm_campaign=about.com" target="_blank" zT="-o1/XJ">The Hungry Girl Diet Cookbook: Healthy Recipes for Mix-n-Match Meals &amp; Snacks</a>,</em><span> debuted on the list</span>&nbsp;in May of 2015.</p>
+
+<p>Her television show, <a href="http://www.hungry-girl.com/show?utm_source=about.com&amp;utm_medium=bio&amp;utm_term=hungry-girl-tv-show&amp;utm_campaign=about.com" target="_blank" zT="-o1/XJ"><em>Hungry Girl</em></a>, airs on both Food Network and Cooking Channel. A self-proclaimed "mad scientist" in the kitchen, Lisa dishes out guilt-free recipes (easy and delicious ones!), tips &amp; tricks, supermarket finds, and survival guides for real-world eating situations.</p></p>
+	</div>
+
+		<h5>References:</h5>
+		<ul>
+		</ul>
+
+	<div class="adsense-joined">
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense"></div>
+	</div>
+</article>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div>		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/health" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-health"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-health"><span class="sprite health-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Health</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://dietadvice.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Diet Advice</span>
+</a>			</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					Bio
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/health" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/abouthealth" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_abouthealth" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutcomhealth" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutcomhealth" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutcomhealth/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutcomhealth" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-health"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+Also from About.com: <a href="http://www.caloriecount.com" data-component="calorieCount" data-source="calorieCount" data-type="calorieCount" data-ordinal="1" rel="nofollow">Calorie Count</a>			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1keFOxDAIx1_IZO-gidFkGpMZv9OOu3XHygR6t_n0TnfR9rJ9IZQ_8CvQa9XiARJZRcFV4DjZXV8Gzxhblso6YTPCW_m3pvHCRJvSRxBLQG9w3C59Cmos8w61_0wocw1fc83Q7iSNBB47phYlzwjRUCJQlSysZlNdAiirFSwRV-zzsHxec-VI7IBe4fzvOSjgA-hqHsNUdv1TGgTxXQFkf6oRljkcgxRVTpa4lzQ4zfx3SdHnaco-_MzEPg0YrelAirVHvCihLaNn7s5aBwjkO_SnAoD4wmXPK3MMMdi9xVyCViuBlkI86Q7FTUrh5nIehJNicS-cRlrADx3EiKS37zz1wDLoN6kIF4A.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02dietadvice-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'Diet Advice, ',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'high',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('dietadvice', '<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529947.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

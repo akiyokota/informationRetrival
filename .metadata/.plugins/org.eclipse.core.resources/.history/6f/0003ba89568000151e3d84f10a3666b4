@@ -1,0 +1,3258 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="3a56213f442f135f70001327"
+ data-ch="health"
+ data-gs="preemies"
+ data-template-type="STEPBYSTEP"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe11" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062429688" loadTimeTaken="3159" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="health"/>
+<meta name="lotame:site" content="preemies"/>
+<meta name="lotame:category" content="Preemie Parents"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VNty3CAM_aF2_A1xp508bC_TpB8gw4mtLgZGyN51v7523G0WcB646OgG0gGTUmPxQpPTRpCgH8yKmIG8h0sNdWHSj9G8oikKK3KDAeR0uFncIr0ErylDdIkorbpJNfhUeMqYI8lRlwFmDQ6vVU4BRpIz5LNIkEw3KTtWRh6ZkYm9sC2Dkk1NH_XB_vKsR0oh69ifU6nrXejIfaO58TR3lB8nzBBHS4aNlPbpC19hj1XH6BNIzNCGa6Z2wZxPIAvpAkl1sRQMk2s8Lk8DCdqDVpAoG4fH1yC5VHVSVtjINHbpfl-ZLSf2SP_WTLUeJDmorpnetnnbWcyJ09umjH5h20OrpIYUfZBl970T8noAX4Pg0HPtYlU-ReyWba5I8Zuup40RR-WOvNKoVZ83EpYNuZ-YGZd2a1YzSlfGjdQjvX-MH9SzJ-XgS5uNntV1_0B6j_9r6TOzRaiyxZWzO1GqxrQFw3GNbi3np9s3UchFmSVMCS5_zSCdBPY5RDbH9t_3V1T_PWFj0b68Q_t0x_mjV70O-LR9WH8B1Rv0Lw.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'preemies',
+	channel: 'health',
+	articleId: '3a56213f442f135f70001327',
+	templateId: '29',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe11"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe11"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm" + location.hash,
+title: "The NICU is Hard",
+contentGroup: "Image Gallery",
+gs: "preemies",
+ch: "health",
+authorId: "145244",
+templateId: "29",
+googleAdClient: "ca-aj-about-health",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "Preemie-Parents",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "8 Mistakes NICU Moms Often Make",
+characterCount: 710,
+nativeAdEnabled: false,
+experienceType: "multipage",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-10-16",
+updateDate: "2015-10-28",
+numOfImages: 1,
+numOfPages: 9,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_preemies tt29",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'health',
+gs = 'preemies',
+zccnt = '710',
+zGAst = '8 Mistakes NICU Moms Often Make',
+zAth = '145244',
+zTt = '29',
+zGAtg ='Image Gallery',
+google_ad_channel = 'primedia_preemies tt29',
+cat0 = 'Preemie-Parents/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-health';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/health/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/health/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/health/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/health/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/health/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm" />
+<title>The NICU is Hard</title>
+<meta name="description" content="Surviving the NICU is a hard thing to do. It&#39;s even harder when moms are making these common mistakes. Learn what they are and how to improve them." itemprop="description">
+<meta name="sailthru.tags" content="health,preemies" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="8 Mistakes NICU Moms Often Make" />
+<meta property="article:section" content="Health" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Health" />
+<meta property="og:url" content="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm" />
+<meta property="og:title" content="8 Mistakes NICU Moms Often Make" />
+<meta property="og:description" content="Surviving the NICU is a hard thing to do. It's even harder when moms are making these common mistakes. Learn what they are and how to improve them." />
+<meta property="og:image" content="http://f.tqn.com/y/preemies/1/S/x/5/-/-/GettyImages-134441743.jpg" />
+<meta property="article:author" content="https://www.facebook.com/EVERYtinyTHING" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="8 Mistakes NICU Moms Often Make" />
+<meta name="twitter:image" content="http://f.tqn.com/y/preemies/1/S/x/5/-/-/GettyImages-134441743.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="stepbystepPage">
+<!-- Google Tag Manager (Health) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML7BFK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-ML7BFK');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="p-col">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/health" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite health-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://preemies.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Preemies" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="preemies">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+<div class="s-btns js-share">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended bottom">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+				<div class="sprite advertisement label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+
+<main id="main" class="slab">
+	<div class="container">
+
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Health</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://preemies.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Preemies</span>
+</a>			</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://preemies.about.com/od/Preemie-Parents/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Preemie Parents</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">8 Mistakes NICU Moms Often Make</h1>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://preemies.about.com/bio/Trish-Ringley-RN-145244.htm" data-component="byLineDefault" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/145244.gif" width="50" height="50" data-load="lazy" /></a>
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://preemies.about.com/bio/Trish-Ringley-RN-145244.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Trish Ringley, RN</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://preemies.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Preemies Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended top">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+		<div class="row">
+			<div class="col col-11">
+				<div class="row">
+					<div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_preemies">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Preemies</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="fitsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Staying Active</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="familysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Parenting</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Preemies Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://preemies.about.com/od/allaboutthenicu/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="1"> In the Neonatal Intensive Care <span class="last">Unit<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/Blog/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="2"> NICU Nurses <span class="last">Perspective<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/Preemie-Parents/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="3"> Preemie <span class="last">Parents<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/Preemies/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="4"> Feeding your <span class="last">Preemie<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/preemieagesandstages/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="5"> Preemie <span class="last">Milestones<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/causesofprematurebirth/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="6"> Causes of Premature <span class="last">Birth<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/preemiehealthproblems/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="7"> Common Preemie Health <span class="last">Problems<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/parentingyourpreemie/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="8"> Parenting your <span class="last">Preemie<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/preemieshowtocope/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="9"> Special Needs of Premature <span class="last">Babies<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/goingbacktowork/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="10"> Life with a <span class="last">Preemie<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/glossary/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="11"> Glossary of Preemie <span class="last">Terms<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/resourcesforparents/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="12"> Support and Resources for Parents of Premature <span class="last">Infants<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/readersstories/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="13"> Premature Baby Stories and <span class="last">Pictures<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/takingyourpreemiehome/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="14"> Taking your Preemie <span class="last">Home<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/Reviews/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="15"> <span class="last">Reviews<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/parentingyourpreemie/u/InTheNICU.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="16"> In the <span class="last">NICU<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/takingyourpreemiehome/u/TheFirstYear.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="17"> Home With Your <span class="last">Preemie<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://preemies.about.com/od/causesofprematurebirth/u/risksandprevention.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="18"> Risks and <span class="last">Prevention<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://preemies.about.com/updated.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="19">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>					</div>
+					<div class="col col-8">
+
+<div id="content" class="share-data"
+		data-url="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm"
+	data-title="The NICU is Hard"
+	data-description="Surviving the NICU is a hard thing to do. It&#39;s even harder when moms are making these common mistakes. Learn what they are and how to improve them." 
+	data-social-image="http://f.tqn.com/y/preemies/1/S/x/5/-/-/GettyImages-134441743.jpg" 
+	data-social-title="8 Mistakes NICU Moms Often Make"
+>
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-1" data-hint="The NICU is Hard">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-1">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			1 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">Are you Making these Mistakes?</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<span class="btn btn-light disabled">
+<span class="sprite arrow5-gray-left"></span>
+</span>
+</div>
+<div class="col pull-right next">
+<a href="#step2" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: Are you Making these Mistakes?" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/x/5/-/-/GettyImages-134441743.jpg&description=8 Mistakes NICU Moms Often Make: Are you Making these Mistakes?" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Scott Cramer/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>You have a baby in the NICU - Congratulations! But now what?</p><p>You just been thrown into a devastating and scary experience, and you&#39;ve probably had nothing to prepare you for this. You&#39;re most likely just trying to survive, moment to moment, figuring out how to handle the experience as you go.</p><p>That&#39;s understandable. The NICU is overwhelming.</p><p>There are things you may be doing right now that are making this harder, and it&#39;s important for you to realize that there are <a href="/od/Blog/tp/10-Things-your-NICU-Nurse-Wants-You-to-Know.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">certain things you can do</a> to get through this experience better.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p>Take a moment to find out if you are doing any of these 8 things which are making your NICU experience harder than it needs to be. And read on to find out what you can do about it.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<div class="disabled btn btn-circle bottom prev showallOffset"><span class="sprite arrow4-gray-left"></span></div>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="1" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								1 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="2"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="3"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													1
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="4" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="5" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="6">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="7" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="8" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="9">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="10" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="11" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="12">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="13" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="14" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="15">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="16" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="17" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="18">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="19" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="20" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="21">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="22" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="23" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="24">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="25" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="26" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="27">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-2" data-hint="Not Taking Care of Yourself NICU Mistake #1">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-2">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			2 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#1 Not Taking Care of Yourself</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step1" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step3" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #1 Not Taking Care of Yourself" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/L/5/-/-/GettyImages-557475445_high.jpg&description=8 Mistakes NICU Moms Often Make: #1 Not Taking Care of Yourself" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: JGI/Jamie Grill/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>With your baby in the NICU, you would give anything - ANYTHING - to have your baby home with you, safe and sound, healthy and thriving.</p><p>All of your energy is going towards being there with your baby, pumping if you&#39;re able, juggling other family and household needs, and worrying. Trying to learn this foreign world.</p><p>So it&#39;s completely understandable that you&#39;re not giving yourself much thought, as far as what <strong><em>you</em></strong> need to heal and recover and maintain your sanity.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p class="cb-split">  <em>But it&#39;s a mistake that really can take a toll.</em></p><p>Of course you want to do it all, but <strong><a href="http://www.preemiebabies101.com/2015/02/pro-insight-loving-yourself/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">you must take care of yourself</a></strong> if you hope to make it through this experience well. Do it for yourself, and do it for your baby.</p><p>Keep this in mind - your baby needs you. Your are your baby&#39;s ONLY mother. So you need to try to give your baby a <em><strong>healthy </strong></em>mother.</p><p>I can&#39;t tell you exactly how to best take care of yourself - <a href="http://tinybuddha.com/blog/how-to-take-care-of-yourself-during-tough-times/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="2" rel="nofollow">you know best</a>. Perhaps it means taking more naps (yes, you have permission!), perhaps it means taking some time away from the NICU for a sanity break. Maybe it means taking the time to eat a healthier meal, even if that means missing a little time with your baby.</p><p>Investing in yourself is investing in your baby&#39;s mother, so try your best to give yourself what you need.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="28" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								2 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="29"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="30"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="31" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="32" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="33">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													2
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="34" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="35" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="36">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="37" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="38" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="39">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="40" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="41" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="42">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="43" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="44" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="45">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="46" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="47" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="48">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="49" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="50" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="51">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="52" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="53" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="54">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-3" data-hint="Blaming Yourself NICU Mistake #2">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-3">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			3 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#2 Blaming Yourself</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step2" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step4" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #2 Blaming Yourself" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/J/5/-/-/GettyImages-200272215-003_full.jpg&description=8 Mistakes NICU Moms Often Make: #2 Blaming Yourself" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Ray Kachatorian/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Have you already started <a href="http://www.everytinything.com/nicu-articles/jealousy-guilt" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">blaming yourself</a> for your baby being in the NICU?</p><p>It happens all the time.</p><p>Mothers, who would give anything to have their baby safe and healthy, blame themselves for failing their baby.</p><p>AS IF you could have done anything differently!</p><p><a href="/od/causesofprematurebirth/a/What-Causes-Premature-Birth.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">Preterm labor </a>happens to all moms - mothers who do &#34;everything right&#34; still end up with preemies or babies who need the NICU.</p><p>Birth defects happen to all families, birth complications and infections happen to anyone.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p>So I suggest you stop it, right now. Seriously. You didn&#39;t do anything wrong.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="55" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								3 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="56"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="57"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="58" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="59" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="60">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="61" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="62" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="63">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													3
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="64" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="65" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="66">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="67" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="68" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="69">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="70" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="71" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="72">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="73" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="74" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="75">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="76" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="77" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="78">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="79" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="80" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="81">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-4" data-hint="Avoiding your Friends &amp; Family NICU Mistake #3">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-4">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			4 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#3 Avoiding your Friends &amp; Family</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step3" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step5" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #3 Avoiding your Friends &amp;amp; Family" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/G/5/-/-/GettyImages-57226374_high.jpg&description=8 Mistakes NICU Moms Often Make: #3 Avoiding your Friends &amp;amp; Family" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Jose Luis Pelaez Inc/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Have you gotten into the habit of avoiding your friends and family?</p><p>It may feel as if they don’t understand. They may say things that aren’t helpful because they don’t have a clue just how hard this is.</p><p>But they care about you, and quite frankly you could use the support. </p><p>So be sure to allow your closest friends and <a href="http://www.grandparents.com/family-and-relationships/family-matters/premature-grandbabies" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">family</a> - the ones who make you feel good and who offer genuine help - to help you.</p><p>This doesn&#39;t mean entertaining anyone and everyone who wants to come by and visit.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p class="cb-split"> That is stressful and exhausting (see mistake #1).</p><p>But do allow yourself to be helped, and do allow yourself to open up and talk with the loved ones who care about you.</p><p>Want help figuring out how to do that?</p><ul><li>Let one person be your spokesperson, allow them to do all the communicating with your list of friends &amp; family who need updates. Make them your &#34;point person.&#34;</li><li>When someone says &#34;what can I do to help?&#34; give them the link to this list of <a href="http://www.womenandinfants.org/pediatrics/NICU-Parents-Guide.cfm" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="2" rel="nofollow">great ways to help NICU parents</a>.</li><li>Have someone set up a <a href="http://www.caringbridge.org/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="3">caring bridge</a> for you, which is an ad-free way to post updates and - better yet - allows friends and loved ones to sign up to bring you meals or help in ways YOU want.</li><li>Do allow yourself to cry and be a mess and be honest about your trauma when talking with loved ones. It&#39;s okay. It&#39;s normal to be struggling with this, even in your baby isn&#39;t critically ill.</li></ul>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="82" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								4 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="83"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="84"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="85" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="86" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="87">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="88" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="89" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="90">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="91" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="92" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="93">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													4
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="94" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="95" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="96">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="97" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="98" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="99">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="100" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="101" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="102">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="103" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="104" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="105">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="106" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="107" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="108">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-5" data-hint="Not Getting Involved in your Baby's Care NICU Mistake #4">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-5">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			5 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#4 Not Getting Involved in your Baby's Care</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step4" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step6" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #4 Not Getting Involved in your Baby&#39;s Care" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/C/5/-/-/GettyImages-149320895_full.jpg&description=8 Mistakes NICU Moms Often Make: #4 Not Getting Involved in your Baby's Care" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: BSIP/UIG/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Are you sitting by your baby&#39;s bedside, helplessly watching as all of the NICU staff do everything for your baby?</p><p>It’s understandable, and easy to do for many reasons:</p><ul><li>They have way more experience with NICU babies &amp; preemies</li><li>You’re terrified you’ll break your baby</li><li>You&#39;re sure you have no clue what you’re doing</li><li>All <a href="/od/allaboutthenicu/ss/Common-NICU-Equipment-Explained-with-Photos.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">those wires</a> are so frustrating!</li><li>Nobody has told you that you have permission to do any of your baby&#39;s care</li></ul>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<ul class="cb-split"></ul><p>But you are your baby’s mother, and your baby needs you. Now and forever. It’s very <a href="http://nicuhealing.org" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="2" rel="nofollow">healing</a> for you to get involved right away. As much as you can, as much as you’re allowed.</p><p>If nobody has told you it&#39;s okay for you to help, <em><strong>ask </strong></em>the next time you&#39;re there - &#34;What can I do to parent my baby? Can I change the diaper or take a temperature?&#34;</p><p>Even if the only thing you can do is touch your baby and hold her through her touch times and diaper changes, that human touch and hearing your voice is incredibly powerful and comforting for your baby.</p><p>And it helps you too. A lot. You&#39;ll start feeling more and more connected, more and more needed, more and more like a mom.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="109" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								5 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="110"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="111"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="112" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="113" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="114">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="115" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="116" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="117">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="118" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="119" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="120">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="121" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="122" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="123">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													5
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="124" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="125" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="126">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="127" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="128" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="129">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="130" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="131" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="132">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="133" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="134" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="135">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-6" data-hint="Comparing Your Baby to Other NICU Babies NICU Mistake #5">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-6">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			6 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#5 Comparing Your Baby to Other NICU Babies</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step5" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step7" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #5 Comparing Your Baby to Other NICU Babies" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/M/5/-/-/GettyImages-172207861_high.jpg&description=8 Mistakes NICU Moms Often Make: #5 Comparing Your Baby to Other NICU Babies" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Kriss Russell/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Everybody does it. Ugh, human nature.</p><p>Maybe you see that baby next to yours who is so much bigger and seems so much healthier? Or the preemie next to yours who was born earlier but is already taking bottles and off oxygen?</p><p>Please remember that each baby is a completely unique individual, and each baby has a completely unique time schedule.</p><p>Your baby may have more hurdles and it may not feel fair. It&#39;s not fair.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p class="cb-split"> But then again, nothing really is.</p><p>I guarantee you, 100%, that somebody has it worse than you, and somebody has it better. It is not fair.</p><p>So just <a href="http://www.becomingminimalist.com/stop-comparing-your-life-start-living-it/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">don&#39;t compare</a>. Trust your baby and honor your baby&#39;s unique journey.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="136" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								6 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="137"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="138"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="139" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="140" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="141">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="142" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="143" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="144">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="145" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="146" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="147">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="148" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="149" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="150">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="151" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="152" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="153">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													6
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="154" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="155" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="156">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="157" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="158" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="159">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="160" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="161" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="162">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-7" data-hint="Not Speaking Up NICU Mistake #6">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-7">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			7 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#6 Not Speaking Up</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step6" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step8" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #6 Not Speaking Up" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/U/4/-/-/GettyImages-177683250.jpg&description=8 Mistakes NICU Moms Often Make: #6 Not Speaking Up" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Barrett &amp; MacKay/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Does it feel as if you have no say in what happens to your baby? Do you feel at the mercy of the NICU staff, with no input whatsoever?</p><p>Being in the NICU does require that you adjust to <em>their </em>rules and <em>their</em> way of doing things, but that doesn&#39;t mean you have no say at all.</p><p>You need to understand that <strong>you are your baby&#39;s voice</strong>. And it&#39;s a mistake to stay silent.</p><p>While it&#39;s fantastic to have your baby cared for by competent and caring nurses &amp; doctors, still nobody loves your baby as much as you do, nobody wants the best for your baby more than you do.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p>Your thought and ideas are important. Your questions are important. Your requests are important.</p><p>So speak up. Ask the questions.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="163" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								7 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="164"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="165"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="166" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="167" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="168">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="169" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="170" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="171">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="172" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="173" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="174">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="175" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="176" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="177">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="178" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="179" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="180">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="181" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="182" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="183">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													7
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="184" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="185" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="186">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="187" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="188" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="189">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-8" data-hint="Focusing Too Much on the Future NICU Mistake #7">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-8">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			8 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#7 Focusing Too Much on the Future</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step7" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step9" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #7 Focusing Too Much on the Future" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/I/5/-/-/GettyImages-115620946_high.jpg&description=8 Mistakes NICU Moms Often Make: #7 Focusing Too Much on the Future" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: JGI/Jamie Grill/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p> It’s easy to spend all of your energy worried about the future, focusing your attention on the long-term. Of course it is. </p><p>Whether you&#39;re worried about scary diagnoses that your doctors have warned you of, or you&#39;re just hating every moment in the NICU and can&#39;t wait until you&#39;re out of there, it&#39;s easy to avoid finding joy in the present.</p><p>If you are able to slow down and <a href="http://tinybuddha.com/blog/accept-the-past-embrace-the-future-and-live-in-the-present/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">embrace the now</a> - this moment, this feeding, this cuddle, this sweet baby smile - you will be reminded of the good in the world.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p>And that balance is really healthy for you.</p><p>Focusing too much energy on the negative makes the whole journey much more difficult.</p><p>Give yourself permission to find whatever joy you can right now.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="190" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								8 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="191"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="192"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="193" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="194" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="195">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="196" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="197" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="198">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="199" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="200" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="201">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="202" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="203" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="204">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="205" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="206" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="207">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="208" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="209" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="210">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="211" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="212" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="213">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													8
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="214" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="215" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="216">														#8 Thinking You're Not Important
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-9" data-hint="Thinking You're Not Important NICU Mistake #8">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-9">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			9 <span class="page-count-divider">of</span> 9
+		</span>
+		<h2 class="heading ">#8 Thinking You're Not Important</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step8" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="http://preemies.about.com/od/Preemie-Parents/ss/20-Inspiring-Preemie-Quotes.htm" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper no-caption">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/preemies/1/S/E/5/-/-/GettyImages-165781328_high.jpg" alt="Preemie mother kissing premature baby in NICU - Kristina Greke/Getty Images" class="" data-description="8 Mistakes NICU Moms Often Make: #8 Thinking You&#39;re Not Important" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/preemies/1/S/E/5/-/-/GettyImages-165781328_high.jpg&description=8 Mistakes NICU Moms Often Make: #8 Thinking You're Not Important" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+<span class="credit">Photo Credit: Kristina Greke/Getty Images</span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+<div class="mrb">
+			<div class="published">
+			Updated October 28, 2015.
+		</div>
+</div>							<p>Do you feel as if you&#39;re not all that important to your <a href="/od/Preemie-Parents/ss/20-Inspiring-Preemie-Quotes.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">preemie baby</a> right now?</p><p>Nothing could be further from the truth! </p><p>You matter, <strong><em>more than anyone in your baby’s life. </em></strong></p><p>Even when you feel inadequate, even when you are not there.</p><p>Your love is more powerful, and your attachment is real.</p><p>Your baby knows your voice. Your baby knows your smell. Your baby knows your touch.</p><p>You may not be your baby&#39;s main care giver right now, which is really hard, but that does not mean your baby doesn&#39;t need you.</p>
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+							<p class="cb-split"> Your baby may sleep all the time and not seem to need your presence, but your care and concern help you bond.</p><p>Your baby needs you desperately.</p><p>To be his advocate. To be nourished by your milk <a href="/od/Preemies/tp/Pumping-for-Preemie-How-to-increase-milk-supply-with-10-easy-tips.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">if you&#39;re both able</a>. To feel your touch. To hear your voice. To smell you and have you there.</p><p>Only you can do this. Only you can be mom.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="217" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								9 <span class="sbs-divider">of</span> 9 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="218"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="219"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="220" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="221" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="222">														Are you Making these Mistakes?
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="223" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="224" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/L/5/-/-/GettyImages-557475445_high.jpg" alt="NICU mom anxious, hand on forehead at home alone - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="225">														#1 Not Taking Care of Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="226" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="227" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/J/5/-/-/GettyImages-200272215-003_full.jpg" alt="depressed NICU mom crying sitting on edge of bed - Ray Kachatorian/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="228">														#2 Blaming Yourself
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="229" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="230" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/G/5/-/-/GettyImages-57226374_high.jpg" alt="Mother and grown daughter hugging and smiling - Jose Luis Pelaez Inc/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="231">														#3 Avoiding your Friends &amp; Family
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="232" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="233" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/C/5/-/-/GettyImages-149320895_full.jpg" alt="NICU Mother with preemie giving a bath - BSIP/UIG/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="234">														#4 Not Getting Involved in your Baby's Care
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="235" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="236" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/M/5/-/-/GettyImages-172207861_high.jpg" alt="Happy NICU mom with healthy preemie - Kriss Russell/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="237">														#5 Comparing Your Baby to Other NICU Babies
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="238" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="239" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/U/4/-/-/GettyImages-177683250.jpg" alt="NICU mom holding preemie with NICU nurse - Barrett &amp; MacKay/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="240">														#6 Not Speaking Up
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="241" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="242" class="img"><img data-original="http://f.tqn.com/y/preemies/1/O/I/5/-/-/GettyImages-115620946_high.jpg" alt="Sad NICU mother alone at home sitting on couch - JGI/Jamie Grill/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="243">														#7 Focusing Too Much on the Future
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													9
+												</span>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="http://preemies.about.com/od/Preemie-Parents/ss/20-Inspiring-Preemie-Quotes.htm" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+
+<div class="append-content">
+    
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Related Articles</h5>
+<ul>
+<li><a href="http://preemies.about.com/od/allaboutthenicu/ss/Common-NICU-Equipment-Explained-with-Photos.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="1">NICU Equipment 101 [with Photos]</a></li>
+<li><a href="http://pediatrics.about.com/od/newbornsandbabies/ig/Premature-Babies/index.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="2">Premature Babies</a></li>
+<li><a href="http://preemies.about.com/od/takingyourpreemiehome/f/whencanitakemypreemiehome.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="3">When Can My Preemie Come Home from the NICU?</a></li>
+<li><a href="http://preemies.about.com/od/allaboutthenicu/qt/What-Is-A-Level-4-Nicu.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="4">What Is a Level 4 NICU?</a></li>
+<li><a href="http://multiples.about.com/od/twinpregnancyfaq/f/twinpregnancy_m.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="5">Twins and the NICU</a></li>
+<li><a href="http://preemies.about.com/od/parentingyourpreemie/tp/All-About-Your-Premature-Baby.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="6">Introduction to Premature Babies</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading p-col slab-heading">Our Expert Recommends</h5>
+<ul>
+<li>
+<a href="/od/Blog/tp/10-Things-your-NICU-Nurse-Wants-You-to-Know.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="1"> 10 Things your NICU Nurse Wants you to Know
+</a> </li>
+<li>
+<a href="/od/Preemie-Parents/ss/20-Inspiring-Preemie-Quotes.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="2"> 20 Inspiring Preemie Quotes
+</a> </li>
+</ul>
+<ul>
+<li>
+<a href="/od/Reviews/fl/Anchored-Book-Review-Prematurity-Story.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="3"> A Preemie "Must Read" - Book Review
+</a> </li>
+<li>
+<a href="/od/causesofprematurebirth/fl/What-is-World-Prematurity-Day.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="4"> What is World Prematurity Day?
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+<div id="zergnet" data-defer="onScroll"></div>
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Preemies Essentials
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://preemies.about.com/od/allaboutthenicu/ss/Common-NICU-Equipment-Explained-with-Photos.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/preemies/1/P/6/5/-/-/GettyImages-78751414.jpg" alt="Premature Baby in Incubator NICU Equipment with NICU Nurse - Fuse/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>NICU Equipment 101 [with Photos]</span>
+</div>
+<span class="site-name">In the Neonatal Intensive Care Unit</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Health Slideshows
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://www.about.com/health/topic/healthy-halloween" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/create/1/P/t/8/U/-/GettyImages-522825709-crop.jpg" alt="kids in costume on halloween - Rebecca Nelson/Taxi/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>A Complete Guide to Having a Healthy Halloween</span>
+</div>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://preemies.about.com/od/Preemie-Parents/ss/8-Mistakes-NICU-Moms-Often-Make.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/preemies/1/P/x/5/-/-/GettyImages-134441743.jpg" alt="Preemie Boy Holding NICU Mom finger - Scott Cramer/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>8 Mistakes NICU Moms Often Make</span>
+</div>
+<span class="site-name">Preemies</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://altfitness.about.com/od/Social-Media-and-Fitness/ss/32-Fitness-Facebook-Groups-To-Keep-Your-Goals-on-Track.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/altfitness/1/P/5/A/-/-/Facebook-Fitness-JGIJamie-Grill-Pre.jpg" alt="Facebook Fitness - Getty Images/GI/Jamie Grill Pre" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>32 Fitness Facebook Groups To Keep Your Goals on Track</span>
+</div>
+<span class="site-name">Alternative Fitness</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Readers Recommend</h5>
+<ul>
+<li><a href="http://preemies.about.com/od/preemieagesandstages/ss/PrematureBabiesWeekbyWeek.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="1">A Week-by-Week Look at Premature Babies and How They Fare</a></li>
+<li><a href="http://preemies.about.com/od/Blog/tp/10-Things-your-NICU-Nurse-Wants-You-to-Know.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="2">10 Things your NICU Nurses Wish You Knew</a></li>
+<li><a href="http://preemies.about.com/od/readersstories/a/World-S-Smallest-Preemies.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="3">6 of the World's Smallest and Youngest Preemies</a></li>
+<li><a href="http://preemies.about.com/od/preemiehealthproblems/f/What-Is-A-Micro-Preemie.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="4">What Is a Micro Preemie?</a></li>
+<li><a href="http://preemies.about.com/od/preemiehealthproblems/f/veryprematurebabies.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="5">What Do Doctors Consider a Very Premature Baby?</a></li>
+</ul>
+</div>
+            </div>
+
+
+    </div>
+</div></div>
+<script type="text/javascript">
+	var google_hints_window = 'The NICU is Hard';
+</script>					</div>
+				</div>
+			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trendingShortForm" data-defer="onScroll"></div><div class="gpt billboard">
+	
+				<div class="label">
+		            <span>Advertisement</span>
+		        </div>
+	<div id="billboard2" class="wrapper"></div>
+</div>
+			</div>
+		</div>
+	</div>
+</main>
+<div class="slab no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div id="videosCircBarShortForm" data-defer="onScroll"></div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/health" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-health"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-health"><span class="sprite health-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/health" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Health</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://preemies.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Preemies</span>
+</a>			</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://preemies.about.com/od/Preemie-Parents/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1">						<span >Preemie Parents</span>
+</a>				</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					8 Mistakes NICU Moms Often Make
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/health" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/abouthealth" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_abouthealth" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutcomhealth" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutcomhealth" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutcomhealth/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutcomhealth" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/health" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Health</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="healthsl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-health"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+Also from About.com: <a href="http://www.caloriecount.com" data-component="calorieCount" data-source="calorieCount" data-type="calorieCount" data-ordinal="1" rel="nofollow">Calorie Count</a>			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1Uu1OwzAMfCGkvgNICERBSAX-O6nXZnPj4jhbu6cn-9BouvaPm-Z8vrPjbShq3EAkLciZYo--ZikCQ1B42OYgGI46v7wytBVWJVzkVFaYaBH6caIR6BOaZeqLC8oyrqhufyPKWMJxLBnqlaSewGLLVKNMM5xXFA9URHWXsIimC5RLFMwlrrKvXTIfpkhDbIA-YP9_MpCJd2m-5_DshrzqDakQxLaZINtdiZD6MAySsQJbdzLLNnbotWpB8B4vnd99p0Yzs0ZSSSuxM2Fy_pLo7TQN6lAI1JRKZHSPh0CoaVqT48pLdODItmh3mTXEd565VezNeIr3mwNbGE59hOqWtKIWDq7PylpQbNIypedYmF3vvNNH9ctG3nA8Dz1xXQPqeCUvLbLzd_gRpfF4-64YNkMgN9tSC8IxYDYCHHpKE3tqwXukMP-fpm5YuvAHSg1-eg.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02preemies-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".sbs-intro",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();
+    window.initSbsLeaderboardSwap = function () {
+	    debug.log('initSbsLeaderboardSwap()');
+
+        // For SBS & IG, on first ajax pagination, move leaderboard under images
+        if($('.leaderboardSbs').length == 0 && deviceType == 'PERSONAL_COMPUTER') {
+          debug.log('Leaderboard Swapped');
+          
+          // $('#leaderboard').parent().height($('#leaderboard').parent().height()); // Keep original leaderboard height (disabled for now)
+          Abt.GPT.removeAdRequestSize("leaderboard", 970, 250);
+
+          // For SBS, the 'active content' area is removed, including the leaderboard.
+          // SBS will pass in the leaderboard elem for use on subsequent paginations
+          var leaderboard = $('.leaderboard');
+          debug.log(leaderboard);
+          
+          leaderboard.insertAfter('#contentIntro').addClass('leaderboardSbs');
+        }
+    };
+window.initSbsScroll = function () {
+    debug.log('initSbsScroll(), 86px offset unless offset defined in sbsScrollOffset property');
+	if (window.sbsScroll) {
+		window.sbsScroll(146);
+	}
+};
+    window.initSbsLeaderboardSwap = function () {
+	    debug.log('initSbsLeaderboardSwap()');
+
+        // For SBS & IG, on first ajax pagination, move leaderboard under images
+        if($('.leaderboardSbs').length == 0 && deviceType == 'PERSONAL_COMPUTER') {
+          debug.log('Leaderboard Swapped');
+          
+          // $('#leaderboard').parent().height($('#leaderboard').parent().height()); // Keep original leaderboard height (disabled for now)
+          Abt.GPT.removeAdRequestSize("leaderboard", 970, 250);
+
+          // For SBS, the 'active content' area is removed, including the leaderboard.
+          // SBS will pass in the leaderboard elem for use on subsequent paginations
+          var leaderboard = $('.leaderboard');
+          debug.log(leaderboard);
+          
+          leaderboard.insertAfter('#contentIntro').addClass('leaderboardSbs');
+        }
+    };
+var google_hints = 'Preemies, ',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'high',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="stepbystepPage" data-source="stepbystepPage" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('preemies', '<a href="#" data-component="stepbystepPage" data-source="stepbystepPage" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529947.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

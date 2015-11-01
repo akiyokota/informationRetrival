@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="http://email-media.s3.amazonaws.com/About.com/AbNCfXoBY67c8T0U2L7R_w.min.cache.css" type="text/css"><title>Manage Your Profile</title><style type="text/css">
+@font-face {
+  font-family: Sans, sans-serif;
+  src: url(http://www.about.com/font/DuplicateSans-Regular-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSans-Regular-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSans-Regular-Web.woff) format("woff"), url(http://www.about.com/font/DuplicateSans-Regular-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSans-Regular-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sans";
+  src: url(http://www.about.com/font/DuplicateSans-Medium-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSans-Medium-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSans-Medium-Web.woff) format("woff"), url(/font/DuplicateSans-Medium-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSans-Medium-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sans";
+  src: url(http://www.about.com/font/DuplicateSans-RegularItalic-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSans-RegularItalic-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSans-RegularItalic-Web.woff) format("woff"), url(http://www.about.com/font/DuplicateSans-RegularItalic-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSans-RegularItalic-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Sans";
+  src: url(http://www.about.com/font/DuplicateSans-MediumItalic-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSans-MediumItalic-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSans-MediumItalic-Web.woff) format("woff"), url(http://www.about.com/font/DuplicateSans-MediumItalic-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSans-MediumItalic-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Slab";
+  src: url(http://www.about.com/font/DuplicateSlab-Medium-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSlab-Medium-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSlab-Medium-Web.woff) format("woff"), url(http://www.about.com/font/DuplicateSlab-Medium-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSlab-Medium-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sans";
+  src: url(http://www.about.com/font/DuplicateSlab-MediumItalic-Web.eot);
+  src: url(http://www.about.com/font/DuplicateSlab-MediumItalic-Web.eot?#iefix) format("embedded-opentype"), url(http://www.about.com/font/DuplicateSlab-MediumItalic-Web.woff) format("woff"), url(http://www.about.com/font/DuplicateSlab-MediumItalic-Web.ttf) format("truetype"), url(http://www.about.com/font/DuplicateSlab-MediumItalic-Web.svg#duplicate_sans_webmedium) format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* --- GLOBAL --- */
+img#logo {
+  margin-left: 20px;
+}
+h3, h4 {
+  margin-bottom: 20px;
+}
+h2 {
+  margin-bottom: 33px;
+}
+a {
+  color: #00a0d2;
+  text-decoration: none;
+}
+a:muted {
+ color: #989898;
+}
+a:focus, a:hover {
+  color: #00a0d2;
+}
+.breadcrumbs a:hover {
+  color: #00a0d2;
+}
+.breadcrumbs {
+  margin-left: 10px;
+}
+p[class=sub_desc] {
+  font-family: "Slab", Georgia, serif;
+  margin-top: -17px;
+}
+div[class=news] {
+  font-family: "Slab", Georgia, serif;
+}
+
+/* --- INSIDE THE FORM --- */
+
+div.account_login {
+  margin-top: -15px;
+}
+div#newsgroup_left {
+  float: left;
+}
+div#newsgroup_right {
+  float: right;
+}
+div#newsletters {
+  width: 550px;
+}
+
+/* --- Checkboes --- */
+
+
+label {
+  display: block;
+  text-align: left;
+  width: 200px;
+  margin-top:-20px;
+  margin-left:22px;
+}
+
+input[type=checkbox] {
+width:15px;
+height:15px;
+-webkit-appearance: checkbox;
+}
+
+input[type=submit], input[type=text] {
+  color: #989898;
+  letter-spacing: .02em;
+  display: block;
+  padding: 0 18px;
+  margin: 0;
+  width: 100%;
+  height: 50px;
+  border: 1px solid #e5e5e5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  font-size: 100%;
+  outline: 0;
+  line-height: inherit;
+  vertical-align: bottom
+}
+
+/* --- Buttons --- */
+
+input[type=submit] {
+  background-color: #00a0d2;
+  color: #fffffd;
+}
+div[class=submit] {
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  width: 250px;
+  height: 35px;
+  float: left;
+  color: #fffffd;
+  background-color: #00a0d2;
+}
+div[class=form] {
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%px;
+}
+div#unsub {
+  display: inline;
+  font-size: 15px;
+  font-family: "Slab", Georgia, serif;
+  border-top: 2px #989898 solid;
+  padding-top: 5px;
+  margin-left: 0px;
+}
+/* Remove all decorations to look like normal text */    
+input[type=submit]#unsub {
+  background: none;
+  border: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  outline-offset: 0;
+  /* Additional styles to look like a link */
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Slab", Georgia, serif;
+  font-size: 15px;
+  width: 200px;
+  vertical-align: baseline;
+  color: #47b6e1;
+}
+/* Remove extra space inside buttons in Firefox */
+input[type=submit]#unsub::-moz-focus-inner, button::-moz-focus-inner {
+ border: none;
+ padding: 0;
+}
+div#change_email {
+  display: block;
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+  font-family: "Slab", Georgia, serif;
+  position: relative;
+  margin-top: -55px;
+  margin-left: 440px;
+}
+div#email_input {
+  display: none;
+}
+/* Remove all decorations to look like normal text */    
+input[type=submit]#change_email {
+  background: none;
+  border: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  outline-offset: 0;
+  /* Additional styles to look like a link */
+  color: blue;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Slab", Georgia, serif;
+  font-size: 15px;
+  width: 200px;
+  vertical-align: baseline;
+  color: #47b6e1;
+}
+/* Remove extra space inside buttons in Firefox */
+input[type=submit]#unsub::-moz-focus-inner, button::-moz-focus-inner {
+ border: none;
+ padding: 0;
+}
+div[class=clear] {
+  clear: both;
+}
+</style><!--[if IE 8]>
+<style type="text/css">
+	body {background-color:#ffffff;}
+    header {background: #00a0d2;}
+    header div {background: #00a0d2;}
+    nav {background: #00a0d2;}
+    div.header_ie8 {background-color:#00a0d2;}
+    div#slab {border-bottom:1px solid #e5e5e5;}
+    
+</style>
+<![endif]--><!--[if lte IE 8 ]>
+    	<link rel="stylesheet" href="http://j.about.com/css/1.17.3/default/ie8.min.css" type="text/css">
+    	<script src="http://j.about.com/js/1.17.3/default/ie8.min.js"></script>
+        
+        <style type="text/css">
+        ul.breadcrumbs {margin-top:22px;}
+        </style>
+        
+    <![endif]--><!--[if IE 9 ]>
+    	<link rel="stylesheet" href="http://j.about.com/css/1.17.3/default/ie9.min.css" type="text/css">
+	<![endif]--></head><body>
+<header class="mast mast-fixed" id="mast-fixed"><div class="container">
+    <div class="row">
+      <div class="col col-4"> <a href="http://www.about.com/health" data-component="mastFixed" data-source="mastFixed" data-ordinal="1"> </a> </div>
+    </div>
+  </div>
+</header><nav class="navbar"></nav><header class="mast static" style="background-color: #00a0d2"><div class="container">
+    <div class="row">
+      <div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="About.com"><a href="http://www.about.com/health" data-component="mast" data-source="ChannelHomepage" data-ordinal="1" itemprop="url" class="mast-logo pull-left"> <img src="http://media.sailthru.com/3op/1jy/b/4/54591d3321294.png" id="logo"></a> </div>
+    </div>
+  </div>
+</header><main id="main" class="slab"><div class="container">
+    <div class="row">
+      <div class="col col-11">
+        <div class="breadcrumbs trunc" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+          <ul class="breadcrumbs"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="http://www.about.com/health"> <span itemprop="title">About.com Health</span> </a> </li>
+            <li><img src="http://email-media.s3.amazonaws.com/About.com/carrot.png" border="0" width="6" height="10"></li>
+            <li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="http://about.com"> <span itemprop="title">Email Preferences</span> </a> </li>
+          </ul></div>
+        <div class="row">
+          <div class="col col-3"> </div>
+          <div class="col col-8">
+            <div>
+              
+                <h2 align="center">Ready to Get Healthy?</h2>
+                <p class="sub_desc">
+	No matter what your goal is, our fun, short and sweet newsletters will help you become the best possible version of you.<br><br></p>
+
+
+                
+                 <form method="post">
+                  
+                   <input type="checkbox" id="vars[calcount]" name="vars[calcount]" value="1"><label for="vars[calcount]"><strong>Living Healthy</strong><br></label>
+                   From kitchen hacks and recipes to the latest in nutrition trends, we serve up daily tips to make a healthy diet easier for everyone.<br><br><input type="checkbox" id="vars[fitsl]" name="vars[fitsl]" value="1"><label for="vars[fitsl]"><strong>Fit Life</strong></label>
+                   With weekly workouts, trend pieces, diet tips, and more, we&rsquo;re all about making exercise fun, fresh and interesting.<br><br><input type="checkbox" id="vars[healthtipsl]" name="vars[healthtipsl]" value="1"><label for="vars[healthtipsl]"><strong>Health Tip of the Day</strong></label>
+                   We provide daily inspiration and motivation that&rsquo;s built around one simple tip at a time that you can use today &ndash; not tomorrow.<br><br><input type="checkbox" id="vars[healthsl]" name="vars[healthsl]" value="1"><label for="vars[healthsl]"><strong>The Health News Update</strong></label>
+                   We look at the latest trends in health news and deliver relevant articles to help you understand the debate and make informed decisions about your health.
+                   <br><br><input type="hidden" id="source_entry" name="vars[source]" value="Default Value"><input type="text" name="email" placeholder="Enter your email here"><input type="submit" name="submit" id="sign-up" value="SIGN UP"><input type="hidden" name="profile_id" value="5630bc838cc2b26337703629"><input type="hidden" name="st_form_num" value="0"></form>
+<br>
+You can opt-out at any time. Please refer to our <a href="http://www.about.com/gi/pages/mprivacy.htm">privacy policy</a> for contact information.<br><br><div class="clear"></div>
+                <div>
+               
+                </div>
+              </div>
+              <br><br></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+</main><div class="slab slab-strip">
+  <div class="container">
+    <div class="breadcrumbs-full row" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <div class="centered col col-3"> <a href="http://www.about.com/health" data-component="breadcrumbsFull" data-source="breadcrumbsFull" data-ordinal="1"> <img src="http://media.sailthru.com/3op/1jy/b/3/5457c7f8cef3a.jpg" border="0" width="43" height="43">&nbsp;<strong><font color="#00a0d2">.com</font></strong> </a> </div>
+      <div class="col col-12">
+        <div class="slab-divider-left">
+          <div class="breadcrumbs full">
+            <ul><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="http://www.about.com/health"> <span itemprop="title">About.com</span> </a> </li>
+              <li><img src="http://email-media.s3.amazonaws.com/About.com/carrot.png" border="0" width="6" height="10"></li>
+              <li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"> <a href="http://link.about.com/join/3op/healthtipsignup"> <span itemprop="title">Email Sign up</span> </a> </li>
+            </ul></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="basement">
+  <div class="container">
+    <div class="row">
+      <div class="col col-5"> &copy; 2015 About.com <a href="http://www.about.com/gi/pages/mprivacy.htm">Privacy Policy</a></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+        var vars = [], hash;
+        var source = "";
+        var q = document.URL.split('?')[1];
+        if(q != undefined){
+            q = q.split('&');
+            for(var i = 0; i < q.length; i++){
+                hash = q[i].split('=');
+                if (hash[0] == "source") {
+                     document.getElementById("source_entry").value = hash[1];  
+               }
+            }
+        }
+</script></body></html>

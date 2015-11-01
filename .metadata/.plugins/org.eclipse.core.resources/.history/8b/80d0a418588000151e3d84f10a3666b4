@@ -1,0 +1,1472 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,99,79,16,12"
+ data-articleId="3a550f79dc192c0991015379"
+ data-ch="compute"
+ data-gs="personalweb"
+ data-template-type="FLEXIBLEARTICLE"
+ itemscope itemtype="http://schema.org/Article">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe9" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061869248" loadTimeTaken="3147" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="compute"/>
+<meta name="lotame:site" content="personalweb"/>
+<meta name="lotame:category" content="Social Media Tutorials"/>
+<meta name="lotame:subcategories" content="[Social Media Management]"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VNuS2yAM_aF2_A2bTjt9SC8z2_ZdhhNHEwKMJHvj_fqSddMNxnngoqODJCSEU-08DjQG6wQK--AK4o4UI4J21KfRPmb3hmoWNtQEl855NNwoN1OHFE0rxObcsPrRLEVdnZRzjWigvgJcMY5ojU8BziQnyGeRJJVuNA5sjNoyoxIHYb82Sl67IduT_x3ZtpRCPnA86Vo3hNRT-E5TF2nqqQ4nTZBAc4WdSZfpC1_gt1Xb6DNI3HGXLpU6JHfagzykTyTNxTQ5ptBFvDwfSbDbKAWJsQv4-maklppKSoGdjOde7_cNbd5zhP5bK1UJRAPMiqf3bV12Frdnfd-srb-wH2CNU0eGIcm8nL0T6nwA35LUMR0CLk_Ltbdyl7m8iZ3FSieYuOTUSJpAJvZIPwM5HFO4pnQNPDow33HnB7TGWy7cpap1CeiVSP4kdk07ZhrQmLk-7iZZr5Ah4v_adGKYOS5zU8HdqhVwyaHk_dPtQ1nJq0pKGhWhdgayUeB_pcxum_9jabf2k0rX57YsD_pD75pjq_3LQNRrKv8C-ZQEUg.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'personalweb',
+	channel: 'compute',
+	articleId: '3a550f79dc192c0991015379',
+	templateId: '65',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 1,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard4', 'pos':'btf3', 'sizes':[[300, 250], [300, 253], [4, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "inArticleVideoAdX",
+bucketDescription: "InArticleVideo AdX - Scroll to Play and Pause",
+bucketName: "inArticleAdX",
+bucketTrackingId: "16",
+bucketValue: 1
+},{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe9"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061869248",
+loadTimeTaken : "3147"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"inArticleVideoAdX",
+bucketDescription:"InArticleVideo AdX - Scroll to Play and Pause",
+bucketName:"inArticleAdX",
+bucketTrackingId:"16",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe9"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061869248",
+loadTimeTaken : "3147"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" + location.hash,
+title: "How to Back Up All Your Facebook Data -- Download Your FB Archive",
+contentGroup: "Articles",
+gs: "personalweb",
+ch: "compute",
+authorId: "90925",
+templateId: "65",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "learn-social-media",
+cat1: "socialmediamanagement",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?",
+characterCount: 4600,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-03-23",
+updateDate: "2015-03-23",
+numOfImages: 1,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_personalweb tt65",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test99 test79 test16 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'compute',
+gs = 'personalweb',
+zccnt = '4600',
+zGAst = 'Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?',
+zAth = '90925',
+zTt = '65',
+zGAtg ='Articles',
+google_ad_channel = 'primedia_personalweb tt65',
+cat0 = 'learn-social-media/',
+cat1 = 'socialmediamanagement/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test99 test79 test16 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/compute/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" />
+<title>How to Back Up All Your Facebook Data -- Download Your FB Archive</title>
+<meta name="description" content="Facebook makes it easy for you to save a backup of all your personal data, including all the photos and posts you shared on the network. Here&#39;s how." itemprop="description">
+<meta name="sailthru.tags" content="compute,personalweb" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?" />
+<meta property="article:section" content="Tech" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Tech" />
+<meta property="og:url" content="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" />
+<meta property="og:title" content="Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?" />
+<meta property="og:description" content="Facebook makes it easy for you to save a backup of all your personal data, including all the photos and posts you shared on the network. Here's how." />
+<meta property="og:image" content="http://f.tqn.com/y/personalweb/1/S/M/Y/facebook-justin-sullivan.jpg" />
+<meta property="article:author" content="http://www.facebook.com/pages/Aboutcom-Social-Media/200954906606608" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Want a Copy of Everything You&rsquo;ve Said and Done on Facebook?" />
+<meta name="twitter:image" content="http://f.tqn.com/y/personalweb/1/S/M/Y/facebook-justin-sullivan.jpg" />
+<meta name="articleSection" content="compute" itemprop="articleSection" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="flexArticle">
+<!-- Google Tag Manager (Compute) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56JFV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56JFV2');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="p-col">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/compute" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite compute-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://personalweb.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Social Media" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="personalweb">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+<div class="s-btns js-share">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended bottom">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Tech</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalweb.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Social Media</span>
+</a>			</li>
+				<li>
+					<span class="separator sprite arrow-breadcrumb"></span>
+					<a href="#" data-component="breadcrumbs" data-source="breadcrumbs" data-type="ellipsis" data-ordinal="1" class="truncated">. . .</a>
+				</li>
+				<li class="hide-breadcrumb"  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://personalweb.about.com/od/learn-social-media/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Social Media Tutorials</span>
+</a>				</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://personalweb.about.com/od/socialmediamanagement/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="2" itemprop="url">						<span itemprop="title">Social Media Management</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">How to Back Up Your Facebook Data  -- Download Your Facebook Archive</h1>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="byLineDefault" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/90925.gif" width="50" height="50" data-load="lazy" /></a>
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Leslie Walker</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://personalweb.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Social Media Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended top">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="electronsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Electronics & Gadgets</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_personalweb">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Social Media</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Social Media Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://personalweb.about.com/od/learn-social-media/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Social Media <span class="last">Tutorials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Facebook/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> <span class="last">Facebook<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/twitter/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> <span class="last">Twitter<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialnetworking/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Social <span class="last">Networking<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/social-marketing/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Marketing &amp; <span class="last">Business<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/mobileapps/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Mobile <span class="last">Apps<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/images-and-photos/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Photo &amp; Image <span class="last">Sharing<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialmedia/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Social Sites <span class="last">Directory<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/linkedin/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> LinkedIn &amp; Business <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/socialtv/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Video: YouTube &amp; Social <span class="last">TV<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/microbloggingguide/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Web Design &amp; <span class="last">Blogging<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Social Media News and <span class="last">Updates<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/Facebook/u/Facebook.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Facebook Guide: A User's <span class="last">Manual<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/twitter/u/Twitter.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Twitter Guide: A User's <span class="last">Manual<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalweb.about.com/od/designapersonalwebsite/u/websitetools.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Web Site <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://personalweb.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/personalweb/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+
+
+<article class="content widget widget-alt expert-content expert-content-text" itemprop="articleBody">
+	
+
+
+			<div class="content-img-wrapper">
+				<figure class="content-img right-gutter ">
+					<div class="content-img-wrapper ">
+<img src="http://f.tqn.com/y/personalweb/1/W/M/Y/facebook-justin-sullivan.jpg" alt="Facebook - Justin Sullivan/Getty Images" width="385" height="260" class="" data-description="" itemprop="image" >
+			
+<a href="http://pinterest.com/pin/create/button/?url=http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/personalweb/1/S/M/Y/facebook-justin-sullivan.jpg&description=" data-component="contentFlexArticle" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a>					</div>
+		
+					<figcaption class="content-img-subtitle">
+							<div class="content-img-caption">
+									<span class="credit pull-right">Justin Sullivan/Getty Images</span>
+							</div>
+					</figcaption>
+					
+								
+				</figure>
+			</div>
+
+
+
+	
+
+
+
+		<p>If you’ve shared a lot of photos and information about your life on Facebook over the years, it’s a good idea to download a backup copy of all your Facebook data. </p><p>That way, you’ll have your own offline copy of all your photos in one single folder, which you can easily store on a CD, DVD or any computer.  So if Facebook every crashes and burns, all your selfies and other personal photos won’t go down with it.</p>
+
+		<p>The social network has adopted a lot of different ways to see and store your account data in the past, but it recently simplified the process with a “start my archive” link.</p><h3>Where to Find the Facebook Backup Link</h3><p>The personal archive option is accessible in several different places. The easiest to find is in the general settings area.</p>
+<div id="inArticleVideo" data-defer="onPageLoad"></div>
+		<p>So sign into your Facebook account on a computer – either a laptop or desktop, but not your cell phone.  Look for the tiny down arrow in the upper right corner of any page, and click &#34;SETTINGS&#34; near the bottom. That will take you to the &#34;general settings&#34; page. At the bottom of the page you&#39;ll see a link that says &#34;Download a copy of your Facebook data&#34;</p><p>Click that and it shows you another page that says, &#34;Download your information, Get a copy of what you&#39;ve shared on Facebook.&#34;    Click the green &#34;start my archive&#34; button to download your Facebook data. </p><p> It will then show you a popup box asking you to confirm you want to create an archive, so you have to click another &#34;start my archive&#34; button, this one blue.</p>
+
+		<p class="cb-split">  Next, Facebook will ask you to verify your identity again before letting you download the file it creates.</p><p>At this point, Facebook will start preparing your personal archive as a download file. It should show you a message telling you it will send you an email when the download file is ready</p><h3>Follow the Email Link</h3><p>Within a few minutes, you&#39;ll get an email with a link to download the file.</p>
+	<div class="video-radlinks">
+
+	
+		<div id="radlinks3" data-num-links="5" data-character-limit="null" data-display-label="true" data-display-inline="true" class="radlinks ads-half"></div>
+	
+	</div>
+
+		<p class="cb-split"> The link will take you back to Facebook, where you will be asked one more time to reenter your Facebook. Once you do, it will offer you the opportunity to save the file as a zipped (compressed) file on your computer. Just point to the folder you want to store it in, and Facebook will drop a file on your drive.</p><p>Open the folder and you&#39;ll see one file named &#34;index.&#34; Double click on the &#34;index&#34; file, which is a basic HTML webpage that links to all the other files you downloaded.</p><p>You can find your photos in a folder called photos. Each album has its own folder. You’ll see the photos files are fairly small, that’s because Facebook compresses the photos you upload, so the quality isn’t as good as when you uploaded them. They’re optimized for display on computer screens, not really printing, but may be glad to have them in any size one day.</p><h3>What Kind of Stuff Can You Download?</h3><p> At a minimum, the download file should include all the posts, photos and videos you shared on the network, plus your messages and chats with other users, and your personal profile information in the &#34;About&#34; area of you profile page. It also includes a list of your friends, any pending friend requests, all the groups you belong to and pages you have &#34;liked.&#34;</p><p> It also includes a ton of other stuff, like your list of followers if you allow people to follow you; and a list of the ads you clicked on. (Read more in the <a href="https://www.facebook.com/help/302796099745838" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1">Facebook help file</a>.)</p><h3>Other Backup Options</h3><p>Facebook&#39;s backup option creates an archive that&#39;s pretty easy to browse. But there are other options, too, including apps that will back up your personal data from various social networks, not just Facebook. These include:</p><p><strong>1. SocialSafe</strong>:  <a href="http://socialsafe.net" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="2" rel="nofollow">SocialSafe</a> is a desktop software program that you can use to grab your data from Facebook, Twitter, Instagram, Google &#43;, LinkedIn, Pinterest and other social networks. It&#39;s a free app that allows you to back up your personal information from up to four networks for free. If you buy the premium version for a modest fee, you can save more networks.</p><p><strong>2. Backupify</strong>: If you manage a business and want to maintain a running backup of all your business social media efforts, then it&#39;s worth the investment to use a premium backup service. One to consider is the social media backup offering from <a href="https://www.backupify.com/products/social-media-apps-backup" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="3" rel="nofollow">Backupify</a>. It&#39;s not cheap--the service starts at $99 a month, but businesses have a greater need to keep records than ordinary individuals do. And this one will automate the process.</p><p><strong>3. Frostbox </strong>-- A cheaper option than Backupify is <a href="http://www.frostbox.com/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="4" rel="nofollow">Frostbox,</a> an online backup service that will automate the archiving of your social media  files. Its pricing starts at $6.99 per month.</p><h3>Want a Twitter Back Up?</h3><p>Twitter also makes it easy to save a copy of your tweets. Learn how to save <a href="http://personalweb.about.com/od/twittertools/a/All-My-Tweets-My-Tweet-Archive.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="5">all your tweets</a>.</p>
+
+	
+	
+	
+
+</article>
+
+	<div class="append-amz-shop">
+	</div>
+
+<div class="append-content">
+    
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Related Articles</h5>
+<ul>
+<li><a href="http://netsecurity.about.com/od/informationresources/a/How-To-Backup-Your-Facebook-Stuff.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="1">How to Easily Backup All of Your Facebook Stuff</a></li>
+<li><a href="http://personalweb.about.com/od/twittertools/a/All-My-Tweets-My-Tweet-Archive.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="2">Have You Saved Your Tweets Yet? Learn How to Download Your Tweet Archive</a></li>
+<li><a href="http://personalweb.about.com/od/deletefacebook/a/Close-Facebook.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="3">Leaving Facebook Forever</a></li>
+<li><a href="http://personalweb.about.com/od/Pinterest-Tutorials/fl/How-to-Share-Pinterest-Pins-on-Twitter.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="4">How to Tweet Pinterest Images Like a Pro</a></li>
+<li><a href="http://websearch.about.com/od/freefilehostingsites/p/gigasize.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="5">Gigasize</a></li>
+<li><a href="http://webtrends.about.com/od/Image-Sharing/tp/5-Easy-Ways-to-Send-Large-Amounts-of-Photos-to-Friends.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="6">Got Tons of Photos You Need to Send to Someone? Try These Tools</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading p-col slab-heading">Our Expert Recommends</h5>
+<ul>
+<li>
+<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="1"> Use Meerkat to Create a Live Twitter TV Channel
+</a> </li>
+<li>
+<a href="http://personalweb.about.com/od/deletefacebook/g/Delete-Facebook-Definition.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="2"> Delete Facebook Definition and Guide
+</a> </li>
+</ul>
+<ul>
+<li>
+<a href="http://personalweb.about.com/od/socialtv/a/Social-TV-Basics.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="3"> What Is Social TV?
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+<div id="zergnet" data-defer="onScroll"></div>
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Social Media Essentials
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/mobilevideo/fl/Meet-Meerkat-the-Mobile-Phone-App-That-Broadcasts-Live-Video-on-Twitter.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/P/t/a/Meerkat-screenshot.jpg" alt="Meerkat live streaming app - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Meet Meerkat, Your Live Twitter Cam</span>
+</div>
+<span class="site-name">Mobile Video Apps and Social Networks</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/socialmediaaddiction/a/Social-Networking-Addiction.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/P/I/Y/96572545.jpg" alt="Woman peering inside laptop screen - Tim Robberts/Digital Vision/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>How to Tell If You Have a Social Networking Addiction</span>
+</div>
+<span class="site-name">Social Media Addiction: Real or Exaggerated?</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/images-and-photos/a/Instagram-On-Computer-PC-Or-Mac.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/P/V/Y/Instagram_Phones_01.jpg" alt="Instagram screenshots - Courtesy Instagram" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>How to Access Instagram Features From Your PC</span>
+</div>
+<span class="site-name">Mobile Video Apps and Social Networks</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/facebooktimeline/fl/How-to-Name-A-Facebook-Heir-or-Legacy-Contact.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/P/b/a/facebook-chris-jackson.jpg" alt="Facebook profile - Getty Images/Chris Jackson" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Assign an Heir to Your Facebook Account</span>
+</div>
+<span class="site-name">Facebook Timeline & Profiles: Tips, Tricks, Guides </span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalweb.about.com/od/Make-Money-Online/fl/5-Social-Networks-That-Pay-Users-for-Content.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalweb/1/P/a/a/make-money-online-KTSFotos.jpg" alt="Make money online - Getty Images/KTS Fotos" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Users Are Making Money on These Social Networks</span>
+</div>
+<span class="site-name">How to Make Money Online</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Tech Slideshows
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://minecraft.about.com/od/Minecraft-Guides/ss/Letrsquos-Make-A-Minecraft-Server.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/minecraft/1/P/G/-/-/-/Server-1.png" alt=" - Taylor Harris" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Let's Make A Minecraft Server!</span>
+</div>
+<span class="site-name">Minecraft</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://www.about.com/compute/topic/internetfacts" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/create/1/P/i/4/T/-/120170030-edit.jpg" alt="Golden Retriever using laptop - Elizabeth Aldridge/Moment/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Things You Should Know About the Internet</span>
+</div>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://voip.about.com/od/markettrends/ss/5-Steps-To-Save-on-Phone-Calls-To-Landline-And-Cell-Phones.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/voip/1/P/1/5/-/-/picjumbo.com_HNCK8495.jpg" alt="VoIP call to landline phone - Courtesy: Viktor Hanacek" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>How to Save on Call to Landline and Cell Phones</span>
+</div>
+<span class="site-name">Voice Over IP</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://webtrends.about.com/od/Gifs/ss/Create-a-GIF-of-Your-Own-with-the-Giphy-Cam-App.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/webtrends/1/P/U/f/-/-/Untitled-design-7-.jpg" alt=" - Screenshots of Giphy Cam for iOS" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Create GIFs in a Snap</span>
+</div>
+<span class="site-name">Trends</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Readers Recommend</h5>
+<ul>
+<li><a href="http://personalweb.about.com/od/images-and-photos/a/Instagram-On-Computer-PC-Or-Mac.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="1">How to Access Instagram Features From Your PC</a></li>
+<li><a href="http://personalweb.about.com/od/youtube/a/Youtube-Account-Signup.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="2">How to Sign Up For a YouTube Account</a></li>
+<li><a href="http://personalweb.about.com/od/mobile-messaging/tp/8-Mobile-Messaging-Apps.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="3">10 Cool Mobile Messaging Apps</a></li>
+<li><a href="http://personalweb.about.com/od/facebook-photos/a/Upload-Multiple-Photos-Facebook.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="4">How to Post Multiple Pictures to Facebook at One Time</a></li>
+<li><a href="http://personalweb.about.com/od/facebookprivacysettings/ss/make-facebook-private.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="5">How to Make Facebook Private: Three Simple Changes</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="gpt billboard">
+<div id="billboard4" class="wrapper"></div>
+</div>
+            </div>
+
+    </div>
+</div><div id="flyin-placeholder" data-isDesktop="true">
+<div id="flyin-container" data-id="flyin"></div></div>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/compute" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-compute"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-compute"><span class="sprite compute-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Tech</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalweb.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Social Media</span>
+</a>			</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://personalweb.about.com/od/learn-social-media/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1">						<span >Social Media Tutorials</span>
+</a>				</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://personalweb.about.com/od/socialmediamanagement/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="2">						<span >Social Media Management</span>
+</a>				</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					How to Back Up Your Facebook Data  -- Download Your Facebook Archive
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/compute" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutdotcomtech" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutdotcomtech" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/abouttech" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_abouttech" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/compute" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="computersl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-compute"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UtFOwzAM_CGk_gMIBFJBkwa8O6m3enPjzXHGuq8nsGkko31xnJzPd06yiU2HK0hsDZNrDhg60SYKRIO7TQ2Ck2S3hxeG9SpmjJOcpVdhnoQ-SS0BL2A9TX2maKLjjOpmn1DHFk5jK9DNFO0YPPbCHWpZQcFQA3CTjM5hEs0HqOeoWEtcZF-GbD6WyJrFAb_B4S9zUIkP-X5_wxMd665XZImgvq8ExW9bhDyHE9CKFcXTj1nxacBgyx4U_-Mthe1HHrQy6zS39JoGF4v8XVPwZRl0sVHoOLeo6AG_IqPl2yrSmZcYgNj36LeVNcRXqd2CGnnGx0yzODHmjgLZvYUSOlCHsmAYs5EiL0tOqOuA17WEVjxSOMcZ7-4YmW6-kAeVFLH6OHjccR7noYcQkOPtvhIVHeI3O1lXQA.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02personalweb-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'Social Media, ',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'medium',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="flexArticle" data-source="flexArticle" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('personalweb', '<a href="#" data-component="flexArticle" data-source="flexArticle" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529941.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

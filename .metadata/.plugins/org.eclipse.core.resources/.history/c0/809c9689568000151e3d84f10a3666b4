@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,99,79,16,21,12"
+ data-articleId="3c5627b23400206b1c025db3"
+ data-ch="compute"
+ data-gs="pcsupport"
+ data-template-type="FLEXIBLEARTICLE"
+ itemscope itemtype="http://schema.org/Article">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe11" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062429688" loadTimeTaken="3159" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="compute"/>
+<meta name="lotame:site" content="pcsupport"/>
+<meta name="lotame:category" content="Things You Didn't Know About..."/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNqNU21ugzAMvdAmztBKm_ajkyZ1O4BJHmA1JMgxbbn9wljVhjBpP8D280ee7cTEWFk0NDqtBBH6ZBJiOvIeLlZUh1GfB_ODxkFYkQeY0A-j4hZyK6XT8C-sHlWDjxnWBOlzJDqqM8AEr_C6rtYI0JOcIC8iQTLfqOxYGXllRma2wnZdtGfPPbmb_EQ_ONI8j2ys2kF39stzwWp2ClnH_hSL4hSX3ytfYbdd2-gRJKbbh2t-ligbhzeQheRWMXpJsJGxr-OjXoRNB_aIvzJfSzCcBuNxOXYk2G_sMvmig2oic1fzVbKYA8e7siZwYdtCC14m7aANMi25D0ZOEXgPktNuHK67ZTJb7Qxpz7pXn_kEZ05tKklB5MwW4cORQRfcPPU18FfC9BA7lWEDtSgOmy9R0WQTwjzgRWzdvvTBx_nxfQMguX9z.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1jzsOwjAQRC-E5EMgRJsiovdngE3s3WCvCeb0UEQiQkk10rxXzHhJkzBYiwm42hrVOJmRzfCoyG2Jw_DDkZx5goNk40VGQvmnVSmSbgDrpOq56zf7zt5wYs2tbxN2jQthXsOdCcvAJAGZ6Z2PtaiktcWYS4Tq96q_w49OXigfyBJnsA.min.js"></script>
+<script type="text/javascript">//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'pcsupport',
+	channel: 'compute',
+	articleId: '3c5627b23400206b1c025db3',
+	templateId: '65',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: true,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: true,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "inArticleVideoAdX",
+bucketDescription: "InArticleVideo AdX - Scroll to Play and Pause",
+bucketName: "inArticleAdX",
+bucketTrackingId: "16",
+bucketValue: 1
+},{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "minimalTemplate",
+bucketDescription: "User sees the a stripped down minimal template that should load more quickly",
+bucketName: "minimalTemplate",
+bucketTrackingId: "21",
+bucketValue: 1
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe11"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"inArticleVideoAdX",
+bucketDescription:"InArticleVideo AdX - Scroll to Play and Pause",
+bucketName:"inArticleAdX",
+bucketTrackingId:"16",
+bucketValue:1
+},{
+testName:"minimalTemplate",
+bucketDescription:"User sees the a stripped down minimal template that should load more quickly",
+bucketName:"minimalTemplate",
+bucketTrackingId:"21",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe11"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062429688",
+loadTimeTaken : "3159"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm" + location.hash,
+title: "21 Things You Didn\'t Know About... Hard Drives",
+contentGroup: "Articles",
+gs: "pcsupport",
+ch: "compute",
+authorId: "21913",
+templateId: "65",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "things-you-didnt-know",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "An 8 TB Hard Drive Would Have Cost $77 Billion in 1960",
+characterCount: 4299,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-10-21",
+updateDate: "2015-10-23",
+numOfImages: 1,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_pcsupport tt65",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test99 test79 test16 test21 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'compute',
+gs = 'pcsupport',
+zccnt = '4299',
+zGAst = 'An 8 TB Hard Drive Would Have Cost $77 Billion in 1960',
+zAth = '21913',
+zTt = '65',
+zGAtg ='Articles',
+google_ad_channel = 'primedia_pcsupport tt65',
+cat0 = 'things-you-didnt-know/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test99 test79 test16 test21 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/compute/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm" />
+<title>21 Things You Didn't Know About... Hard Drives</title>
+<meta name="description" content="Did you know the first hard drive came out in 1958? and that today&#39;s are 300 million times cheaper? Here are 21 things you didn&#39;t know about your computer&#39;s hard drive." itemprop="description">
+<meta name="sailthru.tags" content="compute,pcsupport" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="An 8 TB Hard Drive Would Have Cost $77 Billion in 1960" />
+<meta property="article:section" content="Tech" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Tech" />
+<meta property="og:url" content="http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm" />
+<meta property="og:title" content="An 8 TB Hard Drive Would Have Cost $77 Billion in 1960" />
+<meta property="og:description" content="Did you know the first hard drive came out in 1958? and that today's are 300 million times cheaper? Here are 21 things you didn't know about your computer's hard drive." />
+<meta property="og:image" content="http://f.tqn.com/y/pcsupport/1/S/c/m/-/-/10-mg-hard-drive-advertisement.jpg" />
+<meta property="article:author" content="https://www.facebook.com/AboutPCSupport" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="An 8 TB Hard Drive Would Have Cost $77 Billion in 1960" />
+<meta name="twitter:image" content="http://f.tqn.com/y/pcsupport/1/S/c/m/-/-/10-mg-hard-drive-advertisement.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="minimalFlex">
+<!-- Google Tag Manager (Compute) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56JFV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56JFV2');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/compute" data-component="mastFixed" data-source="mastFixed" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite compute-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://pcsupport.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="PC Support" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="pcsupport">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Tech</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://pcsupport.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">PC Support</span>
+</a>			</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://pcsupport.about.com/od/things-you-didnt-know/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Things You Didn't Know About...</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">21 Things You Didn't Know About... Hard Drives</h1>
+		<div class="subtitle">That New 8 TB Hard Drive Would Have Cost $77 Billion in 1960</div>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Tim Fisher</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://pcsupport.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	PC Support Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="electronsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Electronics & Gadgets</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_pcsupport">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>PC Support</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">PC Support Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://pcsupport.about.com/od/findtheproblem/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Troubleshooting <span class="last">Guides<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fixtheproblem/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> How-To's &amp; <span class="last">Tutorials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/driverssupport/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Getting <span class="last">Support<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/software-tools/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Software <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/toolsofthetrade/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Testing &amp; <span class="last">Benchmarking<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/commandlinereference/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Command Line <span class="last">Reference<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/insidethepc/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Parts of a <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/maintenance/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Cleaning &amp; <span class="last">Cooling<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fileextensions/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> File <span class="last">Extensions<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/things-you-didnt-know/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Things You Didn't Know <span class="last">About...<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/glossaryterms/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Computer <span class="last">Terms<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/resources/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Other <span class="last">Resources<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fixtheproblem/u/fix_a_computer_problem.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Fix a Problem With Your <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/maintenance/u/maintain_your_computer.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Maintaining Your <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/tipstricks/u/computer_tips_tricks.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Tips & <span class="last">Tricks<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://pcsupport.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/pcsupport/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+
+
+<article class="content widget widget-alt expert-content expert-content-text" itemprop="articleBody">
+	
+
+
+			<div class="content-img-wrapper">
+				<figure class="content-img right-gutter ">
+					<div class="content-img-wrapper ">
+<img src="http://f.tqn.com/y/pcsupport/1/W/c/m/-/-/10-mg-hard-drive-advertisement.jpg" alt="Photo of an advertisement for a 10 MB XCOMP hard disk drive - &copy; XCOMP" width="385" height="385" class="" data-description="An 8 TB Hard Drive Would Have Cost $77 Billion in 1960: Advertisement for a 10 MB Hard Drive" itemprop="image" >
+			
+<a href="http://pinterest.com/pin/create/button/?url=http://pcsupport.about.com/od/things-you-didnt-know/fl/hard-disk-drives.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/pcsupport/1/S/c/m/-/-/10-mg-hard-drive-advertisement.jpg&description=An 8 TB Hard Drive Would Have Cost $77 Billion in 1960: Advertisement for a 10 MB Hard Drive" data-component="contentFlexArticle" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a>					</div>
+		
+					<figcaption class="content-img-subtitle">
+							<div class="content-img-caption">
+									Advertisement for a 10 MB Hard Drive.&nbsp;
+									<span class="credit ">&copy; XCOMP</span>
+							</div>
+					</figcaption>
+					
+								
+				</figure>
+			</div>
+
+
+
+	
+
+
+
+		<p>All of our computers, big and small, have <a href="http://pcsupport.about.com/od/componentprofiles/p/p_hdd.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">hard drives</a> of some type and most of us know that it&#39;s the piece of <a href="http://pcsupport.about.com/od/termshm/g/hardware.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">hardware</a> that stores our software, music, videos, and even our <a href="http://pcsupport.about.com/od/termshm/g/term_os.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="3">operating systems</a>.</p><p>Beyond that, though, there are probably at least a few things you <em>didn&#39;t</em> know about this ubiquitous piece of computing equipment:</p><ol><li><p>The very first hard drive, the <a href="http://www-03.ibm.com/ibm/history/exhibits/storage/storage_350.html" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="4">350 Disk Storage Unit</a>, didn&#39;t just show up on store shelves out of nowhere but was part of a complete computer system by IBM, released in September, 1956... yes, <em>1956</em>!<br/> </p></li></ol>
+<div id="adsense1" adsense-numlinks="3" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+
+	
+		<div id="radlinks3" data-num-links="5" data-character-limit="null" data-display-label="false" data-display-inline="true" class="radlinks ads-half"></div>
+	
+
+		<ol class="cb-split"><li><p>IBM started shipping this amazing new device to other companies in 1958 but they probably didn&#39;t just stick it in the mail - the world&#39;s first hard drive was <a href="http://www-03.ibm.com/ibm/history/exhibits/storage/images/PH0350A.jpg" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="5">about the size of an industrial refrigerator</a>.<br/> </p></li><li><p>Shipping that thing was probably last on any buyer&#39;s mind, however, considering the fact that <a href="http://www.ed-thelen.org/comp-hist/BRL61-ibm03.html#IBM-305-RAMAC" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="6" rel="nofollow">in 1961</a> this hard drive rented for over $1,000 USD per month. If that seemed outrageous, you could always purchase it for a little over $34,000 USD.<br/> </p></li><li><p>An average hard drive available today, like <a href="http://www.amazon.com/Seagate-Archive-Internal-Hard-Drive/dp/B00TJUXCA2/" data-component="amazon" data-source="affiliate" data-type="externalLink" data-ordinal="7" rel="nofollow">this 8 TB Seagate model at Amazon</a> that sells for around $260 USD, is <strong>300 million times cheaper</strong> than that first IBM drive was.<br/> </p></li><li><p>If a customer in 1960 wanted that much storage, it would have cost her <strong>$77.2 Billion USD</strong>, a little more than the <a href="http://www.nationmaster.com/country-info/stats/Economy/GDP#1960" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="8" rel="nofollow">entire GDP of the United Kingdom that year</a>!<br/> </p></li><li><p>IBM&#39;s expensive, monstrosity of a hard drive had a total capacity of just under 4 MB, about the size of a <em>single</em>, average-quality music track like you&#39;d get from <a href="https://itunes.apple.com/us/genre/music/id34" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="9" rel="nofollow">iTunes</a> or <a href="http://www.amazon.com/MP3-Music-Download/b/ref&#61;nav_shopall_dm_store?ie&#61;UTF8&amp;node&#61;163856011" data-component="amazon" data-source="affiliate" data-type="externalLink" data-ordinal="10" rel="nofollow">Amazon</a>.<br/> </p></li><li><p>Today&#39;s hard drives can store a bit more than that. As of late 2015, Samsung holds the record for the largest hard drive, <a href="http://www.extremetech.com/computing/212203-samsung-unveils-massive-16tb-ssd-built-with-new-3d-nand" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="11" rel="nofollow">the 16 TB PM1633a SSD</a>, but 8 TB drives are much more common.<br/> </p></li></ol>
+<div id="inArticleVideo" data-defer="onPageLoad"></div>
+		<ol class="cb-split"><li><p>So just 60 years after IBM&#39;s 3.75 MB hard drive was the best of the best, you can get over <strong>2 million times as much storage</strong> in an 8 TB drive and, as we just saw, at a tiny fraction of the cost.<br/> </p></li><li><p>Bigger hard drives don&#39;t just let us store more stuff than we used to be able to, they enable entire new industries that simply couldn&#39;t have existed without these major advances in storage technology.<br/> </p></li><li><p>Inexpensive but large hard drives let companies like <a href="http://pcsupport.about.com/od/backup/fl/backblaze-review.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="12">Backblaze</a> provide a service where you back up your data to their servers instead of to your own backup discs. In late 2015, they were using <a href="https://www.backblaze.com/blog/hard-drive-reliability-q3-2015/#af4759" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="13" rel="nofollow">50,228 hard drives to do that</a>.<br/> </p></li><li><p>Consider Netflix, which, according to <a href="http://gizmodo.com/how-netflix-makes-3-14-petabytes-of-video-feel-like-it-498566450" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="14">a 2013 report</a>, needed 3.14 PB (around 3.3 million GB) of hard drive space to store all of those movies!<br/> </p></li><li><p>Think Netflix&#39;s needs are big? Facebook was storing <a href="https://code.facebook.com/posts/229861827208629/scaling-the-facebook-data-warehouse-to-300-pb/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="15">close to 300 PB of data on hard drives in mid-2014</a>. No doubt that number is a lot bigger today.<br/> </p></li><li><p>Not only has storage capacity increased, size has decreased at the same time... drastically so. A single MB today takes up <strong>11 billion times less physical space</strong> than a MB did in the late 50&#39;s.<br/> </p></li><li><p>Looking at that another way: that 256 GB smartphone in your pocket is equivalent to <strong>54 Olympic-sized swimming pools</strong> completely full of 1958-era hard drives.<br/> </p></li><li><p>In many ways, that old IBM hard drive isn&#39;t that different than modern hard drives: both have p<em>latters</em> that spin and a <em>head</em> attached to an <em>arm</em> that reads and writes data.<br/> </p></li><li><p>Those spinning platters are pretty fast, usually turning 5,400 or 7,200 times per minute, depending on the hard drive.<br/> </p></li><li><p>All those moving parts generate heat and eventually start to fail, often times <em>loudly</em>. The soft noise your computer makes is probably the fans circulating air but those other, irregular ones, are often times your hard drive.<br/> </p></li><li><p>Things that move eventually wear out - we know that. For that, and some other reasons, the <em>solid state drive</em>, which has no moving parts (it&#39;s basically a giant <a href="http://pcsupport.about.com/od/termsag/g/flashdrive.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="16">flash drive</a>), is slowly replacing the traditional hard drive.<br/> </p></li><li><p>Unfortunately, neither traditional nor SSD hard drives can continue to shrink forever. Try to store a piece of data in too small a space and the very physics of how hard drives work breaks down. (Seriously - it&#39;s called <a href="https://en.wikipedia.org/wiki/Superparamagnetism" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="17">superparamagnetism</a>.)<br/> </p></li><li><p>All that means is that we&#39;ll need to store data in different ways in the future. A lot of sci-fi sounding technology is in development right now, like <em>3D storage</em>, <em>holographic storage</em>, <em>DNA storage</em>, and more.<br/> </p></li><li><p>Speaking of science fiction, <em>Data</em>, the android character in Star Trek, says in one episode that his brain holds 88 PB. That&#39;s much less than Facebook, it seems, which I&#39;m not sure exactly how to take.</p></li></ol>
+
+	
+	
+	
+
+</article>
+
+	<div class="append-amz-shop">
+	</div>
+
+<div class="append-content">
+    
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Related Articles</h5>
+<ul>
+<li><a href="http://pcsupport.about.com/od/termsag/g/flashdrive.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="1">Flash Drives: Everything You Need to Know</a></li>
+<li><a href="http://compreviews.about.com/od/storage/a/SSD.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="2">Do You Need a Solid State Drive (SSD)?</a></li>
+<li><a href="http://compreviews.about.com/od/storage/a/Laptop-Drive-Buyers-Guide.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="3">Which Types of Data Storage Should Your Laptop Have?</a></li>
+<li><a href="http://compreviews.about.com/od/storage/a/Desktop-Hard-Drive-Buyers-Guide.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="4">Get the Proper Type and Size of Hard Drive for Your Desktop</a></li>
+<li><a href="http://compreviews.about.com/od/cddvd/a/Death-of-PC-Optical-Drives.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="5">Death of the Computer Optical Drive</a></li>
+<li><a href="http://compreviews.about.com/od/storage/a/ActualHDSizes.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="6">When a Byte is not a Byte</a></li>
+</ul>
+</div>
+            </div>
+
+
+    </div>
+
+
+</div>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMFOxDAMRH8IKf-AxAGpSCsVuLuJl7rrxGA7u-p-PRHikEJ7iUbzxs4ki4WEZ6jsgeG-DgLpOcMH2sPSEZoCTFL9r3nFkkTD8lVR1-F3_iDks4o74-7iMaow76J3Uq_Ap1bqYLMJmEMPczN-jhFB49yjSRFS1Jon6_Sr1hL7mEkk4JAk1ozFxxkU__OByuXNiTe_BcmCQuLGNn7BmzG6o3by4EkZiOOM8bK5E_FFtjVAnSLjUxtz2-n_SYX80UuPrpRQTgxrK9LpPnIWzfYNASvONQ.min.js"></script>
+<script type="text/javascript">    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02pcsupport-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+var google_hints = 'PC Support, ',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'medium',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="minimalFlex" data-source="minimalFlex" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('pcsupport', '<a href="#" data-component="minimalFlex" data-source="minimalFlex" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529833.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

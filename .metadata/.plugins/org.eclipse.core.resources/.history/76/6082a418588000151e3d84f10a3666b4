@@ -1,0 +1,1000 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="b950eef65f00663ef50000a6"
+ data-ch="homegarden"
+ data-gs="familycrafts"
+ data-template-type="BIO"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe2" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058826901" loadTimeTaken="3291" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="homegarden"/>
+<meta name="lotame:site" content="familycrafts"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNptU1tSwzAMvBBMzkAZGD4KfAAHUOwl1dSxM5LSx-0JhE4rJx-JrdV6rUSroNpEfNOYrBEo7C5MSNhRzkjaUFtGux_CH6qDsMETdqVHRxKRL6yL2nfJpg6x84Ca1Y5mJWt1UnqPaKLWAWESR7bFnQL0JHvIk0gRlxuNExvDKzNc2AnHWpSiNt1gD_Ers60lhWLivNc616XSUnqjQ5Pp0JIvpxwgic4O60nn1zOfENdT6-gHSMJuU04unUrYb0ER0papR4vaxTgkvPwxfLRok0xwkLFv9XZf03rA3kd5Og0QX2l73nKG_q--uSUwpUZ3JNjMdqh1_ymivnkZR00wm6q_br1PWMKW9bqplY8cO9jiwkCGrsh5PnsT-LKA1yKrXzPwZJaNZZfDaUgT__EyPFVcVSBlVCTvb5CNgvhZBg7r_PfZV8tpLL-_aV7WTDw9yPo7nz-1042-.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'familycrafts',
+	channel: 'homegarden',
+	articleId: 'b950eef65f00663ef50000a6',
+	templateId: '17',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe2"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058826901",
+loadTimeTaken : "3291"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe2"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058826901",
+loadTimeTaken : "3291"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" + location.hash,
+title: "Learn More About Sherri Osborn",
+contentGroup: "Other",
+gs: "familycrafts",
+ch: "homegarden",
+authorId: "5856",
+templateId: "17",
+googleAdClient: "ca-aj-about-basic",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "Learn More About Sherri Osborn",
+characterCount: 0,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2006-01-16",
+updateDate: "2014-11-06",
+numOfImages: 0,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_familycrafts tt17",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'homegarden',
+gs = 'familycrafts',
+zccnt = '0',
+zGAst = 'Learn More About Sherri Osborn',
+zAth = '5856',
+zTt = '17',
+zGAtg ='Other',
+google_ad_channel = 'primedia_familycrafts tt17',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-basic';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" />
+<title>Learn More About Sherri Osborn</title>
+<meta name="description" content="&lt;p&gt;Sherri Osborn ran the About.com Family Crafts site from 1997 to 2013. She spends most of her spare time experimenting with and learning more about many craft techniques and mediums. She enjoys sharing her love of crafting with everyone and continues to do so at her new sites. You can now find Sherri&#39;s work at &lt;a href=&quot;http://aboutfamilycrafts.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;About Family Crafts,&lt;/a&gt; &lt;a href=&quot;http://mothers-home.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;Mother&#39;s Home&lt;/a&gt;, &lt;a href=&quot;http://hiddentreasurecrafts.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;Hidden Treasure Crafts&lt;/a&gt;, &lt;a href=&quot;http://www.holiday-favorites.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;Holiday Favorites&lt;/a&gt;, and &lt;a href=&quot;http://lessonplans.craftgossip.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;Lesson Plans&lt;/a&gt; at Craft Gossip. You can keep in touch with Sherri and the fun crafts and activities she is up to by &lt;a href=&quot;http://www.pinterest.com/sherri_osborn/&quot;&gt;following her boards on Pinterest&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/FamilyCrafts&quot;&gt;following her on Twitter&lt;/a&gt;, and becoming her &lt;a href=&quot;http://www.facebook.com/About.Family.Crafts&quot;&gt;Facebook Fan&lt;/a&gt;. You can also learn more about Sherri and her work on her Google+ Profile: &lt;a href=&quot;https://plus.google.com/u/0/105809915084086133434/posts&quot;&gt;Sherri Osborn&lt;/a&gt;.&lt;/p&gt;" itemprop="description">
+<meta name="sailthru.tags" content="homegarden,familycrafts" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Learn More About Sherri Osborn" />
+<meta property="article:section" content="Home" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Home" />
+<meta property="og:url" content="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" />
+<meta property="og:title" content="Learn More About Sherri Osborn" />
+<meta property="og:description" content="<p>Sherri Osborn ran the About.com Family Crafts site from 1997 to 2013. She spends most of her spare time experimenting with and learning more about many craft techniques and mediums. She enjoys sharing her love of crafting with everyone and continues to do so at her new sites. You can now find Sherri's work at <a href=&quot;http://aboutfamilycrafts.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>About Family Crafts,</a> <a href=&quot;http://mothers-home.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>Mother's Home</a>, <a href=&quot;http://hiddentreasurecrafts.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>Hidden Treasure Crafts</a>, <a href=&quot;http://www.holiday-favorites.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>Holiday Favorites</a>, and <a href=&quot;http://lessonplans.craftgossip.com/&quot; zT=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>Lesson Plans</a> at Craft Gossip. You can keep in touch with Sherri and the fun crafts and activities she is up to by <a href=&quot;http://www.pinterest.com/sherri_osborn/&quot;>following her boards on Pinterest</a>, <a href=&quot;http://twitter.com/FamilyCrafts&quot;>following her on Twitter</a>, and becoming her <a href=&quot;http://www.facebook.com/About.Family.Crafts&quot;>Facebook Fan</a>. You can also learn more about Sherri and her work on her Google+ Profile: <a href=&quot;https://plus.google.com/u/0/105809915084086133434/posts&quot;>Sherri Osborn</a>.</p>" />
+<meta property="og:image" content="http://f.tqn.com/y/default/homegarden/S/187248131.jpg" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Learn More About Sherri Osborn" />
+<meta name="twitter:description" content="Meet your About Family Crafts guide, Sherri Osborn from Minnesota." />
+<meta name="twitter:image" content="http://f.tqn.com/y/default/homegarden/S/187248131.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="bioPage">
+<!-- Google Tag Manager (Home) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PQWLP2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PQWLP2');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="p-col">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/homegarden" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite homegarden-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://familycrafts.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Family Crafts" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="familycrafts">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Home</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://familycrafts.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Family Crafts</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-mini">
+	<h1 itemprop="headline ">About Sherri Osborn</h1>
+</div>
+
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="househomesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Home</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_familycrafts">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Family Crafts</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="artcraftsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Arts & Crafts</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="needlesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Needlecrafts</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Family Crafts Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://familycrafts.about.com/od/craftprojectsbyage/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Crafts by <span class="last">Age<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/holidays/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Holiday Crafts and <span class="last">Activities<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftsbyproduct/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Crafts by <span class="last">Material<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftprojectsbytype/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Crafts by <span class="last">Technique<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftprojectsbytheme/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Crafts by <span class="last">Theme<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Craft How-Tos and <span class="last">Lessons<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftyrecipes/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Snack and Craft <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/eduactionalcrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Educational <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/EcoFriendlyCrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Eco-Friendly <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/CraftsAsGifts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Crafts as <span class="last">Gifts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftingtips/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Crafting <span class="last">Tips<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftingforcharity/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Crafting for <span class="last">Charity<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/giftgiving/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Gifts, Wraps, and Cards to <span class="last">Make<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/paperprojects/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Coloring Pages and Printable <span class="last">Projects<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/HolidayCrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Holiday <span class="last">Crafts<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/u/findaproject.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17"> Find a Craft <span class="last">Project<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/paperprojects/u/printables.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="18"> Printable Pages for Kids and <span class="last">Families<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://familycrafts.about.com/od/craftstechniques101/u/crafttechniques.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="19"> Learn a Craft Technique - Tutorials, Tips, and <span class="last">Resources<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://familycrafts.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="20">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li class="hidden">
+<a href="http://video.about.com/familycrafts/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="21">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Family Crafts Essentials
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/halloween/ss/15-Spooktacular-Halloween-Crafts-for-Kids.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/E/R/4/15-Spooktacular-Halloween-Crafts.jpg" alt="15 Spooktacular Halloween Crafts - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>15 Spooktacular Halloween Crafts for Kids</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/colorsthemeactivities/ss/5-Purple-Projects-to-Make-with-Kids.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/u/Q/4/5-Purple-Projects-for-Kids-to-Make.jpg" alt="5 Purple Projects for Kids to Make - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Purple Projects to Make with Kids</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Googly-Eyes.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/-/E/4/Googly-Eye-Hand-Craft.jpg" alt="Googly Eye Kids Craft Ideas - Marie LeBaron" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Googly Eye Kids Craft Ideas</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/od/dogcrafts/ss/7-Crafts-to-Make-for-the-Family-Dog.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/Y/M/4/7-Crafts-to-Make-for-the-Family-Dog.jpg" alt=" - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>7 Crafts to Make for the Family Dog</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/od/craftsbyproduct/fl/Craft-Supply-Spotlight-Crayons.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/e/Q/4/Craft-Supply-Spotlight-with-Crayons.jpg" alt="Craft Supply Spotlight on Crayons - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Craft Supply Spotlight: Crayons</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/cs/halloweengames/a/halloweengames.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/Q/F/3/Halloween-Bingo-Game-Craft.jpg" alt="Halloween Party Games for Kids - Sherri Osborn" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Fun Crafts for a Spooktacular Halloween Party</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://familycrafts.about.com/od/giftstomake/tp/HomeMadeGiftIdeas.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/G/B/4/148210646.jpg" alt="Bowls of bath salts - Yagi Studio/Stockbyte/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>100 Homemade Holiday Gift Ideas</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/od/papermache/a/nocookpmpaste.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/T/9/4/95891480-1-.jpg" alt="Making paper mache - Just One Film/The Image Bank/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Make Paper Mache Paste</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/cs/halloweengames/a/blhfeelbox.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/e/E/3/Feel-Box-Halloween-Game.jpg" alt="Halloween Feel Box Game - Photodisk/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Halloween Feel Box Game</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://familycrafts.about.com/od/costumeideas/ss/25-DIY-Costumes-for-a-Family-Themed-Halloween.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/familycrafts/1/O/d/P/4/25-DIY-Family-Halloween-Costumes.jpg" alt=" - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>25 DIY Costumes for a Family Themed Halloween</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="3-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+<article class="content widget">
+		<div class="expert-content-text">
+		<p>To see all Family Crafts articles, <a href="http://familycrafts.about.com/" data-component="contentBioPage" data-source="channelhomepage" data-type="site.displayName" data-ordinal="1" itemprop="url">click here</a>.</p>
+		<p><p>Sherri Osborn ran the About.com Family Crafts site from 1997 to 2013. She spends most of her spare time experimenting with and learning more about many craft techniques and mediums. She enjoys sharing her love of crafting with everyone and continues to do so at her new sites. You can now find Sherri's work at <a href="http://aboutfamilycrafts.com/" zT="-o1/XJ" target="_blank">About Family Crafts,</a> <a href="http://mothers-home.com/" zT="-o1/XJ" target="_blank">Mother's Home</a>, <a href="http://hiddentreasurecrafts.com/" zT="-o1/XJ" target="_blank">Hidden Treasure Crafts</a>, <a href="http://www.holiday-favorites.com/" zT="-o1/XJ" target="_blank">Holiday Favorites</a>, and <a href="http://lessonplans.craftgossip.com/" zT="-o1/XJ" target="_blank">Lesson Plans</a> at Craft Gossip. You can keep in touch with Sherri and the fun crafts and activities she is up to by <a href="http://www.pinterest.com/sherri_osborn/">following her boards on Pinterest</a>, <a href="http://twitter.com/FamilyCrafts">following her on Twitter</a>, and becoming her <a href="http://www.facebook.com/About.Family.Crafts">Facebook Fan</a>. You can also learn more about Sherri and her work on her Google+ Profile: <a href="https://plus.google.com/u/0/105809915084086133434/posts">Sherri Osborn</a>.</p></p>
+		<h5>Experience</h5>
+		<p><strong>Experience:</strong> Sherri ran her own home daycare for several years, along with the Daycare/Child Care site here at About.com. She gained more experience working with kids and families as an educational assistant at an elementary school. She now concentrates all of her energy into the success of various Web sites and blogs along with other creative ventures. Her crafts have been featured in craft shows and in magazines, and she was a contributing author for <em>Fuzzy Fun</em> (ISBN 0785351922) and <em>Year Round Crafts for Kids</em> (ISBN 0785388400). She worked as the developmental editor for <em>Crafter's Internet Handbook</em> (ISBN 1929685432). She also has what she likes to call 'the book version of this Web site'. It is titled <em>About.com Guide to Family Crafts</em> (ISBN 9781598693461).</p>
+			<h5>Sherri Osborn</h5>
+			<p><strong>From Sherri Osborn:</strong> "I believe that when given the proper encouragement, materials, and patience, a person of any age can accomplish amazing things. I hope to help lead you and your family to a wealth of resources to help your creativity blossom and grow."</p>
+	</div>
+
+		<h5>References:</h5>
+		<ul>
+		</ul>
+
+	<div class="adsense-joined">
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense"></div>
+	</div>
+</article>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div>		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/homegarden" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-homegarden"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-homegarden"><span class="sprite homegarden-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Home</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://familycrafts.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Family Crafts</span>
+</a>			</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					Bio
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/homegarden" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutathome" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutathome" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutathome/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutathome" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/homegarden" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="househomesl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-homegarden"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1keFOxDAIx1_IZO-gidFkGpMZv9OOu3XHygR6t_n0TnfR9rJ9IZQ_8CvQa9XiARJZRcFV4DjZXV8Gzxhblso6YTPCW_m3pvHCRJvSRxBLQG9w3C59Cmos8w61_0wocw1fc83Q7iSNBB47phYlzwjRUCJQlSysZlNdAiirFSwRV-zzsHxec-VI7IBe4fzvOSjgA-hqHsNUdv1TGgTxXQFkf6oRljkcgxRVTpa4lzQ4zfx3SdHnaco-_MzEPg0YrelAirVHvCihLaNn7s5aBwjkO_SnAoD4wmXPK3MMMdi9xVyCViuBlkI86Q7FTUrh5nIehJNicS-cRlrADx3EiKS37zz1wDLoN6kIF4A.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02familycrafts-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'Family Crafts, Learn More About Sherri Osborn',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'high',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('familycrafts', '<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529946.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

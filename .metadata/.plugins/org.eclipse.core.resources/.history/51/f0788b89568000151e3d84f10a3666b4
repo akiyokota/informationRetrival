@@ -1,0 +1,2885 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="32561eb49502f2326f007fdf"
+ data-ch="money"
+ data-gs="advertising"
+ data-template-type="STEPBYSTEP"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe0" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058816075" loadTimeTaken="3484" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="money"/>
+<meta name="lotame:site" content="advertising"/>
+<meta name="lotame:category" content="Ad History and Glossary"/>
+<meta name="lotame:subcategories" content="[Advertising Terms and Glossary]"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VFty2zAMvFA7OkPcaacf7mMm7QEgciOjpkgOADlWTl8pqhuTVD5EEosXBSzoVDuPJ5qCdQKFfXAL4k4UI4J21KfJPmb3imoWNpQGY4qYbwa3QE8pmhaIzRm1VT-ZpaiVp4wlooH6AnBLcERrcgowkpwhn0WSFLrJOLAxysiMQhyEfR2UvHZDtgf_O7LtKYV84HjWWjeE1FP4Tpcu0qWn8jrpAgk0F9hIui1f-Aq_r9pHH0HiTod0LdQhufMR5CF9Iml-TJNjCl3E8-OJBIedVpAYu4Cvr0FKqemkLLCTaez1_tyYzUeO0H97oVouogFmS6a3Y9l2FndkfTvU0Z_ZD7AmqSPDkGTefO-Esh7AtyTY9Vy62JTPkPt5XRtS_KHrcWXEXrkzLzQ6WCx0mQbo-wl-0sCRjFOsbVbiNT_yAhki_u-1z4U9UpMtL2zcKNCU_FBxF9cclkJ9us1_JVcFlDQpQjmnIJsE_lfK7Pbtf2zz0b4qaeXHtr1DaL1j8968Lh-irk_RX29M5ZA.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'advertising',
+	channel: 'money',
+	articleId: '32561eb49502f2326f007fdf',
+	templateId: '29',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'sponsorship', 'pos':'atf', 'sizes':[[300, 50]], 'type':'sponsorship', 'priority':'10'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe0"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe0"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm" + location.hash,
+title: "The Complete Idiot",
+contentGroup: "Image Gallery",
+gs: "advertising",
+ch: "money",
+authorId: "84966",
+templateId: "29",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "referencedesk",
+cat1: "advertisingglossary",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "The 10 Most Annoying Stereotypes in Advertising",
+characterCount: 353,
+nativeAdEnabled: false,
+experienceType: "multipage",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-10-14",
+updateDate: "2015-10-20",
+numOfImages: 1,
+numOfPages: 10,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_advertising tt29",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'money',
+gs = 'advertising',
+zccnt = '353',
+zGAst = 'The 10 Most Annoying Stereotypes in Advertising',
+zAth = '84966',
+zTt = '29',
+zGAtg ='Image Gallery',
+google_ad_channel = 'primedia_advertising tt29',
+cat0 = 'referencedesk/',
+cat1 = 'advertisingglossary/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/money/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/money/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/money/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/money/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/money/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/money/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/money/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/money/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/money/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/money/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/money/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm" />
+<title>The Complete Idiot</title>
+<meta name="description" content="These 10 stereotypes appear in the ads we see daily. From the couch potato to the busy mom, which ones are you most sick of seeing." itemprop="description">
+<meta name="sailthru.tags" content="money,advertising" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="The 10 Most Annoying Stereotypes in Advertising" />
+<meta property="article:section" content="Money" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Money" />
+<meta property="og:url" content="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm" />
+<meta property="og:title" content="The 10 Most Annoying Stereotypes in Advertising" />
+<meta property="og:description" content="These 10 stereotypes appear in the ads we see daily. From the couch potato to the busy mom, which ones are you most sick of seeing." />
+<meta property="og:image" content="http://f.tqn.com/y/advertising/1/S/y/R/GettyImages-459776783.jpg" />
+<meta property="article:author" content="http://www.facebook.com/pages/Aboutcom-Advertising/117992578312553" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="The 10 Most Annoying Stereotypes in Advertising" />
+<meta name="twitter:image" content="http://f.tqn.com/y/advertising/1/S/y/R/GettyImages-459776783.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="stepbystepPage">
+<!-- Google Tag Manager (Money) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-54RDXB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-54RDXB');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="p-col">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/money" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite money-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://advertising.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Advertising" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="advertising">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+<div class="s-btns js-share">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended bottom">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+
+<main id="main" class="slab">
+	<div class="container">
+
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/money" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Money</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://advertising.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Advertising</span>
+</a>			</li>
+				<li>
+					<span class="separator sprite arrow-breadcrumb"></span>
+					<a href="#" data-component="breadcrumbs" data-source="breadcrumbs" data-type="ellipsis" data-ordinal="1" class="truncated">. . .</a>
+				</li>
+				<li class="hide-breadcrumb"  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://advertising.about.com/od/referencedesk/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Ad History and Glossary</span>
+</a>				</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://advertising.about.com/od/advertisingglossary/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="2" itemprop="url">						<span itemprop="title">Advertising Terms and Glossary</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">The 10 Most Annoying Stereotypes in Advertising</h1>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://advertising.about.com/bio/Paul-Suggett-84966.htm" data-component="byLineDefault" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/84966.gif" width="50" height="50" data-load="lazy" /></a>
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://advertising.about.com/bio/Paul-Suggett-84966.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Paul Suggett</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://advertising.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Advertising Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended top">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+		<div class="row">
+			<div class="col col-11">
+				<div class="row">
+					<div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="moneysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Money</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_sbinformation">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Small Business</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_advertising">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Advertising</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Advertising Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://advertising.about.com/od/insidetheindustry/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="1"> Ad Industry <span class="last">Buzz<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/advertisingprojects/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="2"> Advertising <span class="last">Materials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/advertisingagencies/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="3"> Advertising <span class="last">Agencies<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/creatingads/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="4"> Creating <span class="last">Ads<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/careersource/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="5"> Advertising <span class="last">Careers<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/freelancing/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="6"> <span class="last">Freelancing<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/publicrelationsresources/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="7"> Public Relations <span class="last">Resources<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/promotions/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="8"> <span class="last">Promotions<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/professionaldevelopment/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="9"> Professional <span class="last">Development<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/referencedesk/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="10"> Ad History and <span class="last">Glossary<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/educationandtraining/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="11"> Education and <span class="last">Training<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/smallbusinesscampaigns/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="12"> Business <span class="last">Campaigns<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/consumerquestions/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="13"> Consumer Questions <span class="last"><span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/successstrategies/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="14"> Success Strategies for Businesses and <span class="last">Employees<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/Reviews/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="15"> Reviews and <span class="last">Recommendations<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/Blog/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="16"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/careersource/u/adbasics.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="17"> Ad <span class="last">Basics<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/careersource/u/careers.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="18"> <span class="last">Careers<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://advertising.about.com/od/smallbusinesscampaigns/u/smallbusiness.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="19"> For Small <span class="last">Business<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://advertising.about.com/updated.htm" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="20">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li class="hidden">
+<a href="http://video.about.com/advertising/" data-component="categoryListShortFormTemplate" data-source="categoryListShortFormTemplate" data-type="item.heading" data-ordinal="21">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>					</div>
+					<div class="col col-8">
+
+<div id="content" class="share-data"
+		data-url="http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm"
+	data-title="The Complete Idiot"
+	data-description="These 10 stereotypes appear in the ads we see daily. From the couch potato to the busy mom, which ones are you most sick of seeing." 
+	data-social-image="http://f.tqn.com/y/advertising/1/S/y/R/GettyImages-459776783.jpg" 
+	data-social-title="The 10 Most Annoying Stereotypes in Advertising"
+>
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-1" data-hint="The Complete Idiot">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-1">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			1 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Complete Idiot</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<span class="btn btn-light disabled">
+<span class="sprite arrow5-gray-left"></span>
+</span>
+</div>
+<div class="col pull-right next">
+<a href="#step2" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Complete Idiot" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/y/R/GettyImages-459776783.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Complete Idiot" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Complete Idiot.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/business-leader-reading-upside-down-book-high-res-stock-photography/459776783">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>You know this guy, or woman. They have somehow managed to make it through life without dying, or getting into some horrendous accident. Which is surprising considering they don&#39;t know how to do the simplest tasks on their own. Are <a href="/od/creatingads/fl/Donrsquot-Be-a-Marketer-Be-a-Consumer.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">consumers</a> supposed to look at these bozos and think, &#34;yeah...I empathize, it is tough to open drink from a cup sometimes.&#34;</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<div class="disabled btn btn-circle bottom prev showallOffset"><span class="sprite arrow4-gray-left"></span></div>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="1" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								1 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="2"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="3"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													1
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="4" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="5" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="6">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="7" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="8" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="9">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="10" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="11" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="12">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="13" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="14" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="15">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="16" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="17" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="18">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="19" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="20" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="21">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="22" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="23" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="24">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="25" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="26" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="27">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="28" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="29" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="30">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-2" data-hint="The Nagging Wife">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-2">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			2 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Nagging Wife</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step1" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step3" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Nagging Wife" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/z/R/GettyImages-84436992.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Nagging Wife" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Nagging Wife.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/woman-shouting-at-men-with-phone-high-res-stock-photography/84436992">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>&#34;Change the lightbulb. Put the garbage out. Bring the garbage in. You&#39;re not going out in that shirt. No, the guys can&#39;t come over and play poker. Why aren&#39;t you nicer to my mother? What kind of time do you call this?!&#34; You have to wonder, when exactly did the love of his life become the bane of his existence? And does this woman really exist in reality?</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="31" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								2 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="32"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="33"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="34" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="35" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="36">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													2
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="37" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="38" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="39">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="40" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="41" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="42">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="43" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="44" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="45">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="46" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="47" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="48">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="49" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="50" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="51">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="52" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="53" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="54">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="55" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="56" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="57">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="58" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="59" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="60">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-3" data-hint="The Utter Slob">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-3">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			3 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Utter Slob</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step2" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step4" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Utter Slob" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/-/S/GettyImages-82822278.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Utter Slob" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Utter Slob.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/couch-potato-high-res-stock-photography/82822278">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>If there was an olympic event for being a big, fat, uncultured slob, it would be this <a href="/od/creatingads/a/6-Ways-Advertising-Attracts-Men.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">guy</a>. He has made a permanent indentation in the sofa. He drinks and eats more than a cow grazing in a field. He has skin that looks like the surface of the moon. And he smells worse than a dead skunk in a pile of manure. His only use in advertising is to make you feel good about yourself.</p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="61" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								3 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="62"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="63"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="64" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="65" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="66">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="67" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="68" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="69">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													3
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="70" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="71" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="72">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="73" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="74" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="75">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="76" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="77" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="78">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="79" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="80" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="81">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="82" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="83" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="84">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="85" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="86" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="87">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="88" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="89" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="90">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-4" data-hint="The Bro">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-4">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			4 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Bro</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step3" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step5" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Bro" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/0/S/GettyImages-92213551.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Bro" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Bro.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/party-animal-royalty-free-image/92213551">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>&#34;Duuuuude, we&#39;re so gonna get drunk and hook up with tons of hot chicks!&#34; Why is almost every beer commercial filled with guys like this? They live to crack awful jokes, down <a href="/od/history/p/The-Stella-Artois-Reassuringly-Expensive-Campaign.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">beers</a> in one go, and shout stuff at women that would make Gilbert Gottfried blush. No style, no panache, no chance of ever getting the women he drools at all night.  </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="91" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								4 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="92"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="93"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="94" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="95" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="96">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="97" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="98" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="99">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="100" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="101" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="102">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													4
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="103" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="104" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="105">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="106" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="107" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="108">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="109" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="110" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="111">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="112" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="113" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="114">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="115" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="116" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="117">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="118" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="119" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="120">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-5" data-hint="The Easily Confused">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-5">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			5 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Easily Confused</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step4" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step6" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Easily Confused" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/1/S/GettyImages-95753219.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Easily Confused" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Easily Confused.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/close-up-of-young-brunette-woman-royalty-free-image/95753219">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>&#34;Wait, you&#39;re saying that I can get these three packs for the price of two, and save money on my weekly shop? Are you serious? How is that even possible? What&#39;s the catch, there has to be a catch, right?&#34; This woman, or man, never seems to grasp the amazing offers they&#39;re being shown. They also have a really had time handling tough tasks...like opening cans, or washing windows.  </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="121" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								5 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="122"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="123"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="124" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="125" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="126">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="127" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="128" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="129">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="130" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="131" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="132">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="133" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="134" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="135">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													5
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="136" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="137" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="138">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="139" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="140" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="141">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="142" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="143" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="144">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="145" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="146" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="147">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="148" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="149" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="150">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-6" data-hint="The Everyday Supermodel">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-6">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			6 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Everyday Supermodel</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step5" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step7" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Everyday Supermodel" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/2/S/GettyImages-117852618.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Everyday Supermodel" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Everyday Supermodel.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/portrait-of-young-woman-in-lingerie-ironing-shirt-royalty-free-image/117852618">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>It happens. Of course it does. But in advertising, it happens way too often. These incredible looking <a href="/od/creatingads/a/Advertising-And-Women.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">women</a>, wearing amazing clothes (or barely any), but doing the most mundane chores, are everywhere. They wake up looking perfect. They do grocery shopping like they&#39;re walking down a runway. And they do a lot of sports for tampon commercials, too.    </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="151" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								6 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="152"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="153"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="154" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="155" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="156">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="157" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="158" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="159">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="160" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="161" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="162">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="163" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="164" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="165">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="166" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="167" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="168">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													6
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="169" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="170" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="171">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="172" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="173" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="174">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="175" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="176" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="177">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="178" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="179" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="180">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-7" data-hint="The Cheery Spokesperson">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-7">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			7 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Cheery Spokesperson</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step6" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step8" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Cheery Spokesperson" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/3/S/GettyImages-533767497.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Cheery Spokesperson" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Cheery Spokesperson.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/caucasian-television-presenter-reporting-on-royalty-free-image/533767497">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>Wow, they really love their jobs. Or do they? You can feel the fake sincerity oozing out of their every pore. They love to wax lyrical about the insurance options on offer, the number of loads of laundry you can do, or how satisfying that burger was. Do we believe them? No. Do we wish they would all go away? Only the actors playing them would say no.  </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="181" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								7 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="182"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="183"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="184" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="185" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="186">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="187" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="188" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="189">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="190" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="191" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="192">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="193" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="194" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="195">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="196" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="197" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="198">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="199" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="200" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="201">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													7
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="202" class="btn btn-light blank">												8
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="203" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="204">														The Awful Boss
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="205" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="206" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="207">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="208" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="209" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="210">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-8" data-hint="The Awful Boss">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-8">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			8 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Awful Boss</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step7" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step9" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/4/S/GettyImages-102285770.jpg" alt="The Awful Boss - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Awful Boss" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/4/S/GettyImages-102285770.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Awful Boss" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Awful Boss.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/boss-watching-over-businessman-royalty-free-image/102285770">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>If there are any <a href="/od/careersource/a/So-You-Have-A-New-Boss-Now-What.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">bosses</a> out there as bad as the ones we see in adverts, we must do everything we can to get rid of them. No one can really be this bad, can they? Slimy, nasty, ego-driven maniacs, who work their employees to death despite the presence of a very litigious-minded HR department in every modern company.    </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="211" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								8 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="212"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="213"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="214" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="215" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="216">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="217" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="218" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="219">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="220" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="221" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="222">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="223" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="224" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="225">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="226" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="227" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="228">														The Easily Confused
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="229" class="btn btn-light blank">												6
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="230" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/2/S/GettyImages-117852618.jpg" alt="The Everyday Supermodel - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step6" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="231">														The Everyday Supermodel
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="232" class="btn btn-light blank">												7
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="233" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/3/S/GettyImages-533767497.jpg" alt="The Cheery Spokesperson - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step7" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="234">														The Cheery Spokesperson
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+												<span class="btn btn-light active">
+													8
+												</span>
+										</div>
+										<div class="col-1 item">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="235" class="btn btn-light blank">												9
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="236" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="237">														The Overworked Mom
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="238" class="btn btn-light blank">												10
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="239" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/J/S/GettyImages-470896635.jpg" alt="Person's feet and banana peel - davidgoldmanphoto/Image Source/Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step10" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="240">														The Clumsy Oaf
+</a>													</div>
+												</div>
+										</div>
+								</div>
+						</div>
+				</div>
+
+				<a href="#step9" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Next" class="btn btn-circle ajax-link-sbs bottom next showallOffset"><span class="sprite arrow4-right"></span></a>
+		</div>
+	</div>
+</div>
+			</div>
+
+		<!--[if gt IE 8]> <!-- -->
+			</noscript>
+		<!-- <![endif]-->
+
+		<!--[if gt IE 8]> <!-- -->
+			<noscript class="sbs-9" data-hint="The Overworked Mom">
+		<!-- <![endif]-->
+
+			<div class="sbs-active-container active-step-9">
+
+
+
+
+
+<div id="contentIntro" class="sbs-intro">
+	<div class="row">
+
+
+
+
+
+<div class="col col-6">
+		<span class="page-count">
+			
+			9 <span class="page-count-divider">of</span> 10
+		</span>
+		<h2 class="heading ">The Overworked Mom</h2>
+</div><div class="keyboard-nav">
+	<p>Use <img src="/image/arrow-keys.png" /> to navigate.</p>
+</div>	</div>
+
+
+
+<figure class="content-img-wrapper">
+<div class="sbs-img-frame">
+<div class="sbs-prev-next-top">
+<div class="page-btns group small">
+<div class="col pull-left prev">
+<a href="#step8" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Prev" class="btn p-b-col ajax-link-sbs"><span class="sprite arrow5-left"></span></a>
+</div>
+<div class="col pull-right next">
+<a href="#step10" data-component="stepbystepImage" data-source="stepbystepImage" data-type="" data-ordinal="Next" class="ajax-link-sbs"></a> <span class="btn p-b-col">
+<span class="sprite arrow5-right"></span>
+</span>
+</div>
+</div>
+</div> <div class="sbs-img-wrapper expandable collapsed">
+<div class="content-img-wrapper ">
+<div class="image-pinit-wrapper">
+<img src="http://f.tqn.com/y/advertising/1/S/5/S/GettyImages-200556501-003.jpg" alt="The Overworked Mom - Getty Images" class="" data-description="The 10 Most Annoying Stereotypes in Advertising: The Overworked Mom" itemprop="image" >
+<a href="http://pinterest.com/pin/create/button/?url=http://advertising.about.com/od/advertisingglossary/ss/The-10-Most-Annoying-Stereotypes-in-Advertising.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/advertising/1/S/5/S/GettyImages-200556501-003.jpg&description=The 10 Most Annoying Stereotypes in Advertising: The Overworked Mom" data-component="stepbystepImage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a> </div>
+</div>
+</div>
+</div>
+</figure>
+<figcaption class="content-img-subtitle">
+<div class="content-img-caption">
+The Overworked Mom.
+<span class="credit">Photo Credit: <a href="http://www.gettyimages.com/detail/photo/mother-and-two-daughters-in-kitchen-high-res-stock-photography/200556501-003">Getty Images</a></span>
+</div>
+</figcaption></div>	
+				<article class="sbs content widget expert-content">
+					<div class="expert-content-text">
+							<p>Running from errand to errand, a kid in one hand, 10 bags of groceries in the other, while simultaneously kicking a football to help little Timmy with his soccer practice. This woman doesn&#39;t just multi-task...she juggles more than five professionals from Cirque Du Soleil at once. And boy, is she tired. If only there were some relief coming, in the form of a cup of coffee, or a relaxing bath. Oh wait...there it is.</p>
+							<p class="cb-split"> </p>
+					</div>
+				</article>
+
+
+
+
+
+
+
+<div class="row">
+	<div class="col col-8 center">
+		<div class="sbs-pagination sbs">
+				<a href="#step8" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="Prev" class="btn btn-circle ajax-link-sbs bottom prev showallOffset"><span class="sprite arrow4-left"></span></a>
+
+				<div class="sbs-pagination-toggle group">
+					<div class="sbs-pagination-toggle-inner">
+<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="241" data-active-text="&amp;times;" id="sbs-dropdown-toggle">								9 <span class="sbs-divider">of</span> 10 <span class="arrow arrow-down"></span>
+</a>								<div class="line"></div>
+								<a href="#showall" class="show-all-btn show-all" data-source="StepContent_Pagination" data-component="stepbystepPagination" data-ordinal="ShowAll" data-type="">Show All</a>
+					</div>
+						<div class="sbs-pagination-items row-fluid page-btns hidden group">
+							<div class="sbs-pagination-nav prev">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="242"><span class="arrow arrow-left" paginationOrdinal="Prev"></span></a>
+							</div>
+							<div class="sbs-pagination-nav next">
+								<a href="#" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="243"><span class="arrow arrow-right" paginationOrdinal="Next"></span></a>
+							</div>
+								<div class="set interval group active first last">
+										<div class="col-1 item">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="244" class="btn btn-light blank">												1
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="245" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/y/R/GettyImages-459776783.jpg" alt="The Complete Idiot - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step1" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="246">														The Complete Idiot
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="247" class="btn btn-light blank">												2
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="248" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/z/R/GettyImages-84436992.jpg" alt="The Nagging Wife - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step2" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="249">														The Nagging Wife
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="250" class="btn btn-light blank">												3
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="251" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/-/S/GettyImages-82822278.jpg" alt="The Utter Slob - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step3" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="252">														The Utter Slob
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="253" class="btn btn-light blank">												4
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="254" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/0/S/GettyImages-92213551.jpg" alt="Drinking Beer - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step4" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="255">														The Bro
+</a>													</div>
+												</div>
+										</div>
+										<div class="col-1 item">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="256" class="btn btn-light blank">												5
+</a>
+												<div class="overlay">
+													<div class="hover-placeholder"></div>
+													<span class="arrow arrow-up"></span>
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="257" class="img"><img data-original="http://f.tqn.com/y/advertising/1/O/1/S/GettyImages-95753219.jpg" alt="The Easily Confused - Getty Images" width="85" height="56" data-load="lazy" class="" >
+</a>													<div class="heading">
+<a href="#step5" data-component="stepbystepPagination" data-source="StepContent_Pagination" data-type="" data-ordinal="258">														The Easily Confused

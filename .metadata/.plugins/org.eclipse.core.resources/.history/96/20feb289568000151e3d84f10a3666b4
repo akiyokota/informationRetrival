@@ -1,0 +1,1840 @@
+<!DOCTYPE html>
+<html class="no-js tablet" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="b950eef9b2001b564d00005b"
+ data-ch="homegarden"
+ data-gs="homestaging"
+ data-template-type="LANDINGPAGE"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe14" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062447337" loadTimeTaken="3186" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="homegarden"/>
+<meta name="lotame:site" content="homestaging"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VF1y3CAMvlAzPkO3k_Ql7T60PYAMWlsTDIwkNru3L67j1CLkxQj9f9KHncjg8QIl6MAoqF9c1bgZYsQgA4yp6EN2_7SSmRStw5wWnIA9xt1rz3ZJUcVo9J6x9RqLaorSRPJiNRJgNApXk2PUB4UxvPX8Hs2IC_AL8iNzYmMrSoGU0GYnNNeJyfcSg5dhyvrV_4mkLY7VyOADxRdpbQvI9ulrn-iG_qmEYCEnRxAGmYHxtA2p19R7ll8I7OZTulksIY0QfsJ1iHAdwU4jXZED3BvwqeTVfxfsthjBOy7LKEe5BSw5aaBpPki93sf7M0WUt7PncRzCOSutQ2hqRXyVGqbIB9GOCFHPhR9vGbmbnsXywRG7Z5L_QlvzlfyE-qEVB4pT4vsWe7jYoog_ElvKASu5UEexC71hZJjwY83a4vdPCLvaTs3Or-Qxfdp53Xe3cmXJxkGjxlsOFcm3_V_Q3JsKlU-CluMXBC2M_nfK5LqY97DzRtXue09pXf52VGB_AZXk1-g.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kEtuwzAMRC-UWHdoUWQbFEb3-kwUOpLoUlRc9_R1myzcwFmRmOE8EhyqCTjZltQ4niAmnMY9rihaf9sujtoljhHS8RUiFLAbHjOOOUNsifsl0lOmEv_CN07nrT8v0s5zHrnc0P_yw2eDzPeyxidyZmEEFuOZL4T66DalRLphWMdNjzbirajM_Tzi6cQHYVqbT1bdD8kcIIW-5bVV5bxJPRz7Tf29f1nrBVNNUF1e4M_wF8dfqD_jC5lj.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'homestaging',
+	channel: 'homegarden',
+	articleId: 'b950eef9b2001b564d00005b',
+	templateId: '1',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1024,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes About.com implementation of boomerang",
+bucketName: "includeDingo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe14"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062447337",
+loadTimeTaken : "3186"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes About.com implementation of boomerang",
+bucketName:"includeDingo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe14"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062447337",
+loadTimeTaken : "3186"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://homestaging.about.com/" + location.hash,
+title: "",
+contentGroup: "Guide Index",
+gs: "homestaging",
+ch: "homegarden",
+authorId: "",
+templateId: "1",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_homestaging tt1",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'homegarden',
+gs = 'homestaging',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '1',
+zGAtg ='Guide Index',
+google_ad_channel = 'primedia_homestaging tt1',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/homegarden/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/homegarden/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/homegarden/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://homestaging.about.com/" />
+<title>Home Staging - How to Stage Your Home this Season</title>
+<meta name="description" content="Increase your home&#39;s value with proper home staging. Find inexpensive home decor, home staging techniques, decluttering ideas, and ways to attract potential buyers." itemprop="description">
+<meta name="sailthru.tags" content="homegarden,homestaging" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Home Staging - How to Stage Your Home this Season" />
+<meta property="article:section" content="Home" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com Home" />
+<meta property="og:url" content="http://homestaging.about.com/" />
+<meta property="og:title" content="Home Staging - How to Stage Your Home this Season" />
+<meta property="og:image" content="http://f.tqn.com/y/homestaging/1/S/G/7/-/-/fall-porch-curb-appeal-ideas.jpg" />
+<meta property="article:author" content="https://www.facebook.com/Stagetecture" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Home Staging - How to Stage Your Home this Season" />
+<meta name="twitter:description" content="Increase your home&#39;s value with proper home staging. Find inexpensive home decor, home staging techniques, decluttering ideas, and ways to attract potential buyers." />
+<meta name="twitter:image" content="http://f.tqn.com/y/homestaging/1/S/G/7/-/-/fall-porch-curb-appeal-ideas.jpg" /><meta name="viewport" content="width=1020"></head>
+<body id="landingPage">
+<!-- Google Tag Manager (Home) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PQWLP2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PQWLP2');</script>
+<!-- End Google Tag Manager -->
+
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/homegarden" data-component="mastFixedFull" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite homegarden-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-4">
+<div class="row">
+		<div class="col col-4">
+<form class="mast-search s-b-col" method="get" action="http://homestaging.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Home Staging" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="homestaging">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtonsDocumentLimited" class="share-btns popout">
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="p-col">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://homestaging.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+
+<header class="mast static p-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/homegarden" data-component="mast" data-source="ChannelHomepage" data-type="channel.logo" data-ordinal="1" class="mast-logo pull-left">						<div class="sprite logo-top"></div>
+						<div class="sprite top-homegarden"></div>
+</a>			</div>
+				<div class="col col-8">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://homestaging.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Home Staging" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="homestaging">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+					<div class="row">
+						<div class="col col-8">
+<nav id="group-nav" class="group-nav visible-lg">
+	<div class="group">
+		<ul class="group-nav-menu a-col">
+												<li class="group-nav-submenu dropdown slider" data-group-name="Rooms%20%26%20Decor" data-base-url="/">
+						<div class="heading">
+							Rooms & Decor
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+									<li class="group-nav-submenu dropdown" data-group-name="Repair%20%26%20Reno" data-base-url="/">
+						<div class="heading">
+							Repair & Reno
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>						</div>
+					</li>
+									<li class="group-nav-submenu dropdown slider" data-group-name="Home%20Life%20%26%20Pets" data-base-url="/">
+						<div class="heading">
+							Home Life & Pets
+							<span class="arrow arrow-down a-b-t-col"></span>
+						</div>
+						<div class="group-nav-submenu-container overlay">
+							<div class="hover-placeholder"></div>
+							<span class="arrow arrow-up"></span>
+								<div class="prev"></div>
+<div class="group-nav-carousel-container" data-id="groupNavDropdownComponent"></div>								<div class="next"></div>
+						</div>
+					</li>
+				 
+				<li class="group-nav-submenu">
+					<div class="more">
+						<a href="#" data-component="groupNav" data-source="groupNav" data-type="more" data-ordinal="1">More</a>
+					</div>
+				</li>
+		</ul>
+	</div>
+</nav>						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</header>
+
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://homestaging.about.com/sitesearch.htm?boost=3&SUName=homestaging",
+     "query-input": "required"
+   }
+}
+</script><main id="main" class="slab">
+	<div class="container">
+		<div class="row">
+	<div class="col col-8">
+		
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Home</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://homestaging.about.com/" data-component="breadcrumbsTruncated" data-source="Breadcrumbs_Truncated" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Home Staging</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-hero spotlight-unit-hero-padded">
+			<h1 class="site-name p-bg">Home Staging</h1>
+<a href="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/homestaging/1/T/G/7/-/-/fall-porch-curb-appeal-ideas.jpg" alt="curb appeal outdoor porch - Getty Images" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">Bring Fall Curb Appeal to your Welcoming Porch</a>
+             </h2>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm"
+data-social-title="Bring Fall Curb Appeal to your Welcoming Porch"
+data-description="The fall transform your porch into a buyer's retreat with delcuttering, outdoor beautification and tips for creating an inviting outdoor home."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/G/7/-/-/fall-porch-curb-appeal-ideas.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/homestaging/1/Y/J/7/-/-/Pet-Odors-White-Kitchen.jpg" alt="Pet odors white kitchen - Getty Images" width="318" height="212" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">Ensure you aren't Sending Buyers Away with Home Odors</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm"
+data-social-title="Ensure you aren't Sending Buyers Away with Home Odors"
+data-description="Your home carries odors that you may have gotten used to. When staging your home look to these sources of odors that could be driving potential buyers away."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/J/7/-/-/Pet-Odors-White-Kitchen.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini last">
+<a href="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/homestaging/1/Y/q/6/-/-/How-to-make-kitchen-look-bigger.jpg" alt="Modern kitchen with view - Getty Images" width="318" height="212" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">Enlarge your Kitchen with These Home Staging Tips</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm"
+data-social-title="Enlarge your Kitchen with These Home Staging Tips"
+data-description="Use neutral colors and light materials and finishes in your small kitchen. Lighter colors also reflect light and make your kitchen more welcoming."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/q/6/-/-/How-to-make-kitchen-look-bigger.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>	</div>
+	<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget hideOnBigAd newsletter-split">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="househomesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Home</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_homestaging">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Home Staging</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="artcraftsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Arts & Crafts</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="needlesl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Needlecrafts</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletterSplit" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+	</div>
+</div>
+		<div class="row">
+			<div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Home Staging Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/135645.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Ronique Gibson</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://homestaging.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Home Staging Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Ronique</div>
+		<div class="buttons"><a href="https://www.facebook.com/Stagetecture" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="http://twitter.com/stagetecture" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/+RoniqueGibson" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/homestaging_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+
+
+<div class="circ-list
+fixed
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Home Staging Essentials
+			</h5>
+		</div>
+
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hst/ss/Fall-Home-Improvements-that-Raise-your-ROI.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/D/7/-/-/White-modern-kitchen-ideas.jpg" alt="White modern kitchen ideas - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Choose the Right Fall Improvements for Higher ROI</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hss/ss/Simple-Home-Repairs-That-Will-Return-a-Higher-ROI.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/S/5/-/-/Exterior-home-windows.jpg" alt="Exterior-home-windows.jpg - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Simple Home Repairs to Return a Higher ROI</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hsu/ss/How-to-Transform-your-Bare-Attic-for-a-Higher-ROI.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/L/5/-/-/Master-bedroom-attic.jpg" alt="Master-bedroom-attic.jpg - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Your Attic Could Bring in a Higher ROI than you Know</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Basement-for-Buyer-Appeal.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/Z/6/-/-/Game-Room-Basement-Ideas.jpg" alt="Basement Decor Ideas - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Transform your Basement for Buyer Appeal</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+</div>
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Home Staging Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://homestaging.about.com/od/hst/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Quick Home Staging Tips &amp; <span class="last">Tricks<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hss/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Home Staging <span class="last">Techniques<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsc/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Clean and Declutter Your <span class="last">Home<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hscp/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Use Paint and Color to Stage a <span class="last">Home<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsu/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Home Repairs and Updates That Add <span class="last">Value<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/Moving-Advice-Tips/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Moving Advice and <span class="last">Tips<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsa/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Accessorize and Arrange Your <span class="last">Home<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hstt/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> What is Home <span class="last">Staging?<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsp/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Hiring the Best Home Professionals <span class="last"><span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsl/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Listing Your <span class="last">Home<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsj/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> DIY Projects for Home <span class="last">Staging<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsd/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Home Staging <span class="last">Glossary<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/hsr/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Home Staging Resources <span class="last"><span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://homestaging.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://homestaging.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tricks-Make-your-Small-Bedroom-Look-Bigger.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/U/5/-/-/Neutral-colors-bedroom.jpg" alt="Neutral-colors-bedroom.jpg - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Easy Ways to Make Buyers Love Your Small Bedroom</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hss/ss/Popular-Home-Staging-Mistakes-to-Avoid.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/X/3/-/-/Organized-Kitchen_SusanSerra.jpg" alt="Organized-Kitchen_SusanSerra.jpg - Susan Serra - Kitchen Designer" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Don't Make These Common Home Staging Mistakes</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://homestaging.about.com/od/hsc/ss/Staging-Tips-Easy-DIY-Ideas-to-Beat-the-Competition.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/F/5/-/-/Outdoor-Home-Curb-Appeal.jpg" alt="Outdoor-Home-Curb-Appeal.jpg - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Grab Buyer's Attention when Staging your Home</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://homestaging.about.com/od/hscp/ss/Home-Updates-That-Help-Attract-Young-Buyers.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/n/6/-/-/White-modern-living-room.jpg" alt="Modern white living room - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Home Staging Tips to Attract First-Time Homebuyers</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://homestaging.about.com/od/hss/ss/Finding-Hidden-Space-in-your-Attic-to-Attract-Buyers.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/homestaging/1/O/4/4/-/-/Attic-bedroom-ideas.jpg" alt="Attic-bedroom-ideas.jpg - Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Transform your Attic into an Appealing Room for Buyer Appeal</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>			</div>
+			<div class="col col-9">
+<div class="content widget">
+	
+
+
+
+
+	<div class="articles ajax-page">
+
+		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">The Latest in Home Staging</h5>
+		</div>
+		<div class="articles-content articles-content-landing">
+
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/Home-Staging-Mistakes-to-Avoid-this-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/homestaging/1/V/O/7/-/-/Dark-colored-accent-wall.jpg" alt="Dark colored accent wall bedroom - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/Home-Staging-Mistakes-to-Avoid-this-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="1">Look at these Fall Home Staging Mistakes you Could Be Making</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/Home-Staging-Mistakes-to-Avoid-this-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="1" class="article-blurb">This fall ensure you aren't making these home staging mistakes. From using too dark of colors to or leaving out personal belongings.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/Home-Staging-Mistakes-to-Avoid-this-Fall.htm"
+data-social-title="Look at these Fall Home Staging Mistakes you Could Be Making"
+data-description="This fall ensure you aren't making these home staging mistakes. From using too dark of colors to or leaving out personal belongings."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/O/7/-/-/Dark-colored-accent-wall.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hsc/ss/Fall-Home-Staging-Updating-Your-Living-Room.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/homestaging/1/V/M/7/-/-/Fall-living-room-sofa.jpg" alt="Fall living room colors - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hsc/ss/Fall-Home-Staging-Updating-Your-Living-Room.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="2">How to Update your Living Room with Fall Buyer Appeal</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hsc/ss/Fall-Home-Staging-Updating-Your-Living-Room.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="2" class="article-blurb">This fall is the perfect time to wow buyers with autumn colors, scents, and a clean and organized home. Look at these tips to help your fall home.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hsc/ss/Fall-Home-Staging-Updating-Your-Living-Room.htm"
+data-social-title="How to Update your Living Room with Fall Buyer Appeal"
+data-description="This fall is the perfect time to wow buyers with autumn colors, scents, and a clean and organized home. Look at these tips to help your fall home."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/M/7/-/-/Fall-living-room-sofa.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/homestaging/1/V/J/7/-/-/Pet-Odors-White-Kitchen.jpg" alt="Pet odors white kitchen - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="3">Ensure you aren't Sending Buyers Away with Home Odors</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="3" class="article-blurb">Your home carries odors that you may have gotten used to. When staging your home look to these sources of odors that could be driving potential buyers away.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/Home-Staging-Tips-Are-These-Odors-Sending-Buyers-Away.htm"
+data-social-title="Ensure you aren't Sending Buyers Away with Home Odors"
+data-description="Your home carries odors that you may have gotten used to. When staging your home look to these sources of odors that could be driving potential buyers away."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/J/7/-/-/Pet-Odors-White-Kitchen.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/homestaging/1/V/G/7/-/-/fall-porch-curb-appeal-ideas.jpg" alt="curb appeal outdoor porch - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="4">Bring Fall Curb Appeal to your Welcoming Porch</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="4" class="article-blurb">The fall transform your porch into a buyer's retreat with delcuttering, outdoor beautification and tips for creating an inviting outdoor home.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/Buyer-Appeal-How-to-Stage-Your-Porch-This-Fall.htm"
+data-social-title="Bring Fall Curb Appeal to your Welcoming Porch"
+data-description="The fall transform your porch into a buyer's retreat with delcuttering, outdoor beautification and tips for creating an inviting outdoor home."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/G/7/-/-/fall-porch-curb-appeal-ideas.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hst/ss/Fall-Home-Improvements-that-Raise-your-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/homestaging/1/V/D/7/-/-/White-modern-kitchen-ideas.jpg" alt="White modern kitchen ideas - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hst/ss/Fall-Home-Improvements-that-Raise-your-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="5">How to Choose the Right Fall Improvements for Higher ROI</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hst/ss/Fall-Home-Improvements-that-Raise-your-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="5" class="article-blurb">Fall Home Improvements that Raise your ROI. Bring more value to your home with these kitchen, outdoor, and interiors ideas for added home value.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/Fall-Home-Improvements-that-Raise-your-ROI.htm"
+data-social-title="How to Choose the Right Fall Improvements for Higher ROI"
+data-description="Fall Home Improvements that Raise your ROI. Bring more value to your home with these kitchen, outdoor, and interiors ideas for added home value."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/D/7/-/-/White-modern-kitchen-ideas.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Guest-Bedroom-for-Buyer-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/homestaging/1/V/A/7/-/-/Guest-Bedroom-Decor-Tips.jpg" alt="Guest Bedroom Decor Ideas - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Guest-Bedroom-for-Buyer-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="6">Appeal to Entertaining Buyers with Guest Bedroom Staging Tips</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Guest-Bedroom-for-Buyer-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="6" class="article-blurb">How to Stage Your Guest Bedroom for Buyer Appeal. Learn how to make your guest bedroom welcoming by decluttering, bringing in light and color.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Guest-Bedroom-for-Buyer-Appeal.htm"
+data-social-title="Appeal to Entertaining Buyers with Guest Bedroom Staging Tips"
+data-description="How to Stage Your Guest Bedroom for Buyer Appeal. Learn how to make your guest bedroom welcoming by decluttering, bringing in light and color."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/A/7/-/-/Guest-Bedroom-Decor-Tips.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="6" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="6" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="6" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="6" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="6" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Home-in-a-Buyers-Market.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="7"><img data-original="http://f.tqn.com/y/homestaging/1/V/9/7/-/-/Entice-Buyers-Curb-Appeal.jpg" alt="Enticing curb appeal ideas - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Home-in-a-Buyers-Market.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="7">Make your Home Staging Efforts Stand Above the Rest</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Home-in-a-Buyers-Market.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="7" class="article-blurb">Entice potential buyers with beautiful curb appeal. Entice buyers with a well-manicured lawn, clear walkways, fresh landscaping and a welcoming doorway.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/How-to-Stage-Your-Home-in-a-Buyers-Market.htm"
+data-social-title="Make your Home Staging Efforts Stand Above the Rest"
+data-description="Entice potential buyers with beautiful curb appeal. Entice buyers with a well-manicured lawn, clear walkways, fresh landscaping and a welcoming doorway."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/9/7/-/-/Entice-Buyers-Curb-Appeal.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="7" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="7" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="7" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="7" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="7" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="8"><img data-original="http://f.tqn.com/y/homestaging/1/V/7/7/-/-/Home-staging-tips-interior.jpg" alt="Home staging tips interiors - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="8">How to Save Money with these 5 Budget Home Staging Tips</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="8" class="article-blurb">Clear your home's clutter throughout your interiors for buyer appeal. Create curb appeal in your outdoor home to entice buyers to come inside.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm"
+data-social-title="How to Save Money with these 5 Budget Home Staging Tips"
+data-description="Clear your home's clutter throughout your interiors for buyer appeal. Create curb appeal in your outdoor home to entice buyers to come inside."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/7/7/-/-/Home-staging-tips-interior.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="8" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="8" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="8" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="8" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="8" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hsu/ss/How-to-Choose-Kitchen-Appliances-for-Higher-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="9"><img data-original="http://f.tqn.com/y/homestaging/1/V/4/7/-/-/Choosing-Quality-Kitchen-Appliances.jpg" alt="Choosing quality kitchen appliances - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hsu/ss/How-to-Choose-Kitchen-Appliances-for-Higher-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="9">Choosing Kitchen Appliances that will Yield a Higher ROI</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hsu/ss/How-to-Choose-Kitchen-Appliances-for-Higher-ROI.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="9" class="article-blurb">Choosing higher end appliances will yield a higher return. Consider refrigerators with varying features and architectural styles for buyer appeal.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hsu/ss/How-to-Choose-Kitchen-Appliances-for-Higher-ROI.htm"
+data-social-title="Choosing Kitchen Appliances that will Yield a Higher ROI"
+data-description="Choosing higher end appliances will yield a higher return. Consider refrigerators with varying features and architectural styles for buyer appeal."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/4/7/-/-/Choosing-Quality-Kitchen-Appliances.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="9" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="9" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="9" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="9" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="9" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/Essential-Tips-to-Create-Fabulous-Fall-Curb-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="10"><img data-original="http://f.tqn.com/y/homestaging/1/V/1/7/-/-/Autumn-Home-Landscaping.jpg" alt="Fall home landscaping - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/Essential-Tips-to-Create-Fabulous-Fall-Curb-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="10">Fall Curb Appeal Tips to Attract Buyers this Season</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/Essential-Tips-to-Create-Fabulous-Fall-Curb-Appeal.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="10" class="article-blurb">Start with a manicured lawn for beautiful curb appeal to attract potential buyers.  Check with your local nursery for fall the season.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/Essential-Tips-to-Create-Fabulous-Fall-Curb-Appeal.htm"
+data-social-title="Fall Curb Appeal Tips to Attract Buyers this Season"
+data-description="Start with a manicured lawn for beautiful curb appeal to attract potential buyers. Check with your local nursery for fall the season."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/1/7/-/-/Autumn-Home-Landscaping.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="10" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="10" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="10" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="10" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="10" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hst/ss/How-to-Entice-Buyers-with-a-Gorgeous-Bedroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="11"><img data-original="http://f.tqn.com/y/homestaging/1/V/z/6/-/-/Master-Bedroom-Ideas.jpg" alt="Master Bedroom Ideas - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hst/ss/How-to-Entice-Buyers-with-a-Gorgeous-Bedroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="11">Easy Bedroom Tips to Stage your Bedroom to Sell</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hst/ss/How-to-Entice-Buyers-with-a-Gorgeous-Bedroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="11" class="article-blurb">Bring natural light into your bedroom to add airiness. Use neutral colors to make your bedroom look larger.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/How-to-Entice-Buyers-with-a-Gorgeous-Bedroom.htm"
+data-social-title="Easy Bedroom Tips to Stage your Bedroom to Sell"
+data-description="Bring natural light into your bedroom to add airiness. Use neutral colors to make your bedroom look larger."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/z/6/-/-/Master-Bedroom-Ideas.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="11" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="11" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="11" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="11" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="11" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hss/ss/Fall-Home-Staging-Tips-for-Attracting-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="12"><img data-original="http://f.tqn.com/y/homestaging/1/V/x/6/-/-/fall-home-decor-ideas.jpg" alt="Fall Home Bedroom - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hss/ss/Fall-Home-Staging-Tips-for-Attracting-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="12">Attract More Homebuyers this Autumn Season</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hss/ss/Fall-Home-Staging-Tips-for-Attracting-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="12" class="article-blurb">Attract fall homebuyers with better lighting and fall decorating ideas. Potential buyers want to clearly see all the amenities in your home.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hss/ss/Fall-Home-Staging-Tips-for-Attracting-Buyers.htm"
+data-social-title="Attract More Homebuyers this Autumn Season"
+data-description="Attract fall homebuyers with better lighting and fall decorating ideas. Potential buyers want to clearly see all the amenities in your home."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/x/6/-/-/fall-home-decor-ideas.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="12" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="12" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="12" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="12" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="12" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hsu/ss/Increase-your-Homes-ROI-with-a-Gorgeous-Sunroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="13"><img data-original="http://f.tqn.com/y/homestaging/1/V/t/6/-/-/Sunroom-Ideas.jpg" alt="Sunroom Ideas - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hsu/ss/Increase-your-Homes-ROI-with-a-Gorgeous-Sunroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="13">Add Buyer Appeal to your Home for Sale with a Sunroom</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hsu/ss/Increase-your-Homes-ROI-with-a-Gorgeous-Sunroom.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="13" class="article-blurb">Choose the best location for your sunroom addition. Light, location, and adjacencies to other rooms of your home should be considered.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hsu/ss/Increase-your-Homes-ROI-with-a-Gorgeous-Sunroom.htm"
+data-social-title="Add Buyer Appeal to your Home for Sale with a Sunroom"
+data-description="Choose the best location for your sunroom addition. Light, location, and adjacencies to other rooms of your home should be considered."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/t/6/-/-/Sunroom-Ideas.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="13" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="13" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="13" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="13" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="13" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="14"><img data-original="http://f.tqn.com/y/homestaging/1/V/q/6/-/-/How-to-make-kitchen-look-bigger.jpg" alt="Modern kitchen with view - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="14">Enlarge your Kitchen with These Home Staging Tips</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="14" class="article-blurb">Use neutral colors and light materials and finishes in your small kitchen. Lighter colors also reflect light and make your kitchen more welcoming.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/Staging-Tips-to-Make-Your-Kitchen-Look-Bigger.htm"
+data-social-title="Enlarge your Kitchen with These Home Staging Tips"
+data-description="Use neutral colors and light materials and finishes in your small kitchen. Lighter colors also reflect light and make your kitchen more welcoming."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/q/6/-/-/How-to-make-kitchen-look-bigger.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="14" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="14" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="14" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="14" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="14" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+
+				
+
+				<div class="article-unit article-unit-img-wrapper group">
+						<div class="article-unit-img">
+<a href="http://homestaging.about.com/od/hscp/ss/Home-Updates-That-Help-Attract-Young-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.image" data-ordinal="15"><img data-original="http://f.tqn.com/y/homestaging/1/V/n/6/-/-/White-modern-living-room.jpg" alt="Modern white living room - Getty Images" width="215" height="143" data-load="lazy" class="" >
+</a>						</div>
+					<div class="article-unit-desc">
+						<h5 class="heading">
+							<a href="http://homestaging.about.com/od/hscp/ss/Home-Updates-That-Help-Attract-Young-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.heading" data-ordinal="15">Home Staging Tips to Attract First-Time Homebuyers</a>
+						</h5>
+							<a href="http://homestaging.about.com/od/hscp/ss/Home-Updates-That-Help-Attract-Young-Buyers.htm" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="article.blurb" data-ordinal="15" class="article-blurb">Display amenities that will attract young homebuyers. Updated amenities, technology, and modern updates will attract new buyers.</a>
+						<div><div class="share-options-container open-right with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hscp/ss/Home-Updates-That-Help-Attract-Young-Buyers.htm"
+data-social-title="Home Staging Tips to Attract First-Time Homebuyers"
+data-description="Display amenities that will attract young homebuyers. Updated amenities, technology, and modern updates will attract new buyers."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/n/6/-/-/White-modern-living-room.jpg">
+<span>
+<a href="" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareOptions" data-ordinal="15" class="share-btn share-options-btn p-col"> <span class="sprite share-arrow"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareFacebook" data-ordinal="15" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareTwitter" data-ordinal="15" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="sharePinterest" data-ordinal="15" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="shareGoogleplus" data-ordinal="15" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a> </span>
+<span class="share-msg">Share</span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div></div>
+					</div>
+				</div>
+
+				
+
+<div class="page-btns group">
+<div class="col pull-left">
+<span class="ajax-page-control btn disabled prev btn-light">Prev</span>
+</div>
+<div class="col pull-right">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="Next" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn next btn-light">Next</a>
+</div>
+<div class="interval">
+<div class="col col-1">
+<span class="ajax-page-control btn active btn-light">1</span>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="1" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=2" class="ajax-page-control btn blank btn-light">2</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="2" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=3" class="ajax-page-control btn blank btn-light">3</a>
+</div>
+<div class="col col-1">
+<a href="#" data-component="expertLandingPageRecentArticles" data-source="ArticleSite_Latest" data-type="pagination" data-ordinal="3" data-cr="expertLandingPageRecentArticles" data-src="cr=expertLandingPageRecentArticles&amp;pageNum=4" class="ajax-page-control btn blank btn-light">4</a>
+</div>
+</div>
+</div>
+		</div>
+	</div>
+</div>			</div>
+
+		</div>
+	<div class="circ-grid widget">
+			<div class="widget-heading widget-heading-strikethrough">
+				<h3 class="heading p-col"><span class="widget-heading-title">
+						Today's Top 6 Picks In Home
+				</span><span class="widget-heading-line"></span></h3>
+			</div>
+		
+				<div class="circ-grid-items row">
+					<div class="col col-6">
+						<div class="circ-grid-item">
+							<div class="img">
+<a href="http://interiordec.about.com/od/AphroChic-About-Decor/ss/6-Steps-To-Creating-An-Eclectic-Gallery-Wall.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="1"><img data-original="http://f.tqn.com/y/interiordec/1/Q/n/i/2/ab76fafa38bdb7916156c369a573ffea.jpg" alt="6 Steps To Creating An Eclectic Gallery Wall - AphroChic" width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://interiordec.about.com/od/AphroChic-About-Decor/ss/6-Steps-To-Creating-An-Eclectic-Gallery-Wall.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="1">How to Create an Eclectic Gallery Wall</a></div>
+						</div>
+					</div>
+				
+				
+					<div class="col col-6">
+						<div class="circ-grid-item right">
+							<div class="img">
+<a href="http://diy.about.com/od/DIY-Holidays/tp/13-DIY-Halloween-Costumes-For-Adults.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="2"><img data-original="http://f.tqn.com/y/diy/1/Q/Y/6/-/-/animal-headbands.jpg" alt="DIY Cat and Mouse Costumes - A Beautiful Mess" width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://diy.about.com/od/DIY-Holidays/tp/13-DIY-Halloween-Costumes-For-Adults.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="2">13 DIY Halloween Costumes For Adults</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="circ-grid-items row">
+					<div class="col col-6">
+						<div class="circ-grid-item">
+							<div class="img">
+<a href="http://bedroom.about.com/od/BedroomLiving/fl/5-Reasons-Why-You-Should-Make-Your-Bed-Every-Day.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="3"><img data-original="http://f.tqn.com/y/bedroom/1/Q/B/M/-/-/GettyImages-558273341.jpg" alt="Made bed with bird pillows - Hero Images/Getty Images" width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://bedroom.about.com/od/BedroomLiving/fl/5-Reasons-Why-You-Should-Make-Your-Bed-Every-Day.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="3">5 Reasons to Make Your Bed Every Day</a></div>
+						</div>
+					</div>
+				
+				
+					<div class="col col-6">
+						<div class="circ-grid-item right">
+							<div class="img">
+<a href="http://crochet.about.com/od/tipstroubleshooting/fl/50-Crochet-Tips-to-Improve-Your-Crafting.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="4"><img data-original="http://f.tqn.com/y/crochet/1/Q/2/w/-/-/img_5201.jpg" alt="Wool and the Gang T-shirt Yarn Basket Kit - Kathryn Vercillo" width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://crochet.about.com/od/tipstroubleshooting/fl/50-Crochet-Tips-to-Improve-Your-Crafting.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="4">50 Ways to Improve Your Crochet Skills</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="circ-grid-items row last">
+					<div class="col col-6">
+						<div class="circ-grid-item">
+							<div class="img">
+<a href="http://laundry.about.com/od/laundrybasics/a/How-To-Do-Laundry-For-The-Bed.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="5"><img data-original="http://f.tqn.com/y/laundry/1/Q/P/U/-/-/182187088.jpg" alt="182187088.jpg - E+/Getty Images" width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://laundry.about.com/od/laundrybasics/a/How-To-Do-Laundry-For-The-Bed.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="5">Are Your Bed Linens Really Clean?</a></div>
+						</div>
+					</div>
+				
+				
+					<div class="col col-6">
+						<div class="circ-grid-item right">
+							<div class="img">
+<a href="http://greenliving.about.com/od/greenlivingbasics/fl/Amazing-Uses-for-Coffee-Grounds.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.image" data-ordinal="6"><img data-original="http://f.tqn.com/y/greenliving/1/Q/B/E/-/-/GettyImages-169264511.jpg" alt="Amazing Uses for Coffee Grounds - " width="215" height="130" data-load="lazy" class="" >
+</a>							</div>
+								<div class="h3 heading"><a href="http://greenliving.about.com/od/greenlivingbasics/fl/Amazing-Uses-for-Coffee-Grounds.htm" data-component="circGrid" data-source="ArticleChannel_Curated" data-type="item.bestTitle" data-ordinal="6">8 Amazing Uses for Coffee Grounds</a></div>
+						</div>
+					</div>
+				</div>
+	</div>
+<div id="slideshowsCircBar" data-defer="onScroll"></div>	</div>
+</main>
+<div id="videosCircBar" data-defer="onScroll"></div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/homegarden" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-homegarden"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-homegarden"><span class="sprite homegarden-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-9">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/homegarden" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Home</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://homestaging.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Home Staging</span>
+</a>			</li>
+		
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-6">
+<p><a href="http://www.about.com/homegarden" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutathome" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutathome" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutathome" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutathome/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutathome" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/homegarden" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Home</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="househomesl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-3">
+			</div>
+			<div class="col col-4">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UttuwyAM_aFJ-YdOqjYpu0jd9u6Am5A6ODOmTff1oxdpkCUvljnH5vgY-lBZ3EMkrcg1FTQc9aEvwSN6y1JpJ6xKOKevPTsjTLRIfTnRCPQO7XLrkwvKcl5R7b8jyrmGn3PNYFeKRgKDHZNFySucVxQPVEV1t7DIJgDlFgVLibvs85CGDzkzQLiFrZvQbmPpPbBxQLXzh88kuty4QxDT5VRL3AC9wvEva0BWLDdTIDfz2wrH8dp_T3KyEQRrJA5NyPIPid4Uo4-s5NpONxTlv6cqdCD4NqpjX_jyeAqEmlaapSuzD-DIdGgOC_dbNnFAr7uLTsEjvnAJQQ_T5VttICziK_Lh5MaCM6DYpi8425iBtMaAxcviNFKa4rED75HC_JyX7lmG8Atj6Up0.min.js"></script>
+<script type="text/javascript">(function(){
+  var dom, doc, where, iframe = document.createElement('iframe');
+  
+  iframe.src = "javascript:false";
+  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
+  var where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    //TEST URLS
+    //boomerang-0.9.<timestamp>-debug.js
+    var src = 'https://rd.about.com/webapp/dist/boomerang-0.9.1444923999719.min.js';
+    if(dom) this.domain = dom;
+    //DO NOT CHANGE
+    //boomerang uses this ID if using the iframe approach
+    js.id = "boomr-if-as"; 
+    js.src = src;
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+  
+
+  function init(b) {
+      
+      b.addVar({
+          'abTests': [{
+              'testName':"relatedClickabilityTest",
+              'bucketValue':2
+          },{
+              'testName':"indexTest",
+              'bucketValue':1
+          },{
+              'testName':"lock728Test",
+              'bucketValue':2
+          },{
+              'testName':"soastaBoomerang",
+              'bucketValue':2
+          },{
+              'testName':"optimizelyInclusion",
+              'bucketValue':0
+          }],
+          'channel': 'homegarden',
+          'site': 'homestaging',
+          'templateId': '1',
+          'templateName': 'landingPage',
+          'templateView': 'TABLET',
+          'tmog': 'g1253cb384de2736a676c6f626531349c',
+          'mint': 'g1253cb384de2736a676c6f626531349c',
+          'idstamp': 'g1253cb384de2736a676c6f626531349c',
+          'dataCenter': 'sj',
+          'serverName': 'sjglobe14',
+          'serverVersion': '1.55.0',
+          'resourceVersion': '1.55.0',
+          'cc': 'US',
+          'city': 'Riverside',
+          'lat': '33.968',
+          'lon': '-117.319',
+          'rg': 'CA',
+          'timestamp': new Date().getTime(),
+          'referrer': document.referrer,
+          'sessionPc': '1',
+          'userAgent[familyName]': 'Java',
+          'userAgent[versionMajor]': '1',
+          'userAgent[versionMinor]': '7',
+          'userAgent[osName]': 'JVM (Java)',
+          'userAgent[osVersion]': '1.7.0_67',
+          'userAgent[mobile]': 'false',
+          'userAgent[raw]': 'Java/1.7.0_67'
+      });
+      
+      b.init({
+          beacon_url: 'https://rd.about.com/boomerang',
+          user_ip: '76.232.205.236',
+          site_domain: 'about.com',
+          BW: { enable: false },
+          RT: {
+              cookie: 'abtRT'
+          },
+          DFPTiming: {}
+      });
+  }
+  
+  if (document.addEventListener) {
+      document.addEventListener("onBoomerangLoaded", function(e) {
+          // e.detail.BOOMR is a reference to the BOOMR global object
+          init(e.detail.BOOMR);
+      });
+   } else if (document.attachEvent) {
+       // IE 6, 7, 8 we use onPropertyChange and look for propertyName === "onBoomerangLoaded"
+       document.attachEvent("onpropertychange", function(e) {
+         if (!e) e=event;
+         if (e.propertyName === "onBoomerangLoaded") {
+             // e.detail.BOOMR is a reference to the BOOMR global object
+             init(e.detail.BOOMR);
+         }
+      });
+   }
+})();var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='TABLET';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02homestaging-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529946.skimlinks.js" async></script>
+	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

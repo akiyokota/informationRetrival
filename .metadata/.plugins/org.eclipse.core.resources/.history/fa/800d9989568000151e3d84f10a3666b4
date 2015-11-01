@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="b950eefeb5002d7e1800006d"
+ data-ch="compute"
+ data-gs="pcsupport"
+ data-template-type="BIO"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe12" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062435378" loadTimeTaken="2897" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="compute"/>
+<meta name="lotame:site" content="pcsupport"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNptU1ty2zAMvFA7OkOdSacfTvOR9gAQuZExpkgOAPpx-yhRPDYkfYgEdpcgKABBtYt4p5asEyjsR5iQcKCckbSjvjT7WcMXqlXY4AWhjLUZbpJbqPeSTR1i17pS9c2sZF2clNEjmqh3QJiCI9vqTgFGkiPkWaSI45pxYmP4yAznDsJxGZSidkO1X_F_ZtsihWLifNQlN6TSU_pLpy7TqSefTjlBEl0dNpLOy2--IG5T2-gbSMJhVy6OTiUc96AI6QvJ-mFiHBL-fCm8tyqTTHCQNvb6aC9lI2CvTZ4vFeIz7a97ztDv3Re3BKbU6YEEu7kdlnG_JaK-eBlnTTCbsr-bvk9Ywp71biwjnzkOsNWFgQxDket89sHxaQEvRTZfU3lqlp1lx-FS06R_uk3Owl9kIKUpku9vkDVB_Fcqh23969xX62ksn79p3raaePqQ9XM-PwArRYyh.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'pcsupport',
+	channel: 'compute',
+	articleId: 'b950eefeb5002d7e1800006d',
+	templateId: '17',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe12"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062435378",
+loadTimeTaken : "2897"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe12"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062435378",
+loadTimeTaken : "2897"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" + location.hash,
+title: "Tim Fisher - PC Support Expert on About.com",
+contentGroup: "Other",
+gs: "pcsupport",
+ch: "compute",
+authorId: "21913",
+templateId: "17",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "Tim Fisher - PC Support Expert on About.com",
+characterCount: 0,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2006-08-06",
+updateDate: "2015-09-11",
+numOfImages: 0,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_pcsupport tt17",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'compute',
+gs = 'pcsupport',
+zccnt = '0',
+zGAst = 'Tim Fisher - PC Support Expert on About.com',
+zAth = '21913',
+zTt = '17',
+zGAtg ='Other',
+google_ad_channel = 'primedia_pcsupport tt17',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/compute/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" />
+<title>Tim Fisher - PC Support Expert on About.com</title>
+<meta name="description" content="&lt;p&gt;Tim Fisher is a professional freelance technology author, co-owner of a technology services company for small businesses, and author of &lt;a href=&quot;http://www.amazon.com/dp/B00IJLF7ZK&quot;&gt;Windows 8 Basics in 30 Minutes&lt;/a&gt;, published by i30 Media.&lt;/p&gt;
+&lt;p&gt;You can read more about Tim&#39;s career on his Google+ profile: &lt;a href=&quot;https://plus.google.com/104584727163077179572/&quot; rel=&quot;me&quot;&gt;Tim Fisher&lt;/a&gt;.&lt;/p&gt;" itemprop="description">
+<meta name="sailthru.tags" content="compute,pcsupport" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Tim Fisher - PC Support Expert on About.com" />
+<meta property="article:section" content="Tech" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Tech" />
+<meta property="og:url" content="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" />
+<meta property="og:title" content="Tim Fisher - PC Support Expert on About.com" />
+<meta property="og:description" content="<p>Tim Fisher is a professional freelance technology author, co-owner of a technology services company for small businesses, and author of <a href=&quot;http://www.amazon.com/dp/B00IJLF7ZK&quot;>Windows 8 Basics in 30 Minutes</a>, published by i30 Media.</p>
+<p>You can read more about Tim's career on his Google+ profile: <a href=&quot;https://plus.google.com/104584727163077179572/&quot; rel=&quot;me&quot;>Tim Fisher</a>.</p>" />
+<meta property="og:image" content="http://f.tqn.com/y/default/compute/S/187928720.jpg" />
+<meta property="article:author" content="https://www.facebook.com/AboutPCSupport" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Tim Fisher - PC Support Expert on About.com" />
+<meta name="twitter:description" content="Biography of Tim Fisher, the About.com PC Support Expert. Tim Fisher is a pro freelance technology author and co-owner of a tech services company." />
+<meta name="twitter:image" content="http://f.tqn.com/y/default/compute/S/187928720.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="bioPage">
+<!-- Google Tag Manager (Compute) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56JFV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56JFV2');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="p-col">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/compute" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite compute-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://pcsupport.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="PC Support" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="pcsupport">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Tech</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://pcsupport.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">PC Support</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-mini">
+	<h1 itemprop="headline ">About Tim Fisher, Our PC Support Expert</h1>
+</div>
+
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our PC Support Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/21913.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://pcsupport.about.com/bio/Tim-Fisher-21913.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Tim Fisher</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://pcsupport.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	PC Support Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Tim</div>
+		<div class="buttons"><a href="https://www.facebook.com/AboutPCSupport" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/fishertimj" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_twitter" data-ordinal="1" data-network="twitter" title="Follow on Twitter" class="twitter share-btn" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://plus.google.com/+TimFisher" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/pcsupport_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="electronsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Electronics & Gadgets</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_pcsupport">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>PC Support</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">PC Support Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://pcsupport.about.com/od/findtheproblem/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Troubleshooting <span class="last">Guides<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fixtheproblem/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> How-To's &amp; <span class="last">Tutorials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/driverssupport/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Getting <span class="last">Support<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/software-tools/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Software <span class="last">Tools<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/toolsofthetrade/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Testing &amp; <span class="last">Benchmarking<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/commandlinereference/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Command Line <span class="last">Reference<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/insidethepc/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Parts of a <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/maintenance/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Cleaning &amp; <span class="last">Cooling<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fileextensions/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> File <span class="last">Extensions<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/things-you-didnt-know/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Things You Didn't Know <span class="last">About...<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/glossaryterms/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Computer <span class="last">Terms<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/resources/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Other <span class="last">Resources<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/fixtheproblem/u/fix_a_computer_problem.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Fix a Problem With Your <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/maintenance/u/maintain_your_computer.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Maintaining Your <span class="last">Computer<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://pcsupport.about.com/od/tipstricks/u/computer_tips_tricks.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Tips & <span class="last">Tricks<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://pcsupport.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/pcsupport/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				PC Support Essentials
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://pcsupport.about.com/od/findbysymptom/tp/computer-wont-turn-on.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/e/X/-/-/150337790.jpg" alt="Frustrated man at computer - Blend Images/Hill Street Studios/Vetta/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Here's What to Do When Your Computer Doesn't Turn On</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://pcsupport.about.com/od/maintenance/ss/screwing-up-computer.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/l/h/-/-/man-with-laptop-with-bag-on-head-peter-dazeley-photographers-choice-getty-images.jpg" alt="Photo of a man sitting in front of a laptop with a paper bag over his head - &copy; Peter Dazeley / Photographer's Choice / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>13 Ways You're Screwing Up Your Computer</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://pcsupport.about.com/od/commandlinereference/ss/command-prompt-tricks-hacks.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/d/f/-/-/command-code-image-peopleimages-dot-com-digital-vision-getty-images.jpg" alt="Image of a tunnel full of computer code - &copy; PeopleImages.com / Digital Vision / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>21 Command Prompt Tricks &amp; Hacks</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://pcsupport.about.com/od/fixtheproblem/ss/reset-this-pc-tutorial.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/F/l/-/-/advanced-startup-options-windows-10.png" alt="Screenshot of the Advanced Startup Options menu in Windows 10 - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Reset This PC in Windows 10 &amp; 8: A Complete Walkthrough</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://pcsupport.about.com/od/fixtheproblem/ht/wipe-hard-drive.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/5/R/-/-/84744324_HighRes.jpg" alt="Image of the inside of a hard disk drive - &copy; Dieter Spears / Photodisc / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Delete Everything on a Hard Drive</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://pcsupport.about.com/od/findbyerrormessage/a/503error.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/default/compute/O/156023705.jpg" alt="John Lamb/Digital Vision/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Getting a 503 Service Unavailable Error? Here's What to Do</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://pcsupport.about.com/od/commandlinereference/ss/command-prompt-tricks-hacks.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/d/f/-/-/command-code-image-peopleimages-dot-com-digital-vision-getty-images.jpg" alt="Image of a tunnel full of computer code - &copy; PeopleImages.com / Digital Vision / Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>21 Command Prompt Tricks &amp; Hacks</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://pcsupport.about.com/od/findbysymptom/a/windows-update-frozen.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/d/S/-/-/keep-your-pc-on.png" alt="Screenshot of the Keep Your PC On Message After a Windows Update - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>What to Do When Windows Update Gets Stuck</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://pcsupport.about.com/od/findbyerrormessage/a/500servererror.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/default/compute/O/93187316.jpg" alt="Jetta Productions/Stone/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Getting a 500 Internal Server Error? Here's What to Do</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://pcsupport.about.com/od/fixtheproblem/ht/directx9xp.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/pcsupport/1/O/f/M/-/-/download-icon.png" alt="Picture of the Downloads folder icon in Windows - " width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>How to Download and Install DirectX</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="3-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+<article class="content widget">
+		<div class="expert-content-text">
+		<p>To see all PC Support articles, <a href="http://pcsupport.about.com/" data-component="contentBioPage" data-source="channelhomepage" data-type="site.displayName" data-ordinal="1" itemprop="url">click here</a>.</p>
+		<p><p>Tim Fisher is a professional freelance technology author, co-owner of a technology services company for small businesses, and author of <a href="http://www.amazon.com/dp/B00IJLF7ZK">Windows 8 Basics in 30 Minutes</a>, published by i30 Media.</p>
+
+<p>You can read more about Tim's career on his Google+ profile: <a href="https://plus.google.com/104584727163077179572/" rel="me">Tim Fisher</a>.</p></p>
+		<h5>Experience</h5>
+		<p><p>With over 25 years of computer and other technology support experience, Tim Fisher has seen everything from large format floppy drive problems to the latest issues that plague home and business computer users.</p>
+
+<p>Tim&#39;s support experience began early in High School, shortly after purchasing his first PC with a 100MB hard drive, which the salesperson said would be more than he&#39;d ever need! He built and repaired PCs during this time and through college on a part time basis.</p>
+
+<p>After college, Tim entered the technology support world full time, installing and servicing telecommunications, networking, and computer equipment.</p>
+
+<p>Since then, Tim has worked in various technology related roles including support, consultation, installation, training, documentation and even sales. Tim worked several years as a computer systems engineer for one of the largest companies in the United States.</p>
+
+<p>Tim is a published book author and has also been featured as a computer support expert both online and in several national print publications.</p></p>
+			<h5>Education</h5>
+			<p><p>Tim attended school at a public university in the US where he completed courses in computer science and business technology. After college, Tim earned a number of certifications and completed additional courses in the computer support, networking and telecommunications fields.</p>
+
+<p>Tim keeps his support skills current through continued education and through the constant flow of technology issues he deals with on a daily basis from his readers and clients.</p></p>
+			<h5>Tim Fisher</h5>
+			<p><p>I very much enjoy helping people find solutions to their problems. It's very rewarding being approached by someone with an issue and then being able to help them solve it. Even better is when I can educate people to solve and prevent computer problems themselves!</p>
+
+<p>Empowering my readers with accurate, relevant, and easy-to-follow information is my goal on About.com.</p>
+
+<h3>Contact Tim</h3>
+
+<p>If you need some more help after working through something on my site, please see my <a href="/od/resources/tp/get-more-help.htm">Get More Help</a> page. There you can find out more about my <em>Help Me!</em> post on Facebook, a daily conversation where you can ask myself and other experts for help with your tech troubles. I also recommend several really good tech support forums if you'd rather do that.</p>
+
+<p>If you have something <strong>that does not require a reply</strong>, like a comment, some feedback, a review request, etc., feel free to send me an email at <a href="mailto:tim@asktimfisher.com">tim@asktimfisher.com</a>. I will read it! Thank-you emails, especially, are always appreciated!</p>
+
+<p>Please remember, <em>I do not respond to help-me-with-my-computer-problem emails</em>! Please direct all of those to my latest "Help Me" on Facebook via my <a href="/od/resources/tp/get-more-help.htm">Get More Help</a> piece or head to one of the forums I recommend on that page.</p>
+
+<h3>Article Reprints</h3>
+
+<p>If you would like to use one of Tim's articles or images, in whole or in part, in any way (e.g. in print or anywhere online), you must <a href="http://www.about.com/gi/pages/printrequests.html">Request Reprint Permission</a> from About.com before publishing.</p></p>
+	</div>
+
+		<h5>References:</h5>
+		<ul>
+                    <li>
+                        <a href="https://www.facebook.com/AboutPCSupport" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="1">Like Tim's Facebook Page</a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/fishertimj" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="2">Follow Tim on Twitter</a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+TimFisher" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="3">Add Tim on Google+</a>
+                    </li>
+                    <li>
+                        <a href="http://www.asktimfisher.com" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="4">Tim's Personal Website</a>
+                    </li>
+		</ul>
+
+	<div class="adsense-joined">
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense"></div>
+	</div>
+</article>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div>		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/compute" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-compute"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-compute"><span class="sprite compute-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Tech</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://pcsupport.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >PC Support</span>
+</a>			</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					Bio
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/compute" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutdotcomtech" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutdotcomtech" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/abouttech" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_abouttech" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/compute" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="computersl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-compute"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kVFOwzAMhi-E1DuAhEAqCGmIdyf11mxuXGxnazk9gU2QVO2L5fi3_cX2UZsO95DIGgquOWPsWBplUIO7Yy2C42TL4K3CemEzwtWanRcmWpU-glgCeoPDeulTUGOZN6jHz4Qyt_A1twzdRtJI4LFn6lDKjBANJQI1ycLVrKo5gHK1gjXihn0e8ue1VA7EDugVzv-egwo-5P3-mscw1V3_lB2C-L4Csj-1CHkOxyBVlZMc95IGp4X_Lin6Mk3Zh5-Z2KcBo-16kGrtES9KaHn0wt1Y6wCBfI_-VAEQX7jueWOOIQa7t1hK0Gkj0FGIJ92guEkpLC7nQTgpVvfCaaQMfughRiRdvsvUPcug36g2Ino.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02pcsupport-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'PC Support, Tim Fisher - PC Support Expert on About.com',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'medium',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('pcsupport', '<a href="#" data-component="bioPage" data-source="bioPage" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529833.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

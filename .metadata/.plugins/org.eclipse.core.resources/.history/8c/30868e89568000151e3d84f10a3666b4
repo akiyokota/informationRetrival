@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,12"
+ data-articleId="2f54356c9a007c51ee0000bd"
+ data-ch="style"
+ data-gs="personalstyle"
+ data-template-type="BIO"
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe0" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058816075" loadTimeTaken="3484" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="style"/>
+<meta name="lotame:site" content="personalstyle"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNptU0FSwzAM_BBM3kCZMhwKPQAPUOwl1dSxM5LSNr8nbeiAkhxiS7trWY6koFpFfFOfrBIo7CGMSDhQzkhaUV16e-zCDdVO2OAFakPCXXAP9F2yqUNs6BaqujcrWWcnpfWIJqodEMbgyLa4U4CW5AjZihRxXG-c2Bg-MsO5jXCcB6WoVdPZU_zKbGukUEycjzrnmlRqSu90qjKdavLplBMk0eCwlnRaXviCuE6tox8gCYdNuTg6lXDcgSKkLiTLh4lxSHi9Kby3KJOMcJC-rfW_PZe1gO172V46iM-0Hnacob-7L24JTKnSAwk2UzvM4_5KRH3xMs6aYDZm_2f6PmEJO9Y_Yx75zLGBLS4MZGiKDNPZf45PC3grsvqajsdm2Vh2HC5dGvXP97mZ-bMMpPSK5PsbZL0gfpaOw7p-P_XVchrL9TdN21oTjx-yXufzB_Ewi9U.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'personalstyle',
+	channel: 'style',
+	articleId: '2f54356c9a007c51ee0000bd',
+	templateId: '17',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe0"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe0"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" + location.hash,
+title: "Brandon Holley - About.com Personal Style Expert Bio",
+contentGroup: "Other",
+gs: "personalstyle",
+ch: "style",
+authorId: "134255",
+templateId: "17",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "Brandon Holley - About.com Personal Style Expert Bio",
+characterCount: 0,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2014-10-27",
+updateDate: "2015-05-04",
+numOfImages: 0,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_personalstyle tt17",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'style',
+gs = 'personalstyle',
+zccnt = '0',
+zGAst = 'Brandon Holley - About.com Personal Style Expert Bio',
+zAth = '134255',
+zTt = '17',
+zGAtg ='Other',
+google_ad_channel = 'primedia_personalstyle tt17',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/style/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/style/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/style/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/style/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/style/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/style/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/style/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/style/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/style/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/style/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/style/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" />
+<title>Brandon Holley - About.com Personal Style Expert Bio</title>
+<meta name="description" content="&lt;p&gt;&lt;span&gt;Brandon&amp;nbsp;is the founder and CEO of a&amp;nbsp;new personal styling app called&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/everywear/id940150771&quot; zt=&quot;-o1/XJ&quot; target=&quot;_blank&quot;&gt;Everywear&lt;/a&gt;&lt;span&gt;.&amp;nbsp; She has been the editor in chief of many magazines and websites for the past 15 years&amp;nbsp;(Lucky, Yahoo&amp;nbsp;Shine, ElleGirl, Jane) so she is no stranger to doling out fashion and style advice. While she loves sitting front row at fashion shows and putting together&amp;nbsp;fashion shoots, her driving force has always been&amp;nbsp;to define what style means to real women with varying bodies and budgets.&amp;nbsp; She lives by this mantra from&amp;nbsp;Oscar de la Renta:&amp;nbsp;&quot;Never confuse what&#39;s&amp;nbsp;on the runway with real style.&amp;rdquo; She is most passionate about styling real life women who run errands, hang out with their friends,&amp;nbsp;go to the grocery store, and have work lives. &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;The life of a fashion magazine editor is glamorous, but&amp;nbsp;it can be too removed from what women actually wear. Brandon hopes her Personal Style pieces will&amp;nbsp;help women with their everyday looks.&amp;nbsp; She has found that it is really easy to put together a versatile, wear-anywhere wardrobe without having to sacrifice a sense of individuality or excitement. &amp;nbsp;These posts should&amp;nbsp;make you want to elevate your style, try new things, and pull things out of your closet that you haven&#39;t worn in who knows how long, all while feeling confident that you look amazing.&lt;/span&gt;&lt;/p&gt;" itemprop="description">
+<meta name="sailthru.tags" content="style,personalstyle" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="Brandon Holley - About.com Personal Style Expert Bio" />
+<meta property="article:section" content="Style" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Style" />
+<meta property="og:url" content="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" />
+<meta property="og:title" content="Brandon Holley - About.com Personal Style Expert Bio" />
+<meta property="og:description" content="<p><span>Brandon&nbsp;is the founder and CEO of a&nbsp;new personal styling app called&nbsp;</span><a href=&quot;https://itunes.apple.com/us/app/everywear/id940150771&quot; zt=&quot;-o1/XJ&quot; target=&quot;_blank&quot;>Everywear</a><span>.&nbsp; She has been the editor in chief of many magazines and websites for the past 15 years&nbsp;(Lucky, Yahoo&nbsp;Shine, ElleGirl, Jane) so she is no stranger to doling out fashion and style advice. While she loves sitting front row at fashion shows and putting together&nbsp;fashion shoots, her driving force has always been&nbsp;to define what style means to real women with varying bodies and budgets.&nbsp; She lives by this mantra from&nbsp;Oscar de la Renta:&nbsp;&quot;Never confuse what's&nbsp;on the runway with real style.&rdquo; She is most passionate about styling real life women who run errands, hang out with their friends,&nbsp;go to the grocery store, and have work lives. &nbsp; &nbsp;</span></p>
+<p><span>The life of a fashion magazine editor is glamorous, but&nbsp;it can be too removed from what women actually wear. Brandon hopes her Personal Style pieces will&nbsp;help women with their everyday looks.&nbsp; She has found that it is really easy to put together a versatile, wear-anywhere wardrobe without having to sacrifice a sense of individuality or excitement. &nbsp;These posts should&nbsp;make you want to elevate your style, try new things, and pull things out of your closet that you haven't worn in who knows how long, all while feeling confident that you look amazing.</span></p>" />
+<meta property="og:image" content="http://f.tqn.com/y/personalstyle/1/S/2/-/-/-/Shot1_204.jpg" />
+<meta property="article:author" content="https://www.facebook.com/EverywearAp" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="Brandon Holley - About.com Personal Style Expert Bio" />
+<meta name="twitter:description" content="Brandon, the CEO of new personal styling app Everywear, has been the editor in chief of many magazines and websites for the past 15 years (Lucky, Yahoo Shine, ElleGirl, Jane) so she is no stranger to doling out fashion and style advice." />
+<meta name="twitter:image" content="http://f.tqn.com/y/personalstyle/1/S/2/-/-/-/Shot1_204.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="bioPage">
+<!-- Google Tag Manager (Style) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5C33R9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5C33R9');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="p-col">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/style" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite style-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://personalstyle.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Personal Style" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="personalstyle">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/style" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Style</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalstyle.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Personal Style</span>
+</a>			</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-mini">
+	<h1 itemprop="headline ">About Brandon Holley, Our Personal Style Expert</h1>
+</div>
+
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+<div class="widget meet-our-expert center">
+	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="p-col">
+			Our Personal Style Expert
+		</h5>
+	</div>
+
+
+<div class="by-line by-line-stacked ">
+	
+	<div class="">
+					    <a href="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/134255.gif" width="75" height="75" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://personalstyle.about.com/bio/Brandon-Holley-134255.htm" data-component="byLineMinimal" data-source="Bio" data-type="authorName" data-ordinal="1" class="muted"> <span class="h5 heading slab-font">Brandon Holley</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://personalstyle.about.com/" data-component="byLineMinimal" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Personal Style Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+
+<div id="shareButtonsBioPageTemplate" class="share-btns">
+			<div class="heading">Follow Brandon</div>
+		<div class="buttons"><a href="https://www.facebook.com/EverywearAp" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_facebook" data-ordinal="1" data-network="facebook" title="Follow on Facebook" class="facebook share-btn first" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://plus.google.com/110180668764770649971" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_googleplus" data-ordinal="1" rel="me" data-network="googleplus" title="Follow on Google+" class="googleplus share-btn" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="http://z.about.com/6/o/m/personalstyle_p2.xml" data-component="followButtons" data-source="Social_FollowExpert" data-type="socialPresence_rss" data-ordinal="1" data-network="rss" title="Follow on RSS" class="rss share-btn" target="_blank"><span class="sprite rss"></span><span class="sprite rss-white"></span>
+</a></div>
+
+</div></div>
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="stylensl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Style</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_personalstyle">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Personal Style</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Personal Style Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://personalstyle.about.com/od/Personal-Style-Essentials/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Personal Style <span class="last">Essentials<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/style-at-work/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Style At <span class="last">Work<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/weekendstyle/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Style on the <span class="last">Weekends<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Shopping101/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Shopping <span class="last">101<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/stylemakeover/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Makeover Your Personal <span class="last">Style<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Shop-your-closet/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Shop Your <span class="last">Closet<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Easy-styling/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Easy <span class="last">Styling<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Holiday-style/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Easy Holiday <span class="last">Style<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Celebrity-Fashion/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Celebrity <span class="last">Fashion<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Trend-Report/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> <span class="last">Trends<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://personalstyle.about.com/od/Style-with-a-Sense-of-Humor/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Style with a Sense of <span class="last">Humor<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://personalstyle.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+use-zergnet widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Personal Style Essentials
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalstyle.about.com/od/stylemakeover/ss/Get-a-Complete-Style-Makeover-without-Spending-Any-Money.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/u/-/-/-/454479624.jpg" alt=" - Melodie Jeng/Getty Images/Entertainment/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Get a Complete Style Makeover without Spending $$</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalstyle.about.com/od/Shop-your-closet/tp/Five-Wardrobe-Maximizers.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/Q/-/-/-/Screen-Shot-2014-10-30-at-3.51.33-PM.png" alt=" - Loft.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Wardrobe Maximizers</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalstyle.about.com/od/Personal-Style-Essentials/ss/6-Top-Coats-for-Winter.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/K/-/-/-/Screen-Shot-2014-10-30-at-1.49.24-PM.png" alt=" - jcrew.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>The 6 Coats You'll Love Wearing This Winter!</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalstyle.about.com/od/stylemakeover/tp/How-to-Layer-Like-a-Pro.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/a/-/-/-/187932670.jpg" alt=" - Jamie McCarthy/Getty Images Entertainment/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Foolproof ways to Layer Like a Pro</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalstyle.about.com/od/stylemakeover/tp/Before-You-Shop-for-Clothes-Read-This.htm" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/1/-/-/-/109335956.jpg" alt=" - Mike Marsland/WireImage/Getty Images" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Are You in A Style Rut? Read This and Find Out</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="mustReadsNarrow" data-source="ArticleSite_MustReads" data-type="viewMore" data-ordinal="4-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>
+
+
+<div class="circ-list
+circ-list-more
+circ-list-small
+circ-list-column
+widget">		<div class="widget-heading widget-heading-primary p-b-t-col">
+			<h5 class="p-col">
+				Readers Recommend
+			</h5>
+		</div>
+
+		<div class="see-more">
+			<div class="see-more-parent">
+				<div class="see-more-content">
+	<ul>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalstyle.about.com/od/Trend-Report/ss/5-Trend-Items-You-Need-For-Fall.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="1" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/o/O/-/-/oxblood-purse.jpg" alt=" - stockholm-streetstyle.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>5 Trend Items You Need For Fall</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://personalstyle.about.com/od/Personal-Style-Essentials/ss/8-Essentials-To-Wear-Now-and-Forever.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="2" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/Q/N/-/-/cf919a3459aad6eacde1d94b21923fca.jpg" alt=" - Teach/FAMEFLYNET PICTURES" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>8 Essentials To Wear Now (and Forever)</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalstyle.about.com/od/Personal-Style-Essentials/ss/Style-Secrets-of-the-Chicest-Women.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="3" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/H/1/-/-/Screen-Shot-2014-12-03-at-3.33.27-PM.png" alt=" - Jak and Jil" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Secrets of the Most Stylish Women on Earth</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalstyle.about.com/od/Personal-Style-Essentials/ss/Stylish-Forever-Long-Live-the-LBD.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="4" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/q/L/-/-/street-style-little-black-dress.jpg" alt=" - stockholm-streetstyle.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Stylish Forever: Long Live the LBD</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+			
+			
+
+			
+				<li class="col-pc-4 col-tablet-4 group hidden" >
+<a href="http://personalstyle.about.com/od/Shopping101/ss/Our-Favorite-Denim-Brands.htm" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="item.index" data-ordinal="5" class="circ-list-item">						<div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/personalstyle/1/O/n/K/-/-/f9fbf65ff786bcd2d158080728b600de.jpg" alt=" - keepitchic.com" width="85" height="56" data-load="lazy" class="" >
+						</div>
+						<div class="circ-list-content">
+					
+						<div class="h5 headline">
+							<span>Our Favorite Denim Brands</span>
+						</div>
+						
+						
+						</div>
+</a>				</li>
+	</ul>
+	
+				</div>
+			</div>
+
+<a href="#" data-component="popularNarrow" data-source="ArticleSite_Popular" data-type="viewMore" data-ordinal="3-ViewMore" class="btn btn-light btn-wide all-caps see-more-btn" data-less="View Less" data-more="View More">		<div class="label">
+			<span class="text">View More</span>
+			<span class="arrow arrow-down"></span>
+		</div>
+</a>		</div>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+<article class="content widget">
+	
+			<div class="content-img-wrapper">
+				<figure class="content-img right-gutter ">
+					<div class="content-img-wrapper ">
+<img src="http://f.tqn.com/y/personalstyle/1/L/2/-/-/-/Shot1_204.jpg" alt="Shot1_204.jpg - " width="300" height="449" class="" data-description="" itemprop="image" >
+			
+<a href="http://pinterest.com/pin/create/button/?url=http://personalstyle.about.com/bio/Brandon-Holley-134255.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/personalstyle/1/S/2/-/-/-/Shot1_204.jpg&description=" data-component="contentBioPage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a>					</div>
+		
+					<figcaption class="content-img-subtitle">
+					</figcaption>
+					
+								
+				</figure>
+			</div>
+	<div class="expert-content-text">
+		<p>To see all Personal Style articles, <a href="http://personalstyle.about.com/" data-component="contentBioPage" data-source="channelhomepage" data-type="site.displayName" data-ordinal="1" itemprop="url">click here</a>.</p>
+		<p><p><span>Brandon&nbsp;is the founder and CEO of a&nbsp;new personal styling app called&nbsp;</span><a href="https://itunes.apple.com/us/app/everywear/id940150771" zt="-o1/XJ" target="_blank">Everywear</a><span>.&nbsp; She has been the editor in chief of many magazines and websites for the past 15 years&nbsp;(Lucky, Yahoo&nbsp;Shine, ElleGirl, Jane) so she is no stranger to doling out fashion and style advice. While she loves sitting front row at fashion shows and putting together&nbsp;fashion shoots, her driving force has always been&nbsp;to define what style means to real women with varying bodies and budgets.&nbsp; She lives by this mantra from&nbsp;Oscar de la Renta:&nbsp;"Never confuse what's&nbsp;on the runway with real style.&rdquo; She is most passionate about styling real life women who run errands, hang out with their friends,&nbsp;go to the grocery store, and have work lives. &nbsp; &nbsp;</span></p>
+
+<p><span>The life of a fashion magazine editor is glamorous, but&nbsp;it can be too removed from what women actually wear. Brandon hopes her Personal Style pieces will&nbsp;help women with their everyday looks.&nbsp; She has found that it is really easy to put together a versatile, wear-anywhere wardrobe without having to sacrifice a sense of individuality or excitement. &nbsp;These posts should&nbsp;make you want to elevate your style, try new things, and pull things out of your closet that you haven't worn in who knows how long, all while feeling confident that you look amazing.</span></p></p>
+		<h5>Experience</h5>
+		<p><p><span>&nbsp;Brandon&nbsp;is the founder and CEO of a&nbsp;new personal styling app called&nbsp;<a href="https://itunes.apple.com/us/app/everywear/id940150771" zT="-o1/XJ" target="_blank">Everywear</a>. Along with her team of editors, she interacts with&nbsp;women&nbsp;to see what they have in their closets and decides&nbsp;what pieces they really need&nbsp;to achieve&nbsp;great style. &nbsp;<a href="https://itunes.apple.com/us/app/everywear/id940150771" zT="-o1/XJ" target="_blank">Sign up for a free session&nbsp;with one of Everywear's editors.&nbsp;</a></span></p>
+
+<p><span>Previously, Brandon has&nbsp;written, edited and styled countless pieces&nbsp;about fashion and style at magazines like Lucky, Ellegirl, GQ, Shine and Jane.</span></p></p>
+			<h5>Education</h5>
+			<p><p>Brandon&nbsp;graduated from Barnard with a BA in American History and a healthy dose of French Lit and Art History. After graduation she&nbsp;was supposed to go to law school, but instead started bar tending at Max Fish and writing a book called <em>A Girl&#39;s Guide to Muscle Cars: How to Find Them, Fix Them and Race Them</em>. One of her&nbsp;regulars was the editor of <em>Paper</em> magazine and he gave her a shot at writing an article about a car swap meet. She&nbsp;couldn&#39;t believe she&nbsp;was getting paid ($50!)&nbsp;to tell stories about topics she&nbsp;was interested in. Goodbye law school, hello $7/hour magazine job: fact-checking at <em>Rolling Stone</em>.&nbsp;</p></p>
+			<h5>Brandon Holley</h5>
+			<p><p><span>&nbsp;I'm so passionate about how women dress and what they need to look amazing. Every woman has great style, sometimes&nbsp;she just&nbsp;needs a little help finding the right pieces to bring it out. You can sign up to <a href="http://www.everywear.com" zt="-o1/XJ" target="_blank">work with an editor</a>&nbsp;on your personal style, and&nbsp;follow my editors and myself on&nbsp;<a href="https://www.facebook.com/EverywearAp" zt="-o1/XL" target="_blank">facebook</a>&nbsp;and @Everywearapp&nbsp;on <a href="http://instagram.com/everywearapp" zt="-o1/XJ" target="_blank">instagram</a>. The editors will also be answering all your style questions on our About.com posts.&nbsp;So please ask us about&nbsp;that slightly random piece&nbsp;you bought on eBay--we'll help you find a way to&nbsp;wear it or tell you to pull the ripcord and get rid of it already.&nbsp;</span></p></p>
+	</div>
+
+		<h5>References:</h5>
+		<ul>
+                    <li>
+                        <a href="https://itunes.apple.com/us/app/everywear/id940150771" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="1">Everywear</a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/EverywearAp" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="2">Follow us on Facebook</a>
+                    </li>
+                    <li>
+                        <a href="http://instagram.com/everywearapp" data-component="contentBioPage" data-source="channelhomepage" data-type="bio.reference" data-ordinal="3">Everywear on Instagram</a>
+                    </li>
+		</ul>
+
+	<div class="adsense-joined">
+<div id="adsense1" adsense-numlinks="1" adsense-displaylabel="true" class="adsense-slot adsense"></div>
+	</div>
+</article>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div>		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/style" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-style"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-style"><span class="sprite style-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/style" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Style</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://personalstyle.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Personal Style</span>
+</a>			</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					Bio
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/style" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Style</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutstyle" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutstyle" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutpopstyle" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutpopstyle" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutpopstyle/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutpopstyle" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/style" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Style</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="stylensl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-style"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1keFOxDAIx1_IZO-gidFkGpMZv9OOu3XHygR6t_n0TnfR9rJ9IZQ_8CvQa9XiARJZRcFV4DjZXV8Gzxhblso6YTPCW_m3pvHCRJvSRxBLQG9w3C59Cmos8w61_0wocw1fc83Q7iSNBB47phYlzwjRUCJQlSysZlNdAiirFSwRV-zzsHxec-VI7IBe4fzvOSjgA-hqHsNUdv1TGgTxXQFkf6oRljkcgxRVTpa4lzQ4zfx3SdHnaco-_MzEPg0YrelAirVHvCihLaNn7s5aBwjkO_SnAoD4wmXPK3MMMdi9xVyCViuBlkI86Q7FTUrh5nIehJNicS-cRlrADx3EiKS37zz1wDLoN6kIF4A.min.js"></script>

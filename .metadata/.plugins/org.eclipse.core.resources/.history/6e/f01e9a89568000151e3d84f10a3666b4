@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,99,79,16,12"
+ data-articleId="305626b3110d487b0c04d2d9"
+ data-ch="compute"
+ data-gs="linux"
+ data-template-type="FLEXIBLEARTICLE"
+ itemscope itemtype="http://schema.org/Article">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe10" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446062425628" loadTimeTaken="3233" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="compute"/>
+<meta name="lotame:site" content="linux"/>
+<meta name="lotame:category" content="Linux Commands and Shell Commands"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VNuS2yAM_aF2_A2bTjt9SC8z2_ZdhhNHEwKMJHvj_fqSddMNxnngoqODJCSEU-08DjQG6wQK--AK4o4UI4J21KfRPmb3hmoWNtQEl855NNwoN1OHFE0rxObcsPrRLEVdnZRzjWigvgJcMY5ojU8BziQnyGeRJJVuNA5sjNoyoxIHYb82Sl67IduT_x3ZtpRCPnA86Vo3hNRT-E5TF2nqqQ4nTZBAc4WdSZfpC1_gt1Xb6DNI3HGXLpU6JHfagzykTyTNxTQ5ptBFvDwfSbDbKAWJsQv4-maklppKSoGdjOde7_cNbd5zhP5bK1UJRAPMiqf3bV12Frdnfd-srb-wH2CNU0eGIcm8nL0T6nwA35LUMR0CLk_Ltbdyl7m8iZ3FSieYuOTUSJpAJvZIPwM5HFO4pnQNPDow33HnB7TGWy7cpap1CeiVSP4kdk07ZhrQmLk-7iZZr5Ah4v_adGKYOS5zU8HdqhVwyaHk_dPtQ1nJq0pKGhWhdgayUeB_pcxum_9jabf2k0rX57YsD_pD75pjq_3LQNRrKv8C-ZQEUg.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'linux',
+	channel: 'compute',
+	articleId: '305626b3110d487b0c04d2d9',
+	templateId: '65',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard4', 'pos':'btf3', 'sizes':[[300, 250], [300, 253], [4, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "inArticleVideoAdX",
+bucketDescription: "InArticleVideo AdX - Scroll to Play and Pause",
+bucketName: "inArticleAdX",
+bucketTrackingId: "16",
+bucketValue: 1
+},{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe10"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062425628",
+loadTimeTaken : "3233"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"inArticleVideoAdX",
+bucketDescription:"InArticleVideo AdX - Scroll to Play and Pause",
+bucketName:"inArticleAdX",
+bucketTrackingId:"16",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe10"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446062425628",
+loadTimeTaken : "3233"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm" + location.hash,
+title: "How To Kill Linux Programs And Applications",
+contentGroup: "Articles",
+gs: "linux",
+ch: "compute",
+authorId: "132058",
+templateId: "65",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "commands",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "How To Kill Linux Programs And Applications",
+characterCount: 3104,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-10-20",
+updateDate: "2015-10-20",
+numOfImages: 1,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_linux tt65",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test99 test79 test16 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'compute',
+gs = 'linux',
+zccnt = '3104',
+zGAst = 'How To Kill Linux Programs And Applications',
+zAth = '132058',
+zTt = '65',
+zGAtg ='Articles',
+google_ad_channel = 'primedia_linux tt65',
+cat0 = 'commands/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test99 test79 test16 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/compute/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/compute/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/compute/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/compute/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm" />
+<title>How To Kill Linux Programs And Applications</title>
+<meta name="description" content="This guide highlights 5 ways to kill non-responsive Linux programs and applications, including kill, xkill, top, system monitor and pkill" itemprop="description">
+<meta name="sailthru.tags" content="compute,linux" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="How To Kill Linux Programs And Applications" />
+<meta property="article:section" content="Tech" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Tech" />
+<meta property="og:url" content="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm" />
+<meta property="og:title" content="How To Kill Linux Programs And Applications" />
+<meta property="og:description" content="This guide highlights 5 ways to kill non-responsive Linux programs and applications, including kill, xkill, top, system monitor and pkill" />
+<meta property="og:image" content="http://f.tqn.com/y/linux/1/S/p/O/1/systemmonitor.png" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="How To Kill Linux Programs And Applications" />
+<meta name="twitter:image" content="http://f.tqn.com/y/linux/1/S/p/O/1/systemmonitor.png" />
+<meta name="articleSection" content="compute" itemprop="articleSection" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="flexArticle">
+<!-- Google Tag Manager (Compute) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-56JFV2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-56JFV2');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="p-col">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/compute" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite compute-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://linux.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Linux" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="linux">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+<div class="s-btns js-share">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended bottom">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Tech</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://linux.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Linux</span>
+</a>			</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://linux.about.com/od/commands/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Linux Commands and Shell Commands</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">5 Ways To Kill A Linux Program</h1>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://linux.about.com/bio/Gary-Newell-132058.htm" data-component="byLineDefault" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/132058.gif" width="50" height="50" data-load="lazy" /></a>
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://linux.about.com/bio/Gary-Newell-132058.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Gary Newell</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://linux.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Linux Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended top">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="electronsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Electronics & Gadgets</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_linux">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Linux</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="healthtipsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Health Tip of the Day</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Linux Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://linux.about.com/od/linux101/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Linux <span class="last">101<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/glossary/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Linux and Computing <span class="last">Glossaries<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/howtos/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Linux <span class="last">HowTos<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/commands/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Linux Commands and Shell <span class="last">Commands<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/dist/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Linux Distributions - <span class="last">Index<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/linuxdocumentation/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Linux <span class="last">Documentation<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/embedded/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Embedded <span class="last">Linux<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/soft/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Linux Software Applications - <span class="last">Index<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/opensource/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> Open Source <span class="last">Issues<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/news/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Linux and Technology <span class="last">News<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/linuxonlinecourses/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Linux Online <span class="last">Courses<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/linux101/u/userpathI.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Get Started on <span class="last">Linux<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/linux101/u/userpathII.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Explore Linux <span class="last">Further<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://linux.about.com/od/linux101/u/userpathIII.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> Become a Linux <span class="last">Guru<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://linux.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/linux/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+
+
+<article class="content widget widget-alt expert-content expert-content-text" itemprop="articleBody">
+	
+
+
+			<div class="content-img-wrapper">
+				<figure class="content-img right-gutter ">
+					<div class="content-img-wrapper ">
+<img src="http://f.tqn.com/y/linux/1/W/p/O/1/systemmonitor.png" alt="Kill Linux Programs - " width="385" height="208" class="" data-description="How To Kill Linux Programs And Applications: Kill Linux Programs" itemprop="image" >
+			
+<a href="http://pinterest.com/pin/create/button/?url=http://linux.about.com/od/commands/fl/5-Ways-To-Kill-A-Linux-Program.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/linux/1/S/p/O/1/systemmonitor.png&description=How To Kill Linux Programs And Applications: Kill Linux Programs" data-component="contentFlexArticle" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a>					</div>
+		
+					<figcaption class="content-img-subtitle">
+							<div class="content-img-caption">
+									Kill Linux Programs.&nbsp;
+							</div>
+					</figcaption>
+					
+								
+				</figure>
+			</div>
+
+
+
+	
+
+
+
+		<p>This article will show you various ways to kill an application within Linux.</p><p>Imagine you have <a href="http://browsers.about.com/od/historylesson/a/firefoxhistory.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1">Firefox</a> running and for whatever reason a <a href="http://www.computerworld.com/article/2948012/security/adobe-flash-must-die-firefox-facebook-itbwcw.html" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="2" rel="nofollow">dodgy Flash script</a> has left your browser not responding. What would you do to close the program?</p><p>Within Linux there are a multitude of ways to kill any application. This guide will show you 5 of them.</p><h3>Kill Linux Applications Using The Kill Command</h3><p>The first method is to use the ps and kill commands.</p>
+<div id="adsense1" adsense-numlinks="3" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+
+	
+		<div id="radlinks3" data-num-links="5" data-character-limit="null" data-display-label="false" data-display-inline="true" class="radlinks ads-half"></div>
+	
+
+		<p class="cb-split"> The advantage of using this method is that it will work on all Linux systems.</p><p>The kill command needs to know the process ID of the application you need to kill and that is where ps comes in.</p><blockquote><p>ps -ef | grep firefox</p></blockquote><p>The ps command lists all the running processes on your computer. The -ef switches provide a full format listing.</p>
+<div id="inArticleVideo" data-defer="onPageLoad"></div>
+		<p class="cb-split"> Another way to get the list of processes is to run the top command.</p><p>Now that you have the process id you can simply run the kill command:</p><blockquote><p>kill pid</p></blockquote><p>For example:</p><blockquote><p>kill 1234</p></blockquote><p>If after running the kill command the application still doesn&#39;t die you can force it by using the -9 switch as follows:</p><blockquote><p>kill -9 1234</p></blockquote><h3>Kill Linux Applications Using XKill</h3><p>A simpler way of killing graphical applications is to use the XKill command.</p><p>All you have to do is either type <a href="https://en.wikipedia.org/wiki/Xkill" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="3">xkill</a> into a terminal window or if your desktop environment includes a run command feature enter xkill into the run command window.</p><p>A cross hair will appear on the screen. Now click on the window you want to kill.</p><h3>Kill Linux Applications Using The Top Command</h3><p>The <a href="http://linux.about.com/od/commands/fl/The-Linux-Top-Command.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="4">Linux top command</a> provides a terminal task manager which lists all of the running processes on the computer.</p>
+<div id="adsense2" adsense-numlinks="2" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+
+		<p>To kill a process within the top interface simply press the &#39;k&#39; key and enter the process id next to the application you wish to close.</p><h3>Use PGrep and PKill To Kill Applications</h3><p>The ps and kill method used earlier is fine and is guaranteed to work on all Linux based systems.</p><p>Many Linux systems have a shortcut method for performing the same task using <a href="http://linux.about.com/library/cmd/blcmdl1_pgrep.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="5">PGrep</a> and <a href="http://linux.about.com/library/cmd/blcmdl1_pkill.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="6">PKill</a>.</p>
+
+		<p>PGrep lets you enter the name of a process and it returns the process ID.</p><p>For example:</p><blockquote><p>pgrep firefox</p></blockquote><p>You can now plug the returned process ID into pkill as follows:</p><blockquote><p>pkill 1234</p></blockquote><p>Wait though. It is actually simpler than that. The PKill command can actually accept the name of the process as well so you can simply type:</p><blockquote><p>pkill firefox</p></blockquote><p>This is fine if you only have one instance of the application but is a little bit less useful if you have multiple Firefox windows open and you just want to kill one. XKill is much more useful in this situation.</p><h3>Kill Applications Using System Monitor</h3><p>If you are using the <a href="https://www.gnome.org/" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="7">GNOME desktop environment</a> you can use the System Monitor tool to kill unresponsive programs.</p><p>Simply bring up the activities window and type &#34;System Monitor&#34; into the search box.</p><p>Click on the icon and a graphical task manager will appear.</p><p>Scroll down the list of running processes and find the application you wish to close. Right click on the item and choose either &#34;end process&#34; or &#34;kill process&#34;. &#34;End Process&#34; tries a nice little nudge along the lines of &#34;please would you mind shutting down&#34; whereas the &#34;Kill Process&#34; option goes for the unceremonious &#34;get off my screen, now&#34;.</p>
+
+	
+	
+	
+
+</article>
+
+	<div class="append-amz-shop">
+	</div>
+
+<div class="append-content">
+    
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Related Articles</h5>
+<ul>
+<li><a href="http://linux.about.com/od/lts_guide/a/gdelts35.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="1">GNU/Linux Command-Line Tools - Controlling Processes</a></li>
+<li><a href="http://linux.about.com/od/itl_guide/a/gdeitl35t03.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="2">Displaying process information</a></li>
+<li><a href="http://linux.about.com/od/commands/tp/11-Linux-Terminal-Commands-That-Will-Rock-Your-World.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="3">15 Linux Terminal Commands That Will Rock Your World</a></li>
+<li><a href="http://linux.about.com/od/commands/a/System-Shutdown-And-Restart.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="4">The Correct Way to Shutdown or Restart Linux</a></li>
+<li><a href="http://linux.about.com/od/commands/fl/How-To-Run-Linux-Programs-From-The-Terminal-In-Background-Mode.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="5">How To Run Linux Applications From The Terminal In Background Mode</a></li>
+<li><a href="http://linux.about.com/cs/linux101/g/processlparproc.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="6">process (process ID, PID)</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading p-col slab-heading">Our Expert Recommends</h5>
+<ul>
+<li>
+<a href="http://linux.about.com/od/commands/fl/How-To-Find-Linux-Commands-And-Programs-Using-Whereis.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="1"> How To Find Linux Commands And Programs Using Whereis
+</a> </li>
+<li>
+<a href="http://linux.about.com/od/glossary/fl/Use-The-Arch-Command-To-Find-Out-Your-Computers-Architecture-Type.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="2"> Use The Arch Command To Find Out Your Computer's Architecture Type
+</a> </li>
+</ul>
+<ul>
+<li>
+<a href="http://linux.about.com/cs/linux101/g/shlvl.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="3"> What is a Linux shell and what are shell levels
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+<div id="zergnet" data-defer="onScroll"></div>
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Linux Essentials
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://linux.about.com/od/commands/tp/11-Linux-Terminal-Commands-That-Will-Rock-Your-World.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/linux/1/P/m/J/1/keyboardshortcuts.png" alt="Linux Keyboard Shortcuts - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>15 Linux Terminal Commands That Will Rock Your World</span>
+</div>
+<span class="site-name">Linux Commands and Shell Commands</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://linux.about.com/od/howtos/ss/How-To-Create-A-Persistent-Bootable-Xubuntu-Linux-USB-Drive.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/linux/1/P/2/J/1/xubuntudesktop.png" alt="Xubuntu 14.10 Desktop - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>3 Ways To Create A Lightweight And Persistent Xubuntu Linux USB Drive</span>
+</div>
+<span class="site-name">Linux HowTos</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://linux.about.com/od/LinuxNewbieDesktopGuide/ss/The-Ultimate-Windows-7-And-Ubuntu-Linux-Dual-Boot-Guide.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/linux/1/P/F/I/1/livedesktop.png" alt="Ubuntu Live Desktop - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Dual Boot Windows 7 And Ubuntu Linux In 18 Easy Steps</span>
+</div>
+<span class="site-name">Linux Newbie Desktop Guide</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://linux.about.com/od/LinuxNewbieDesktopGuide/ss/The-Ultimate-Windows-81-And-Ubuntu-Dual-Boot-Guide.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/linux/1/P/t/H/1/desktop1.png" alt="Ubuntu 14.04 LTS - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>The Ultimate Windows 8.1 And Ubuntu 14.10 Dual Boot Guide</span>
+</div>
+<span class="site-name">Linux Newbie Desktop Guide</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://linux.about.com/od/Blog/tp/30-Things-To-Do-After-Installing-Ubuntu.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/linux/1/P/-/H/1/ubuntulauncher.JPG" alt="Ubuntu Launcher - " width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>33 Things To Do After Installing Ubuntu 15.04</span>
+</div>
+<span class="site-name">Linux Newbie Desktop Guide</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Tech Slideshows
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://minecraft.about.com/od/Minecraft-Guides/ss/Letrsquos-Make-A-Minecraft-Server.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/minecraft/1/P/G/-/-/-/Server-1.png" alt=" - Taylor Harris" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Let's Make A Minecraft Server!</span>
+</div>
+<span class="site-name">Minecraft</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://www.about.com/compute/topic/internetfacts" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/create/1/P/i/4/T/-/120170030-edit.jpg" alt="Golden Retriever using laptop - Elizabeth Aldridge/Moment/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Things You Should Know About the Internet</span>
+</div>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://voip.about.com/od/markettrends/ss/5-Steps-To-Save-on-Phone-Calls-To-Landline-And-Cell-Phones.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/voip/1/P/1/5/-/-/picjumbo.com_HNCK8495.jpg" alt="VoIP call to landline phone - Courtesy: Viktor Hanacek" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>How to Save on Call to Landline and Cell Phones</span>
+</div>
+<span class="site-name">Voice Over IP</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://webtrends.about.com/od/Gifs/ss/Create-a-GIF-of-Your-Own-with-the-Giphy-Cam-App.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/webtrends/1/P/U/f/-/-/Untitled-design-7-.jpg" alt=" - Screenshots of Giphy Cam for iOS" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Create GIFs in a Snap</span>
+</div>
+<span class="site-name">Trends</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Readers Recommend</h5>
+<ul>
+<li><a href="http://linux.about.com/od/commands/fl/Practical-Examples-Of-The-Zip-Command.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="1">How To Compress Files Using The Linux Command Line</a></li>
+<li><a href="http://linux.about.com/od/LinuxNewbieDesktopGuide/ss/The-Ultimate-Windows-81-And-Ubuntu-Dual-Boot-Guide.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="2">The Ultimate Windows 8.1 And Ubuntu 14.10 Dual Boot Guide</a></li>
+<li><a href="http://linux.about.com/od/howtos/ss/How-To-Dual-Boot-Windows-81-And-Linux-Mint.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="3">How To Dual Boot Windows 8.1 And Linux Mint</a></li>
+<li><a href="http://linux.about.com/od/commands/l/blcmdl1_top.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="4">top - Linux Command - Unix Command</a></li>
+<li><a href="http://linux.about.com/od/LinuxNewbieDesktopGuide/ss/The-Ultimate-Windows-7-And-Ubuntu-Linux-Dual-Boot-Guide.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="5">Dual Boot Windows 7 And Ubuntu Linux In 18 Easy Steps</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="gpt billboard">
+<div id="billboard4" class="wrapper"></div>
+</div>
+            </div>
+
+    </div>
+</div><div id="flyin-placeholder" data-isDesktop="true">
+<div id="flyin-container" data-id="flyin"></div></div>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/compute" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-compute"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-compute"><span class="sprite compute-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/compute" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Tech</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://linux.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Linux</span>
+</a>			</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://linux.about.com/od/commands/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1">						<span >Linux Commands and Shell Commands</span>
+</a>				</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					5 Ways To Kill A Linux Program
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/compute" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutdotcomtech" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutdotcomtech" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/abouttech" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_abouttech" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/compute" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Tech</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="computersl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-compute"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1UtFOwzAM_CGk_gMIBFJBkwa8O6m3enPjzXHGuq8nsGkko31xnJzPd06yiU2HK0hsDZNrDhg60SYKRIO7TQ2Ck2S3hxeG9SpmjJOcpVdhnoQ-SS0BL2A9TX2maKLjjOpmn1DHFk5jK9DNFO0YPPbCHWpZQcFQA3CTjM5hEs0HqOeoWEtcZF-GbD6WyJrFAb_B4S9zUIkP-X5_wxMd665XZImgvq8ExW9bhDyHE9CKFcXTj1nxacBgyx4U_-Mthe1HHrQy6zS39JoGF4v8XVPwZRl0sVHoOLeo6AG_IqPl2yrSmZcYgNj36LeVNcRXqd2CGnnGx0yzODHmjgLZvYUSOlCHsmAYs5EiL0tOqOuA17WEVjxSOMcZ7-4YmW6-kAeVFLH6OHjccR7noYcQkOPtvhIVHeI3O1lXQA.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02linux-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'Linux, ',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'medium',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="flexArticle" data-source="flexArticle" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('linux', '<a href="#" data-component="flexArticle" data-source="flexArticle" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529941.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

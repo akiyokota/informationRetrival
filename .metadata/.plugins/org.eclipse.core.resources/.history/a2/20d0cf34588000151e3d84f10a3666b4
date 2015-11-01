@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+
+ data-ch="homepage"
+ data-gs="www"
+
+ itemscope itemtype="http://schema.org/WebPage">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe0" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446058816075" loadTimeTaken="3484" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1UltOAzEMvBBoz0Al-gUU8TiAN_FmrWbjyHb6uD2l7QJJl5_YmslMRnacaudxgBKtE1S0O3dC3AgpYdQOei52n90Z1SxkeG5nycDJtELsmHEWzFhfzDhpo5SpRjRCXwHuZI7JWrdBECeQLcqjCEvFFaNIRlg7Ux06CPnWFLx2IduD_0xkS6SAj5S22nIhcg_xBXZdgl0PdRzeoUQ4VtgEejmW0TUd0K9LjPVs2BHETkcQXF2m2Qb5cXhHEDeu-FDRI0_4CqGehGa2SGH8093s7vhECfVa_w21yUYLoeZXPwSTpxQqck8-oN1orp_vjfc31IBgRdB_cCZX79iBcFGMi-DmsofWThGfWdofzYZyLa0g4V4j2veF3_YLHkI-bQ.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'www',
+	channel: 'homepage',
+	articleId: '',
+	templateId: '19',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe0"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe0"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446058816075",
+loadTimeTaken : "3484"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://www.about.com/" + location.hash,
+title: "",
+contentGroup: "Homepage",
+gs: "www",
+ch: "homepage",
+authorId: "",
+templateId: "19",
+googleAdClient: "ca-aj-about-premium",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "",
+cat1: "",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "",
+characterCount: "",
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "",
+updateDate: "",
+numOfImages: "",
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_channel_homepage tt19",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'homepage',
+gs = 'www',
+zccnt = '0',
+zGAst = '',
+zAth = '',
+zTt = '19',
+zGAtg ='Homepage',
+google_ad_channel = 'primedia_channel_homepage tt19',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-premium';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/default/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/default/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/default/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/default/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/default/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/default/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/default/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/default/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://www.about.com/" />
+<title>About.com</title>
+<meta name="description" content="The largest source for Expert content on the Internet that helps users answer questions, solve problems, learn something new or find inspiration." itemprop="description">
+<!-- Pinterest Pins -->
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="About.com" />
+<meta property="og:image" content="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:image" content="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="application/ld+json">
+{
+   "@context": "http://schema.org",
+   "@type": "WebSite",
+   "url": "http://www.about.com/",
+   "potentialAction": {
+     "@type": "SearchAction",
+     "target": "http://search.about.com/?q={query}",
+     "query-input": "required"
+   }
+}
+</script></head>
+<body id="homePage">
+<!-- Google Tag Manager () -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W82XPQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W82XPQ');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="muted">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://www.about.com/">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/" data-component="mastFixedFull" data-source="mastFixedFull" data-type="channel.logo" data-ordinal="1">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite scroll-dotcom"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://search.about.com/">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="About" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-3">
+					<div class="inactive mast-share share-btns pull-right">
+
+<div id="shareButtons" class="share-btns">
+			<div class="heading">Follow us</div>
+		<div class="buttons"><a href="https://www.facebook.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelFacebook_aboutdotcom" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn " target="_blank"> <span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelTwitter_aboutdotcom" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn " target="_blank"> <span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn " target="_blank"> <span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn " target="_blank"> <span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a></div>
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><header class="mast static p-bg mast-no-group-nav">
+	<div class="container">
+		<div class="row">
+			<div class="col col-4" itemscope itemtype="http://schema.org/Organization">
+				<meta itemprop="name" content="About.com" />
+<a href="http://www.about.com/" data-component="mast" data-source="mast" data-type="homepage.logo" data-ordinal="1" itemprop="url" class="mast-logo pull-left">						<div class="sprite logo-top" itemprop="logo"></div>
+						<div class="sprite top-dotcom"></div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-6">
+<form class="mast-search s-b-col" method="get" action="http://search.about.com/">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="About" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="mast-share share-btns pull-right">
+
+<div id="shareButtons" class="share-btns">
+			<div class="heading">Follow us</div>
+		<div class="buttons"><a href="https://www.facebook.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelFacebook_aboutdotcom" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn " target="_blank"> <span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelTwitter_aboutdotcom" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn " target="_blank"> <span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutdotcom/" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelPinterest_aboutdotcom" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn " target="_blank"> <span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtonsAboutNetwork" data-source="Social_FollowChannel" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn " target="_blank"> <span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a></div>
+
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header>
+<main id="main" class="slab">
+	<div class="container homepage">
+		<div class="row spotlight-trending">
+			<div class="col col-11">
+				
+
+<div class="widget">
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-hero">
+<a href="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="1" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/T/J/E/U/-/GettyImages-184314292.jpg" alt="" width="676" height="437" class="landing-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="1" class="heading-link">Forgot a Costume? DIYs You Can Make ASAP</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/5856.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://familycrafts.about.com/bio/Sherri-Osborn-5856.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="1" class="muted"> <span class="byline-heading">Sherri Osborn</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://familycrafts.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="1" class="muted">		                	Family Crafts Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://familycrafts.about.com/od/costumeideas/tp/fastcostume.htm"
+data-social-title="Forgot a Costume? DIYs You Can Make ASAP"
+data-description="Here are some creative, last-minute costumes you can throw together quickly to wear for Halloween trick-or-treating or to a party."
+data-social-image="http://f.tqn.com/y/create/1/S/J/E/U/-/GettyImages-184314292.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="2" class="spotlight-image-link"><img src="http://f.tqn.com/y/thaifood/1/U/Z/j/pumpkincustard640.jpg" alt="Beautiful Thai Pumpkin Custard - Taken by D.Schmidt for About.com (Copyright)" width="215" height="216" class="" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="2" class="heading-link">This Pumpkin Custard Is Baked ... in a Pumpkin</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://thaifood.about.com/od/thaidesserts/r/Pumpkin-Custard-Baked-in-a-Pumpkin.htm"
+data-social-title="This Pumpkin Custard Is Baked ... in a Pumpkin"
+data-description="A spectacular autumn dessert that will receive ooo's and ahh's from your guests. Pumpkin custard is a common fall favorite, but this Thai version is baked inside a small pie pumpkin, and both are sliced and eaten together with a drizzle of syrup or caramel sauce over top. Perfect for a Thanksgiving dessert or Halloween treat!"
+data-social-image="http://f.tqn.com/y/thaifood/1/S/Z/j/pumpkincustard640.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="2" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="2" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="2" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="2" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-sidekick-mini">
+<a href="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="3" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/U/C/E/U/-/lulus.jpg" alt="" width="215" height="216" class="" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="3" class="heading-link">Where to Find Cute Cocktail Dresses for Cheap</a>
+             </h2>
+<div class="share-options-container open-left ">
+<div class="share-btns share-options popout"
+data-url="http://budgetstyle.about.com/od/styleessentials/tp/Where-to-Find-Cute-Cocktail-Dresses-Without-Spending-a-Fortune.htm"
+data-social-title="Where to Find Cute Cocktail Dresses for Cheap"
+data-description="While this is easily my favorite time of the year, it can also be a time of immense wardrobe juggling depending on how many parties you have to attend. If you want to mix up your wardrobe check out these online shopping destinations where you will find cute cocktail dresses without spending a fortune."
+data-social-image="http://f.tqn.com/y/create/1/S/C/E/U/-/lulus.jpg">
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="3" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="3" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="3" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="3" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="3" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder "></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-sidekick">
+<a href="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="4" class="spotlight-image-link"><img src="http://f.tqn.com/y/cocktails/1/X/k/n/-/-/Lychee-Eyeball-Garnish.jpg" alt="Lychee Eyeball Garnish for Halloween Cocktails - Photo Courtesy: &copy; Shannon Graham" width="640" height="437" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="4" class="heading-link">Creepy and Amazing Ways to Garnish Cocktails</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://cocktails.about.com/bio/Colleen-Graham-18097.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/18097.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://cocktails.about.com/bio/Colleen-Graham-18097.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="2" class="muted"> <span class="byline-heading">Colleen Graham</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://cocktails.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="2" class="muted">		                	Cocktails Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://cocktails.about.com/od/embellishments/tp/Creepy-Cocktail-Garnishes.htm"
+data-social-title="Creepy and Amazing Ways to Garnish Cocktails"
+data-description="Halloween is an ideal occasion to get creative with garnishing cocktails. These ideas are a good starting place to fuel your creepy garnish adventure."
+data-social-image="http://f.tqn.com/y/cocktails/1/S/k/n/-/-/Lychee-Eyeball-Garnish.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="4" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="4" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="4" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="4" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="4" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+	<div class="spotlight-unit spotlight-unit-wide spotlight-unit-sidekick last">
+<a href="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm" data-component="spotlight" data-source="spotlight" data-type="image" data-ordinal="5" class="spotlight-image-link"><img src="http://f.tqn.com/y/create/1/X/D/E/U/-/GettyImages-475230910-copy.jpg" alt="" width="640" height="437" class="channel-feature spotlight-image" >
+</a>        <div class="content">
+             <h2 class="heading">
+                <a href="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm" data-component="spotlight" data-source="spotlight" data-type="spotlight.bestTitle" data-ordinal="5" class="heading-link">How to Stop Your Brain From Shrinking as You Age</a>
+             </h2>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://psychology.about.com/bio/Kendra-Cherry-17268.htm" data-component="spotlight" data-source="spotlight" data-type="authorId" data-ordinal="3" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/17268.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://psychology.about.com/bio/Kendra-Cherry-17268.htm" data-component="spotlight" data-source="spotlight" data-type="authorName" data-ordinal="3" class="muted"> <span class="byline-heading">Kendra Cherry</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://psychology.about.com/" data-component="spotlight" data-source="spotlight" data-type="authorSite" data-ordinal="3" class="muted">		                	Psychology Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://psychology.about.com/od/cognitivepsychology/fl/How-to-Prevent-Your-Brain-From-Shrinking-as-You-Age.htm"
+data-social-title="How to Stop Your Brain From Shrinking as You Age"
+data-description="The brain shrinks as we age, but researchers have found that exercise might be critical to protecting the brain from the damages of the aging process."
+data-social-image="http://f.tqn.com/y/create/1/S/D/E/U/-/GettyImages-475230910-copy.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="spotlight" data-source="spotlight" data-type="shareFacebook" data-ordinal="5" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareTwitter" data-ordinal="5" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="sharePinterest" data-ordinal="5" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareGoogleplus" data-ordinal="5" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="spotlight" data-source="spotlight" data-type="shareOptions" data-ordinal="5" class="share-btn share-options-btn"> <span class="sprite white-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay overlay_on"></div>		</div>
+	</div>
+
+</div>			</div>
+			<div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div class="hp-trending">
+	<h4 class="hp-trending-title p-col">Trending on About.com</h4>
+	<ul class="hp-trending-list">
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://top40.about.com/od/holidaymusic/ss/Top-10-Halloween-Songs.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="1">The 10 Best Halloween Songs</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/15651.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://top40.about.com/bio/Bill-Lamb-15651.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="1" class="muted"> <span class="by-line-heading">Bill Lamb</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://top40.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="1" class="muted">		                	Top 40 & Pop Music Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://travelwithkids.about.com/od/Staying-Healthy-on-Vacation/fl/6-Things-to-Disinfect-in-the-Airport-and-on-the-Plane.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="2">6 Things to Disinfect Every Time You Fly</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://travelwithkids.about.com/bio/Suzanne-Rowan-Kelleher-121501.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/121501.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://travelwithkids.about.com/bio/Suzanne-Rowan-Kelleher-121501.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="2" class="muted"> <span class="by-line-heading">Suzanne Rowan Kelleher</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://travelwithkids.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="2" class="muted">		                	Family Vacations Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://personalweb.about.com/od/socialmediamanagement/fl/How-to-Back-Up-Your-Facebook-Data-Download-Your-Facebook-Archive.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="3">How to Backup Facebook Data</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="3" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/90925.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://personalweb.about.com/bio/Leslie-Walker-90925.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="3" class="muted"> <span class="by-line-heading">Leslie Walker</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://personalweb.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="3" class="muted">		                	Social Media Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://bullying.about.com/od/Responses/a/8-Ways-To-Cope-With-Mean-Girls.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="4">8 Ways to Deal With Mean Girls</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="4" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/102617.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://bullying.about.com/bio/Sherri-Gordon-102617.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="4" class="muted"> <span class="by-line-heading">Sherri Gordon</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://bullying.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="4" class="muted">		                	Bullying Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+		<li>
+			<div class="wrapper">
+				<h4><a href="http://tattoo.about.com/od/tattoosgeneralinfo/tp/Top-10-Reasons-To-Not-Get-Tattooed.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="documentSummary.heading" data-ordinal="5">10 Reasons Not to Get Tattooed</a></h4>
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://tattoo.about.com/bio/Karen-L-Hudson-6802.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorId" data-ordinal="5" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/6802.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://tattoo.about.com/bio/Karen-L-Hudson-6802.htm" data-component="homePageTrending" data-source="homePageTrending" data-type="authorName" data-ordinal="5" class="muted"> <span class="by-line-heading">Karen L. Hudson</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://tattoo.about.com/" data-component="homePageTrending" data-source="homePageTrending" data-type="authorSite" data-ordinal="5" class="muted">		                	Tattoos & Body Piercings Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+			</div>
+		</li>
+	</ul>
+</div>			</div>
+		</div>
+		<div class="channel-row">
+			<div class="channel-row-header">
+				<a href="http://www.about.com/homegarden/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="channel.name" data-ordinal="1"><div class="channel-row-header-wrapper"><div class="sprite channel-header-about"></div></div><div class="channel-row-header-wrapper"><div class="sprite channel-header-homegarden"></div><span class="channel-row-see-all">See all &raquo;</span></div></a>
+			</div>
+				<div class="row">
+							<article class="col col-4">
+<a href="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="1"><img src="http://f.tqn.com/y/quilting/1/Y/M/C/0/-/Vintage-Quilt-with-Sashing-edit.jpg" alt="Quilt - Marcie Cheatham / E+ / Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="1">10 Things Every Quilter Needs to Know</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://quilting.about.com/bio/Janet-Wickell-18651.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/18651.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://quilting.about.com/bio/Janet-Wickell-18651.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="1" class="muted"> <span class="by-line-heading">Janet Wickell</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://quilting.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="1" class="muted">		                	Quilting Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://quilting.about.com/od/quiltpatternsprojects/tp/quilting_skills.htm"
+data-social-title="10 Things Every Quilter Needs to Know"
+data-description="Ten important skills every quilter should know. A must-read for new quilters. Learn the ins and outs of quilting before you sew that first project."
+data-social-image="http://f.tqn.com/y/quilting/1/S/M/C/0/-/Vintage-Quilt-with-Sashing-edit.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Share on Twitter" class="twitter share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite twitter"></span><span class="sprite twitter-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Share on Pinterest" class="pinterest share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite pinterest"></span><span class="sprite pinterest-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share on Google+" class="googleplus share-btn" data-pin-do="skipLink" target="_blank"><span class="sprite googleplus"></span><span class="sprite googleplus-white"></span>
+</a><a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareOptions" data-ordinal="1" class="share-btn share-options-btn"> <span class="sprite homegarden-share-arrow"></span>
+</a> </span>
+</div>
+<div class="share-options-placeholder with-msg"></div>
+</div>
+<div class="share-options-overlay "></div>									</div>
+								</div>
+							</article>
+							<article class="col col-4">
+<a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.primaryImage" data-ordinal="2"><img src="http://f.tqn.com/y/homestaging/1/Y/7/7/-/-/Home-staging-tips-interior.jpg" alt="Home staging tips interiors - Getty Images" width="318" height="212" class="" >
+</a>								<div class="wrapper">
+									<h2 class="heading"><a href="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="article.bestTitle" data-ordinal="2">5 Budget-Friendly Home Staging Tips</a></h2>
+									<div class="group">
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorId" data-ordinal="2" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/135645.gif" width="40" height="40" data-load="lazy" /></a>
+		<div class="by-line-info">
+				<div class="muted">
+	                    <a href="http://homestaging.about.com/bio/Ronique-Gibson-135645.htm" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorName" data-ordinal="2" class="muted"> <span class="by-line-heading">Ronique Gibson</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://homestaging.about.com/" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="authorSite" data-ordinal="2" class="muted">		                	Home Staging Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+<div class="share-options-container open-left with-msg">
+<div class="share-btns share-options popout"
+data-url="http://homestaging.about.com/od/hst/ss/5-Budget-Home-Staging-Tips.htm"
+data-social-title="5 Budget-Friendly Home Staging Tips"
+data-description="Clear your home's clutter throughout your interiors for buyer appeal. Create curb appeal in your outdoor home to entice buyers to come inside."
+data-social-image="http://f.tqn.com/y/homestaging/1/S/7/7/-/-/Home-staging-tips-interior.jpg">
+<span class="share-msg">Share</span>
+<span>
+<a href="#" data-component="homePageChannelRows" data-source="homePageChannelRows" data-type="shareFacebook" data-ordinal="2" data-network="facebook" title="Share on Facebook" class="facebook share-btn first" data-pin-do="skipLink" target="_blank"><span class="sprite facebook"></span><span class="sprite facebook-white"></span>

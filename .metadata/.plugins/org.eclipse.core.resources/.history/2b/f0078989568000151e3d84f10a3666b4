@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html class="no-js" resource-version="1.55.0"  data-ab="99,99,79,99,12"
+ data-articleId="31560362a002bb858a004fd6"
+ data-ch="food"
+ data-gs="candy"
+ data-template-type="RECIPE"
+ itemscope itemtype="http://schema.org/Recipe">
+<!--
+<globe-environment environment="prod" application="globe" dataCenter="sj" serverName="sjglobe8" />
+<globe-server version="1.55.0" vendor="" title="Globe Server" />
+<globe-resources version="1.55.0" loadStartTime="1446061864279" loadTimeTaken="3213" />
+-->
+<head>
+
+    <link rel="dns-prefetch" href="//c.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//wms-na.amazon-adsystem.com/">
+    <link rel="dns-prefetch" href="//www.googletagmanager.com/">
+    <link rel="dns-prefetch" href="//www.googletagservices.com/">
+    <link rel="dns-prefetch" href="//www.google-analytics.com/">
+    <link rel="dns-prefetch" href="//partner.googleadservices.com/">
+    <link rel="dns-prefetch" href="//pagead2.googlesyndication.com/">
+    <link rel="dns-prefetch" href="//googleads.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//stats.g.doubleclick.net/">
+    <link rel="dns-prefetch" href="//ad.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//tags.crwdcntrl.net/">
+    <link rel="dns-prefetch" href="//www.zergnet.com/">
+    <link rel="dns-prefetch" href="//fj.about.com/">
+    <link rel="dns-prefetch" href="//f.tqn.com/">
+    <link rel="dns-prefetch" href="//ak.sailhorizon.com/">
+    <link rel="dns-prefetch" href="//horizon.about.com/">
+    <link rel="dns-prefetch" href="//cdn.optimizely.com/">
+    <link rel="dns-prefetch" href="//b.scorecardresearch.com/">
+    <link rel="dns-prefetch" href="//p.skimresources.com/">
+    <link rel="dns-prefetch" href="//r.skimresources.com/">
+    <link rel="dns-prefetch" href="//s.skimresources.com/">
+    <link rel="dns-prefetch" href="//t.skimresources.com/">
+    <link rel="dns-prefetch" href="//z.moatads.com/">
+<meta name="lotame:channel" content="food"/>
+<meta name="lotame:site" content="candy"/>
+<meta name="lotame:category" content="Special Occasions and Holiday Candy Recipes"/>
+<meta name="lotame:subcategories" content="[Halloween Candy Recipes]"/>
+<script id="lotameScript" type="text/javascript" src="//ad.crwdcntrl.net/5/c=5047/pe=y/var=ccauds" async></script><script type="text/javascript">
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		gads.src = "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><link type="text/css" rel="stylesheet" href="http://fj.about.com/css/1.55.0/cache/eNp1VMty2zAM_KFm9A1xp50enPSQtneIXMsY0wQHhBQrX186qhNTVA8SiV0QAPGgy7nzONAYrFNk2BdXEHekGBFyR72M9pDcO5qTsqFWOIj4G3-zc5BouUJsTlhr9aOZxLw6qecayYH6CnDFOKI1PhU4k56g31RFK240DmyM2jKjEgfl5iLkczcke_S_I9sWqeQDx1Nec0OQnsIzTV2kqac6HJmggeYKO1Neft_5Ar9NbaMvIHXHnVwqOog77UEe2gtpc7Esjil0Ea8vR1LsNkpBauwCfrwbqaWmklpgp-O5z_f7Rm3ec0T-t1ZUCSQHmBVPn9u67Kxuz_lzs7b-yn6ANU4dGQbReTl7J9T5AJ5E65gOAZfH5doVrpi45M1IG2cKx22jcxwUnrEeiqRIpGQscas4iUvT7azmJvaQxm8q7bTUsE44vRHpH2HXxHTt2iYLb9Ah4mNtRizMHJd_U5rdqsdxSaEk9OvtmVjJqxKpjBmhdgaysaTtlyR22_o_lzlqXx-59tGy_Kfx813Xb811-RDzNWt_AdsR9D0.min.css"></link>
+<script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1kMsKwjAQRX9IyD8o4rZIcJ_HVdMmmZpMjPHrdVGwSLq6cM4wM1xDYaaIyFlYXFXxLDRVJDE-ClJbYjf-tHdaPBEtJWGIJof8bws777gjlKbCg7rhGDk12WZsTlwc6lpunFoeCWSRonunQ8lMobv1NMguP8v9mkfU7MH8rcDcYSZNL-QPDalwZQ.min.js"></script>
+<script src="//cdn.optimizely.com/js/1034291028.js" type="text/javascript"></script><script type="text/javascript">// RTB timeout
+Abt.RTB.timeout = 600;
+
+
+// Push bidder configs to RTB
+// MUST HAVE A CORRESPONDING PLUGIN OBJECT IN aboutRTB.js
+		Abt.RTB.rtbConfig.push({
+			amazon : '3222'
+		});
+		Abt.RTB.rtbConfig.push({
+			index : '16626'
+		});
+//Set mpt and GMCID cookies
+setCookieValue();
+
+
+Abt.GPT.initGPT({
+	site: 'candy',
+	channel: 'food',
+	articleId: '31560362a002bb858a004fd6',
+	templateId: '28',
+	articleStamp: '',
+	pageCount: '1',
+	videoOnPage: 0,
+	companion: false,
+	minimalTemplate: false,
+	hgt: '' + window.screen.height,
+    wdth: '' + window.screen.width,
+	isMobile: false,
+	singleRequest: false,
+	retainHeight: false,
+	wValue: '' + 1280,
+	infValue: '' + 0,
+	slots: [
+		{'id':'leaderboard', 'pos':'atf', 'sizes':[[728, 90], [970, 250], [970, 90], [1, 1]], 'type':'leaderboard', 'priority':'1'},
+	
+		{'id':'billboard', 'pos':'atf', 'sizes':[[300, 250], [300, 600], [300, 1050]], 'type':'billboard', 'priority':'5'},
+	
+		{'id':'billboard2', 'pos':'btf1', 'sizes':[[300, 250], [300, 251], [2, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard3', 'pos':'btf2', 'sizes':[[300, 250], [300, 252], [3, 1]], 'type':'billboard', 'priority':'99'},
+	
+		{'id':'billboard4', 'pos':'btf3', 'sizes':[[300, 250], [300, 253], [4, 1]], 'type':'billboard', 'priority':'99'}
+	]
+});
+// analytics/404.ftl
+
+
+var dataLayer = dataLayer || [];
+dataLayer.push({
+abTests: [{
+testName: "indexTest",
+bucketDescription: "enabled",
+bucketName: "enabled",
+bucketTrackingId: "99",
+bucketValue: 1
+},{
+testName: "lock728Test",
+bucketDescription: "in test, lock leaderboard until scrolled to share buttons",
+bucketName: "lockToShareBtns",
+bucketTrackingId: "79",
+bucketValue: 2
+},{
+testName: "optimizelyInclusion",
+bucketDescription: "Include Optimizely snippet",
+bucketName: "optimizely",
+bucketTrackingId: "12",
+bucketValue: 0
+},{
+testName: "relatedClickabilityTest",
+bucketDescription: "mongo bucket",
+bucketName: "mongo",
+bucketTrackingId: "99",
+bucketValue: 2
+},{
+testName: "soastaBoomerang",
+bucketDescription: "Variation includes Boomerang script at the bottom of the page",
+bucketName: "includeBoomerang",
+bucketTrackingId: "99",
+bucketValue: 1
+}
+],
+envData: {
+environment: {
+environment: "prod",
+application: "globe",
+dataCenter: "sj",
+serverName: "sjglobe8"
+},
+server: {
+version: "1.55.0",
+vendor: "",
+title: "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061864279",
+loadTimeTaken : "3213"
+},
+client : {
+browserUA : "navigator.userAgent",
+serverUA : "Java/1.7.0_67"
+}
+}
+});
+// AB Testing
+dataLayer.push({
+abTests: [{
+testName:"relatedClickabilityTest",
+bucketDescription:"mongo bucket",
+bucketName:"mongo",
+bucketTrackingId:"99",
+bucketValue:2
+},{
+testName:"indexTest",
+bucketDescription:"enabled",
+bucketName:"enabled",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"lock728Test",
+bucketDescription:"in test, lock leaderboard until scrolled to share buttons",
+bucketName:"lockToShareBtns",
+bucketTrackingId:"79",
+bucketValue:2
+},{
+testName:"soastaBoomerang",
+bucketDescription:"Variation includes Boomerang script at the bottom of the page",
+bucketName:"includeBoomerang",
+bucketTrackingId:"99",
+bucketValue:1
+},{
+testName:"optimizelyInclusion",
+bucketDescription:"Include Optimizely snippet",
+bucketName:"optimizely",
+bucketTrackingId:"12",
+bucketValue:0
+}]
+});
+//Environment Tracking
+var envData = {
+environment : {
+environment : "prod",
+application : "globe",
+dataCenter : "sj",
+serverName : "sjglobe8"
+},
+server : {
+version : "1.55.0",
+vendor : "",
+title : "Globe Server"
+},
+resources : {
+version : "1.55.0",
+loadStartTime : "1446061864279",
+loadTimeTaken : "3213"
+},
+client : {
+browserUA : navigator.userAgent,
+serverUA : "Java/1.7.0_67"
+}
+};
+dataLayer.push({ envData: envData });
+if ((typeof opt_testid !== 'undefined') && (opt_testid !== '')){
+docCookies.setItem("opt_testid", opt_testid, null, "/", '.about.com');
+} else if (docCookies.getItem('opt_testid')) {
+var opt_testid = docCookies.getItem('opt_testid');
+} else {
+var opt_testid = '';
+}
+Abt.PageView.init({
+event: "unifiedPageview",
+fullUrl: "http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm" + location.hash,
+title: "3-D Chocolate Truffle Pumpkins",
+contentGroup: "Articles",
+gs: "candy",
+ch: "food",
+authorId: "23434",
+templateId: "28",
+googleAdClient: "ca-aj-about-basic",
+zBT: "",
+zBsT: "",
+zBTr: "",
+cat0: "specialoccasions",
+cat1: "halloweencandyrecipes",
+cat2: "",
+cat3: "",
+cat4: "",
+socialTitle: "3-D Chocolate Truffle Pumpkins Too Good To Share With Trick-or-Treaters",
+characterCount: 2983,
+nativeAdEnabled: false,
+experienceType: "single page",
+currentPageOrdinal: "",
+previousPageOrdinal: "",
+pageviewType: "standard",
+templateVariation: "",
+entryType: docCookies.getItem('pageEntryType') || "direct",
+publishDate: "2015-09-24",
+updateDate: "2015-09-24",
+numOfImages: 1,
+numOfPages: 1,
+numOfArticleWords: "",
+numOfLinks: "",
+excludeFromComscore: false,
+socialImage: "",
+description: ""
+});
+(function() {
+var google_ad_channel = "primedia_candy tt28",
+askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((typeof opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+google_ad_channel += ' test99 test99 test79 test99 test12';
+Abt.PageView.setData({
+googleAdChannel: google_ad_channel
+});
+}());
+Abt.PageView.ga();
+var ch = 'food',
+gs = 'candy',
+zccnt = '2983',
+zGAst = '3-D Chocolate Truffle Pumpkins Too Good To Share With Trick-or-Treaters',
+zAth = '23434',
+zTt = '28',
+zGAtg ='Articles',
+google_ad_channel = 'primedia_candy tt28',
+cat0 = 'specialoccasions/',
+cat1 = 'halloweencandyrecipes/',
+google_ad_client = (docCookies.getItem('mpt') == 'A1') ? 'ca-aj-about-sem' : 'ca-aj-about-basic';
+(function() {
+var askoc = docCookies.getItem('askoc'),
+mptCookie = docCookies.getItem('mpt');
+google_ad_channel += ((typeof askoc !== 'undefined' && askoc !== null) ? ' '+askoc+' semd' : '');
+google_ad_channel += ((opt_testid !== 'undefined' && opt_testid !== null) ? (' test' + opt_testid) : '');
+google_ad_channel += ((typeof mptCookie !== 'undefined' && mptCookie !== null) ? ' ' + mptCookie : '');
+}());
+google_ad_channel += ' test99 test99 test79 test99 test12';
+var google_ad_channel_window = google_ad_channel,
+google_ad_client_window = google_ad_client,
+zNative = 0,
+zBsT = docCookies.getItem('zBsT'),
+zBT = docCookies.getItem('zBT'),
+zBTr = docCookies.getItem('zBTr'),
+mpt = docCookies.getItem('mpt');</script><link rel="shortcut icon" href="http://fj.about.com/icons/1.55.0/food/favicon.ico">
+
+<link rel="icon" type="image/x-icon" href="http://fj.about.com/icons/1.55.0/food/favicon.ico">
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://fj.about.com/icons/1.55.0/food/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://fj.about.com/icons/1.55.0/food/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://fj.about.com/icons/1.55.0/food/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://fj.about.com/icons/1.55.0/food/apple-touch-icon-152x152.png">
+
+<meta name="msapplication-TileColor" content="#F4F4F4"/>
+<meta name="msapplication-TileImage" content="http://fj.about.com/icons/1.55.0/food/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="http://fj.about.com/icons/1.55.0/food/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="http://fj.about.com/icons/1.55.0/food/mstile-150x150.png">
+<meta name="msapplication-square310x310logo" content="http://fj.about.com/icons/1.55.0/food/mstile-310x310.png">
+<meta name="msapplication-wide310x150logo" content="http://fj.about.com/icons/1.55.0/food/mstile-310x150.png"><!--[if lte IE 8 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie8.min.css" type="text/css">
+<![endif]-->
+<!--[if IE 9 ]>
+	<link rel="stylesheet" href="http://fj.about.com/css/1.55.0/default/ie9.min.css" type="text/css">
+<![endif]--><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="robots" content="NOODP, NOYDIR" />
+
+<link rel="canonical" href="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm" />
+<title>3-D Chocolate Truffle Pumpkins</title>
+<meta name="description" content="3-D Chocolate Truffle Pumpkins are two candies in one! Eat the creamy truffle filling first, then gobble up the edible chocolate pumpkin shell." itemprop="description">
+<meta name="sailthru.tags" content="food,candy" />
+<!-- Pinterest Pins -->
+<meta itemprop="name" content="3-D Chocolate Truffle Pumpkins Too Good To Share With Trick-or-Treaters" />
+<meta property="article:section" content="Food" />
+<!-- Facebook Open Graph Tags -->
+<meta property="fb:app_id" content="121030274606741" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="About.com Food" />
+<meta property="og:url" content="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm" />
+<meta property="og:title" content="3-D Chocolate Truffle Pumpkins Too Good To Share With Trick-or-Treaters" />
+<meta property="og:description" content="3-D Chocolate Truffle Pumpkins are two candies in one! Eat the creamy truffle filling first, then gobble up the edible chocolate pumpkin shell." />
+<meta property="og:image" content="http://f.tqn.com/y/candy/1/S/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg" />
+<meta property="article:author" content="http://www.facebook.com/SugarHero" />
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@aboutdotcom" />
+<meta name="twitter:title" content="3-D Chocolate Truffle Pumpkins Too Good To Share With Trick-or-Treaters" />
+<meta name="twitter:description" content="3-D Chocolate Truffle Pumpkins are two candies in one! Eat the creamy truffle filling first, then gobble up the edible chocolate pumpkin shell." />
+<meta name="twitter:image" content="http://f.tqn.com/y/candy/1/S/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg" /><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+<body id="recipePage">
+<!-- Google Tag Manager (Food) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5NSNLX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5NSNLX');</script>
+<!-- End Google Tag Manager -->
+<nav class="navbar">
+	<div class="container group visible-md">
+		<a href="http://www.about.com/" data-component="globalNavbar" data-source="globalNavbar" data-type="aboutCom" data-ordinal="1" source="mainsitehomepage" class="navbar-brand">About.com</a>
+			<ul class="navbar-menu pull-left">
+						<li class="navbar-submenu inactive bg-food" data-dir-name="food" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/food/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="1" class="p-col">Food</a>
+						</li>
+						<li class="navbar-submenu inactive bg-health" data-dir-name="health" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/health/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="2" class="muted">Health</a>
+						</li>
+						<li class="navbar-submenu inactive bg-homegarden" data-dir-name="homegarden" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/homegarden/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="3" class="muted">Home</a>
+						</li>
+						<li class="navbar-submenu inactive bg-money" data-dir-name="money" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/money/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="4" class="muted">Money</a>
+						</li>
+						<li class="navbar-submenu inactive bg-style" data-dir-name="style" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/style/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="5" class="muted">Style</a>
+						</li>
+						<li class="navbar-submenu inactive bg-compute" data-dir-name="compute" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/compute/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="6" class="muted">Tech</a>
+						</li>
+						<li class="navbar-submenu inactive bg-travel" data-dir-name="travel" data-base-url="http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm">
+							<a href="http://www.about.com/travel/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="7" class="muted">Travel</a>
+						</li>
+							<li>
+								<div class="nav-more pull-left">
+									More
+									<span class="arrow arrow-down"></span>	
+									<div class="overlay nav-overlay">
+										<div class="hover-placeholder"></div>
+										<div class="arrow arrow-up"></div>
+										<ul class="navbar-submenu-list">
+											<li>
+												<a href="http://www.about.com/autos/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="8">Autos</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/people/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="9">Dating & Relationships</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/education/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="10">Education</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/entertainment/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="11">Entertainment</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/espanol/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="12">en Espa&ntilde;ol</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/careers/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="13">Careers</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/newsissues/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="14">News & Issues</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/parenting/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="15">Parenting</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/religion/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="16">Religion & Spirituality</a>
+											</li>
+											<li>
+												<a href="http://www.about.com/sports/" data-component="globalNavbar" data-source="ChannelHomepage_All" data-type="channel.displayName" data-ordinal="17">Sports</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</li>
+			</ul>
+	</div>
+</nav>
+<header class="mast mast-fixed p-bg " id="mast-fixed">
+<div class="container">
+		<div class="row">
+			<div class="col col-4 col-tablet-8">
+<a href="http://www.about.com/food" data-component="mastFixed" data-source="ChannelHomepage_morenav" data-type="channel.logo" data-ordinal="1" source="ChannelHomepage_MoveNav">						<div class="mast-logo pull-left">
+							<div class="sprite logo-scroll"></div><div class="sprite food-scroll"></div> 
+						</div>
+</a>			</div>
+				<div class="col col-7">
+<div class="row">
+		<div class="col col-7">
+<form class="mast-search s-b-col" method="get" action="http://candy.about.com/sitesearch.htm">
+	<div class="input-group input-group-plain input-shadow">
+       
+
+		<input type="text" name="q" validate="required" data-default="Candy" data-error-msg="Please enter something to search for." placeholder="Search..." value="">
+			<input type="hidden" name="boost" value="3">
+			<input type="hidden" name="SUName" value="candy">
+			<input type="hidden" name="useSolr" value="false">
+		<div class="input-group-btn">
+			<button class="btn" type="submit"><span class="sprite search"></span></button>
+		</div>
+	</div>
+</form>	</div>
+</div>
+				</div>
+				<div class="col col-4">
+					<div class="inactive mast-share share-btns pull-right">
+<div class="s-btns js-share">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended bottom">
+<a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTopScroll" data-source="Social_Share_TopScroll" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>					</div>
+				</div>
+		</div>
+	</div>
+</header><div class="gpt leaderboard">
+	<div class="leaderboard-wrapper"></div>
+	<div id="leaderboard" class="wrapper"></div>
+</div>
+<main id="main" class="slab">
+    <div class="container">
+        <div class="row">   
+        	<div class="col col-15">
+        	    
+<div class="breadcrumbs trunc">
+	<ul>
+		<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1" itemprop="url">				<span itemprop="title">About.com</span>
+</a>		</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/food" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">About Food</span>
+</a>			</li>
+			<li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://candy.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1" itemprop="url">					<span itemprop="title">Candy</span>
+</a>			</li>
+				<li>
+					<span class="separator sprite arrow-breadcrumb"></span>
+					<a href="#" data-component="breadcrumbs" data-source="breadcrumbs" data-type="ellipsis" data-ordinal="1" class="truncated">. . .</a>
+				</li>
+				<li class="hide-breadcrumb"  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://candy.about.com/od/specialoccasions/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1" itemprop="url">						<span itemprop="title">Special Occasions and Holiday Candy Recipes</span>
+</a>				</li>
+				<li  itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://candy.about.com/od/halloweencandyrecipes/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="2" itemprop="url">						<span itemprop="title">Halloween Candy Recipes</span>
+</a>				</li>
+		
+
+	</ul>
+</div>
+<div class="article-header article-header-full">
+	<h1 itemprop="headline ">3-D Chocolate Truffle Pumpkins</h1>
+</div>
+
+<div class="article-header-default row">
+	<div class="col col-10 col-pc-10 col-tablet-7">
+
+
+<div class="by-line by-line-inline ">
+	
+	<div class="">
+					    <a href="http://candy.about.com/bio/Elizabeth-LaBau-23434.htm" data-component="byLineDefault" data-source="Bio" data-type="authorId" data-ordinal="1" class="by-line-author-img"><img data-original="http://f.tqn.com/d/g/bw/23434.gif" width="50" height="50" data-load="lazy" /></a>
+		<div class="by-line-info" itemprop="author" itemscope itemtype="http://schema.org/Person">
+				<div class="muted">
+	                    <a href="http://candy.about.com/bio/Elizabeth-LaBau-23434.htm" data-component="byLineDefault" data-source="Bio" data-type="authorName" data-ordinal="1" rel="author" class="muted">By <span class="heading" itemprop="name">Elizabeth LaBau</span></a>
+	            </div>
+		            <div class="site-expert">
+<a href="http://candy.about.com/" data-component="byLineDefault" data-source="Bio" data-type="authorSite" data-ordinal="1" class="muted">		                	Candy Expert
+</a>		            </div>
+		</div>
+	</div>
+</div>
+	</div>
+	<div class="col col-5">
+		<div class="pull-right document-share">
+<div class="s-btns s-btns-lg js-share">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareFacebook" data-ordinal="1" data-network="facebook" title="Share on Facebook" data-ordinal="0" class="s-btn bg-facebook" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="facebook-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" data-ordinal="1" class="s-btn bg-pinterest" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Pin
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="pinterest-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> <div class="plus bg-plus">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="sharePlus" data-ordinal="1" class="s-btn">
+<div class="item v-middle">
+<div>
+<div>
+<div class="plus-white sprite"></div>
+</div>
+</div>
+</div>
+</a> <div class="extended top">
+<a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTwitter" data-ordinal="1" data-network="twitter" title="Tweet This" data-ordinal="0" class="s-btn bg-twitter" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Tweet
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="twitter-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareReddit" data-ordinal="1" data-network="reddit" title="Submit to Reddit" data-ordinal="1" class="s-btn bg-reddit" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Submit
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="reddit-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareStumbleupon" data-ordinal="1" data-network="stumbleupon" title="Stumble This" data-ordinal="2" class="s-btn bg-stumbleupon" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Stumble
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="stumbleupon-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareTumblr" data-ordinal="1" data-network="tumblr" title="Post to Tumblr" data-ordinal="3" class="s-btn bg-tumblr" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Post
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="tumblr-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a><a href="#" data-component="shareButtonsTop" data-source="Social_Share_Top" data-type="shareGoogleplus" data-ordinal="1" data-network="googleplus" title="Share to Google+" data-ordinal="4" class="s-btn bg-googleplus" data-pin-do="skipLink"> <div class="long wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+<div class="text item v-middle">
+<div>
+<div>
+Share
+</div>
+</div>
+</div>
+</div>
+<div class="short wrapper">
+<div class="item v-middle">
+<div>
+<div>
+<div class="googleplus-white sprite"></div>
+</div>
+</div>
+</div>
+</div>
+</a> </div>
+</div>
+</div>		</div>
+	</div>
+</div>
+	
+		<div id="radlinks1" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	
+        	    <div class="row">
+		            <div class="col col-11">
+		                <div class="row">
+		                    <div class="col col-3">
+
+<div id="newsletter" class="pre-submit p-bg newsletter group widget ">
+	<div class="widget-heading p-b-t-col">
+		<div class="sprite envelope-signup"></div>
+		<h5 class="heading p-col initial">Sign Up for our Free Newsletters</h5>
+		<h5 class="heading p-col additional">Thanks, You're in!</h5>
+	</div>
+
+	<form action="/newsletter/signup" class="d-bg-t">
+		<div class="checkboxes initial form-group">
+		<label>
+			<input type="checkbox" name="list[]" value="recipeodsl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Recipe of the Day</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="fooddrinksl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Food</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="list_candy">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Candy</span>
+		</label>
+		</div>
+		<div class="checkboxes additional form-group">
+			<div class="sub-heading">You might also enjoy:</div>
+		<label>
+			<input type="checkbox" name="list[]" value="todaysl">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>About Today</span>
+		</label>
+		<label>
+			<input type="checkbox" name="list[]" value="calcount">
+			<span class="box"><span class="sprite checkmark"></span></span>
+			<span>Living Healthy</span>
+		</label>
+		</div>
+		<div class="email-group form-group">
+			<input type="email" name="email" class="email" placeholder="Enter your email" /><div class="newsletter-submit">
+				<div>
+					<button type="submit" class="btn a-bg d-col s-b-col all-caps">Sign up</button>
+				</div>
+			</div>
+			<div class="error ajax-fail">There was an error. Please try again.<div class="arrow-up"></div></div>
+			<div class="error empty-newsletter">Please select a newsletter.<div class="arrow-up"></div></div>
+			<div class="error invalid-email">Please enter a valid email address.<div class="arrow-up"></div></div>
+			<div class="suggestion">Did you mean <a href="#" data-component="newsletter" data-source="NewsletterChannel_Error" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+		</div>
+		<div class="sub-heading success">
+            Thank you,<br><span></span>,<br>for signing up!
+		</div>
+	</form>
+</div>
+
+
+
+<div class="category-list circ-list fixed widget full-length"
+>	<div class="widget-heading widget-heading-primary p-b-t-col">
+		<h5 class="heading p-col">Candy Categories</h5>
+	</div>
+	<ul>
+<li>
+<a href="http://candy.about.com/od/candybasics/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="1"> Candy <span class="last">Basics<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/fudgecandyrecipes/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="2"> Fudge <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/trufflerecipes/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="3"> Truffle <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/gumgelatinbasedcandy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="4"> Gummy Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/fruitnutcandy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="5"> Fruit Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/fondantcreamfillings/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="6"> Fondant & Cream Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/kidfriendlytreats/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="7"> Kid-Friendly <span class="last">Treats<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/specialoccasions/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="8"> Special Occasions and Holiday Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/thecandyindustry/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="9"> The Candy <span class="last">Industry<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/nutcandy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="10"> Marzipan and Nut Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/chocolate/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="11"> Chocolate Recipes and <span class="last">Information<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/carameltoffee/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="12"> Caramel & Toffee <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/sugarcandy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="13"> Sugar Candy <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/nougatmarzipancandy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="14"> Marshmallow and Nougat <span class="last">Recipes<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/Blog/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="15"> <span class="last">Blog<span class="arrow arrow-right"></span></span>
+</a> </li><li>
+<a href="http://candy.about.com/od/candybasics/u/candybasics.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="16"> Candy <span class="last">Basics<span class="arrow arrow-right"></span></span>
+</a> </li>						<li>
+<a href="http://candy.about.com/updated.htm" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="17">								Updated Articles and Resources <span class="arrow arrow-right"></span>
+</a>						</li>
+						<li>
+<a href="http://video.about.com/candy/" data-component="categoryList" data-source="CategorySite_All" data-type="item.heading" data-ordinal="18">								Expert Videos <span class="arrow arrow-right"></span>
+</a>						</li>
+	</ul>
+</div>		                    </div>
+		                    <div id="content" class="col col-8">
+
+
+<article class="content widget expert-content expert-content-text">
+        <figure class="content-img content-img-small right-gutter">
+            <div class="content-img-wrapper">
+<img src="http://f.tqn.com/y/candy/1/W/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg" alt="3-D Chocolate Truffle Pumpkins - (c) 2015 Elizabeth LaBau" width="385" height="256" class="" data-pinit-img-url="http://f.tqn.com/y/candy/1/S/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg" data-description="" itemprop="image" >
+			
+<a href="http://pinterest.com/pin/create/button/?url=http://candy.about.com/od/halloweencandyrecipes/r/3-D-Chocolate-Truffle-Pumpkins.htm?utm_source=pinterest&amp;utm_medium=social&amp;utm_campaign=shareurlbuttons_nip&media=http://f.tqn.com/y/candy/1/S/9/d/-/-/3D-chocolate-truffle-pumpkins.jpg&description=" data-component="contentRecipePage" data-source="pinitBtn" data-type="sharePinterest" data-ordinal="1" data-network="pinterest" title="Pin to Pinterest" class="pinit-btn" data-pin-do="skipLink"></a>            </div>
+                <figcaption class="content-img-subtitle">
+                        <span class="credit  pull-right">(c) 2015 Elizabeth LaBau</span>
+                </figcaption>
+            
+        </figure>
+    <div class="">
+
+
+            <p><p>These 3-D Chocolate Truffle Pumpkins are too good to share with the trick-or-treaters--you&#39;ll want to hoard this candy all to yourself! The glossy pumpkins are completely edible (and delicious!), and they&#39;re filled with a rich, fluffy chocolate truffle mixture. I like to top mine with a few Halloween candies and a pinch of sprinkles! You could also nix the chocolate filling and fill the pumpkins with other candies, ice cream, whipped cream, or even mousse. </p><p> To make this recipe, you will need a special 3-D pumpkin candy mold (<a href="http://www.wilton.com/store/site/product.cfm?id&#61;DB351857-C3B8-7454-40B2ACDA0AE2AA23" data-component="link" data-source="inlineLink" data-type="externalLink" data-ordinal="1" rel="nofollow">I used this Wilton one</a>). It comes in two pieces, and it produces perfectly sculpted 3-D pumpkins. It can be purchased from the Wilton website, or is often found in craft stores like Michael&#39;s or Joann&#39;s. If you can&#39;t find the mold, one alternative would be to <a href="/od/otherchocolaterecipes/r/Chocolate-Bowls.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2">make chocolate bowls</a> out of orange candy coating. They won&#39;t look quite the same, but they&#39;ll still have an amazing 3-D pumpkin effect!</p></p>
+
+
+	
+	<div class="see-also group">
+		<div><strong>See Also</strong></div>
+			<div><a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Caramels.htm" data-component="seeAlsoLinks" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="1">Pumpkin Spice Caramels</a></div>
+			<div><a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Truffles.htm" data-component="seeAlsoLinks" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="2">Pumpkin Spice Truffles</a></div>
+			<div><a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Latte-Fudge.htm" data-component="seeAlsoLinks" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="3">Pumpkin Spice Latte Fudge</a></div>
+	</div>
+
+
+
+
+        
+    
+    <div class="ingredients p-bg-t p-bg-faded">
+        <h5 class="recipe-heading slab-heading p-col">Ingredients</h5>
+            <meta itemprop="recipeCategory" content="Cookies and Candy">
+        <ul class="content ingredients-list">
+
+                    <li itemprop="ingredients">3 oz (1/2 cup) semi-sweet chocolate, finely chopped</li>
+                    <li itemprop="ingredients">3 oz heavy cream</li>
+                    <li itemprop="ingredients">1 oz brown candy coating</li>
+                    <li itemprop="ingredients">1 oz green candy coating</li>
+                    <li itemprop="ingredients">12 oz orange candy coating</li>
+                    <li itemprop="ingredients">3-D Pumpkin candy mold (<a href="http://www.wilton.com/store/site/product.cfm?id=DB351857-C3B8-7454-40B2ACDA0AE2AA23" zT="-o1/XJ" target="_blank">like this Wilton one</a>)</li>
+                    <li itemprop="ingredients">Assorted Halloween candies or sprinkles</li>
+        </ul>
+
+            <div class="content">
+                <ul class="meta">
+                    <li><strong>Prep Time</strong>: <meta itemprop="prepTime" content="PT60M">60 minutes</li>
+                        <li><strong>Cook Time</strong>: 0 minutes</li>
+                </ul>
+            </div>
+
+            <div class="content">
+                <ul class="meta">
+                        <li><strong>Total Time</strong>: <meta itemprop="totalTime" content="PT60M">60 minutes</li>
+                        <li><strong>Yield</strong>: <span itemprop="recipeYield">6 3-D pumpkins</span></li>
+                </ul>
+            </div>
+    </div>
+
+	<div class="preparation expert-content-text" itemprop="recipeInstructions">
+		<h5 class="recipe-heading slab-heading p-col">Preparation</h5>
+
+			<p><strong>1.</strong> First, make the chocolate ganache for the truffle filling. Place the chopped semi-sweet chocolate in a small bowl, and pour the cream into a small saucepan. Heat the cream over medium heat until it comes to a simmer, but don&#39;t allow it to reach a full boil.</p><p><strong>2.</strong> Pour the hot cream over the chopped chocolate and let it sit and soften the chocolate for one minute. After a minute, gently whisk the cream and chocolate together until it is smooth, shiny, and satiny.</p>
+<div id="adsense1" adsense-numlinks="3" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+
+	
+		<div id="radlinks3" data-num-links="5" data-character-limit="null" data-display-label="false" data-display-inline="true" class="radlinks ads-half"></div>
+	
+			<p class="cb-split"> This is your ganache. Press a layer of cling wrap directly on top of the chocolate and refrigerate it for an hour, until it has the thickened texture of peanut butter. Don&#39;t let it chill too long and become rock-hard.</p><p><strong>3.</strong> While you wait for the ganache to chill, prepare the chocolate pumpkins. Melt the green and brown candy coating in separate small bowls in the microwave, heating each for short 20-30 second periods, stirring after every 30 seconds, until they&#39;re melted and fluid. Use a small food-safe paint brush to paint the candy coating on the inside of the base sheet of the pumpkin mold, following the design of the molds and adding green leaves and brown stems and tendrils. Refrigerate the mold briefly to set the green and brown candy.</p><p><strong>4.</strong> Melt the orange candy coating in a medium bowl, microwaving it in 30-second increments and stirring after every 30 seconds to prevent overheating. Once melted and smooth, spoon 1 1/2- 2 tablespoons of coating into each mold, so that it fills the molds about halfway.</p>
+<div id="adsense2" adsense-numlinks="2" adsense-displaylabel="true" class="adsense-slot adsense ads-half"></div>
+			<p class="cb-split"> Tap the mold lightly on the countertop to remove any air bubbles, then carefully press the top sheet of the pumpkin mold on top. As you press down, the orange coating will be forced up the sides of the base mold. Click the tabs together, then turn the mold upside-down. Refrigerate the mold for 10 minutes, then place it in the freezer for 2 minutes before unmolding.</p><p><strong>5.</strong> To unmold, snap the two pieces apart and gently flex the mold to release the pumpkins. Trim the edges, if necessary, to make the smooth. Repeat the process so that you have 12 pumpkin halves, or enough for 6 full pumpkins.</p><p><strong>6.</strong> Once the ganache is chilled and has the texture of peanut butter, transfer it to a mixing bowl and fit the mix with a whisk attachment. Whisk it at medium-high speed until the ganache transforms from a silky, shiny mixture to a fluffy, light brown frosting. Transfer it to a piping bag fitted with a star tip.</p><p><strong>7.</strong> Pipe a big swirl of whipped ganache into the 6 chocolate pumpkin bases. Top them with several candy corns or other Halloween candy, and a pinch of Halloween sprinkles. Serve them with their tops askew for an elegant appearance, or place the tops on and let the chocolate filling be a surprise! The ganache has the best texture the day it is made, but the pumpkins can be refrigerated for several days if necessary.</p><p><a href="/od/halloweencandyrecipes/a/halloween_hub.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1"><strong>Click Here to View All Halloween Candy Recipes!</strong></a></p><p><a href="/od/halloweencandyrecipes/tp/pumpkin_recipes.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2"><strong>Click Here to View All Pumpkin Candy Recipes!</strong></a></p><p><a href="/od/halloweencandyrecipes/tp/Candy-Corn-Halloween-Recipes.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="3"><strong>Click Here to View All Candy Corn Recipes!</strong></a></p><p><a href="/od/halloweencandyrecipes/tp/spooky_candies.htm" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="4"><strong>Click Here to View All Spooky Candy Recipes!</strong></a></p>
+	</div>
+    </div>
+</article>
+
+<div class="append-content">
+    
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Related Articles</h5>
+<ul>
+<li><a href="http://candy.about.com/od/halloweencandyrecipes/r/Pumpkin-Chocolate-Truffles.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="1">These Pumpkin Chocolate Truffles Taste Like Fall!</a></li>
+<li><a href="http://candy.about.com/od/halloweencandyrecipes/r/Oozing-Slime-Truffles.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="2">You'll Love These Spooky Oozing Slime Truffles</a></li>
+<li><a href="http://candy.about.com/od/valentinesdaycandy/r/Heart-Of-Gold-Truffles.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="3">Sparkling Heart of Gold Truffles</a></li>
+<li><a href="http://candy.about.com/od/chocolatetrufflerecipes/r/choc_mint_trufflecups.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="4">How to Make Chocolate Mint Truffle Cups</a></li>
+<li><a href="http://candy.about.com/od/chocolatetrufflerecipes/r/Passion-Fruit-Truffles.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="5">Passion Fruit Truffles</a></li>
+<li><a href="http://candy.about.com/od/chocolatetrufflerecipes/r/Red-Hot-Truffles.htm" data-component="relatedTemplate" data-source="ArticleChannel_RelatedClickability" data-type="item.bestTitle" data-ordinal="6">Spice Up Your Life With These Red Hot Truffles</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading p-col slab-heading">Our Expert Recommends</h5>
+<ul>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Caramels.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="1"> Pumpkin Spice Caramels
+</a> </li>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Truffles.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="2"> Pumpkin Spice Truffles
+</a> </li>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pumpkin-Spice-Latte-Fudge.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="3"> Pumpkin Spice Latte Fudge
+</a> </li>
+<li>
+<a href="/od/marshmallowrecipes/r/pumpkin_mallows.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="4"> Pumpkin Marshmallows
+</a> </li>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pumpkin-Chocolate-Truffles.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="5"> Pumpkin Chocolate Truffles
+</a> </li>
+</ul>
+<ul>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pumpkin-Candy-Cups.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="6"> Pumpkin Candy Cups
+</a> </li>
+<li>
+<a href="/od/halloweencandyrecipes/r/Pretzel-Pumpkins.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="7"> Pretzel Pumpkins
+</a> </li>
+<li>
+<a href="/od/sugarcandy/r/pumpkinfudge.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="8"> Pumpkin Praline Fudge
+</a> </li>
+<li>
+<a href="/od/thanksgivingrecipes/r/Pumpkin-Pie-Candy-Bars.htm" data-component="linkboxesTemplate" data-source="ArticleSite_LinkboxSuggestions" data-type="linkbox.text" data-ordinal="9"> Pumpkin Pie Candy Bars
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+<div id="zergnet" data-defer="onScroll"></div>
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Candy Essentials
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://candy.about.com/od/halloweencandyrecipes/a/halloween_hub.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/candy/1/P/G/Y/-/-/pumpkin-spice-truffles.jpg" alt="Pumpkin Spice Truffles - Elizabeth LaBau" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Our Favorite Homemade Halloween Candy Recipes</span>
+</div>
+<span class="site-name">Halloween Candy Recipes</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://candy.about.com/od/halloweencandyrecipes/tp/pumpkin_recipes.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/candy/1/P/H/Y/-/-/pumpkin-marshmallows.jpg" alt="Pumpkin Marshmallows - Elizabeth LaBau" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>Perfect Pumpkin Candies</span>
+</div>
+<span class="site-name">Halloween Candy Recipes</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://candy.about.com/od/halloweencandyrecipes/tp/spooky_candies.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/candy/1/P/j/Z/-/-/blood-splattered-fudge-1500.jpg" alt="Blood-Splattered Fudge - (c) 2014 Elizabeth LaBau" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>The Spookiest Halloween Candy Recipes</span>
+</div>
+<span class="site-name">Halloween Candy Recipes</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://candy.about.com/od/halloweencandyrecipes/tp/Candy-Corn-Halloween-Recipes.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/candy/1/P/8/Z/-/-/homemade-candy-corn.jpg" alt="Homemade Candy Corn - (c) 2014 Elizabeth LaBau" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>15 Clever Candy Corn Halloween Recipes and Crafts</span>
+</div>
+<span class="site-name">Halloween Candy Recipes</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://candy.about.com/od/candybasics/a/candy_type_hub.htm" data-component="mustReads" data-source="ArticleSite_MustReads" data-type="item.index" data-ordinal="5" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/candy/1/P/m/X/-/-/chocolate-bars-horizontal-1.jpg" alt="Chocolate Bars - Elizabeth LaBau" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>All Candy Recipes: Something for Every Sweet Tooth</span>
+</div>
+<span class="site-name">Candy Recipe Index</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="circ-list
+fixed
+circ-list-large
+circ-list-column
+use-zergnet widget"> <div class="widget-heading widget-heading-primary p-b-t-col">
+<h5 class="p-col">
+Food Slideshows
+</h5>
+</div>
+<ul>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://southernfood.about.com/od/pastabake/ss/Top-11-Main-Dish-Macaroni-and-Cheese-Combinations.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="1" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/southernfood/1/P/j/S/5/sloppy-macaroni-cheese-17ss.jpg" alt="Sloppy Joe Macaroni and Cheese - Diana Rattray" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>11 Game Changer Macaroni and Cheese Combinations</span>
+</div>
+<span class="site-name">Southern Food</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://cocktails.about.com/od/holidaycocktails/tp/10-Bewitching-Halloween-Martinis.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="2" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/cocktails/1/P/0/Y/-/-/obituary-cocktail-2.jpg" alt="Obituary Cocktail - Photo Courtesy: &copy; Shannon Graham" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>10 Bewitching Halloween Martinis</span>
+</div>
+<span class="site-name">Cocktails</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://localfoods.about.com/od/pomegranates/ss/How-To-Eat-A-Pomegranate.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="3" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/localfoods/1/P/7/E/-/-/pomegranates.jpg" alt="Pomegranates - Photo &copy; Molly Watson" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>The Easiest Way To Seed A Pomegranate</span>
+</div>
+<span class="site-name">Local Foods</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://bbq.about.com/od/Shrimp-Recipes/ss/The-Best-Grilled-Shrimp-Recipes.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="4" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/bbq/1/P/3/4/1/spicyorangeshrimp.jpg" alt="Spicy Orange Grilled Shrimp - Roderick Chen/Getty Images" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>The Best Grilled Shrimp Recipes</span>
+</div>
+<span class="site-name">Barbecues & Grilling</span>
+</div>
+</a> </li>
+<li class="col-pc-4 col-tablet-4 group" >
+<a href="http://southernfood.about.com/od/casserolerecipes/ss/12-Chicken-Casseroles-That-Are-Perfect-for-Everyday-Meals.htm" data-component="slideshows" data-source="ChannelSlideshow_Curated" data-type="item.index" data-ordinal="5" class="circ-list-item"> <div class="circ-list-img">
+<img data-original="http://f.tqn.com/y/southernfood/1/P/X/P/4/easy-broccoli-chicken-bake-15.jpg" alt="Easy Chicken and Broccoli Casserole - Diana Rattray" width="130" height="86" data-load="lazy" class="" >
+</div>
+<div class="circ-list-content">
+<div class="h5 headline">
+<span>14 Chicken Casseroles That Make Life Easier</span>
+</div>
+<span class="site-name">Southern Food</span>
+</div>
+</a> </li>
+</ul>
+</div>
+            </div>
+
+    </div>
+
+
+    <div class="row">
+
+            <div class="col col-4">
+                <div class="linklist use-zergnet">
+<h5 class="heading slab-heading p-col">Readers Recommend</h5>
+<ul>
+<li><a href="http://candy.about.com/od/fudgerecipes/r/microwavefudge.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="1">The Fastest Microwave Fudge Recipe Ever</a></li>
+<li><a href="http://candy.about.com/od/fondantcandyrecipes/r/mm_fondant.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="2">Marshmallow Fondant You Can Make at Home</a></li>
+<li><a href="http://candy.about.com/od/otherchocolaterecipes/ss/chocrosessbs.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="3">How to Make Gorgeous Chocolate Roses: A Photo Tutorial</a></li>
+<li><a href="http://candy.about.com/od/workingwithchocolate/a/meltchocolate.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="4">3 Ways to Melt Chocolate</a></li>
+<li><a href="http://candy.about.com/od/workingwithchocolate/a/chocmistakes.htm" data-component="popularShortFormTemplate" data-source="ArticleSite_Popular" data-type="item.bestTitle" data-ordinal="5">How to Fix Common Chocolate Mistakes in Candy-Making</a></li>
+</ul>
+</div>
+            </div>
+
+            <div class="col col-4">
+                <div class="gpt billboard">
+<div id="billboard4" class="wrapper"></div>
+</div>
+            </div>
+
+    </div>
+</div><div id="flyin-placeholder" data-isDesktop="true">
+<div id="flyin-container" data-id="flyin"></div></div>		                    </div>
+		                </div>
+		            </div>
+		            <div class="col col-4">
+<div class="gpt billboard">
+	
+	<div id="billboard" class="wrapper"></div>
+</div>
+<div id="trending" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard2" class="wrapper"></div>
+</div>
+<div id="videos" data-defer="onScroll"></div><div class="gpt billboard">
+	
+	<div id="billboard3" class="wrapper"></div>
+</div>
+		            </div>
+	            </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div class="slab padding-b no-border-b">
+	<div class="container">
+		<div id="radlinks2" data-num-links="10" data-character-limit="122" data-display-label="true" data-display-inline="false" class="radlinks widget"></div>
+	</div>
+</div><div class="slab slab-strip slab-divider-top">
+	<div class="container">
+		<div class="breadcrumbs-full row">
+			<div class="centered col col-3">
+				<a href="http://www.about.com/food" data-component="breadcrumbsFull" data-source="Breadcrumbs_Full" data-type="channel.logo" data-ordinal="1">					<div class="bg-food"><span class="sprite logo-crumb"></span></div>
+					<div class="bg-food"><span class="sprite food-crumb"></span></div>
+</a>			</div>
+			<div class="col col-tablet-9 col-12">
+				<div class="slab-divider-left">
+
+<div class="breadcrumbs full">
+	<ul>
+		<li >
+<a href="http://www.about.com" data-component="breadcrumbs" data-source="breadcrumbs" data-type="aboutCom" data-ordinal="1">				<span >About.com</span>
+</a>		</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://www.about.com/food" data-component="breadcrumbs" data-source="breadcrumbs" data-type="channel.displayName" data-ordinal="1">					<span >About Food</span>
+</a>			</li>
+			<li >
+				<span class="separator sprite arrow-breadcrumb"></span>
+<a href="http://candy.about.com/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="site.displayName" data-ordinal="1">					<span >Candy</span>
+</a>			</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://candy.about.com/od/specialoccasions/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="1">						<span >Special Occasions and Holiday Candy Recipes</span>
+</a>				</li>
+				<li  >
+					<span class="separator sprite arrow-breadcrumb"></span>
+					
+<a href="http://candy.about.com/od/halloweencandyrecipes/" data-component="breadcrumbs" data-source="breadcrumbs" data-type="category.heading" data-ordinal="2">						<span >Halloween Candy Recipes</span>
+</a>				</li>
+		
+			<li>
+				<span class="separator sprite arrow-breadcrumb"></span>
+				<span>
+					3-D Chocolate Truffle Pumpkins
+				</span>
+			</li>
+
+	</ul>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div><div id="exploreChannels" data-defer="onScroll"></div><div id="featuredTopicsTemplate" data-defer="onScroll"></div><footer id="site-footer" class="slab">
+	<div class="container">
+	<div class="row pane">
+		<div class="col col-5 col-tablet-6">
+<p><a href="http://www.about.com/food" data-component="networkFollow" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Food</a><span class="pipe">&nbsp;</span>Follow us:</p>
+<p><a href="https://www.facebook.com/aboutdotcomfood" data-component="shareButtons" data-source="shareButtons" data-type="channelFacebook_aboutdotcomfood" data-ordinal="1" title="Follow on Facebook" class="first facebook share-btn solid" target="_blank"> <span class="sprite facebook-white"></span>
+</a><a href="https://twitter.com/aboutfood" data-component="shareButtons" data-source="shareButtons" data-type="channelTwitter_aboutfood" data-ordinal="1" title="Follow on Twitter" class="twitter share-btn solid" target="_blank"> <span class="sprite twitter-white"></span>
+</a><a href="https://www.pinterest.com/aboutcomfood/" data-component="shareButtons" data-source="shareButtons" data-type="channelPinterest_aboutcomfood" data-ordinal="1" title="Follow on Pinterest" class="pinterest share-btn solid" target="_blank"> <span class="sprite pinterest-white"></span>
+</a><a href="https://plus.google.com/+aboutdotcom" data-component="shareButtons" data-source="shareButtons" data-type="channelGplus_+aboutdotcom" data-ordinal="1" title="Follow on Google+" class="googleplus share-btn solid" target="_blank"> <span class="sprite googleplus-white"></span>
+</a></p>
+<div class="newsletter">
+	<p>We deliver. Get the best of<br /><a href="http://www.about.com/food" data-component="newsletterInline" data-source="ChannelHomepage" data-type="channel.displayName" data-ordinal="1">About Food</a> in your inbox.</p>
+	<form action="/newsletter/signup">
+	    <div class="form-group group hide-fixed">
+	        <input class="pull-left email" type="email" name="email" placeholder="Enter your email" />
+		    <button type="submit" class="btn btn-primary p-bg s-bg-hover s-b-col all-caps pull-left">Sign up</button>
+	        <input type="hidden" name="list[]" value="fooddrinksl">
+	    </div>
+	
+	    <div class="success">Thanks for signing up!</div>
+	    <div class="error ajax-fail">There was an error. Please try again.</div>
+	    <div class="error invalid-email">Please enter a valid email address.</div>
+
+        <div class="suggestion">Did you mean <a href="#" data-component="newsletterInline" data-source="newsletterInline" data-type="suggestedEmail" data-ordinal="1" class="suggested-email"></a>?</div>
+	    <div class="disclaimer">
+            You can opt-out at any time.. See our <a href="http://www.about.com/legal.htm#anchor_privacypolicy" data-component="newsletterInline" data-source="newsletterInline" data-type="privacyPolicy" data-ordinal="1">privacy policy</a>.
+        </div>
+	</form>
+</div>		</div>
+		<div class="col col-6 col-tablet-2">
+		</div>
+		<div class="col col-4">
+<div class="row">
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://mediakit.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="ourStory" data-ordinal="1">Our Story</a></li>
+			<li><a href="http://mediakit.about.com/advertising/" data-component="footerLinks" data-source="footerLinks" data-type="advertiseWithUs" data-ordinal="1">Advertise With Us</a></li>
+			<li><a href="http://spiderbites.about.com/sitemap.htm" data-component="footerLinks" data-source="footerLinks" data-type="siteMap" data-ordinal="1">Site Map</a></li>
+			<li><a href="http://www.about.com/help.htm" data-component="footerLinks" data-source="footerLinks" data-type="help" data-ordinal="1">Help</a></li>
+		</ul>
+	</div>
+	<div class="col col-2">
+		<ul class="muted flush-bottom">
+			<li><a href="http://experts.about.com/" data-component="footerLinks" data-source="footerLinks" data-type="writeForAbout" data-ordinal="1">Write for About</a></li>
+			<li><a href="http://jobs.about.com/index.html" data-component="footerLinks" data-source="footerLinks" data-type="careersAtAbout" data-ordinal="1">Careers at About</a></li>
+			<li><a href="http://www.about.com/legal.htm" data-component="footerLinks" data-source="footerLinks" data-type="userAgreementAndPolicies" data-ordinal="1">Terms of Use &amp; Policies</a></li>
+		</ul>
+	</div>
+</div>		</div>
+	</div>
+</div><div id="basement" class="slab slab-divider-top">
+	<div class="container">
+		<div class="row">
+			<div class="col col-5">
+<span class="copyright">&copy; 2015 About.com &mdash; All rights reserved.</span>			</div>
+			<div class="col col-6 relative hide-tablet">
+<div class="bg-image footer-food"></div>
+<div class="bg-color p-bg"></div>			</div>
+			<div class="col col-4 col-push-tablet-3">
+			</div>
+		</div>
+	</div>
+</div></footer>
+<!--[if lte IE 8 ]>
+    <script src="http://fj.about.com/js/1.55.0/default/ie8.min.js"></script>
+<![endif]--><script type="text/javascript" src="http://fj.about.com/js/1.55.0/cache/eNp1Uu1OwzAMfCGkvANICKSCkAb8d1Jvzebaw3HGuqcnsAmS0f5xHJ_Pd_nYJtfjGjKZo-jdAbkXdUkgGdxsWxC8ZLsuXhg2qJgRznJWQYVoFnqPahnoBTbz1IeYTHRaUN1-ZNSpg9PUCfQLTXuCgINQj1p3RDZUBnLZ4jnMoqWAeo6KrcRF9nEs5lONbEg80DMc_jIPjfhY7vcn3MdjO_UXWSFoGBpBCbsOoZzDC2jDShLit1kJeUS21QCK__Eu8u6tHLQx67WMDJpHn6r8VTOHug365BR6KiMaOuNnIrRyW1W68BIjRAoDhl1jDfFJ5ty6feRot8Y1dELdMP6uNbSmKfI5Luj7Y6J49Q0CqOSEzePjcU_F0t0AzEjpet-Iio7pC27VQBg.min.js"></script>
+<script type="text/javascript">var abtGenericDomain='j';
+var abtGenericResourceDomain='fj';
+var deviceType='PERSONAL_COMPUTER';
+    var Abt = window.Abt || {};
+    Abt.tagLinks = function() { 
+        debug.log('Amazon affiliate link tagging script');
+        var js, fjs = document.getElementsByTagName("script")[0]; 
+        js = document.createElement("script"); 
+        js.async = true; 
+        js.src = "//wms-na.amazon-adsystem.com/20070822/US/js/auto-tagger.js?tag=aboutcom02candy-20&locale=US&overwrite=1"; 
+        fjs.parentNode.insertBefore(js, fjs);  
+    };  
+    
+    Abt.tagLinks();
+    
+    //bind the refresh for chapters
+    $(document).on('articleSwitch', Abt.tagLinks);
+// ads/afcAdUnit.ftl
+$('.adsense-slot').each(function() {
+    Abt.AdCode.addAdsenseAfcConfig($(this).attr('id'), Number($(this).attr('adsense-numlinks')), $(this).attr('adsense-displaylabel') === 'true');
+});
+(function() {
+    var properties = {
+    		"leaderboard" : ".gpt.leaderboard",
+    		"mastFixed" : ".mast-fixed",
+    		"main" : "#main",
+    		"lockFor" : ".document-share",
+    		"doLocking" : true
+    		
+    };
+    if (window.Abt && window.Abt.LockLeaderboard) {
+		window.Abt.LockLeaderboard.init(properties);
+    }
+})();var google_hints = 'Candy, 3-D Chocolate Truffle Pumpkins',
+	google_page_url = window.location.href,
+	google_ad_output = 'js',
+	google_max_num_ads = Abt.AdCode.getTotalAdsenseAfcs();
+	google_num_radlinks = Abt.AdCode.getTotalRadlinks();
+	google_max_radlink_len = '30',
+	google_safe = 'medium',
+	google_encoding = 'latin1';
+
+function google_ad_request_done(google_ads) {
+	var containerSelector = 'active-article',
+		build = function(){
+			debug.log('building the cpc links: afc/radlinks');
+			Abt.AdCode.buildAdsenseAfc('<a href="#" data-component="recipePage" data-source="recipePage" data-type="adsLabel" data-ordinal="1" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+			Abt.AdCode.buildRadlinks('candy', '<a href="#" data-component="recipePage" data-source="recipePage" data-type="adsLabel" data-ordinal="2" onclick="javascript: var w=450, h=425, top=(screen.height / 2) - (h / 2), left=(screen.width / 2) - (w / 2); window.open(&#39;http://www.about.com/z/ad/wasl.htm&#39;, &#39;&#39;, &#39;width=&#39; + w + &#39;, height=&#39; + h + &#39;, top=&#39; + top + &#39;, left=&#39; + left + &#39;, toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, copyhistory=no&#39;); return false;" class="muted">Ads</a>', containerSelector);
+		};
+
+	if($('#stepbystepPage').length > 0) {
+		debug.log('SBS Page: wait until content has loaded');
+		if($('#content').hasClass('loaded')) {
+			debug.log('sbs page is loaded');
+			build();
+		}
+	} else {
+		build();
+	}
+}</script><!--[if (IE 8)|(IE 9)]>
+	<script src="http://fj.about.com/js/1.55.0/default/ie.min.js"></script>
+<![endif]-->	<script id="skimlink" type="text/javascript" src="http://s.skimresources.com/js/68756X1529944.skimlinks.js" async></script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"></script>	<!-- AD Blocker Tracking -->
+	<img src="//dbg52463.moatads.com?a=be924416b010" style="display:none;">
+	<img src="//d5i9o0tpq9sa1.cloudfront.net?a=be924416b010" style="display:none;">
+</body>
+</html>

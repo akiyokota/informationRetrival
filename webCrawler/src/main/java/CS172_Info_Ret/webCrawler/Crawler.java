@@ -26,7 +26,6 @@ public class Crawler {
 	private String historyPath = "./history/urlHistory.txt";
 	
 	private List <NormalizedUrl> normalizedUrlList;
-	private Document doc;
 	private List<String> history;
 	private Queue<Pair> urlQueue;
 	private CrawlerUtilities utility;
@@ -267,22 +266,81 @@ public class Crawler {
 		return false;
 	}
 	
-	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots) {
-		for(NormalizedUrl nUrl : fullList) {
-			System.out.println(nUrl.generateCleanUrl());
+	private robot extractGenericUser(List<robot> robots) {
+		for (robot r : robots) {
+			if (r.getUserAgent().equals("*"))
+				return r;
 		}
+		return null;
+	}
+	
+	/* idealy, i would want to use regex to do this */
+	private boolean urlMatches (String targetUrl, String subUrl, String baseUrl) {	
+		if(baseUrl.endsWith("/")) {
+			baseUrl = baseUrl.substring(0, baseUrl.length()-1);
+		}
+		if(!targetUrl.startsWith(baseUrl))
+			return true;
+		if(subUrl.startsWith("*")) {
+			if(subUrl.endsWith("*")) {
+				if(targetUrl.startsWith(baseUrl) && targetUrl.contains(subUrl.replace("*", ""))) 
+					return true;
+			}
+			if(targetUrl.startsWith(baseUrl) && targetUrl.endsWith(subUrl.replace("*", ""))) {
+				return true;
+			}
+		} else if (subUrl.endsWith("*")) {
+			String firstHalf = targetUrl + subUrl.replace("*",  "") ;
+			if(targetUrl.startsWith(firstHalf)) 
+				return true;
+		} else {
+			if(targetUrl.equals(baseUrl + subUrl)) {
+				return true;
+			}
+		}
+		//System.out.println("targetUrl: " + targetUrl + "\tsubUrl: " + subUrl + "\tbaseUrl: " + baseUrl);
+		return false;
+	}
+	
+	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots, Pair url) {
+		robot genericUser = extractGenericUser(robots);
+		if (genericUser==null) 
+			return;
+		
+		for(NormalizedUrl nUrl : fullList) {
+			for(String subUrl : genericUser.getMetaContents().keySet()) {
+				if(urlMatches(nUrl.generateCleanUrl(), subUrl, url.getURL())) {
+					if (genericUser.getMetaContents().get(subUrl).isFollow()) {
+						urlQueue.add(new Pair(nUrl.generateCleanUrl(), url.getDepth()+1));
+					}
+				}
+			}
+		}
+	}
+	
+	private List<NormalizedUrl> removeDups (List<NormalizedUrl> urlList) {
+		List<NormalizedUrl> nonDups = new LinkedList<NormalizedUrl> ();
+		for(NormalizedUrl n : urlList) {
+			if(!history.contains(n.generateCleanUrl()))
+				nonDups.add(n);
+		}
+		return nonDups;
 	}
 	
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
 		try {
 			//load seeds into the queue
 			urlQueue = utility.loadSeeds(filePathSeeds);
-			
-			while(!urlQueue.isEmpty()) {
+
+			while(!urlQueue.isEmpty() && history.size()<numPages) {
+
 				NormalizedUrl nUrl = new NormalizedUrl ();
 				
 				//pop top of the queue
 				Pair urlPair = urlQueue.remove();
+				//check if the hop is too far
+				if(urlPair.getDepth() > numHops)
+					continue;
 				//check duplicates
 				if(!isDup(urlPair.getURL())) {
 					recordHistory(urlPair.getURL());
@@ -295,9 +353,9 @@ public class Crawler {
 						robots = ParseRobots(nUrl);
 					}
 					//extract link
-					List<NormalizedUrl> nUrlList = urlExtraction(urlPair.getURL());
+					List<NormalizedUrl> nUrlList = removeDups(urlExtraction(urlPair.getURL()));
 					//valid url -> queue
-					enqueueUrls(nUrlList, robots);
+					enqueueUrls(nUrlList, robots, urlPair);
 				}
 			}
 		} catch (Exception e) {
