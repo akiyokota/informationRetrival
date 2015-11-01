@@ -23,6 +23,8 @@ import CS172_Info_Ret.webCrawler.Objects.robot;
 public class Crawler {
 	
 	private String historyPath = "./history/urlHistory.txt";
+	private String mappingPath = "./history/mapping.txt";
+	private String historyFolder = "./history";
 	
 	private List<String> history;
 	private Queue<Pair> urlQueue;
@@ -38,7 +40,12 @@ public class Crawler {
 
 	private List<String> loadHistory () {
 		List<String> urlHistory = new LinkedList<String> ();
+
 		try {
+			if(!utility.fileExists(historyFolder))
+				new File(historyFolder).mkdirs();
+			if(!utility.fileExists(mappingPath))
+				new File(mappingPath).createNewFile();
 			File history = new File(historyPath);
 			if(!history.exists()) {
 			    history.createNewFile();
@@ -297,7 +304,6 @@ public class Crawler {
 	}
 	
 	private boolean checkConnection (String url) {
-		System.out.println(url);
 		try {
 			URL u = new URL(url);
 			HttpURLConnection connection = (HttpURLConnection)u.openConnection();
@@ -364,7 +370,9 @@ public class Crawler {
 				//put this in history to prevent from crawling again
 				recordHistory(urlPair.getURL());
 				//download page ---> storage
-				utility.writeFile(filePathStore + history.size(), fetchPageToMemory(urlPair.getURL()));
+				String htmlFile = filePathStore + history.size() +".html";
+				utility.writeFile(htmlFile, fetchPageToMemory(urlPair.getURL()));
+				utility.appendToFile(mappingPath, urlPair.getURL() + ":" + htmlFile);
 					
 				nUrl.UrlNormalization(new URL(urlPair.getURL()));
 				List<robot> robots = null;

@@ -65,8 +65,11 @@ public class CrawlerUtilities {
 		return files;
 	}
 	
+	
 	public Queue<Pair> loadSeeds (String directory) {
 		Queue<Pair> urlQueue = new LinkedList<Pair> ();
+		
+		
 		
 		for ( String file : ListSegments(directory)) {
 			for ( String url : TokenizeByNewLine(readFile(directory + file))) {
@@ -86,5 +89,13 @@ public class CrawlerUtilities {
 			tokens.add(st.nextElement().toString());
 		}
 		return tokens;
+	}
+	
+	public boolean fileExists(String directory) {
+		File f = new File(directory);
+		if (f.exists() ) {
+		   return true;
+		}
+		return false;
 	}
 }
