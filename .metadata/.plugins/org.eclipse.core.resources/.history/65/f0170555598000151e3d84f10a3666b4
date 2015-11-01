@@ -57,6 +57,7 @@ public class Crawler {
 		utility.appendToFile(historyPath, url);
 	}
 	
+	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
 	 */

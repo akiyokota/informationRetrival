@@ -57,6 +57,7 @@ public class Crawler {
 		utility.appendToFile(historyPath, url);
 	}
 	
+	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
 	 */
@@ -221,7 +222,12 @@ public class Crawler {
 		}
 		return robotsList;
 	}
-		
+	
+
+	public void setNormalizedUrlList(List<NormalizedUrl> normalizedUrlList) {
+		this.normalizedUrlList = normalizedUrlList;
+	}
+	
 	public boolean isDup(String url) {
 		for (String s : history) {
 			if (s.equals(url)) 

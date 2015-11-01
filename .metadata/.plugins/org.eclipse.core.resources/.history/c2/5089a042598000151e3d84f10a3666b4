@@ -25,6 +25,7 @@ public class Crawler {
 	
 	private String historyPath = "./history/urlHistory.txt";
 	
+	private List <NormalizedUrl> normalizedUrlList;
 	private List<String> history;
 	private Queue<Pair> urlQueue;
 	private CrawlerUtilities utility;
@@ -33,6 +34,7 @@ public class Crawler {
 	  */
 	public Crawler () {
 		this.utility = new CrawlerUtilities();
+		this.normalizedUrlList = new LinkedList<NormalizedUrl> ();
 		this.history = loadHistory();
 		this.urlQueue = new LinkedList<Pair>();
 	}
@@ -56,6 +58,7 @@ public class Crawler {
 		history.add(url);
 		utility.appendToFile(historyPath, url);
 	}
+	
 	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
@@ -221,7 +224,15 @@ public class Crawler {
 		}
 		return robotsList;
 	}
-		
+	
+	public List<NormalizedUrl> getNormalizedUrlList() {
+		return normalizedUrlList;
+	}
+
+	public void setNormalizedUrlList(List<NormalizedUrl> normalizedUrlList) {
+		this.normalizedUrlList = normalizedUrlList;
+	}
+	
 	public boolean isDup(String url) {
 		for (String s : history) {
 			if (s.equals(url)) 

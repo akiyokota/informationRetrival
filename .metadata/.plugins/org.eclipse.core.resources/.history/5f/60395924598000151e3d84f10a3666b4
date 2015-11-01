@@ -25,6 +25,7 @@ public class Crawler {
 	
 	private String historyPath = "./history/urlHistory.txt";
 	
+	private List <NormalizedUrl> normalizedUrlList;
 	private List<String> history;
 	private Queue<Pair> urlQueue;
 	private CrawlerUtilities utility;
@@ -33,6 +34,7 @@ public class Crawler {
 	  */
 	public Crawler () {
 		this.utility = new CrawlerUtilities();
+		this.normalizedUrlList = new LinkedList<NormalizedUrl> ();
 		this.history = loadHistory();
 		this.urlQueue = new LinkedList<Pair>();
 	}
@@ -57,6 +59,7 @@ public class Crawler {
 		utility.appendToFile(historyPath, url);
 	}
 	
+	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
 	 */
@@ -78,6 +81,30 @@ public class Crawler {
 			e.printStackTrace();
 		}
 		return NormalizedList;
+	}
+	
+	
+	/**
+	 * Download a webcontent the primative way
+	 * @param path : the path of the folder
+	 * @param fileName : name of the file that saves all the web content
+	 * @param url : the url you wish to download
+	 */
+	public void downloadPage(String path, String fileName, String url) throws IOException, MalformedURLException {
+		URL urlObj = new URL(url);
+
+		BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
+		
+		BufferedWriter fos = new BufferedWriter(new FileWriter( path + fileName));
+		
+		while(x.ready()) {
+			String line = x.readLine();
+			fos.write(line);
+			fos.write("\n");
+		}
+		
+		x.close();
+		fos.close();
 	}
 	
 	private boolean validateUrl (String url) {
@@ -221,7 +248,15 @@ public class Crawler {
 		}
 		return robotsList;
 	}
-		
+	
+	public List<NormalizedUrl> getNormalizedUrlList() {
+		return normalizedUrlList;
+	}
+
+	public void setNormalizedUrlList(List<NormalizedUrl> normalizedUrlList) {
+		this.normalizedUrlList = normalizedUrlList;
+	}
+	
 	public boolean isDup(String url) {
 		for (String s : history) {
 			if (s.equals(url)) 
