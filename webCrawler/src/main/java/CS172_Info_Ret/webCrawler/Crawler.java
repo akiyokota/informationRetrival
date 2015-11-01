@@ -1,11 +1,10 @@
 package CS172_Info_Ret.webCrawler;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.LinkedList;
@@ -240,11 +239,12 @@ public class Crawler {
 	
 	/* idealy, i would want to use regex to do this */
 	private boolean urlMatches (String targetUrl, String subUrl, String baseUrl) {	
+		//normalize the base url by deleting the last "/"
 		if(baseUrl.endsWith("/")) {
 			baseUrl = baseUrl.substring(0, baseUrl.length()-1);
 		}
-		if(!targetUrl.startsWith(baseUrl))
-			return true;
+		
+		//this is one way to handle the regex
 		if(subUrl.startsWith("*")) {
 			if(subUrl.endsWith("*")) {
 				if(targetUrl.startsWith(baseUrl) && targetUrl.contains(subUrl.replace("*", ""))) 
@@ -272,9 +272,14 @@ public class Crawler {
 			return;
 		
 		for(NormalizedUrl nUrl : fullList) {
-			for(String subUrl : genericUser.getMetaContents().keySet()) {
-				if(urlMatches(nUrl.generateCleanUrl(), subUrl, url.getURL())) {
-					if (genericUser.getMetaContents().get(subUrl).isFollow()) {
+			if(nUrl.getProtocol().equals("http")) {
+				for(String subUrl : genericUser.getMetaContents().keySet()) {
+					if(urlMatches(nUrl.generateCleanUrl(), subUrl, url.getURL())) {
+						if (genericUser.getMetaContents().get(subUrl).isFollow()) {
+							urlQueue.add(new Pair(nUrl.generateCleanUrl(), url.getDepth()+1));
+						}
+					} else {
+						//if it's not in the robots.txt
 						urlQueue.add(new Pair(nUrl.generateCleanUrl(), url.getDepth()+1));
 					}
 				}
@@ -291,6 +296,57 @@ public class Crawler {
 		return nonDups;
 	}
 	
+	private boolean checkConnection (String url) {
+		System.out.println(url);
+		try {
+			URL u = new URL(url);
+			HttpURLConnection connection = (HttpURLConnection)u.openConnection();
+			connection.connect();
+	
+			 if(connection.getResponseCode()==200) 
+				 return true;
+		} catch (Exception e) {
+			return false;
+		}
+		return false;
+	}
+	
+	private boolean isHTML(String url) {
+		try {
+			URL u = new URL(url);
+			HttpURLConnection urlc = (HttpURLConnection)u.openConnection();
+			urlc.setAllowUserInteraction( false );
+			urlc.setDoInput( true );
+			urlc.setDoOutput( false );
+			urlc.setUseCaches( true );
+			urlc.setRequestMethod("HEAD");
+			urlc.connect();
+			if(urlc.getContentType().contains("text/html")) {
+				return true;
+			}
+		} catch (Exception e) {
+			return false;
+		}
+		return false;
+	}
+	
+	private boolean isCrawlable (String url, Integer depth, Integer numHops){
+		//check if the hop is too far
+		if(depth > numHops)
+			return false;
+		//check if response code is 200
+		if(!checkConnection(url)) 
+			return false;
+		//check if page is html
+		if(!isHTML(url))
+			return false;
+		//check if dup
+		if(isDup(url)) 
+			return false;
+		return true;
+		
+	}
+	
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
 		try {
 			//load seeds into the queue
@@ -302,25 +358,32 @@ public class Crawler {
 				
 				//pop top of the queue
 				Pair urlPair = urlQueue.remove();
-				//check if the hop is too far
-				if(urlPair.getDepth() > numHops)
+				//check if it's safe to crawl this page
+				if(!isCrawlable(urlPair.getURL(), urlPair.getDepth(), numHops))
 					continue;
-				//check duplicates
-				if(!isDup(urlPair.getURL())) {
-					recordHistory(urlPair.getURL());
-					//download page ---> storage
-					utility.writeFile(filePathStore + history.size(), fetchPageToMemory(urlPair.getURL()));
+				//put this in history to prevent from crawling again
+				recordHistory(urlPair.getURL());
+				//download page ---> storage
+				utility.writeFile(filePathStore + history.size(), fetchPageToMemory(urlPair.getURL()));
 					
-					nUrl.UrlNormalization(new URL(urlPair.getURL()));
-					List<robot> robots = null;
-					if(robotExists(nUrl)) {
-						robots = ParseRobots(nUrl);
-					}
-					//extract link
-					List<NormalizedUrl> nUrlList = removeDups(urlExtraction(urlPair.getURL()));
-					//valid url -> queue
-					enqueueUrls(nUrlList, robots, urlPair);
+				nUrl.UrlNormalization(new URL(urlPair.getURL()));
+				List<robot> robots = null;
+				if(checkConnection(nUrl.toString())) {
+					robots = ParseRobots(nUrl);
 				}
+				//extract link
+				List<NormalizedUrl> nUrlList = removeDups(urlExtraction(urlPair.getURL()));
+				//valid url -> queue
+				if(robots!=null)
+					enqueueUrls(nUrlList, robots, urlPair);
+				else {
+					for(NormalizedUrl n : nUrlList) {
+						if(nUrl.getProtocol().equals("http")) {
+							urlQueue.add(new Pair(n.generateCleanUrl(), urlPair.getDepth()));
+						}
+					}
+				}
+				
 			}
 		} catch (Exception e) {
 			e.printStackTrace();

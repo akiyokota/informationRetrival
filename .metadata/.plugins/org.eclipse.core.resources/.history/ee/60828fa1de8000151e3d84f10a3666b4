@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Faculty</title>
+<meta http-equiv="last-modified" content="2009-09-11" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Faculty</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Faculty</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li><a href="/education/heres_why/" title="Admissions">Admissions<br /><span></span></a></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>People</h3><ul><li><a href="/people/faculty/" title="Faculty">Faculty</a></li><li><a href="/people/lecturers/" title="Lecturers">Lecturers</a></li><li><a href="/people/administrative/" title="Administrative Staff">Administrative Staff</a></li><li><a href="/people/systems/" title="Systems Group">Systems Group</a></li><li><a href="/people/current_grads/" title="Graduate Students">Graduate Students</a></li><li><a href="/people/phd/" title="Graduate Alumni">Graduate Alumni</a></li></ul></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li><a href="/education/" title="Education">Education<br /><span></span></a></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li><a href="/internships/" title="Internships & Careers">Internships & Careers<br /><span></span></a></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<div class="header">
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+<!-- /com.omniupdate.div --></div>
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <!-- See Conley (cread@cs) before altering the DTD -->
+  <!--
+   UCR Computer Science Extranet Application developed by:
+    Benjamin Arai
+     and
+    Conley Read.
+
+   If you would like to get in touch, please contact us at:
+
+    barai@cs.ucr.edu, http://www.benjaminarai.com/
+    cread@cs.ucr.edu, http://www.conleyread.com/
+
+    Back-end written by Hoang Nguyen
+  -->
+
+<!--
+  <title>Faculty | UCR Department of Computer Science &amp; Engineering</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed | UCR Department of Computer Science &amp; Engineering" href="/rss/">
+
+  <script type="text/javascript" src="/js/menu.js"></script>
+  <script type="text/javascript">
+  // Bust my page out of any frames
+  if (top != self) {
+    top.location.href = location.href;
+  }
+  </script>
+-->
+</head>
+
+<body>
+<!--
+  <div id="header">
+  <div id="logobar">
+    <p id="logobar1">Department of Computer Science and Engineering</p>
+    <div id="logoleft">
+      <a href="/"><img src="/images/logobar2/new_logo2.png" alt="Department of Computer Science and Engineering Logo" title="Department of Computer Science and Engineering" /></a>
+    </div>
+    <div id="logoright">
+      <a href="http://www.engr.ucr.edu/" target="_blank"><img src="/images/logobar2/logobar_coe.png" alt="Bourns College of Engineering Logo" title="Bourns College of Engineering" /></a><a href="http://www.ucr.edu/" target="_blank"><img src="/images/logobar2/logobar_ucr.png" alt="University of California, Riverside Logo" title="University of California, Riverside" /></a>
+    </div>
+  </div>
+  <div id="masthead">
+    <div id="pageCrumbs">
+      <a href="/">Home</a>
+ &#187; <a href="/people/">People</a> &#187; <a href="/people/faculty">Faculty</a>    </div>
+    <div id="breadCrumb">
+          </div>
+  </div>
+</div>
+-->
+<div id="container">
+  <div id="centerContent" class="column">
+      <h3>Tenure-track Faculty (25)</h3>
+  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~nael"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/9f3eaf9f52efc61bc6de76fa99f84485.jpg" width="105" alt="Nael Abu-Ghazaleh"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~nael"><strong>Nael Abu-Ghazaleh</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 441 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2347<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,110,97,101,108,64,99,115,46,117,99,114,46,101,100,117,34,62,110,97,101,108,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Computer Architecture, Computer System Security, Wireless and Sensor Networks, High Performance Computing, Parallel Discrete Event Simulation.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Computer Architecture, Computer System Security, Wireless and Sensor Networks, High Performance Computing, Parallel Discrete Event Simulation.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~bhuyan/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/7da6e22b132161f9f6d717390d9821bf.jpg" width="105" alt="Laxmi N. Bhuyan"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~bhuyan/"><strong>Laxmi N. Bhuyan</strong></a><br />
+    
+    Distinguished Professor<br />
+        <span class="darktext">Office:</span> 442 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2244<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,98,104,117,121,97,110,64,99,115,46,117,99,114,46,101,100,117,34,62,98,104,117,121,97,110,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Multiprocessor architecture;
+network processors;
+internet routers;
+web servers;
+parallel and distributed computing;
+performance evaluation.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Multiprocessor architecture;
+network processors;
+internet routers;
+web servers;
+parallel and distributed computing;
+performance evaluation.  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~philip"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/b2bff0317d35df5b5deb9fefea150b4e.jpg" width="105" alt="Philip Brisk"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~philip"><strong>Philip Brisk</strong></a><br />
+    
+    Associate Professor<br />
+        <span class="darktext">Office:</span> 339 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2030<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,112,104,105,108,105,112,64,99,115,46,117,99,114,46,101,100,117,34,62,112,104,105,108,105,112,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Reconfigurable computing; application-specific and customizable processors; computer architecture; compilers    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Reconfigurable computing; application-specific and customizable processors; computer architecture; compilers  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <img class="photo" src="http://static.cs.ucr.edu/store/images/sized/9a3be42e2e3f3fe7e45303cfadf73026.jpg" width="105" alt="Jiasi Chen">  </td>
+  <td style="white-space: nowrap">
+          <strong>Jiasi Chen</strong><br />
+    
+    Assistant Professor<br />
+        <span class="darktext">Office:</span> 308 Winston Chung Hall<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,106,105,97,115,105,64,99,115,46,117,99,114,46,101,100,117,34,62,106,105,97,115,105,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Internet video streaming, wireless and mobile networks, network economics, and sensor networks.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Internet video streaming, wireless and mobile networks, network economics, and sensor networks.  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~chen/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/a3e5a7b5b3cc8a40935202563447c95c.jpg" width="105" alt="Zizhong Chen"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~chen/"><strong>Zizhong Chen</strong></a><br />
+    
+    Associate Professor<br />
+        <span class="darktext">Office:</span> 422 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2403<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,99,104,101,110,64,99,115,46,117,99,114,46,101,100,117,34,62,99,104,101,110,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    High performance computing, parallel and distributed systems, fault tolerance and checkpointing, power-aware algorithms and software, grid and cloud computing, numerical algorithms and software, and large scale computer simulations.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    High performance computing, parallel and distributed systems, fault tolerance and checkpointing, power-aware algorithms and software, grid and cloud computing, numerical algorithms and software, and large scale computer simulations.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~marek/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/48982761c2b360e4edc92e06357ed347.jpg" width="105" alt="Marek Chrobak"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~marek/"><strong>Marek Chrobak</strong></a><br />
+    
+    Professor and Chair<br />
+        <span class="darktext">Office:</span> 406 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-3769<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,109,97,114,101,107,64,99,115,46,117,99,114,46,101,100,117,34,62,109,97,114,101,107,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Design and analysis of algorithms;
+data structures;
+theory of computation;
+combinatorial optimization;
+computational geometry;
+automata theory;
+graph theory;
+on-line algorithms;
+graph drawing algorithms;
+algorithms in discrete tomography.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Design and analysis of algorithms;
+data structures;
+theory of computation;
+combinatorial optimization;
+computational geometry;
+automata theory;
+graph theory;
+on-line algorithms;
+graph drawing algorithms;
+algorithms in discrete tomography.  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~michalis/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/fbf35264df636f8d9e3e8c32f71e01dc.jpg" width="105" alt="Michalis Faloutsos"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~michalis/"><strong>Michalis Faloutsos</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,109,105,99,104,97,108,105,115,64,99,115,46,117,99,114,46,101,100,117,34,62,109,105,99,104,97,108,105,115,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Internet protocols and measurements, peer-to-peer networks, social networks, network security, and ad-hoc networks.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Internet protocols and measurements, peer-to-peer networks, social networks, network security, and ad-hoc networks.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~gupta/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/112d3de7df6c64ac7def203e78c886be.jpg" width="105" alt="Rajiv Gupta"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~gupta/"><strong>Rajiv Gupta</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 408 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2558<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,103,117,112,116,97,64,99,115,46,117,99,114,46,101,100,117,34,62,103,117,112,116,97,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Compilers and Architectures for High-Performance Systems; Software Tools for Profiling, Slicing, and Debugging; Dynamic Program Analysis.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Compilers and Architectures for High-Performance Systems; Software Tools for Profiling, Slicing, and Debugging; Dynamic Program Analysis.  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~vagelis"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/35f67ef112093a0a199fe0c09b8e1e36.jpg" width="105" alt="Vagelis Hristidis (Evangelos Christidis)"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~vagelis"><strong>Vagelis Hristidis (Evangelos Christidis)</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 317 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2478<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,118,97,103,101,108,105,115,64,99,115,46,117,99,114,46,101,100,117,34,62,118,97,103,101,108,105,115,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Databases; Information Retrieval; Web search; Database search; Healthcare data; Semi-structured data.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Databases; Information Retrieval; Web search; Database search; Healthcare data; Semi-structured data.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~jiang/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/669a8272559c49a681e19234b4ff6d67.jpg" width="105" alt="Tao Jiang"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~jiang/"><strong>Tao Jiang</strong></a><br />
+    
+    Professor and Graduate Admissions Officer<br />
+        <span class="darktext">Office:</span> 336 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2991<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,106,105,97,110,103,64,99,115,46,117,99,114,46,101,100,117,34,62,106,105,97,110,103,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Design and analysis of algorithms;
+computational molecular biology;
+bioinformatics;
+comparative genomics;
+approximation algorithms;
+average-case analysis;
+applications of Kolmogorov complexity.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Design and analysis of algorithms;
+computational molecular biology;
+bioinformatics;
+comparative genomics;
+approximation algorithms;
+average-case analysis;
+applications of Kolmogorov complexity.  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~eamonn/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/325866a0a647b99ff8cee42aeb8dc071.jpg" width="105" alt="Eamonn Keogh"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~eamonn/"><strong>Eamonn Keogh</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 318 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2032<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,101,97,109,111,110,110,64,99,115,46,117,99,114,46,101,100,117,34,62,101,97,109,111,110,110,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Machine learning and information retrieval;
+techniques for solving similarity and indexing problems in time-series datasets.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Machine learning and information retrieval;
+techniques for solving similarity and indexing problems in time-series datasets.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~krish/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/28762afa3f67b0a4d430bc8924599179.jpg" width="105" alt="Srikanth Krishnamurthy"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~krish/"><strong>Srikanth Krishnamurthy</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 334 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2348<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,107,114,105,115,104,64,99,115,46,117,99,114,46,101,100,117,34,62,107,114,105,115,104,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Wireless networks and systems; broadband networks; network security    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Wireless networks and systems; broadband networks; network security  </td>
+-->
+  </tr>
+<tr class="row1" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~stelo/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/c48dce151f46224bfec1990183bb0274.jpg" width="105" alt="Stefano Lonardi"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~stelo/"><strong>Stefano Lonardi</strong></a><br />
+    
+    Professor and Associate Chair<br />
+        <span class="darktext">Office:</span> 325 Winston Chung Hall<br />
+        <span class="darktext">Phone:</span> (951) 827-2203<br />
+        <span class="darktext">Email:</span> <script type="text/javascript"><!--
+document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,115,116,101,108,111,64,99,115,46,117,99,114,46,101,100,117,34,62,115,116,101,108,111,64,99,115,46,117,99,114,46,101,100,117,60,47,97,62));
+//--></script><noscript><em>Enable JavaScript to see email</em></noscript>      </td>
+    </tr>
+  <tr>
+  <td colspan="2">
+    <strong>Research Interests:</strong><br />
+    Computational molecular biology;
+data mining;
+data compression;
+design and analysis of algorithms.    <br />
+  </td>
+  </tr>
+
+<!--  
+  <td><br />
+    <span class="darktext">Research Interests:</span><br />
+    Computational molecular biology;
+data mining;
+data compression;
+design and analysis of algorithms.  </td>
+-->
+  </tr>
+<tr class="row2" valign="top">
+  <td class="photo_type1">
+    <a href="http://www.cs.ucr.edu/~mart/"><img class="photo" src="http://static.cs.ucr.edu/store/images/sized/28432fc4494381fa197e5a86d76a2b9d.jpg" width="105" alt="Mart Molle"></a>  </td>
+  <td style="white-space: nowrap">
+          <a class="headtext" href="http://www.cs.ucr.edu/~mart/"><strong>Mart Molle</strong></a><br />
+    
+    Professor<br />
+        <span class="darktext">Office:</span> 331 Winston Chung Hall<br />

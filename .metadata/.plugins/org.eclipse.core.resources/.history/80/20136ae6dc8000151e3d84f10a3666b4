@@ -1,0 +1,361 @@
+package CS172_Info_Ret.webCrawler;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.StringTokenizer;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
+import CS172_Info_Ret.webCrawler.Objects.META;
+import CS172_Info_Ret.webCrawler.Objects.NormalizedUrl;
+import CS172_Info_Ret.webCrawler.Objects.Pair;
+import CS172_Info_Ret.webCrawler.Objects.robot;
+
+public class Crawler {
+	
+	private String historyPath = "./history/urlHistory.txt";
+	
+	private List<String> history;
+	private Queue<Pair> urlQueue;
+	private CrawlerUtilities utility;
+	 /* 
+	  * Constructor
+	  */
+	public Crawler () {
+		this.utility = new CrawlerUtilities();
+		this.history = loadHistory();
+		this.urlQueue = new LinkedList<Pair>();
+	}
+
+	private List<String> loadHistory () {
+		List<String> urlHistory = new LinkedList<String> ();
+		try {
+			File history = new File(historyPath);
+			if(!history.exists()) {
+			    history.createNewFile();
+			} else {
+				urlHistory = utility.TokenizeByNewLine(utility.readFile(historyPath));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return urlHistory;
+	}
+ 	
+	private void recordHistory(String url) {
+		history.add(url);
+		utility.appendToFile(historyPath, url);
+	}
+	
+	/**
+	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
+	 */
+	public List<NormalizedUrl> urlExtraction (String url) {
+		List <NormalizedUrl> NormalizedList = new LinkedList<NormalizedUrl> ();
+		try {
+			List<String> urlList = new LinkedList<String> ();
+			Document doc = Jsoup.connect(url).get();
+			urlList = new ParseHTML().parseHTML(doc);
+			
+			for (String u : urlList) {
+				NormalizedUrl nUrl = new NormalizedUrl();
+				
+				nUrl.UrlNormalization(new URL(u));
+				NormalizedList.add(nUrl);
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return NormalizedList;
+	}
+	
+	private boolean validateUrl (String url) {
+		try {
+			URL urlObj = new URL(url);
+			if (urlObj.openStream()!=null){
+				return true;
+			}
+		} catch (Exception e) {
+		}
+		return false;
+	}
+
+	/**
+	 * Download a webcontent the primative way
+	 * @param url : the url you wish to download
+	 * @return content of the page
+	 */
+	private  String fetchPageToMemory(String url) throws IOException, MalformedURLException {
+		try {
+			URL urlObj = new URL(url);
+			StringBuilder content = new StringBuilder();
+			if (!validateUrl(url))
+				return null;
+			BufferedReader x = new BufferedReader (new InputStreamReader(urlObj.openConnection().getInputStream()));
+			
+			while(x.ready()) {
+				content.append(x.readLine());
+				content.append("\n");
+			}
+			
+			x.close();
+			
+			return content.toString();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return "";
+	}
+	
+	public boolean robotExists(NormalizedUrl nUrl) {
+		try {
+			String robotsUrl = nUrl.getProtocol() + "://" + nUrl.getHost() + "/robots.txt";
+			if(validateUrl(robotsUrl)) 
+				return true;
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+	
+	public List<robot> ParseRobots(NormalizedUrl nUrl) {
+		List <robot> robotsList = new LinkedList<robot> ();
+		try {
+			String robotsUrl = nUrl.getProtocol() + "://" + nUrl.getHost() + "/robots.txt";
+
+			String robots = fetchPageToMemory(robotsUrl);
+						
+			if(robots==null){
+				return null;
+			}
+			StringTokenizer st = new StringTokenizer(robots, "\n");
+			
+			robot agent = null;
+			
+			while(st.hasMoreElements()) {
+				String token = st.nextElement().toString();
+				if(token.startsWith("#"))
+					continue;
+				
+				StringTokenizer split = new StringTokenizer(token, ": ");
+				String type = split.nextElement().toString();
+				if(type.equals("User-agent")) {
+					if(agent != null)
+						robotsList.add(agent);
+					agent = new robot();
+					if(split.hasMoreElements())
+						agent.setUserAgent(split.nextElement().toString());
+				} else if(type.equals("Allow")) {
+					if(split.hasMoreElements()){
+						String subUrl = split.nextElement().toString();
+						META metaContent = null;
+						if(!agent.getMetaContents().containsKey(subUrl)) {
+							metaContent = new META();
+						} else {
+							metaContent = agent.getMetaContents().get(subUrl);
+						}
+						metaContent.setFollow(true);
+						agent.getMetaContents().put(subUrl, metaContent);
+					}
+				} else if(type.equals("Disallow")) {
+					if(split.hasMoreElements()){
+						String subUrl = split.nextElement().toString();
+						META metaContent = null;
+						if(!agent.getMetaContents().containsKey(subUrl)) {
+							metaContent = new META();
+						} else {
+							metaContent = agent.getMetaContents().get(subUrl);
+						}
+						metaContent.setNofollow(true);
+						agent.getMetaContents().put(subUrl, metaContent);
+					}
+				} else if(type.equals("Index")) {
+					if(split.hasMoreElements()){
+						String subUrl = split.nextElement().toString();
+						META metaContent = null;
+						if(!agent.getMetaContents().containsKey(subUrl)) {
+							metaContent = new META();
+						} else {
+							metaContent = agent.getMetaContents().get(subUrl);
+						}
+						metaContent.setIndex(true);
+						agent.getMetaContents().put(subUrl, metaContent);
+					}
+				} else if(type.equals("Noindex")) {
+					if(split.hasMoreElements()){
+						String subUrl = split.nextElement().toString();
+						META metaContent = null;
+						if(!agent.getMetaContents().containsKey(subUrl)) {
+							metaContent = new META();
+						} else {
+							metaContent = agent.getMetaContents().get(subUrl);
+						}
+						metaContent.setNoindex(true);
+						agent.getMetaContents().put(subUrl, metaContent);
+					}
+				} else if(type.equals("Crawl-Delay")) {
+					if(split.hasMoreElements())
+						agent.setCrawl_Delay(Integer.parseInt(split.nextElement().toString()));
+				} else {
+					
+				}
+			}
+			
+			robotsList.add(agent);
+			
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return robotsList;
+	}
+		
+	public boolean isDup(String url) {
+		for (String s : history) {
+			if (s.equals(url)) 
+				return true;
+		}
+		return false;
+	}
+	
+	private robot extractGenericUser(List<robot> robots) {
+		for (robot r : robots) {
+			if (r.getUserAgent().equals("*"))
+				return r;
+		}
+		return null;
+	}
+	
+	/* idealy, i would want to use regex to do this */
+	private boolean urlMatches (String targetUrl, String subUrl, String baseUrl) {	
+		//filter out anything other than http 
+		if(baseUrl.startsWith("http")) {
+			if(baseUrl.startsWith("https"))
+				return false;
+		} else 
+			return false;
+		
+		//normalize the base url by deleting the last "/"
+		if(baseUrl.endsWith("/")) {
+			baseUrl = baseUrl.substring(0, baseUrl.length()-1);
+		}
+		
+		//this is one way to handle the regex
+		if(subUrl.startsWith("*")) {
+			if(subUrl.endsWith("*")) {
+				if(targetUrl.startsWith(baseUrl) && targetUrl.contains(subUrl.replace("*", ""))) 
+					return true;
+			}
+			if(targetUrl.startsWith(baseUrl) && targetUrl.endsWith(subUrl.replace("*", ""))) {
+				return true;
+			}
+		} else if (subUrl.endsWith("*")) {
+			String firstHalf = targetUrl + subUrl.replace("*",  "") ;
+			if(targetUrl.startsWith(firstHalf)) 
+				return true;
+		} else {
+			if(targetUrl.equals(baseUrl + subUrl)) {
+				return true;
+			}
+		}
+		//System.out.println("targetUrl: " + targetUrl + "\tsubUrl: " + subUrl + "\tbaseUrl: " + baseUrl);
+		return false;
+	}
+	
+	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots, Pair url) {
+		robot genericUser = extractGenericUser(robots);
+		if (genericUser==null) 
+			return;
+		
+		for(NormalizedUrl nUrl : fullList) {
+			for(String subUrl : genericUser.getMetaContents().keySet()) {
+				if(urlMatches(nUrl.generateCleanUrl(), subUrl, url.getURL())) {
+					if (genericUser.getMetaContents().get(subUrl).isFollow()) {
+						urlQueue.add(new Pair(nUrl.generateCleanUrl(), url.getDepth()+1));
+					}
+				} else {
+					urlQueue.add(new Pair(nUrl.generateCleanUrl(), url.getDepth()+1));
+				}
+			}
+		}
+	}
+	
+	private List<NormalizedUrl> removeDups (List<NormalizedUrl> urlList) {
+		List<NormalizedUrl> nonDups = new LinkedList<NormalizedUrl> ();
+		for(NormalizedUrl n : urlList) {
+			if(!history.contains(n.generateCleanUrl()))
+				nonDups.add(n);
+		}
+		return nonDups;
+	}
+	
+	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
+		try {
+			//load seeds into the queue
+			urlQueue = utility.loadSeeds(filePathSeeds);
+
+			while(!urlQueue.isEmpty() && history.size()<numPages) {
+
+				NormalizedUrl nUrl = new NormalizedUrl ();
+				
+				//pop top of the queue
+				Pair urlPair = urlQueue.remove();
+				//check if the hop is too far
+				if(urlPair.getDepth() > numHops)
+					continue;
+				//check duplicates
+				if(!isDup(urlPair.getURL())) {
+					recordHistory(urlPair.getURL());
+					//download page ---> storage
+					utility.writeFile(filePathStore + history.size(), fetchPageToMemory(urlPair.getURL()));
+					
+					nUrl.UrlNormalization(new URL(urlPair.getURL()));
+					List<robot> robots = null;
+					if(robotExists(nUrl)) {
+						robots = ParseRobots(nUrl);
+					}
+					//extract link
+					List<NormalizedUrl> nUrlList = removeDups(urlExtraction(urlPair.getURL()));
+					//valid url -> queue
+					if(robots!=null)
+						enqueueUrls(nUrlList, robots, urlPair);
+					else
+						
+				}
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	
+	/*--- all testing function goes here ---*/
+	/*for testing*/
+	private void printRobots(List<robot> robots) {
+		for (robot r : robots) {
+
+			System.out.println("Agent : " + r.getUserAgent());
+			System.out.println("Craw Delay : " + r.getCrawl_Delay());
+			for (String key : r.getMetaContents().keySet()) {
+			    META value = r.getMetaContents().get(key);
+			    System.out.println(key );
+			    System.out.print("Follow: " + value.isFollow()+ "\t");
+			    System.out.print("NoFollow: " + value.isNofollow()+ "\t");
+			    System.out.print("Index: " + value.isIndex()+ "\t");
+			    System.out.println("NoIndex: " + value.isNoindex());
+			}
+		}
+	}
+}

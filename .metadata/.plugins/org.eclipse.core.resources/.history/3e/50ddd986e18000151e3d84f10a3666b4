@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Education</title>
+<meta http-equiv="last-modified" content="2015-10-23" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Education</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Education</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li><a href="/education/heres_why/" title="Admissions">Admissions<br /><span></span></a></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a></li><li><a href="/people/faculty" title="People">People<br /><span></span></a></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>Education</h3><ul><li><a href="/education/undergraduate/" title="Undergraduate">Undergraduate</a></li><li><a href="/education/graduate/" title="Graduate">Graduate</a></li><li><a href="/education/undergraduate/courses/" title="Course Offerings">Course Offerings</a></li><li><a href="http://cen.ucr.edu" title="Computer Engineering Program">Computer Engineering Program</a></li><li><a href="/education/organizations/" title="Organizations">Organizations</a></li></ul></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li><a href="/internships/" title="Internships & Careers">Internships & Careers<br /><span></span></a></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<div class="header">
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+<!-- /com.omniupdate.div --></div>
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" --><!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --><h3><strong><img src="/images/Grads2-700x144.png" alt="grads @ CSE" width="700" height="144" /><br /><br />Education</strong></h3>
+<ul>
+<li><a href="/education/undergraduate/">Undergraduate</a>&nbsp;</li>
+<li><a href="/education/graduate/">Graduate</a></li>
+<li><a href="http://cmsstudent.engr.ucr.edu/policies/requirements/combinedBSMS.html">Combined BS/MS degree</a></li>
+<li><a href="http://catalog.ucr.edu/">UCR General Catalog</a></li>
+<li><a class="pdf" href="/store/docs/cse_dept_brochure.pdf">Department of Computer Science &amp; Engineering Brochure</a> <small>(7.3 MB)</small></li>
+<li><a href="/education/organizations">Organizations</a></li>
+</ul>
+<h3>Undergraduate Programs</h3>
+<h4>Bachelor's Degrees in Computer Science, Business Informatics, and Computer Engineering</h4>
+<p>The Department of Computer Science &amp; Engineering offers majors in <a href="/education/undergraduate/csmajor/">Computer Science (CS)</a>, <a href="/education/undergraduate/bunfmajor/">Business Informatics (BUNF)</a>, and <a href="http://cen.ucr.edu/education/undergraduate/">Computer Engineering (CE)</a>, as well as <a href="/education/undergraduate/minor/">minors in Computer Science</a>. All three majors prepare students for industry and government careers as well as for graduate school.</p>
+<p>As a student in the Bournes College of Engineering, you will have the opportunity of studying under and working directly with <a href="/people/faculty/">leaders in your field</a>. In addition to the social resources available to you and access to <a href="/department/computing/">state-of-the-art labs</a>, you will have exciting opportunities to work on unique and challenging projects.</p>
+<p>If you're feeling particularly creative, find a faculty advisor and propose your own project (CS 179). All three majors offer an exciting variety of electives to fit your interests and academic focus.</p>
+<ul>
+<li>The <a href="/education/undergraduate/csmajor/"><strong>Computer Science (CS) major</strong></a> stresses the study of foundational and advanced CS topics. This technical major prepares students for a large variety of computing careers, including software engineering, networks, databases, graphics, algorithms, security, system analysis, embedded systems, and much more.</li>
+<li>The <a href="/education/undergraduate/bunfmajor/"><strong>Business Informatics (BUNF) major</strong></a> (previously <em>Information Systems</em>) covers the core of Computer Science along with basic business and management topics. The IS major prepares students for careers in management of computer and information systems, system administration, and e-commerce. This major is a perfect fit for individuals looking for a technical degree with a business edge, such as for entrepenuers considering starting a high-tech company.</li>
+<li>The <a href="http://cen.ucr.edu/education/undergraduate/"><strong>Computer Engineering (CE) major</strong></a> stresses the study of core Computer Science and Electrical Engineering (EE) topics. The CE major prepares students for careers involving the design of complex systems using computer hardware and software, electronics, and electrical signals. Systems designed include those for communication, networking, computer vision, desktop computing, and embedded computing. The Computer Engineering major is offered jointly by the Department of Computer Science &amp; Engineering and the <a href="http://www.ee.ucr.edu/">Department of Electrical Engineering</a>.</li>
+</ul>
+<p>&nbsp;</p>
+<h3>Graduate Programs</h3>
+<p>The Department of Computer Science and Engineering at the University of California, Riverside offers graduate study leading to the <a href="/education/graduate/program/">Master of Science</a> and <a href="/education/graduate/program/">Doctor of Philosophy</a> degrees in Computer Science. The M.S. program is ideal for professionals seeking greater depth in several areas. The Ph.D. program is heavily integrated with our research activities and is intended for well-qualified individuals who wish to pursue careers in academic or industrial research.</p>
+<p>The Department has active research programs in many areas, including algorithm design, artificial intelligence, computational biology, computer architecture, computer networks, distributed systems, operating systems, databases, compilers, software engineering, multimedia systems, VLSI/CAD, embedded systems design, and theory of computation.</p>
+<h4>Research Facilities</h4>
+<p>The department has recently relocated to a new facility within the Marlan and Rosemary Bourns College of Engineering. Our fiber networked facilities host both teaching and research laboratories supported by the Department’s Systems Operations Group. The Systems Operations Group supports student and faculty research missions with critical knowledge and materials support. The Department maintains Microsoft Windows, Linux, Unix, and virtualized systems and services. Low latency and high bandwidth availability through redundant connections to internet core backbones provide our students and faculty with uninterrupted access to leading technology.</p>
+<h4>Financial Support</h4>
+<p>Support is available for graduate students through fellowships, research assistantships, and teaching assistantships. Please refer to the Graduate Division website for yearly admission deadlines, http://www.graddiv.ucr.edu/FinSuptocPros.html.</p>
+<h4>Community Setting</h4>
+<p>The University of California, Riverside is set on a beautiful parklike campus of 1,200 acres at the foot of the Box Springs Mountains. One of ten campuses of the renown University of California system, UCR offers the unique advantages of a large research institution along with opportunity for personal faculty attention.</p>
+<p>Located in Southern California’s rapidly growing Inland Empire, the historic City of Riverside is noted for its palm-lined avenues, mild climate and lower cost of living. Riverside is centrally located, offering easy access to the best geographical features of Southern California, including mountain resorts, ocean beaches, and desert playgrounds. The metropolitan areas of Los Angeles, Orange County and San Diego are all within a short distance.</p><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.efp --><!-- /com.omniupdate.efp -->
+</div>
+			<hr />
+		</div>
+	  <!-- End Content Area -->
+
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div><!-- end pagewrapper -->
+
+<div class="clear"></div>
+
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+
+      <div class="prefooter">
+         <div class="column49">
+            <h3>General Campus Information</h3>
+            <address>
+            <span class="vcard">
+               <strong><span class="fn org">University of California, Riverside</span></strong><br />
+               <span class="adr">
+                  <span class="street-address">900 University Ave.</span><br />
+                  <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+               </span>
+               Tel: <span class="tel">(951) 827-1012</span><br /><br />
+            </span>
+            <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://library.ucr.edu/">UCR Libraries</a><br />
+            <a href="http://campusstatus.ucr.edu/">Campus Status</a> &bull; <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address>
+         </div>
+         <div class="column49">
+            <h3>Department Information</h3>
+            <address><strong>Department of Computer Science and Engineering</strong><br />
+<a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br /><br />
+Tel: (951) 827-5639<br />
+Fax: (951) 827-4643<br /></address>
+         </div>
+         <div class="column49R">
+            <h3>Related Links</h3>
+            <ul>
+<li><a href "http://www.ucr.edu">UC Riverside</a></li>
+<li><a href "http://www.engr.ucr.edu">Bourns College of Engineering</a></li>
+</ul>
+
+            
+         </div>
+         <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+
+      <div id="nav_footer">
+         <h3 class="accessibility">Campuswide Navigation</h3>
+	        <ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+      </div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a href= "http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01003&amp;site=cse&amp;path=%2Feducation%2Findex.html">Last modified: 2015-Oct-23</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>

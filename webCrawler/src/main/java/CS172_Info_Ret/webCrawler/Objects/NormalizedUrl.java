@@ -106,7 +106,8 @@ public class NormalizedUrl {
 	}
 	
 	public String generateCleanUrl() {
-		String cleanUrl = this.protocol + "://"
+		String cleanUrl = this.protocol 
+				+ "://"
 				+ this.host 
 				+ (this.port >= 0 ? "" + this.port: "") 
 				+ (this.path == null ? "" : this.path)
