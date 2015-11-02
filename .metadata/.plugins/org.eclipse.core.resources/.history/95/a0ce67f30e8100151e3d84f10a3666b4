@@ -37,7 +37,6 @@ public class Crawler {
 	public Crawler () {
 		this.utility = new CrawlerUtilities();
 		this.history = loadHistory();
-		this.numPageAlreadyOwn = this.history.size();
 		this.urlQueue = new LinkedList<Pair>();
 	}
 
@@ -427,7 +426,7 @@ public class Crawler {
 			//load seeds into the queue
 			urlQueue = utility.loadSeeds(filePathSeeds);
 
-			while(!urlQueue.isEmpty() && (history.size()-numPageAlreadyOwn)<numPages) {
+			while(!urlQueue.isEmpty() && history.size()<numPages) {
 
 				NormalizedUrl nUrl = new NormalizedUrl ();
 				
