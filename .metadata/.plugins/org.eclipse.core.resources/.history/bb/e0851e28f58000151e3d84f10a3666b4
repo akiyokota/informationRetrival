@@ -29,23 +29,15 @@ public class Crawler {
 	private List<String> history;
 	private Queue<Pair> urlQueue;
 	private CrawlerUtilities utility;
-
-	/**
-	 * Constructor for Crawler
-	 */
+	 /* 
+	  * Constructor
+	  */
 	public Crawler () {
 		this.utility = new CrawlerUtilities();
 		this.history = loadHistory();
 		this.urlQueue = new LinkedList<Pair>();
 	}
 
-	/**
-	 * Loads history from urlHistory.txt file
-	 * Also create any folder structure that's not already been created
-	 * that includes historyFolder, historyPath, mappingPath
-	 * 
-	 * return a list of urls thats already been crawled
-	 */
 	private List<String> loadHistory () {
 		List<String> urlHistory = new LinkedList<String> ();
 
@@ -66,9 +58,6 @@ public class Crawler {
 		return urlHistory;
 	}
  	
-	/**
-	 * record a url into urlHistory.txt
-	 */
 	private void recordHistory(String url) {
 		history.add(url);
 		utility.appendToFile(historyPath, url);
@@ -76,7 +65,6 @@ public class Crawler {
 	
 	/**
 	 * Parse out all links from the webpage, and put these links into NormalizedUrl object
-	 * return a list of extracted Urls
 	 */
 	public List<NormalizedUrl> urlExtraction (String url) {
 		List <NormalizedUrl> NormalizedList = new LinkedList<NormalizedUrl> ();
@@ -275,14 +263,7 @@ public class Crawler {
 		return null;
 	}
 	
-	/**
-	 * See if the targetUrl has rules in the robots.txt with subUrl and baseUrl passed in
-	 * return true if robots.txt has rules for targetUrl
-	 * return false if it doesn't
-	 * 
-	 * May need to redesign this function to use regex matching mechanic
-	 * 
-	 */
+	/* idealy, i would want to use regex to do this */
 	private boolean urlMatches (String targetUrl, String subUrl, String baseUrl) {	
 		//normalize the base url by deleting the last "/"
 		if(baseUrl.endsWith("/")) {
@@ -311,9 +292,6 @@ public class Crawler {
 		return false;
 	}
 	
-	/**
-	 * Filter a list of url, the crawlable urls will be added to the urlQueue
-	 */
 	public void enqueueUrls(List<NormalizedUrl> fullList, List<robot> robots, Pair url) {
 		robot genericUser = extractGenericUser(robots);
 		if (genericUser==null) 
@@ -335,10 +313,6 @@ public class Crawler {
 		}
 	}
 	
-	/**
-	 * check the history and remove the urls that's already been crawled
-	 * return a filtered list of url
-	 */
 	private List<NormalizedUrl> removeDups (List<NormalizedUrl> urlList) {
 		List<NormalizedUrl> nonDups = new LinkedList<NormalizedUrl> ();
 		for(NormalizedUrl n : urlList) {
@@ -348,11 +322,7 @@ public class Crawler {
 		return nonDups;
 	}
 	
-	/**
-	 * Check if a give url will give return status of 200
-	 * return true if 200
-	 * return false if not 200
-	 */
+	
 	private boolean checkConnection (String url) {
 		try {
 			URL u = new URL(url);
@@ -368,11 +338,6 @@ public class Crawler {
 		return false;
 	}
 	
-	/**
-	 * Check if a give url is a HTML page
-	 * return true if it is HTML
-	 * return false if it is not HTML
-	 */
 	private boolean isHTML(String url) {
 		try {
 			URL u = new URL(url);
@@ -392,14 +357,6 @@ public class Crawler {
 		return false;
 	}
 	
-	/**
-	 * Check if a give url is crawlable
-	 * conditions are:
-	 * depth must be smaller than hop
-	 * connection must return 200
-	 * page must be HTML
-	 * the url must not be a duplicate
-	 */
 	private boolean isCrawlable (String url, Integer depth, Integer numHops){
 		//check if the hop is too far
 		if(depth > numHops)
@@ -417,9 +374,6 @@ public class Crawler {
 		
 	}
 	
-	/**
-	 * This is the main crawling method
-	 */
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
 		try {
 			//load seeds into the queue

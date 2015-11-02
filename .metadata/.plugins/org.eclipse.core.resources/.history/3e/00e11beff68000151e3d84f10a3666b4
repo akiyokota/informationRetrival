@@ -79,23 +79,21 @@ public class CrawlerUtilities {
 		return files;
 	}
 	
-	/**
-	 * For a given directory, read all the files inside to extract the seeds
-	 * Return a queue of url seeds
-	 */
+	
 	public Queue<Pair> loadSeeds (String directory) {
 		Queue<Pair> urlQueue = new LinkedList<Pair> ();
+		
+		
+		
 		for ( String file : ListSegments(directory)) {
-			for ( String url : TokenizeByNewLine(readFile(directory + file))) 
+			for ( String url : TokenizeByNewLine(readFile(directory + file))) {
 				urlQueue.add(new Pair(url, 0));
+			}
 		}
+		
 		return urlQueue;
 	}
 	
-	/**
-	 * Tokenize the content by newline character
-	 * Return a list of string of the content
-	 */
 	public List<String> TokenizeByNewLine(String content) {
 		List <String> tokens = new LinkedList<String> ();
 		
@@ -107,13 +105,8 @@ public class CrawlerUtilities {
 		return tokens;
 	}
 	
-	/**
-	 * check if the given file exists
-	 * Return true if file exists
-	 * Return false if file doesn't exist
-	 */
-	public boolean fileExists(String file) {
-		File f = new File(file);
+	public boolean fileExists(String directory) {
+		File f = new File(directory);
 		if (f.exists() ) {
 		   return true;
 		}

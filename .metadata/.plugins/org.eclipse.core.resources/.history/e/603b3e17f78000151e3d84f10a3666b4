@@ -109,11 +109,10 @@ public class CrawlerUtilities {
 	
 	/**
 	 * check if the given file exists
-	 * Return true if file exists
-	 * Return false if file doesn't exist
+	 * Return a list of files only with the given directory
 	 */
 	public boolean fileExists(String file) {
-		File f = new File(file);
+		File f = new File(directory);
 		if (f.exists() ) {
 		   return true;
 		}

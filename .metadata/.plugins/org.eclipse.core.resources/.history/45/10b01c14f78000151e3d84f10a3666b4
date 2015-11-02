@@ -107,13 +107,8 @@ public class CrawlerUtilities {
 		return tokens;
 	}
 	
-	/**
-	 * check if the given file exists
-	 * Return true if file exists
-	 * Return false if file doesn't exist
-	 */
-	public boolean fileExists(String file) {
-		File f = new File(file);
+	public boolean fileExists(String directory) {
+		File f = new File(directory);
 		if (f.exists() ) {
 		   return true;
 		}

@@ -32,5 +32,17 @@ public class ParseHTML {
 		}
 		return linkList;
 	}
-
+	
+//	public static void main(String[] args){
+//        String url = "http://www.cs.ucr.edu";
+//        try{
+//	        Document doc = Jsoup.connect(url).get();
+//	        List<URL> linkList = parseHTML(doc);
+//	        for(int i = 0; i < linkList.size(); ++i){
+//	        	System.out.println(linkList.get(i).toString());
+//	        }
+//        } catch(IOException ex) {
+//        	ex.printStackTrace();
+//        }
+//    }
 }

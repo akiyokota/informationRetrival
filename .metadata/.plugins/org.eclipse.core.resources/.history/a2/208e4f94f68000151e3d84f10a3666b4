@@ -105,9 +105,6 @@ public class NormalizedUrl {
 		System.out.println("Bookmark is : " + this.bookmark );
 	}
 	
-	/**
-	 * Generate a url in String
-	 */
 	public String generateCleanUrl() {
 		String cleanUrl = this.protocol 
 				+ "://"
@@ -116,5 +113,23 @@ public class NormalizedUrl {
 				+ (this.path == null ? "" : this.path)
 				+ (this.query == null ? "" : this.query);
 		return cleanUrl;
+	}
+	
+	/**
+	 * testing
+	 */
+	public static void main(String args[]) {		
+		URL url;
+		try {
+			url = new URL("http://www.pe.com:8080/local-news/riverside- county/riverside/riverside-headlines-index/20120408- riverside-ucr-develops-sensory-detection-for- smartphones.ece?ssimg=532988#ssStory533");
+			NormalizedUrl nu = new NormalizedUrl();
+			nu.UrlNormalization(url);
+			nu.print();
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
 	}
 }

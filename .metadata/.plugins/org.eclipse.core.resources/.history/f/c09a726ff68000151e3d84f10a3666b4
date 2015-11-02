@@ -417,9 +417,6 @@ public class Crawler {
 		
 	}
 	
-	/**
-	 * This is the main crawling method
-	 */
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
 		try {
 			//load seeds into the queue

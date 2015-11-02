@@ -1,5 +1,7 @@
 package CS172_Info_Ret.webCrawler;
 
+import java.net.MalformedURLException;
+
 public class App 
 {
     public static void main( String[] args ) 

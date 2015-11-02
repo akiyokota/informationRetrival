@@ -105,9 +105,6 @@ public class NormalizedUrl {
 		System.out.println("Bookmark is : " + this.bookmark );
 	}
 	
-	/**
-	 * Generate a url in String
-	 */
 	public String generateCleanUrl() {
 		String cleanUrl = this.protocol 
 				+ "://"

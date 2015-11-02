@@ -392,14 +392,6 @@ public class Crawler {
 		return false;
 	}
 	
-	/**
-	 * Check if a give url is crawlable
-	 * conditions are:
-	 * depth must be smaller than hop
-	 * connection must return 200
-	 * page must be HTML
-	 * the url must not be a duplicate
-	 */
 	private boolean isCrawlable (String url, Integer depth, Integer numHops){
 		//check if the hop is too far
 		if(depth > numHops)
@@ -417,9 +409,6 @@ public class Crawler {
 		
 	}
 	
-	/**
-	 * This is the main crawling method
-	 */
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
 		try {
 			//load seeds into the queue
