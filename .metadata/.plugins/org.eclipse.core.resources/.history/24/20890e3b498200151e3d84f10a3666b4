@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Diversity @ UCR: Home</title>
+<meta http-equiv="last-modified" content="2015-10-01" />
+<meta name="version" content="2.45 2.74 " />
+<!-- 11/03/15 08:30:46 11/03/15 08:36:44 -->
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/medblue6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script> 
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/control.tabs.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/glider.js"></script>
+
+<script type="text/javascript" src="/scripts/scroll.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3051875-1']);
+  _gaq.push(['_setDomainName', '.ucr.edu']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>
+
+
+</head>
+<body>
+<div class="pagewrapper">
+
+    <ul id="accessibility_links">
+        <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li>
+        <li class="skip"><a tabindex="2" href="http://diversity.ucr.edu/" accesskey="1" title="Home Page">Home Page</a></li>
+    </ul>
+    <hr />	<div id="brandingbar">
+		<img class="overlay" src="/images/design6/overlay_home.png" alt="" />
+		<h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="University of California, Riverside" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+<div id="masthead" style="background-image:url(/images/masthead.jpg);">
+	<h1><a href="http://diversity.ucr.edu/"><span class="printonly">Diversity @ UCR</span></a></h1>
+</div>
+<!-- Status: Normal -->
+
+<hr />
+
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+		<li class="lastitem">Diversity @ UCR</li>
+	</ul>
+</div>
+<div class="pagewrapper">
+	
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4" title="Search">Search for:</label>
+		<input type="text" size="18" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+		<h2>Home</h2>
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+					<li class="currentpage"><h3><dfn>Current page is: </dfn>Home</h3></li><li><a href="/about/about.html" title="Diversity at UCR">Diversity at UCR<br /><span></span></a></li><li><a href="/about/policies.html" title="Policies & Guidelines">Policies & Guidelines</a></li><li><a href="/about/committees.html" title="Diversity Programs">Diversity Programs</a></li><li><a href="/student/" title="Student Resources">Student Resources<br /><span></span></a></li><li><a href="/faculty/" title="Faculty Resources">Faculty Resources<br /><span></span></a></li><li><a href="/staff" title="Staff Resources">Staff Resources<br /><span></span></a></li><li><a href="/complaint" title="Complaint Resolution">Complaint Resolution</a></li><li><a href="/statistics/statistics.html" title="Reports and Statistics">Reports and Statistics</a></li>
+				</ul>
+			</div>
+<div style="padding-left: 80px;"><div><a href="http://www.facebook.com/pages/DiversityUCR/150732408330479" class="facebook" title="Like us on Facebook!"><span class="displace">Facebook</span></a></div><div><a href="http://twitter.com/diversityucr" class="twitter" title="Follow us on Twitter!"><span class="displace">Twitter</span></a> </div></div>
+<br />
+<h4 class="news_sidebar_topper"><img src="/images/design6/news_events_topper.png" alt="News &amp; Events"/></h4> 
+<div class="news_sidebar">
+
+<!-- begin editing below this line -->
+
+
+<h5><a href="http://ucrtoday.ucr.edu/31037/">UCR Researcher Jane Ward’s new book makes case for fluidity of male sexuality</a></h5><h6>August 21, 2015</h6>
+
+<h5><a href="http://asmdc.org/members/a61/news-room/video-gallery/uc-riverside-leading-the-way-in-diversity-on-campus/">UC Riverside Leading the Way in Diversity on Campus</a></h5><h6>May 29, 2015</h6>
+
+<h5><a href="http://www.highlandernews.org/18543/18543/">Town Hall Seeks to Improve Faculty Diversity</a></h5><h6>May 19, 2015</h6>
+
+<h5><a href="http://www.highlandernews.org/18221/asucr-kicks-off-feminism-awareness-week/">ASUCR kicks off Feminism Awareness Week</a></h5> <h6>May 5, 2015</h6>
+
+<h5><a href="http://ucrtoday.ucr.edu/28949">Sikh Studies Conference to Draw Global Scholars</a></h5><h6>May 1, 2015</h6>
+
+<br />
+
+<h5>&raquo; <a href=http://diversity.ucr.edu/news/>UCR Diversity News Archive: 2008 through 2014</a></h5>
+
+
+<!-- do not edit below this line -->
+</div>
+
+
+
+
+
+
+
+
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+
+
+
+
+<div class="header">
+<a name="top"> </a>
+</div>
+<div id="omnicontent">
+<div class="ucrtitle">&nbsp;</div>
+<div id="container">
+<div class="main_view">
+<div class="window">
+<div class="image_reel"><a href="#"><img src="/slider/mei.jpg" alt="" /></a> <a href="#"><img src="/slider/diverse.jpg" alt="" /></a> <a href="#"><img src="/slider/lgbt.jpg" alt="" /></a> <a href="#"><img src="/slider/hsi.jpg" alt="" /></a></div>
+</div>
+<div class="paging"><a href="#" rel="1">1</a> <a href="#" rel="2">2</a> <a href="#" rel="3">3</a> <a href="#" rel="4">4</a></div>
+</div>
+</div>
+<script type="text/javascript" src="/slider/jquery.min.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+
+	//Set Default State of each portfolio piece
+	$(".paging").show();
+	$(".paging a:first").addClass("active");
+
+		
+	//Get size of images, how many there are, then determine the size of the image reel.
+	var imageWidth = $(".window").width();
+	var imageSum = $(".image_reel img").size();
+	var imageReelWidth = imageWidth * imageSum;
+	
+	//Adjust the image reel to its new size
+	$(".image_reel").css({'width' : imageReelWidth});
+	
+	//Paging + Slider Function
+	rotate = function(){	
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$(".paging a").removeClass('active'); //Remove all active class
+		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+
+		
+		//Slider Animation
+		$(".image_reel").animate({ 
+			left: -image_reelPosition
+		}, 500 );
+		
+	}; 
+	
+	//Rotation + Timing Event
+	rotateSwitch = function(){		
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active = $('.paging a.active').next();
+			if ( $active.length === 0) { //If paging reaches the end...
+				$active = $('.paging a:first'); //go back to first
+
+			}
+			rotate(); //Trigger the paging and slider function
+		}, 16000); //Timer speed in milliseconds (3 seconds)
+	};
+	
+	rotateSwitch(); //Run function on launch
+	
+	//On Hover
+	$(".image_reel a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotateSwitch(); //Resume rotation
+	});	
+	
+	//On Click
+	$(".paging a").click(function() {	
+		$active = $(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate(); //Trigger rotation immediately
+		rotateSwitch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});	
+	
+});
+// ]]></script>
+<div id="middle">
+<div class="plan">
+<h4>&nbsp;&nbsp;&nbsp;&nbsp; UCR Academic &amp; Staff Affirmative Action Plans</h4>
+<ul>
+<li>
+<p><a href="/UCR2014-15academicaap.pdf" target="_blank">UCR 2014-2015 Academic Affirmative Action Plan</a></p>
+</li>
+<li><a href="/UCR2014-15staffaap.pdf">UCR 2014-2015 Staff Affirmative Action Plan</a></li>
+</ul>
+</div>
+<div class="programs">
+<h4>Diversity Programs</h4>
+<a href="/faculty/programs.html">Faculty Programs</a>, <a href="/staff/">Staff Programs</a>, <a href="/student/programs.html" target="_blank">Student Programs<br /><br /></a><a href="/UCR%20Diversity%20Programs.xlsx" target="_blank">List of All Diversity Programs</a><br /><br /></div>
+<div class="clear" style="text-align: left;">&nbsp;</div>
+</div>
+<p>&nbsp;</p>
+<ul>
+<li>
+<h4>October is National Disability Employment Awareness Month. Let's celebrate!</h4>
+<blockquote>[October 1, 2015] UCR is proud to be part of this year's National Disability Employment Awareness Month (NDEAM). The purpose of National Disability Employment Awareness Month is to educate about disability employment issues and celebrate the many and varied contributions of America's workers with disabilities. This year's theme is "my disability is one part of who I am." At work it's what people can do that matters. Individuals are not defined by their disabilities. <a href="http://www.dol.gov/odep/topics/ndeam/" target="_blank">Read more here</a>.</blockquote>
+</li>
+<li>
+<h4>UCR Annual Black Faculty/Staff Meet &amp; Greet</h4>
+<blockquote>[September 4, 2015] The Annual Black Faculty/Staff Meet &amp; Greet will be held at HUB 269 on Thursday October 15, 2015 from 3:00pm to 5:00pm. The event is co-sponsored by the African Student Programs and the Office of Diversity, Excellence and Equity. Black faculty and staff from around the campus are invited to attend and share knowledge, wisdom, and academic opportunities with students. <a href="/Black%20faculty%20staff%20meet%20and%20greet%20invitation%202015.pdf" target="_blank">Read more here</a>.</blockquote>
+</li>
+<li>
+<h4>UCR No. 2 in Washington Monthly Rankings</h4>
+<blockquote>[August 24, 2015] For the third consecutive year, Washington Monthly magazine has ranked UCR second among national universities in its 11th annual College Ranking Survey. It is the fifth consecutive year that UC Riverside has been ranked among the top 10 schools in the survey of universities, which considers civic engagement, research, and social mobility. “UC Riverside has become a national model for student success,” Chancellor Kim A. Wilcox said. <a href="http://ucrtoday.ucr.edu/31054" target="_blank">Read more here</a>.</blockquote>
+</li>
+<li>
+<h4>UCR Anthropologist Guided Development of National Public Education Project on Race and Human Variation</h4>
+<blockquote>[July 10, 2015] UC Riverside anthropologist Yolanda T. Moses, who spearheaded a national public education project on race and human variation that toured U.S. museums for seven years, is the 2015 recipient of the Franz Boas Award for Exemplary Service to Anthropology. The award will be presented in November at the annual meeting of the American Anthropological Association (AAA) in Denver. <a href="http://ucrtoday.ucr.edu/30319" target="_blank">Read more here</a>.</blockquote>
+</li>
+<li>
+<h4>Town Hall Seeks to Improve Faculty Diversity</h4>
+<blockquote>[May 19, 2015]&nbsp; Chancellor Kim Wilcox held a town hall meeting on May 12, 2015 to continue discussions about the plan to hire 300 new faculty by 2020. UCR Provost and Executive Vice Chancellor Paul D’Anieri also spoke on the importance of receiving the best hires while improving faculty diversity. While UCR has a diverse undergraduate population, faculty diversity across the campus lags behind. <a href="http://www.highlandernews.org/18543/18543/" target="_blank">Read more here.</a></blockquote>
+</li>
+</ul>
+</ul>
+
+
+
+</div>
+		</div>
+		<!-- End Content Area -->
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div>
+<div class="clear"></div>
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+		<div class="prefooter">
+			<div class="column49">
+				<h3>General Campus Information</h3>
+				<address>
+				<span class="vcard">
+					<strong><span class="fn org">University of California, Riverside</span></strong><br />
+					<span class="adr">
+						<span class="street-address">900 University Ave.</span><br />
+						<span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+					</span>
+					Tel: <span class="tel">(951) 827-1012</span><br /><br />
+				</span>
+				<a href="http://library.ucr.edu/">UCR Libraries</a> &bull; <a href="http://campusstatus.ucr.edu/">Campus Status</a><br />
+				<a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://diversity.ucr.edu/">Diversity</a><br />
+				<a href="http://my.ucr.edu/visit/Pages/default.aspx">Visit UCR</a> &bull; <a href="http://www.ucr.edu/about/directions.html">Maps and Directions</a></address>
+			</div>
+			<div class="column49">
+				<h3>Department Information</h3>
+				<address><strong>Diversity @ UCR</strong><br />
+<a href="http://www.campusmap.ucr.edu/campusMap.php?loc=SURGE" title="Campus Map">Surge 365</a><br /><br />
+Tel: (951) 827-5604, (951) 827-6223<br />
+Fax: (951) 827-5308<br />
+E-mail: <a href="mailto:affirmativeaction@ucr.edu?subject=Diversity Web Site Inquiry">affirmativeaction@ucr.edu</a></address>
+			</div>
+			<div class="column49R">
+				<h3>Related Links</h3>
+				<ul>
+<li><a href="http://affirmativeaction.ucr.edu/">Office of Faculty &amp; Staff Affirmative Action</a></li>
+<li><a href="http://titleix.ucr.edu/">Title IX/Sexual Harassment Office</a></li>
+<li><a href="http://www.conflictresolution.ucr.edu/">Administrative Resolution</a></li>
+<li><a href="http://www.universityofcalifornia.edu/diversity/">University of California - Diversity</a></li>
+</ul>
+
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+
+		<div id="nav_footer">
+			<h3 class="accessibility">Campuswide Navigation</h3>
+			<ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+		</div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="http://diversity.ucr.edu/sendmail.html" accesskey="9" title="Send Feedback E-mail">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a rel="nofollow" href="http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01291&amp;site=diversitydev&amp;path=%2Findex.html">Last modified: 2015-Oct-01</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<!-- Generated in 0.01867 seconds using 1.50 MiB of memory. -->
+</body>
+</html>

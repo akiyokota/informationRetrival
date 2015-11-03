@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>UCR Happenings: UCR Happenings</title>
+<link type="text/css" rel="stylesheet" href="/min/g=6bis-bluea-narrow" media="all" />
+
+<link type="text/css" rel="stylesheet" href="/min/f=css/print6.css" media="print" />
+
+<link rel="stylesheet" type="text/css" href="/happenings/css/local.css" media="all" />
+<link href="//fast.fonts.com/cssapi/e3315127-3d6c-40f4-b227-65d8e078a0f5.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="/min/g=js2"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6-narrow6.css" media="all" />
+<script defer type="text/javascript" src="/min/f=pngfix.js"></script>
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" />
+<script type="text/javascript" src="/min/f=fixiequotes.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="University of California, Riverside Campus News" href="http://ucrtoday.ucr.edu/feed" />
+
+
+<!-- Google Universal Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3051875-1', 'ucr.edu');
+  ga('send', 'pageview');
+</script>
+
+</head>
+<body>
+<div class="pagewrapper">
+   <ul id="accessibility_links">
+      <li class="skip_main"><a tabindex="1" href="#main">Skip Navigation</a></li>
+      <li class="skip_main"><a tabindex="2" href="/happenings/">Home Page</a></li>
+   </ul>
+   <hr />
+</div>
+
+<div id="masthead_home">
+<script type="text/javascript">
+document.getElementById("masthead_home").style['backgroundImage'] = 'url(/images/design6/mastheadslt/masthead' + Math.floor(Math.random() * 5) + '.jpg)';
+</script>
+
+   <h1><a href="/"><span class="printonly">UC Riverside</span></a></h1>
+
+   <div class="pagewrapper">
+      <div id="search">
+         <div id="nav_utility">
+            <ul>
+               <li><a href="/alpha.html">A to Z Listing</a></li>
+               <li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+               <li><a href="/find_people.php">Find People</a></li>
+            </ul>
+          </div>
+
+         <form id="searchbox" action="/search.php"><p>
+         <label for="SearchText">Search for:</label>
+         <input type="text" size="28" maxlength="255" id="SearchText" name="q" value="" />
+         <input id="go" type="submit" name="sa" value="Go" />
+         </p></form>
+         <script type="text/javascript" src="/js/watermark.js"></script>
+      </div>
+   </div>
+</div>
+
+<div id="nav_main">
+	<h2 class="accessibility">Campuswide Navigation</h2>
+	<ul><li><a id="nav_main_home" href="/"><span>Home</span></a></li><li><a id="nav_main_about_ucr" href="/about/"><span>About UCR</span></a></li><li><a id="nav_main_academics" href="/academics/"><span>Academics</span></a></li><li><a id="nav_main_athletics" href="/athletics/"><span>Athletics</span></a></li><li><a class="active" id="nav_main_happenings" href="/happenings/"><span>Happenings</span></a></li><li><a id="nav_main_research" href="/research/"><span>Research</span></a></li><li><a id="nav_main_resources" href="/resources/"><span>Campus Resources</span></a></li><li><a id="nav_main_giving" href="/giving/"><span>Giving to UCR</span></a></li></ul>
+</div>
+<div id="nav_audience">
+	<h2 class="accessibility">Audience Navigation</h2>
+	<ul><li><a id="nav_audience_future" href="/future/" title="For Prospective Students"><span>Prospective Students</span></a></li><li><a id="nav_audience_students" href="/students/" title="For Current Students"><span>Current Students</span></a></li><li><a id="nav_audience_parents" href="/parents/" title="For Parents"><span>Parents</span></a></li><li><a id="nav_audience_faculty" href="/faculty/" title="For Faculty"><span>Faculty</span></a></li><li><a id="nav_audience_staff" href="/staff/" title="For Staff"><span>Staff</span></a></li><li><a id="nav_audience_alumni" href="/alumni/" title="For Alumni"><span>Alumni</span></a></li><li><a id="nav_audience_friends" href="/friends/" title="For Friends"><span>Friends</span></a></li><li><a id="nav_audience_industry" href="/industry/" title="For Industry"><span>Industry</span></a></li><li><a id="nav_audience_media" href="/media/" title="For Media"><span>Media</span></a></li></ul>
+</div>
+

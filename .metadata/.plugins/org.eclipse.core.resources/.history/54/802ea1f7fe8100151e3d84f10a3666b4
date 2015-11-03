@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Department News</title>
+<meta http-equiv="last-modified" content="2015-09-28" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Department News</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Department News</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li><a href="/education/heres_why/" title="Admissions">Admissions<br /><span></span></a></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a><ul><li><a href="/department/overview/" title="Overview">Overview</a></li><li><a href="/department/chairs_message/" title="Chair's Message">Chair's Message</a></li><li><a href="/department/seminars/" title="Colloquia/Events">Colloquia/Events</a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>News Archive</h3></li><li><a href="/department/computing/" title="Computing Facilities">Computing Facilities</a></li><li><a href="/department/directions/" title="Map & Directions">Map & Directions</a></li><li><a href="/department/contactus/" title="Contact Us">Contact Us</a></li></ul></li><li><a href="/people/faculty" title="People">People<br /><span></span></a></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li><a href="/education/" title="Education">Education<br /><span></span></a></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li><a href="/internships/" title="Internships & Careers">Internships & Careers<br /><span></span></a></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<div class="header">
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+<!-- /com.omniupdate.div --></div>
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" --><!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --><h3>In the News</h3>
+<p>&nbsp;</p>
+<table style="width: 667px; height: 401px;" border="0">
+<tbody>
+<tr>
+<td>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 619px; height: 152px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/wei_li.jpg" alt="pami" width="114" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE graduate students, visiting student and alumnus team up to win the "Best Paper" award<br /></strong></h4>
+<p>CSE graduate students Masruba Tasnim and Ei-Wen Yang, former graduate student Wei Li and visiting student Shining Ma have recently won the (only) best paper award at the 13th Asia Pacific Bioinformatics Conference (APBC) held in Jan., 2015. The award winning paper is entitled "Accurate inference of isoforms from multiple sample RNA-Seq data" and coauthored with their advisor Professor Tao Jiang. Wei Li is currently a postdoc at Dana-Farber Cancer Institute and Harvard School of Public Health and Shining Ma a Ph.D student at Tsinghua University, Beijing.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+	<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE hires three new faculty </strong></h4>
+<p>We are proud to add three new faculty to CSE this year: Zhiyun Qian, K.K. Ramakrishnan, and Nael Abu-Ghazaleh (Left to right in photo). Assistant Professor Qian's areas of interest span cyber-security, mobile computing and network systems including TCP/IP security, cellular networks security, and security of firewalls. Full Professor Ramakrishnan does research in computer network architecture protocols and systems as well as virtualization and cloud computing and information centric networks. Full Professor Abu-Ghazaleh joins both CSE and ECE with interest in computer architecture support for security, wireless, and sensor networks, and parallel computing.</p>
+</td>
+<td><img src="/images/new_faculty2014.jpg" alt="new_faculty" width="295" height="126" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 163px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE faculty Eamonn Keogh research leader in data mining</strong></h4>
+<p>CSE faculty Eamonn Keogh was listed in the 6th place of "Top Research Leaders in Data Mining" by Microsoft Academic Search and kdnuggets.com. (Find the report here: <a style="font-size: 1em; line-height: 1.5em;" href="http://www.kdnuggets.com/2014/08/top-research-leaders-data-mining-data-science.html">here</a> Dr Keogh is the only professor from a UC campus to make the top ten, although Padhraic Smyth of UC-Irvine appeared in eleventh place. And Keogh points out that his ranking is all that more impressive given how much younger he is relative to the top five. Way to go Eamonn, we're proud of you and your age!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 619px; height: 152px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/PPAML_3x3.jpg" alt="pami" width="148" height="149" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE faculty Shelton lands solo DARPA grant<br /></strong></h4>
+<p>Christian Shelton was awarded a $700K DARPA grant as part of the agency’s Probabilistic Programming for Advanced Machine Learning (PPAML) program for his project, “Inference for Continuous-Time Probabilistic Programming.” The project is developing automatic inference engines to be employed in probabilistic programming languages, computer languages in which statistical processes can be described and reasoned with and in which the compiler automatically generates the necessary statistical reasoning code. The aim is to allow non-experts to model continuous-time processes efficiently and quickly.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>Pazzani wins Classic Paper Award</strong></h4>
+<p>CSE faculty Michael Pazzani won the 2014 AAAI Classic Paper Award for his 1996 paper demonstrating how a user’s interests and web browsing behavior could be identified by a machine learning algorithm. Co-authored with Daniel Billsus and Jack Muramatsu, the paper was the first at the AAAI conferences to explore the now-ubiquitous feature of content-based personalization.</p>
+</td>
+<td><img src="/images/pazzani.jpg" alt="Pazzani" width="124" height="171" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+	
+<div class="spotlight" style="text-align: center;">
+<table style="width: 619px; height: 152px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/alex.jpg" alt="Alex" width="184" height="149" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE Best Paper on online education<br /></strong></h4>
+<p>CSE faculty Frank Vahid and Ph.D. student Alex Edgcomb authored a paper that received a best paper award at the main annual conference for American Society for Engineering Education (ASEE) 2014. The paper showed that students using their web-native interactive zyBook achieve better learning outcomes than when using the best-selling textbook in online form, with especially-large gains by the initially-weaker students. Students also voluntarily spent twice as much time engaged with the material and reported higher engagement levels. Read the paper <a href="http://www.cs.ucr.edu/~aedgcomb/papers/static_vs_interactive_content_ASEE14_EdgcombVahid.pdf" target="_blank">here</a>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE lands another NSF Fellowship. Congrats Nick!</strong></h4>
+<p>CSE Ph.D. student, Nick Nobles, was awarded the prestigious NSF Graduate Research Fellowship. He is co-advised between Drs. Shinar and Zordan. The goal of the research is to determine shape and motion for optimal nanoswimmers through the use of physically-based simulation and an optimization process. Simulated findings can be used to guide the development of real-world nanoswimmers which have great potential in medical applications, targeting diagnosis and treating of maladies.</p>
+</td>
+<td><img src="/images/nnobles.jpg" alt="Nobles" width="130" height="126" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 619px; height: 152px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/brisk1.jpg" alt="Brisk" width="146" height="126" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE faculty Brisk receives NSF CAREER award</strong></h4>
+<p>CSE assistant professor Philip Brisk has been awarded the prestigious National Science Foundation CAREER grant for his research to create design automation software for laboratories-on-a-chip. The nearly $500K grant will help Brisk and his research team design and implement computer software that automatically converts biological applications into physical device layouts that can be fabricated. Successful completion of this project will enhance productivity and lower the barrier-to-entry for new users.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE start-up gets aquired!</strong></h4>
+<p>StopTheHacker, an anti-malware company founded by CSE Ph.D graduate, Anirban Banerjee and adjunct CSE Faculty Michalis Faloutsos has been bought by CloudFlare, the web performance and security company who protects more than 1.5 million web sites and sees five percent of Internet traffic worldwide. StopTheHacker was co-founded by Banerjee shortly after he received his Ph.D. in 2008. Financial details of the acquisition are not being disclosed.</p>
+</td>
+<td><img src="/images/sth_logo.png" alt="nohacker" width="158" height="152" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 617px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/yanping.jpg" alt="Yanping" width="233" height="155" /></td>
+<td style="text-align: left;">
+<h4><strong>UCR graduate student wins 100K Gates Grand Challenge</strong></h4>
+<p>CSE's Yanping Chen will develop an inexpensive and robust sensor to directly measure the real-time density of insect vectors that transmit parasitic diseases to help plan intervention and treatment programs. Preliminary results indicate that insects can be classified based on the frequency of their wingbeats, which also varies depending on the time of day. Chen will develop an accurate detection system by investigating combining wingbeat frequency with circadian rhythms and other behaviors.&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>UCR alum wins Samsung GOLD!</strong></h4>
+<p>Congratulations to Jilong Kuang (PhD 2011; Advisor: Prof. Laxmi Bhuyan) for winning the Gold Medal in the software research field at the Samsung Best Paper Award 2013. His paper "Absolute Zero-Copy Web-Object Cache Design for High-Performance Cloud Deployments", co-authored by Daniel G. Waddington and Juan A. Colmenares, was selected as the Best Paper in the software field among about 350 submissions from all Samsung branches, and it is one of the 9 Gold-Medal winners out of over 1,700 submissions in different technical fields.</p>
+</td>
+<td><img src="/images/jilong.jpg" alt="Jilong" width="198" height="169" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 163px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE brings in $10 million in new funding.</strong></h4>
+<p>CSE researchers secured over $10 million in new funding for the year 2013-14 and beyond. Noteworthy among the new grants are a project by Srikanth Krishnamurthy (PI), Harsha Madhyastha (Co-PI) and Iulian Neamtiu (Co-PI) from Army Research Lab (ARL), on a Collaborative Research Alliance on Cyber Security for $3.7 million for the first 5 years with renewal potential for the next 5 years, a project by Stefano Lonardi (PI) and K. Le Roch(Co-PI) from NSF on Algorithms and Software Tools for Epigenetic Research for $994,370 for 3 years and another project by Christian Shelton (PI) from DARPA on Inference for Continuous-Time Probabilistic Programming for $706,000 for 4 years. For more listing on recent projects, see <a style="font-size: 1em; line-height: 1.5em;" href="http://www1.cs.ucr.edu/research/grants/" target="_blank">here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/srihariul.jpg" alt="Krish et al" width="153" height="172" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE Krishnamurthy, Neamtiu, Madhyastha land $3.7M from Army Research Lab.</strong></h4>
+<p>Professors Srikanth Krishnamurthy, Iulian Neamtiu and Harsha Madhyastha are co-principal investigators in a collaborative research alliance on cyber-security with the U.S. Army Research Laboratories and four other universities. Penn State is the leading university for the effort. The research alliance is supported by $ 23.2 million in funding for the first five years, with an additional $ 25 million for an optional five-year extension -- a potential total of $ 48.2 million for a possible 10 year collaborative effort. The PIs from UCR will receive $ 3.7 million over the first five years, with potentially an additional 3.8 million over the following five years.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 163px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE's Lonardi helps lands USAID funds to increase crop yield.</strong></h4>
+UCR Scientists, including CSE's Stefano Lonardi, received substantial funding (nearly $7 million) by way of two grants from the U.S. Agency for International Development (USAID) to continue their work on developing better yielding varieties of cowpea through new genomic resources and marker-assisted breeding — research by which UC Riverside directly impacts cowpea production in several countries in Africa. The grants support USAID’s agricultural research and capacity building work under Feed the Future, the U.S. Government’s global hunger and food security initiative. More <a href="http://ucrtoday.ucr.edu/18766">here</a>.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE team lands another BEST PAPER!</strong></h4>
+<p>The 13th International Symposium on Spatial and Temporal Databases (SSTD'13) recognized the CSE team's work as Best Paper Award! The award goes to CSE's Roger Moussalli, Marcos Vieira, Walid Najjar and Vassilis Tsotras for their paper "Stream-Mode FPGA Acceleration of Complex Pattern Trajectory Querying". The paper demonstrated the mining of complex trajectory patterns from spatio-temporal streams at rates of GB/s, a feat previously thought of as unattainable using traditional Von Neumann computing for the application at hand. Have a look at the paper here: <a href="http://www.cs.ucr.edu/~najjar/papers/2013/SSTD-2013.pdf">Paper Link (pdf)</a>.</p>
+</td>
+<td><img src="/images/vieira.jpg" alt="Vieira Awardn" width="172" height="149" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/eamonn_number1.jpg" alt="Keogh rocks!" width="153" height="172" /></td>
+<td style="text-align: left;">
+<h4><strong>Keogh receives Dissertation Mentor Award, CSE's second in a row!</strong></h4>
+<p>CSE's Eamonn Keogh received the 2012-13 Dissertation Mentor Award this year. This award is given only to one person in UCR every year. Eamonn was selected among all nominees to be awarded the sole 2012-2013 Dissertation Mentor Award. Professor Keogh's students past and present wrote with great enthusiasm in support of his nomination, citing his dedication to each individual student's success. This is a well-deserved award. Notably, CSE's Rajiv Gupta also received the award last year and so it is a great honor for the department to be awarded two years in a row. Congratulations Eamonn! We are all very proud of you.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE receives "Best Paper" Award.</strong></h4>
+<p>CSE faculty Victor Zordan and co-authors receive "Best Paper" Award at the ACM Siggraph/Eurographics Symposium on Computer Animation 2013. The paper, entitled "Control of Rotational Dynamics for Ground Behaviors" is ground-breaking research for physically driven motion in games and entertainment as well as having implication for robotics and beyond. The paper's novel idea for control over rotation for an articulated system earned the award for the international team of researchers from University of California Riverside, National University of Singapore and University of British Columbia. For a copy of the paper, check out <a href="http://www.cs.ucr.edu/~vbz/">Zordan's website</a>.</p>
+</td>
+<td><img src="/images/flips.jpg" alt="Victor Zordan" width="157" height="149" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 623px; height: 187px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/iulian.jpg" alt="Neamtiu award" width="117" height="161" /></td>
+<td style="text-align: left;">
+<h4><strong>Prof. Neamtiu receives Bravo Zulu Award.</strong></h4>
+<p>CSE Professor Iulian Neamtiu was acknowledged with a Bravo Zulu Award by Student Special Services University of California, Riverside. He was recognized for his strong participation in the UCR Veterans Support Team, as well as his exceptional support of student veterans and veterans' issues. This year marks the first-ever "Bravo Zulu" Award to recognize staff, faculty, and departments for their outstanding service to student veterans, and a job well done. Dr. Neamtiu is the first recipient of this honorable award. &nbsp;Way to go Iulian!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 163px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>One-liner paper puts Dr. Keogh as most prolific author of prestigious journal.</strong></h4>
+<p>Dr. Eamonn Keogh has just become the (joint) most prolific author in the top data mining journal, Data Mining and Knowledge Discovery. His paper entitled "CID: An Efficient Complexity-Invariant Distance for Time Series" is his eleventh paper to appear in the journal. The only other author with eleven papers is Jiawei Han, who got his Phd sixteen years earlier than Dr. Keogh. Dr. Keogh noted "it is a very interesting paper, because the entire contribution can be written as a single line of Matlab code. Having said that, we did more experiments in that another paper in this area to convince the reviewers of the utility of this work."</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/online10.jpg" alt="Online CS010v" width="205" height="172" /></td>
+<td style="text-align: left;">
+<h4><strong>Online course for 2013 -- Intro to CS (CS 010V)</strong></h4>
+<p>CSE proudly presents its first offering of CS 010V -- a fully-online equivalent to CS 010. Much more than video lectures on the web, the course uses new interactive animated web content to guide students step-by-step through the learning process, and includes state-of-the-art online homework and programming assignment feedback systems, plus plenty of online live interaction with the instructor, TAs, and other helpers. See more <a href="http://ucrcsonline.org/">course info</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 162px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>Welcome new faculty, Zizhong (Jeffrey) Chen.</strong></h4>
+<p>Dr. Chen’s research interests include high performance computing, parallel and distributed systems, grid and cloud computing, and large scale simulation. His research has been supported by National Science Foundation, Department of Energy, Abu Dhabi National Oil Company, CMG Reservoir Simulation Foundation, and Microsoft Corporation and he received the National Science Foundation CAREER Award in 2012. <a href="http://www.cs.ucr.edu/~chen/">Chen's website</a>.</p>
+</td>
+<td><img src="/images/zchen.jpg" alt="Zizhong Chen image" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/Close-and-Lonardi.jpg" alt="Close and Lonardi image" width="205" height="172" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE contributes to NATURE article.</strong></h4>
+<p>Prof. Tim Close (Botany) and CSE’s Prof. Stefano Lonardi supervised the UCR team which contributed the primary DNA sequence using a novel sequencing strategy. Of the paper, “This resource will serve as an essential reference for genetic research and breeding and help advance gene discovery and genome-assisted crop improvement,” says Close. This work is the result of a large international effort involving about seventy authors in nine countries (Germany, UK, Australia, USA, Finland, Japan, Israel, France, Italy). Of the seventy authors, nine worked on this project while at UC Riverside. Prof. G. Ciardo was also involved in this project. Close and Lonardi have been collaborating since 2003 on the barley genome. <a href="http://ucrtoday.ucr.edu/9588/">UCR press release</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 160px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE researchers received Best Paper at SIGKDD.</strong></h4>
+<p>Thanawin (Art) Rakthanmanon, Bilson Campana, Abdullah Mueen, Gustavo Batista, Brandon Westover, Qiang Zhu, Jesin Zakaria, and Eamonn Keogh authored the winning paper, entitled “Searching and Mining Trillions of Time Series Subsequences under Dynamic Time Warping”. The 2012 paper was recognized at SIGKDD, a top conference in data mining. See the <a href="http://kdd2012.sigkdd.org/best_papers.shtml">SIGKDD Awards</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 166px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE App helps protect from hackers on Facebook.</strong></h4>
+<p>TechCrunch, the popular tech forum, discussed MyPageKeeper, a Facebook security app, developed by UCR CSE researchers (Rahman, Huang, Madhyastha, Faloutsos). "Protect Your Facebook Feed From Hackers With A University of California-Designed App". The app detects social spam posts on Facebook user profiles, with high accuracy and its findings were published in Usenix Security 2012. See the <a href="http://techcrunch.com/2012/10/10/protect-your-facebook-feed-from-hackers-with-a-university-of-california-designed-app/">TechCrunch article</a>.</p>
+</td>
+<td><img src="/images/pageKeeper.jpg" alt="PageKeeper Team image" width="237" height="158" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 168px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/gupta.jpg" alt="Gupta Headshot image" width="135" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE’s Gupta receives 2012 2012 Doctoral Advisor/Mentor award.</strong></h4>
+<p>"Professor Rajiv Gupta has been awarded by the UCR Graduate Council and Graduate Division as a recipient of the 2012 Doctoral Advisor/Mentor Award. In nominating him, Gupta's students emphasized his "admirable patience" and "unshakeable belief" in their potential. They praised his ability to guide students to find and pursue their own ideas rather than assigning and directing specific research tasks." See details <a href="http://www.engr.ucr.edu/news/2012/2012-05-02a.html">here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 132px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE Student, UCR Young Alumnus of 2012.</strong></h4>
+<p>Shaohui "Steve" Chen, '05 M.S. Computer Science and '07 MBA Management, has been selected as the UC Riverside Alumni Association's Young Alumnus for 2012. This award is given to alumni under the age of 35 with a significant record of career and/or civic achievement and promise in their profession. For more details, see <a href="http://www.engr.ucr.edu/news/2012/2012-09-06.html">here</a>.</p>
+</td>
+<td><img src="/images/SteveChen.jpg" alt="Steve Chen image" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4><strong>2012-2013 Internship Awards<br /></strong></h4>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>&nbsp;Congratulations to the following Computer Science graduate students for their internship awards this academic&nbsp; year:</strong></p>
+<p>&nbsp;Ahmed Atya: Samsung, San Jose<br />&nbsp;Bailey Miller: Space Exploration Technologies<br />&nbsp;Jesin Zakaria: Teradata<br />&nbsp;Lei Wang: Xerox Business Systems<br />&nbsp;Masoud Akhoondi: NEC Laboratories<br />&nbsp;Md. Hasan: Teradata<br />&nbsp;Md. Uddin: Microsoft, Colorado<br />&nbsp;Mehran Kafai: Hewlett Packard<br />&nbsp;Navin Kumar: Samsung, San Jose<br />&nbsp;Olga Tanaseichuk: Target CW<br />&nbsp;Pengcheng Zhao: Bestfit International, Inc.<br />&nbsp;Robert Halstead: IBM, Digital System Design Group<br />&nbsp;Santosh Sangalad: Amazon, Washington<br />&nbsp;Shah Md. Rifat Ahsan: SAP, Palo Alto<br />&nbsp;Shailendra Singh: NEC Laboratories<br />&nbsp;Shiwen Cheng: Yelp, Inc.<br />&nbsp;Yang Yang: Link A Media Devices<br />&nbsp;Yuan Hao: Google<br />&nbsp; Zhen Qin: eHarmony<br />&nbsp; Zhixing Jin: Google<strong><br /></strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE Shines in New NRC Rankings</strong></h4>
+<p>The National Research Council's long-awaited ranking of PhD programs, widely accepted as the gold standard, places CSE's in the top echelons of programs nationwide. Our relatively young program places well ahead of many solidly-established national leaders. This is not surprising - these rankings are based on actual data for 20 quality metrics, while typical rankings are greatly influenced by perception. CSE excels in Research, as well as in overall ranking of program quality. NRC's rankings have been designed not to skew in favor of large programs, a typical bias in most rankings. CSE's outstanding per-capita productivity allows CSE to showcase its quality. NRC uses two ranking approaches, called the S- and the R-rankings, respectively. S-rankings are computed by asking respondents how each of the 20 quality metrics should be weighted while the R-ranking method first obtains ratings for a set of programs by asking respondents to rate random subsets. It then derives the weights implicit in these ratings by regressing the program ratings against the values for the metrics.&nbsp; See for yourself how well <a href="http://graphics.cs.ucr.edu/misc/nrc_cse.pdf">CSE compares with other programs in the University of California, as well as nationwide</a>.&nbsp; For more information on the process and to download the data, see the <a href="http://sites.nationalacademies.org/pga/Resdoc/index.htm">NRC</a> website.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="/images/reaz.jpg" alt="Muhammad Reaz Uddin" width="125" height="128" /></td>
+<td style="text-align: left;">
+<h4>CSE Student Wins Best Student Paper at IEEE MDM 2012 Conference</h4>
+<p>CSE Ph.D. student Muhammad Reaz Uddin was recently awarded Best Student Paper at the <a href="http://mdmconferences.org/mdm2012/">13th International Conference on Mobile Data Management (IEEE MDM 2012)</a>. The paper is coauthored by Chinya Ravishankar and Vassilis Tsotras, and is entitled, "Online Identification of Dwell Regions for Moving Objects". Congrats Muhammad!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE Researchers Discover Relationship between Twitter and Financial Markets</strong></h4>
+<p>CSE Professor Vagelis Hristidis, CSE PhD student Eduardo Ruiz and their collaborators found that the Twitter activity is correlated with the exchanged volume and price of stocks in the stock market. In particular, they found that the more distinct topics, which they refer as "connected components", are discussed about a company, the higher its exchange volume. They also found a weaker correlation with the stock price. Using this technique to augment a trading strategy led to better profitability in a limited study. This study introduces novel ways to quantify the activity in microblogging networks by leveraging the relationships between users, posts and topics. The techniques employed can potentially be used to study the relationship of microblogging activity to other applications like public health monitoring or detecting social trends. The findings of this study have been covered by many media, including <a href="http://www.forbes.com/sites/jeffbercovici/2012/03/22/twitter-chatter-can-predict-stock-prices-study-finds/">Forbes</a>, <a href="http://news.yahoo.com/blogs/technology-blog/study-twitter-help-predict-winners-losers-stock-market-213800175.html">Yahoo</a>, <a href="http://www.telegraph.co.uk/technology/twitter/9168665/Twitter-helps-investors-play-the-stock-market.html">The Telegraph (UK)</a>, <a href="http://www.independent.co.uk/life-style/gadgets-and-tech/news/want-to-check-the-markets-see-whats-trending-7586375.html">The Independent (UK)</a>, <a href="http://www.dailymail.co.uk/sciencetech/article-2120416/Twitter-predicts-stock-prices-accurately-investment-tactic-say-scientists.html">Daily Mail (UK)</a>, <a href="http://www.repubblica.it/tecnologia/2012/03/26/news/twitter_predice_aziende-32232684/">La Republicca (Italy)</a>, Univision TV, and NewsTalk 92.5 FM.</p>
+</td>
+<td><img class="ltrknhjvpxwbnyzrweto" src="/images/twitter_bird.png" alt="Twitter Bird Logo" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 194px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="/images/sth_logo.png" alt="STH Logo" width="140" /></td>
+<td style="text-align: left;">
+<h4><strong>Computer Security Startup Founded by CSE Professor and Alumnus Raises $1.1 Million</strong></h4>
+<p>Technology start-up <a href="http://www.stopthehacker.com/">StopTheHacker</a> founded by Anirban Banerjee (PhD 2008 UCR) and Prof. Michalis Faloutsos (UCR) has raised $1.1 million from <a href="http://runacap.com/">Runa Capital</a>, private investors, and the NSF SBIR program. The startup has developed novel techniques for helping web site owners prevent, detect and recover from hacker attacks. This is the more recent instance of the surge of startup activities at UCR.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE's Harsha Madhyastha Receives NSF CAREER Award</strong></h4>
+<p>Assistant professor Harsha Madhyastha has been awarded a CAREER award by the National Science Foundation (NSF). The CAREER program identifies outstanding new faculty whose vision aims to significantly advance the state of the art in both research and education. Madhyastha will receive a total of $499,309 over five years to fund his efforts in enabling cost-effective deployments of applications in the cloud. Today, the performance and availability of any application deployed on the cloud is limited by the characteristics of the cloud service on which the application is deployed. Madhyastha's work will develop novel algorithms and software systems that will enable application providers to obtain better availability and performance, while keeping costs low, by planning and managing application deployments that span multiple cloud services. Madhyastha's CAREER award winning project also has a significant education component with the introduction of new graduate and undergraduate classes, and public talks to increase awareness about cloud services among small and non-profit businesses.</p>
+</td>
+<td><img src="/images/harsha_headshot.jpeg" alt="Harsha Madhyastha image" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="http://www.cs.ucr.edu/~neamtiu/iuli_spring.jpg" alt="Iulian Neamtiu" width="140" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE's Iulian Neamtiu Receives NSF CAREER Award</strong></h4>
+<p>Assistant professor <a href="http://www.cs.ucr.edu/~neamtiu/">Iulian Neamtiu</a> has received a National Science Foundation (NSF) CAREER award. The CAREER program targets outstanding new faculty who intend to develop academic careers involving both research and education. Neamtiu will receive a total of $498,228 over five years to fund his efforts in improving software evolution. Changes made to source code in the course of evolution might not have the intended meaning (fix bugs, add features), which negatively impacts both software producers and software consumers, and has high economic costs. His work will use type theory and empirical software engineering to better understand, and facilitate the software evolution process. The results of this research will also help uncover certain kinds of errors before software is deployed, and reduce the incidence of, and costs associated with, software bugs and incorrect software updates.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE's Srikanth Krishnamurthy Elected IEEE Fellow</strong></h4>
+<p>Dr. Srikanth V. Krishnamurthy, a professor in the CSE Department, has been elected to the rank of IEEE Fellow. Dr. Krishnamurthy was elevated for his contributions to "Cross Layer Protocol Design in Wireless Networks." Over the last ten years, Dr. Krishnamurthy has made significant contributions to understanding the interactions between the protocol stack in wireless networks. IEEE Fellow ``is a distinction reserved for select IEEE members whose extraordinary accomplishments in any of the IEEE fields of interest are deemed fitting of this prestigious grade elevation." The total number selected in any one year does not exceed one-tenth of one percent of the total voting Institute membership.</p>
+</td>
+<td><img src="http://www.engr.ucr.edu/faculty/cs/krish.jpg" alt="headshot" width="140" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 679px; height: 625px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE's Rajiv Gupta Elected AAAS Fellow</strong></h4>
+<p>CSE's Rajiv Gupta has been elected to the rank of AAAS Fellow. The AAAS is an international non-profit organization dedicated to advancing science around the world by serving as an educator, leader, spokesperson and professional association. Each year the AAAS Council elects members whose “efforts on behalf of the advancement of science or its applications are scientifically or socially distinguished.” Dr. Gupta's areas of research interest include Compilers and Architectures for Parallel Systems, Software Tools for Monitoring and Debugging, and Dynamic and Static Program Analysis. His research has been funded by NSF, DARPA, Intel, IBM, Microsoft, and HP. He has published over 225 articles in refereed conferences and journals and he holds 8 US patents.<br />&nbsp;</p>
+<p>&nbsp;</p>
+<h4>2011-2012 Internship Awards</h4>
+<p><strong>Congratulations to the following Computer Science graduate students for their internship awards this academic year:</strong></p>
+<p><strong>Abhijith Kashyap: </strong>ENC Corp<strong><br /></strong>Bing Hu: General Electronics<br />Huy Hang: Los Alamos Lab.<br />Indrajeet Singh: AT&amp;T<br />Jesin Zakaria: Teradata<br />Jianxia Ning: Cisco<br />Lei Wang: Supply Chain Data Services<br />Li Yan: Google<br />Md. Mahbub Hasan: Teradata<br />Mehran Kafai: Hewlett Packard<br />Nandita Nayak: LAwrence Berkeley National Lab.<br />Olga Tanaseichuk: Novartis Inst. for Functional Genomics<br />Roger Moussalli: IBM<br />Seyed Mirebrahim: UCSD, Supercomputer Center<br />Shailendra Singh: NCE, New Jersey<br />Tai-Ching Li: Symantec Corp.<br />Xiaoqing Jin: Toyota<br />Xuetao Wei: Qualcomm<br />Yang Zhao: NASA Ames Research Center<br />Yi Wang: Sprint (Burlingame)<br />Zhen Qin: Sharp Labs.<br />Zhixing Jin: Storm8, Redwood City</p>
+</td>
+<td style="text-align: left;">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td><img src="http://www.engr.ucr.edu/images/vhristidis2.jpg" alt="headshot" width="140" /></td>
+<td style="text-align: left;">
+<h4><strong>CSE's new faculty, Dr. Vagelis Hristidis</strong></h4>
+<p>Vagelis Hristidis joined as Associate Professor at the Department of Computer Science and Engineering at the University of California, Riverside. He received his PhD in Computer Science from the University of California, San Diego. He has received funding from the National Science Foundation, the Department of Homeland Security, Google, IBM and the Kauffman Entrepreneurship Center, including the NSF CAREER Award. His main research addresses the problem of bridging the gap between databases and information retrieval, with particular interest in the interdisciplinary direction of Healthcare Informatics. His work has received more than 2,500 citations according to Google Scholar. He has also edited and co-authored the book “Information Discovery on Electronic Health Records”.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>CSE's new faculty and inaugural chair, Dr. Tamar Shinar!</h4>
+<p>Tamar Shinar will join CSE faculty as the inaugural Amrik Singh Poonian Chair in Fall 2011. Currently a post-doctoral fellow at the Courant Institute at New York University, Shinar earned her Ph.D. in scientific computing and computational mathematics from Stanford University in 2008. Her research focuses on mathematical simulations of fluid and solid behaviors and computational algorithms for physically based simulation. The Amrik Singh Poonian Chair in Computer Science and Engineering was established through a generous endowment gift from Duane and Kelly Roberts, keepers of Riverside’s historic Mission Inn and Spa. For more info see here. <a href="http://www.engr.ucr.edu/news/2011news.html#shinar">here</a>. Congratulations and welcome, Tamar!</p>
+</td>
+<td style="text-align: left;"><img src="http://www.engr.ucr.edu/images/TamarShinar.jpg" alt="headshot" width="140" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 241px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4><strong>CSE Ph.D. wins prestigious national HP award<br /></strong></h4>
+<p>Tony Givargis (Ph.D. 2001 UC Riverside, now Associate Professor of Computer Science at UC Irvine) was selected to receive the 2011 Frederick Emmons Terman Award of the American Society for Engineering Education. The prestigious national award, sponsored by Hewlett-Packard, is bestowed annually upon an outstanding young electrical engineering educator in recognition of his/her contributions to the profession, including the publication of an electrical engineering textbook judged to be outstanding by peers. The textbook recognized by the award committee was the widely-used and field-defining book "Embedded System Design" (John Wiley and Sons, 2001), co-authored by Givargis while at UCR with Professor Frank Vahid. The award includes an honorarium, medal, and presentation scroll, to be presented to Givargis at the Frontiers in Education Conference in October (2011), where Givargis will give a keynote speech. The award's namesake, Silicon Valley pioneer F.E. Terman, was an electrical engineering professor and Stanford University administrator known for mentoring students who went on to establish successful businesses, including William Hewlett and David Packard.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="/images/jdautrich.jpg" alt="cover of Nature" width="125" height="164" /></td>
+<td style="text-align: left;">
+<h4>CSE student wins National Physical Science Consortium Fellowship</h4>
+<p>CSE Ph.D. student Jonathan Dautrich Jr. has been recently awarded the National Physical Science Consortium (NPSC) Fellowship. Jonathan won this award based on his scholarship and proposed research on investigating metrics for measuring privacy loss in outsourced encrypted databases, and devising algorithms for computing those metrics efficiently. The award provides support for dissertation research up to four years. Congrats Jonathan!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>UCR adds Games Academy</h4>
+<p>CSE joins forces with <a href="http://gamedevelopersacademy.com/">Game Developers Academy</a> to offer a new summer program on Video Game Creation and Design. The summer academy is geared toward incoming freshmen and lower-division undergraduates as an introduction to the game development industry and provides a hands-on experience in state-of-the art software environments. The program is being offered through the Extension Center in July this summer. For details, download the <a href="http://graphics.cs.ucr.edu/projects/GameDesignSummer11.pdf">course description</a>&nbsp;or visit the Extension <a href="http://www.extension.ucr.edu/academics/summer/game_design.html">website</a>.</p>
+</td>
+<td style="text-align: left;"><img src="/images/games.jpg" alt="headshot image" width="160" height="144" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="http://www.cs.columbia.edu/~vladimir/images/Nature_Cover_Mar_24_2011.jpg" alt="cover of Nature" width="144" height="190" /></td>
+<td style="text-align: left;">
+<h4>CSE Ph.D. graduate publishes in Nature</h4>
+<p><a href="http://www.cs.columbia.edu/~vladimir/">Vladimir Vacic</a>, CSE Ph.D. graduate from 2008, now post-doc at Columbia University is first author on a recent article in Nature. Vlada and his collaborators from Cold Spring Harbor Lab and Columbia University found a new schizophrenia gene (a neuronal cell receptor called VIPR2). It caught the interest of Nature and was mentioned on its <a href="http://www.cs.columbia.edu/~vladimir/images/Nature_Cover_Mar_24_2011.jpg">cover</a> likely because the discovery is one of the most exciting findings in schizophrenia in recent years with possible drug implications.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>2010-2011 Internship Awards</h4>
+<p><strong>Congratulations to the following Computer Science graduate students for their internship awards this academic year:</strong></p>
+<p><strong>Mustafa Arslan</strong>. NEC Laboratories, New Jersey. Fall 2010-Summer 2011.<strong><br />Pamela Bhattacharya</strong>. Microsoft Corporation, WA. Summer 2011.<strong><br />Michael Butkiewicz</strong>. Los Alamos National Labs, CA. Summer 2011.<strong><br />Zi Feng</strong>. AppFolio Incorporated, CA. Summer 2011.<br /><strong>Ed Fernandez</strong>.Jacquard Computing Incorporated, CA. Summer 2011.<strong><br />Yingsheng Gao</strong>. Facebook, Incorporated, CA. Summer 2011.<br /><strong>Chen Huang</strong>. Facebook, Incorporated, CA. Summer 2011.<br /><strong>Marios Iliofotou</strong>. Narus, CA. Winter 2011.<br /><strong>Mehran Kafai</strong>. Hewlett-Packard, CA. Summer 2011.<br /><strong>Monik Khare</strong>. AT&amp;T Interactive, CA. Summer 2011.<br /><strong>Mohammad Khorramzadeh</strong>. STEC, CA. Summer 2011.<br /><strong>Ted Lappas</strong>. Boston University, MA. Fall 2010-Summer 2011.<br /><strong>Wei Li</strong>. Novartis, CA. Summer 2011.<br /><strong>Roger Moussalli</strong>. IBM, NY. Summer 2011.<br /><strong>Abdullah Mueen</strong>. Hewlett-Packard, CA. Summer 2011.<br /><strong>Jianxia Ning</strong>. Cisco Systems, Inc., CA. Summer 2011.<br /><strong>Kishore K. Pusukuri</strong>. Intel, OR. Summer 2011.<br /><strong>Md. Sazzadur Rahman</strong>. VMwarein, CA. Summer 2011.<br /><strong>Thanawin (Art) Rakthanmanon</strong>. Nokia Research Center, CA. Summer 2011.<br /><strong>Indrajeet Singh</strong>. Alcatel-Lucent, NJ. Summer 2011.<br /><strong>Md. Reaz Uddin</strong>. ESRI, CA. Summer 2011.<br /><strong>Nick Valler</strong>. Los Alamos National Labs, CA. Summer 2011.<br /><strong>Marcos Vieira</strong>. ESRI, CA. Winter - Spring 2011 &amp; IBM TJ Watson, NY. Summer 2011.<br /><strong>Yan Wang</strong>. Amazon Corporate, WA. Summer 2011.<br /><strong>Yi Wang</strong>. Facebook, CA. Winter 2011 &amp; Sprint, CA. Summer 2011.<br /><strong>Jian (Jarod) Wen</strong>. Teradata, CA. Fall 2010 &amp; Summer 2011.<br /><strong>Guowu Xie</strong>. Narus, CA. Fall 2010 &amp; Summer 2011.<br /><strong>Yang Zhao</strong>. NASA Ames Research Center, CA. Summer 2011.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>CSE's Twitsper mobile app for Android makes a big noise!</h4>
+<p>CSE Ph.D. students Indrajeet Singh and Michael Butkiewicz, advised by Drs. Harsha Madhyastha and Srikanth Krishnamurthy, have released a new application that enables users of Twitter to control who can view their tweets. The new application, called Twitsper, is currently available for mobile phones that run the Android operating system. Twitsper, released on November 15th to the public, has seen nearly 500 downloads within its first weeks of release. There have been a number of articles in the online media about Twitsper, including in the <a href="http://www.huffingtonpost.com/2010/11/19/twitsper-group-tweeting-a_n_786027.html">Huffington Post</a>, who claim "Twitsper, group tweeting app, could change Twitter as we know it". &nbsp;Articles have also appeared in the&nbsp;<a href="http://www.inlandnewstoday.com/story.php?s=16903">Inland News Today</a>&nbsp;and <a href="http://www.ieweekly.com/cms/story/detail/curing_twitter_jitters/3622/">Inland Empire Weekly</a>. To learn more, have a look at the <a href="http://twitsper.cs.ucr.edu/">Twitsper Project Page</a>.</p>
+</td>
+<td style="text-align: left;"><img src="http://twitsper.cs.ucr.edu/images/screen1.jpg" alt="screenshot" width="140" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="http://www.engr.ucr.edu/images/ImagineCupTeam350.jpg" alt="Team Photo" height="155" /></td>
+<td style="text-align: left;">
+<h4>CSE students' game wins Microsoft competition</h4>
+<p>A team of UC Riverside students has been named one of three winners of the Microsoft's Imagine Cup "Solve This" international mobile game design competition. In April 2011 they will head to Seattle to compete for the final grand prize. Four members of the CSE student chapter of the Association for Computing Machinery (ACM), who adopted the name Team Inspiration, won for their design of Trash Boy, a game designed for mobile phones where players protect fish by preventing trash from entering the ocean. See the whole story <a href="http://www.engr.ucr.edu/news/2010news.html#imaginecup">here</a>. Go Team Inspiration!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>UCR alumnus wins major award in Thailand</h4>
+<p>Dr. Chotirat "Ann" Ratanamahatana, who obtained her Ph.d from CSE in 2005 (advisor: Dr. Eamonn Keogh), and is now with the Department of Computer Engineering of Chulalongkorn University, has won Thailand 2010 Young Technologist Award from the Foundation for the Promotion of Science and Technology for her research on "Dynamic Time Warping". The award is to recognize young Thai researchers with outstanding scientific achievements each year to encourage young scientists to perform research work of quality. The awards are among the most prestigious awards of their kind within the Thai scientific community. Congratulations to Ann!</p>
+</td>
+<td style="text-align: left;"><img src="http://alumni.cs.ucr.edu/~ratana/about_me1_files/image002.jpg" alt="head shot" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="http://www.engr.ucr.edu/images/LaxmiBhuyan250.jpg" alt="" width="147" /></td>
+<td style="text-align: left;">
+<h4>CSE Chair enters "Hall of Fame" at Wayne State University</h4>
+<p>Laxmi Bhuyan, Distinguished Professor and Chair of the Bourns College of Engineering Department of Computer Science and Engineering, was inducted into the Wayne State University Engineering Hall of Fame.&nbsp;Selected by a college committee made up of WSU College of Engineering faculty and deans, Hall of Fame honorees are recognized with a plaque with their name and image on a wall in the college’s Hall of Fame Lounge. We're proud of you Laxmi!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>Lin receives Best Paper Award at PACT</h4>
+<p>CSE Ph.D. graduate student, Changhui Lin, recently received a Best Paper Award at the PACT conference. &nbsp;Student of Rajiv Gupta, Changhui has reason to be proud. &nbsp;Out of 266 submissions, less than 2% were selected for best paper. The paper is coauthored by Changhui Lin, Vijay Nagarajan, and Rajiv Gupta, and is entitled, "Efficient Sequential Consistency Using Conditional Fences". &nbsp;For more information, visit the PACT awards page,&nbsp;<a href="http://pactconf.org/awards.html">here</a>. This award adds to CSE's growing list of (5) best paper awards from the past year! Congrats to Changhui!</p>
+<p>&nbsp;</p>
+</td>
+<td style="text-align: left;"><img src="http://www.cs.ucr.edu/~linc/images/lchh.jpg" alt="Changhui Lin image" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img title="USNews" src="http://static.usnews.com/images/global/usn_logo_big.png" alt="USNews" width="153" height="48" /></td>
+<td style="text-align: left;">
+<h4>CSE jumps <strong>12 points</strong> in national graduate program rank</h4>
+<p>The 2011 US News and World Report has ranked CSE at 53rd best graduate program in computer science along with UC Santa Cruz, Arizona State University, Indiana University, and University of Pittsburgh. This is a notable jump from 65th where CSE was ranked previously. "We always knew that we belonged in top 50, but it takes time for the ranking agency to recognize it," remarks CSE Chair Bhuyan. For complete ranking of the computer science program, see <a href="http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-computer-science-schools/rankings/">US News</a> website.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>Welcome new faculty hire Professor Madhyastha!</h4>
+<p>The Department is thrilled to have hired new faculty member, Harsha V. Madhyastha. Harsha tackles the research challenges associated with building large-scale distributed systems across the Internet and inside data centers. Professor Madhyastha is putting together a heterogenous cluster equipped with cutting-edge technology to test and evaluate the solutions his group develops on real-world applications.</p>
+</td>
+<td style="text-align: left;"><img src="/images/harsha_headshot.jpeg" alt="Harsha Madhyastha image" width="135" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="/images/acm-sigcomm.jpg" alt="" width="141" height="83" /></td>
+<td style="text-align: left;">
+<h4>CSE paper recognized with "Test of Time" award.</h4>
+<p>Professor Michalis Faloutsos' paper receives the prestigiouys ACM SIGCOMM Test of Time Paper Award. The awarded paper "On Power-Law Relationships of the Internet Topology", by Michalis Faloutsos, Petros Faloutsos, and Christos Faloutsos was published in SIGCOMM 1999. The award recognizes work published 10 to 12 years that is deemed to be an "outstanding paper whose contents are still a vibrant and useful contribution today". The co-authored brothers' paper is also known widely as the "three Faloutsos paper" and has been cited over 3000 times according to Google Scholar.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>Keogh among most prolific authors at ICDM</h4>
+<p>CSE Professor Eamonn Keogh achieved the rare feat of getting 5 papers in a single year in the prestigious ICDM conference. This accomplishment has only happened five times in the conference history, mostly by heads of major labs (i.e Philip Yu, head of IBM of the Software Tools and Techniques group at IBM 2008, and Zheng Chen Manager of Microsoft Research Asia in 2006) and brings Dr. Keogh's total to 18 ICDM papers and makes him the fifth most prolific authors in that conference to date. Dr. Keogh's co-authors on the five papers are: Alessandro Camerra, Jin Shieh, Themis Palpanas, Qiang Zhu, Doruk Sart, Abdullah Mueen, CSE Professor Walid Najjar, Vit Niennattrakul and Chotirat Ann Ratanamahatana.</p>
+</td>
+<td style="text-align: left;"><img src="/images/spinner.jpg" alt="Scott Sirowy image" width="146" height="153" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;"><img src="/images/bob.JPG" alt="" width="147" height="143" /></td>
+<td style="text-align: left;">
+<h4>Wang receives his second "Best Paper" award</h4>
+<p>CSE graduate student Wei-Bung (Bob) Wang wins the best paper award at the 9th LSS Computational Systems Bioinformatics Conference (CSB) held in August 2010. His award winning paper is entitled "Inferring haplotypes from genotypes on a pedigree with mutations, genotyping errors and missing alleles" and jointly authored with his advisor Professor Tao Jiang. The prize includes a laptop computer and free registration for the next CSB. This is Bob's second best paper award. He also won the best paper award at the International Conference on Genome Informatics (GIW) in 2008.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="spotlight" style="text-align: center;">
+<table style="width: 625px; height: 151px;" border="0">
+<tbody>
+<tr style="text-align: left;">
+<td style="text-align: left;">
+<h4>CSE graduate student earns top two honors in Mobile Future Forward Student Paper Contest</h4>
+<p>Smruti Parichha, a CSE graduate student working towards her Ph.D. under the advisement of Mart Molle, earned top two placement in Mobile Future Forward's <a href="http://www.mobilefutureforward.com/student_paper.html" target="_blank">student paper contest</a>. The contest asked for papers to imagine new technologies, new experiences, new applications and services, new use cases, and new business models of the mobile future. Smruti's top two placement gets her a travel expenses paid trip to attend the <a href="http://www.mobilefutureforward.com/index.html" target="_blank">Mobile Future Forward</a> conference, an executive summit bringing together the top industry leaders of mobile technology. Congratulations, Smruti!</p>
+</td>
+<td style="text-align: left;"><img src="/images/smruti.jpg" alt="Smruti Parichha image" width="135" height="150" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="csenews">
+<ul>
+<li id="news40"><img src="/images/frontpage2/CircuitBoard-700x144.png" alt="" width="55" height="56" />
+<h4>CSE team lands $800K for DARPA research</h4>
+<p>Iulian Neamtiu, Stefano Lonardi, and Eamonn Keogh landed an 800K grant. The award is a subcontract to GE's ProLiFic proposal, which was accepted under DARPA BAA 10-36--Cyber Genome Program. The project will look at ways to defend against cyber attacks by quick malware identification and neutralization and tracing malicious code to its origins. “We are very excited to work on this project” says Keogh, “The team at GE came to us, after having surveyed the literature and decided that we had the best possible academic team in the US to work on this problem”. The whole grant is for $5.3M, out of which $800K will go to CSE.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news39"><img src="/images/sirowy.jpg" alt="" width="59" height="90" />
+<h4>100th Ph.D. Graduate</h4>
+<p>The Department of Computer Science and Engineering Celebrates its 100th Ph.D. Graduate!! UCR's CSE Department grew out of CS-oriented degree tracks in the departments of Mathematics and Applied Science in the early 1970s, and became a department in 1990. We are proud to announce that we have now graduated 100 Ph.D. students and would like to recognize Mr. Scott Sirowy with this distinction as our 100th, under the supervision of Dr. Frank Vahid! Scott graduated with his bachelors degree in Computer Engineering from UCR and entered our Ph.D. program in the Fall quarter of 2005. He officially completed his dissertation "Emulation of SystemC Applications for Portable FPGA Binaries" on May 26, 2010. Scott had a degree conferral date of June 11, and we wish him luck as he begins his employment at ESRI in Redlands. Good luck to Scott and to all of our 09-10 graduates!</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news38"><img src="/images/grissom.JPG" alt="" width="63" height="74" />
+<h4>NSF awards CSE graduate student Fellowship</h4>
+<p>Dan Grissom was one of four BCOE graduate students award the prestigious NSF Graduate Fellowship. Dan joined CSE in Fall 2009 and is working under the advisement of Philip Brisk. His awarded proposal is on the topic of microfluidic system design. Microfluidics is a novel and exciting technology which allows execution of biochemical assays on a LoC. Currently, Microfluidic chips are designed for a specific application. Dan's proposal seeks to design a programmable, digital microfluidic system by solving critical challenges such as deadlock-free routing, scheduling, and fault-tolerance.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news37"><img src="/images/sethi.jpg" alt="" width="63" height="85" />
+<h4>Alumnus Ricky Sethi named Computing Innovation Fellow</h4>
+<p>Ricky Sethi, who earned his Ph.D. in 2009 from the Department of Computer Science and Engineering, has been chosen as a National Science Foundation (NSF) <a href="http://cifellows.org/">Computing Innovation Fellow</a> (CIFellow), a highly competitive award given annually by the <a href="http://www.cra.org/">Computing Research Association</a> (CRA). The one-year award will be for $140,000 for tuition, salary and expenses to support Sethi’s post-doctoral research with Prof. Jenn Wortman Vaughn in the UCLA Department of Computer Science, beginning in November 2010. The award is tentatively for one year but is extendable to two years. Typically, about 10 percent of applicants are chosen as CIFellows and in 2009 only 47 were given to scholars across the country. Details appear <a href="http://www.engr.ucr.edu/2010news.html#sethi">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news36">
+<h4>2009-2010 Internship Awards</h4>
+<p>Congratulations to the following Computer Science graduate students for their internship awards this academic year:</p>
+<p><strong>Abdullah Mueen.</strong> Microsoft, CA. Spring 2010Abhishek Ray. Acorn Technology Corporation, Spring and Summer 2010<br /><strong>Bilson Campana. </strong>Google Research, CA. Summer 2010<br /><strong>Chen Huang.</strong> Amazon Corporate, Washington. Summer 2010<br /><strong>Doruk Sart. </strong>Marvell Semiconductor, CA. Summer 2010<br /><strong>Guangdeng Liao.</strong> Intel, Oregon. Summer 2010<br /><strong>Guanqun Shi. </strong>Tagged Incorporated, CA. Summer 2010<br /><strong>Guowu Xie.</strong> Narus, CA. Summer 2010<br /><strong>Huseyin Hakkoymaz.</strong> ESRI Incorporated, CA. Fall 2009; Winter, Spring and Summer 2010<br /><strong>Ji Adam Dou.</strong> Google, CA. Summer 2010<br /><strong>Jian Wen. </strong>Teradata Corporation, CA. Summer 2010<br /><strong>Jianxia Ning.</strong> Cisco Systems Incorporated, Spring 2010 - and - Google, CA. Summer/Fall 2010<br /><strong>Jilong Kuang.</strong> FutureWei Technologies, CA. Summer 2010<br /><strong>Jonathan Dautrich. </strong>Microsoft, CA. Summer 2010<br /><strong>Konstantinos Pelechrinis.</strong> Microsoft Research, England. Fall 2009<br /><strong>Li Yan.</strong> PageBites, CA. Summer 2010Marcos Vieira. ESRI, CA. Summer 2010<br /><strong>Marios Iliofotou.</strong> Lawrence Livermore National Laboratory, CA. Fall 2009<br /><strong>Md. Sazzadur Rahman.</strong> Los Alamos National Laboratory, New Mexico. Summer 2010<br /><strong>Mustafa Arslan.</strong> NEC Laboratories America, Inc., New Jersey. Summer 2010<br /><strong>Peng Wang.</strong> FutureWei Technologies, CA. Summer 2010<br /><strong>Qiang Zhu.</strong> NASA Ames Research Center, CA. Fall 2009 - and - Mitsubishi Electric, CA. Summer 2010<br /><strong>Roger Moussalli.</strong> USC, CA. Summer 2010<br /><strong>Sima Lotfi.</strong> OPENSgi, CA. Summer 2010<br /><strong>Ted Lappas.</strong> IBM, Zurich. Winter and Spring 2010 - and - Yahoo, CA. Summer 2010<br /><strong>Wenyu Huo.</strong> Amazon Corporate, Washington. Summer 2010<br /><strong>Xiaoqing Jin.</strong> Google, CA. Summer 2010<br /><strong>Xiaoyue Wang.</strong> Nokia, CA. Spring and Summer 2010<br /><strong>Yang Zhao. </strong>National Institute of Aerospace, VA. Summer 2010</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news35"><img src="/images/bilson_siam2.jpg" alt="" width="75" height="79" />
+<h4>CSE graduate student receives best paper award</h4>
+<p>Ph.D. student Bilson Campana (advised by Dr. Eamonn Keogh) won the best student paper award at the 2010 SIAM International Conference on Data Mining. His paper introduces a new distance measure for comparing images, which significantly outperforms the current state of the art measures. The work was singled out because of its amazing generality, the measure can correctly group data as diverse as spiders, historical manuscripts, and as shown in the image above, butterflies and moths. Earlier this year Bilson won a Google fellowship, and he will be interning this year with Google.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news34"><img src="/images/stelo.png" alt="" width="60" height="88" />
+<h4>Lonardi on Team Battling Malaria</h4>
+<p>CSE Professor Stefano Lonardi is part of a UCR team that has identified a mechanism that allows malaria parasites to intensively replicate themselves in human blood. The discovery could lead to new drugs to combat the spread of the deadly disease. Study results have been published in the journal "Genome Research." Elena Harris, a Ph.D. student researcher in Lonardi's lab, was joint first author of the paper. Harris and Lonardi have been responsible for the analysis of this large dataset and extracting new biological knowledge in the process. Details appear <a href="http://newsroom.ucr.edu/news_item.html?action=page&amp;id=2262">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news33"><img src="/images/seal_gamepro.jpg" alt="" width="93" height="60" />
+<h4>Princeton Review recognizes CSE for top program in games</h4>
+<p>CSE's program in video game design ranks in the Top 50 of 500 North American universities, according to The Princeton Review and GamePro Media. The Princeton Review developed its “Top 50 Undergraduate Game Design Programs” list – the first project of its kind – in partnership with GamePro, one of the most respected brands in the video game industry, reaching over 3 million gamers a month. UC Riverside is one of two UC campuses named to the Top 50 list and is featured in an article that will appear in the April issue of GamePro magazine. Details appear <a href="http://newsroom.ucr.edu/news_item.html?action=page&amp;id=2272">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news32"><img src="http://www.cs.ucr.edu/~michalis/Fal.gif" alt="" width="73" height="73" />
+<h4>Faloutsos Awarded $1.5 Million for Army Network Science Research</h4>
+<p>CSE Professor Michalis Faloutsos has been awarded $1.5 million over five years by the Army Research Laboratory (ARL) to help createa collaborative technology alliance in network science. The research will focus on integrating and guiding research on understanding properties of large complexsystems and developing methods to model and predict their evolution. Details appear <a href="http://newsroom.ucr.edu/news_item.html?action=page&amp;id=2242">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news31"><img src="/images/vahid_text.jpg" alt="" width="70" height="85" />
+<h4>Digital Design, Second Edition released</h4>
+<p>The second edition of CSE Professor Frank Vahid's successful "Digital Design" textbook hit bookstores in February 2010. The book redefines the field to embrace modern design methods used to build the 21st century's billion-transistor chips, and to expose students to modern "hardware/software codesign" concepts. Rich with applied examples that students enjoy, the book has already been adopted by dozens of top universities, including Univ. of Michigan, UC San Diego, Univ. of Arizona, , UC Irvine, Notre Dame, Dartmouth, Temple, Univ. of Washington, Texas A&amp;M, Univ. of Hawaii, Boston Univ., Washington Univ. St Louis, New Mexico State, Univ. of Virgina, and many more.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news30"><img src="/images/brisk1.jpg" alt="" width="85" height="72" />
+<h4>New CSE Faculty</h4>
+<p>The Department is delighted to welcome Philip Brisk into its ranks. Philip conducts cutting-edge research in the areas of Reconfigurable computing; application-specific and customizable processors; computer architecture; compilers. You can find out more about Philip <a href="http://www.cs.ucr.edu/faculty/philip/">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news29"><img src="/images/dsl_thumbnail.jpg" alt="" width="84" height="149" />
+<h4>2009-2010 Distinguished Lecture Series</h4>
+<p>Computer Science and Engineering is pleased to announce the 2009-2010 Distinguished Lecture Series, which includes five outstanding speakers: Moshe Y. Vardi (Rice U), Deborah Estrin (UCLA), Barbara Liskov (MIT), Prabhakar Raghavan (Yahoo! Labs) and Eugene Myers (HMMI Janiela Farms). More information can be found <a href="/department/distinguished_lecturers/">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news28"><img src="/images/GuptaAt200.jpg" alt="" width="73" height="89" />
+<h4>Gupta Named Fellow of ACM</h4>
+<p>CSE professor, Rajiv Gupta, has been elevated to the status of Fellow in the Association for Computing Machinery (ACM), one of 47 international members named 2009 ACM Fellows. Achieving the status of Fellow denotes exceptional contributions in the computing field. Gupta's citation is "for contributions to program analysis and optimization and professional service to the computer science research community.&nbsp; Fellows were selected from the world's leading universities, industries and research labs and received this honor for both their contributions to the knowledge of the field and in generating innovation in focus areas including industry and education.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news27"><img src="/images/CSE-ServerRoom-180x144.jpg" alt="server" width="75" height="73" />
+<h4>CSE Researchers Secure $6 Million in Funds</h4>
+<p>CSE researchers raise over 6 million in funding for next five years and beyond. See: <a href="http://www1.cs.ucr.edu/research/grants"> CSE AY 09-10 Grants List</a>.&nbsp;&nbsp; NSF has awarded CSE PI's $800,000 to develop hardware/software hybrid high performance computing. Laxmi Bhuyan is the PI on the project. Rajiv Gupta and Walid Najjar are Co-PIs. Michalis Faloutsos also lands funding as part of a grant with the ARO’s Network Science Collaborative Technology Alliance (NS CTA.) CSE’s part of the grant is $320K/year for 5 years, renewable to 10.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news26"><img src="/images/2154_1.jpg" alt="Barley Photo, courtesy of Close Lab, UCR" width="79" height="77" />
+<h4>UCR Barley Research Gets Boost</h4>
+<p>CSE's Stefano Lonardi joins Botany's Tim Close to land $1M. The UCR researchers will advance their work on sequencing the barley genome and breeding new barley varieties thanks to a two-year $1 million grant from the U.S. Department of Agriculture (USDA). The project will build upon resources that the researchers already have developed at UCR from several USDA and National Science Foundation projects.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news25"><img title="USNews" src="http://static.usnews.com/images/global/usn_logo_big.png" alt="USNews" width="109" height="34" />
+<h4>US News and World Reports recognizes CSE's Lonardi in medical advance</h4>
+<p>CSE faculty <a href="http://www.cs.ucr.edu/~stelo/">Stefano Lonardi</a> contributes to an effort for "Predicting Who Will Survive Skin Cancer" with researchers at NYU's Langone Medical Center. US News and World Reports showcased the research in a recent <a href="http://usnews.com/science/articles/2009/11/19/predicting-who-will-survive-skin-cancer.html">article</a>. For related research papers, see <a href="http://www.cs.ucr.edu/~stelo/papers.htm#CompBio"> Lonardi's related publications</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news24"><a class="newsLeft" href="http://www.cs.ucr.edu/~michalis/index.html"><img title="Faloutsos" src="http://www.cs.ucr.edu/~michalis/Fal.gif" alt="Faloutsos" width="77" height="80" /></a>
+<h4>Faloutsos' lands funds to study properties of complex systems</h4>
+<p><a href="http://www.cs.ucr.edu/~michalis/index.html">Michalis Faloutsos</a> lands funding as part of a grant with the ARO’s Network Science Collaborative Technology Alliance (NS CTA) with BBN as the lead in the Interdisciplinary Research Center. CSE’s portion of the grant is $320K/year for 5 years, renewable for another 5 years. Faloutsos’ focus is on integrating and guiding research across the center on understanding fundamental properties of large complex systems. UCR also participates in the BNN Center.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news23"><a class="newsLeft" href="http://www.cs.ucr.edu/~tsotras/"><img title="Tsotras" src="http://www.engr.ucr.edu/images/Tsotras%20at%20200.jpg" alt="Tsotras" width="72" height="76" /></a>
+<h4>Semistructured data to get closer look by Tsotras and team</h4>
+<p>Current indications are that the IT world will soon be awash in a sea of semistructured data. Professor <a href="http://www.cs.ucr.edu/~tsotras/">Vassilis Tsotras</a> is part of a team from UC Irvine, UC Riverside and UC San Diego that are targeting the problems related to semistructured data with an emphasis on scale. The team brings together five researchers drawn from the three UC campuses, with expertise spanning structured, semistructured, and unstructured data. The National Science Foundation is providing $2.7 million to design and implement an open source platform to be shared and used by research groups around the country who have semistructured information management needs.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news22"><a class="newsLeft" href="http://www.cs.ucr.edu/~stelo/"><img title="Lonardi" src="http://www.cs.ucr.edu/~stelo/pics/stefo_border.png" alt="Lonardi" width="69" height="98" /></a>
+<h4>Barley Genome Research Gets Boost</h4>
+<p><a href="http://www.cs.ucr.edu/~stelo/">Stefano Lonardi</a> joins Botany's <a href="http://www.plantbiology.ucr.edu/faculty/close.html">Tim Close</a> to land $1M grant. The UCR researchers will advance their work on sequencing the barley genome and breeding new barley varieties thanks to a two-year $1 million grant from the U.S. Department of Agriculture (USDA). The project will build upon resources that the researchers already have developed at UCR from several USDA and National Science Foundation projects. Read the full article <a href="http://newsroom.ucr.edu/news_item.html?action=page&amp;id=2154">here.</a></p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news21"><a class="newsLeft" href="http://www.cs.ucr.edu/~bhuyan/"><img title="Bhuyan" src="http://www.engr.ucr.edu/images/L%20Bhuyan%20at%20200.jpg" alt="Bhuyan" width="70" height="77" /></a>
+<h4>Hybrid Multiprocessor for High-performance Computing</h4>
+<p><a href="http://www.cs.ucr.edu/~bhuyan/">Laxmi Bhuyan</a> is working to demonstrate the feasibility of hybrid high-performance computing, where part of the program is executed in software and the other part by specialized hardware. The National Science Foundation has awarded him $800,000 to support his research to develop hardware/software partitioning of applications, redesign the architectural components, optimize the compiler, and develop reconfigurable hardware.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news20"><a class="newsLeft" href="http://www.cs.ucr.edu/~ravi/"><img title="Ravishankar" src="http://www.engr.ucr.edu/images/Ravishankar%20at%20150.jpg" alt="Chinya Ravishankar" width="67" height="85" /></a>
+<h4>NSF Grant Provides $600,000 for Scholarships</h4>
+<p>Bourns College of Engineering students in financial need will gain assistance from a National Science Foundation S-STEM (Scholarships in Science, Technology, Engineering and Mathematics) grant. The $600,000, five-year grant will fund the College's S-STEM project, designed to aid low-income, academically talented engineering students.&nbsp; Associate Dean <a href="http://www.cs.ucr.edu/~ravi">Chinya Ravishankar</a>, Principal Investigator for the grant, says the project's focus is on helping students succeed academically and professionally and encouraging them to pursue graduate level degrees in engineering disciplines. A scholarship committee will review the applications and choose the recipients.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news19"><a class="newsLeft" href="http://www.cs.ucr.edu/~bcampana/"><img title="Bilson Campana" src="http://www1.cs.ucr.edu/images/bilsoncampana.jpg" alt="Bilson Campana" /></a>
+<h4>Bilson Campana Awarded Hispanic College Fund Scholarship</h4>
+<p>Bilson Campana, a second year CS student, has won a 2009-2010 Hispanic College Fund Scholarship for $10,000. Bilson was one of only 18 winners nationwide. In addition to the scholarship, winners will attend a two-day retreat at Google headquarters. Bilson expects to use the money to support his research on video data mining. He is advised by Dr. Keogh.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news18"><a class="newsLeft" href="http://www.cs.ucr.edu/~neamtiu/"><img title="Iulian Neamtiu" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_016.jpg" alt="Iulian Neamtiu" /></a>
+<h4>Iulian Neamtiu recognized for work on Ginseng</h4>
+<p>Faculty member <a href="http://www.cs.ucr.edu/~neamtiu/iulian-short-bio.html">Iulian Neamtiu</a> was mentioned in a recent article in MIT's <em>Technology Review</em> for his work on <a href="http://www.cs.umd.edu/projects/PL/dsu/">Ginseng</a>. His work is in the refinement of Dynamic Software Updating (DSU), eventually obviating the need for operating system restarts after security updates. You can find the article <a href="http://www.technologyreview.com/computing/22674/page1/">here</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news17">
+<h4>2008-2009 Internship Awards</h4>
+<p>Congratulations to the following Computer Science graduate students for their internship awards:</p>
+<p><strong>Denisa Duma</strong>. Intel Research, Pittsburgh, Visiting Scholar: Summer 2009<br /> <strong>Jianbo Chen</strong>. Benson Liao Insurance &amp; Financial Corporation, California: Summer 2009.<br /> <strong>Marios Iliofotou</strong>. Telefonica Investigacion and Desarrollo S.A. Unipersonal, Madrid. Summer 2009.<br /> <strong>Monik Khare</strong>. Wolfram Research, Illinois. Summer 2009.<br /> <strong>Antony Lam</strong>. NSF EAPSI research fellowship, University of Tokyo: Summer 2009.<br /> <strong>Yuling Li</strong>. PlantCML, California: Spring 2009. Bloomberg L.P., New York: Summer 2009.<br /> <strong>Abdullah Mueen</strong>. Microsoft Research, Washington: Summer 2009.<br /> <strong>Konstantinos Pelechrinis</strong>. Thomson Research, France: Spring 2009. Microsoft Research, England: Fall 2009.<br /> <strong>Cheng Sheng</strong>. Google, California: Summer 2009.<br /> <strong>Jin-Wien Shieh</strong>. Microsoft Corporation, Washington: Summer 2009.<br /> <strong>Li Yan</strong>. Google, California: Summer 2009.<br /> <strong>Qiang Zhu</strong>. NASA Ames Research Center, California: Summer 2009.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news16"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Eweiw/"><img title="Wei-Bung (Bob) Wang" src="http://static.cs.ucr.edu/store/images/sized/dce4713d2a395340558ff02437dad033.jpg" alt="Wei-Bung (Bob) Wang" /></a>
+<h4>Wei-Bung Wang Gets Best Paper Award at GIW 2008</h4>
+<p>Congratulations to Ph.D. candidate <a href="http://www.cs.ucr.edu/%7Eweiw">Wei-Bung (Bob) Wang</a> whose paper, "A new model of multi-marker correlation for genome-wide tag SNP selection" won the Best Paper Award at the 19th International Conference on Genome Informatics (<a href="http://mlaa.com.au/giw2008">GIW 2008</a>) recently held in Gold Coast, Australia. The paper is co-authored with his Ph.D advisor Professor Tao Jiang. GIW is the longest running international conference in bioinformatics, and this is the second best paper award that Professor Jiang's lab has received from the conference.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news15"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Eneamtiu/"><img title="Iulian Neamtiu" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_016.jpg" alt="Iulian Neamtiu" /></a>
+<h4>New CSE Faculty</h4>
+<p>The Department is delighted to welcome <a href="http://www.cs.ucr.edu/%7Eneamtiu/iulian-short-bio.html">Iulian Neamtiu</a> into its ranks. Iulian conducts cutting-edge research in the areas of Programming Languages, Software Engineering and Operating Systems.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news14"><a class="newsRight" href="http://www.cs.ucr.edu/%7Evbz/"><img title="Victor Zordan" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_015.jpg" alt="Victor Zordan" /></a>
+<h4>Victor Zordan receives Innovative Teaching Award</h4>
+<p>The UCR Academy of Distinguished Teaching has selected Dr. <a href="http://www.cs.ucr.edu/%7Evbz/">Victor Zordan</a> for this year's Innovative Teaching Award. Professor Zordan is being honored for the design and implementation of his innovative Engineering course, <a href="http://graphics.cs.ucr.edu/cs134w08.htm">CS 134: Video Game Development and Design</a>. In this course, students are divided into teams and actually design and construct their own video game.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news13"><a class="newsLeft" href="http://wwwcontent.cs.ucr.edu/store/images/news/cisco_comic.jpg"><img title="Cisco visits UCR" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_014.jpg" alt="Cisco visits UCR" /></a>
+<h4>Cisco@UCR</h4>
+<p>Five <a href="http://www.cisco.com/">Cisco</a> researchers visit CS UCR to check up on existing joint research projects and to explore new research opportunities.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news12"><a class="newsRight" href="http://www.cs.ucr.edu/%7Eeamonn/"><img title="Eamonn Keogh" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_013.png" alt="Eamonn Keogh" /></a>
+<h4>Dr. Keogh Designated University Scholar</h4>
+<p><a href="http://www.cs.ucr.edu/%7Eeamonn/">Eamonn Keogh</a>, Associate Professor of Computer Science and Engineering, <a href="http://www.engr.ucr.edu/NewsSystem/2008.shtml">has been chosen as this year’s UCR University Scholar</a>. The prestigious award comes with a $75K prize over three years in recognition of his influential research, which includes over 100 published research papers (at least 10 with over 100 citations each) and several best paper awards, making him one of the most cited researchers in the area of data mining and databases.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news11"><a class="newsLeft" href="http://www.google.com/"><img title="Google" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_012.png" alt="Google" width="100" height="43" /></a>
+<h4>Google and Microsoft visit UC Riverside</h4>
+<p><a href="http://www.google.com/intl/en/corporate/index.html">Google</a> decided to put more effort in recruiting our students, in an event nicknamed Google Day. Check out some <a href="http://wwwcontent.cs.ucr.edu/store/images/news/GoogleAlums.jpg">pictures</a> of <a href="http://wwwcontent.cs.ucr.edu/store/images/news/GoogleCrowd.jpg">the event</a>.&nbsp; Both Google and Microsoft visited UCR recently to collect resumes and discuss potential jobs at their companies. Both were interested in attracting students to their college internship programs. Google has hired seven of our CSE Ph.D. students in the past two years, and Microsoft has recently hired two CSE students.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news10"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Ejiang/"><img title="Tao Jiang" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_011a.jpg" alt="Tao Jiang" width="60" height="80" /></a> <a class="newsRight" href="http://www.cs.ucr.edu/%7Egupta/"><img title="Rajiv Gupta" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_011b.jpg" alt="Rajiv Gupta" width="60" height="76" /></a>
+<h4>Tao Jiang named ACM Fellow and Rajiv Gupta named IEEE Fellow</h4>
+<p>The Department congratulates Professor <a href="http://www.cs.ucr.edu/%7Ejiang/">Tao Jiang</a>, who was <a href="http://www.acm.org/press-room/news-releases/fellows-2007">named an ACM Fellow</a> for his contributions to computational biology and computational complexity, and <a href="http://www.cs.ucr.edu/%7Egupta/">Rajiv Gupta</a>, who was <a href="http://www.ieee.org/web/membership/fellows/2008fellowclass.html">elevated to IEEE Fellow</a> for his contributions to computer architecture and optimizing compilers.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news9"><a class="newsRight" href="http://www.cs.ucr.edu/%7Epbakalov/"><img title="Petko Bakalov" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_010.jpg" alt="Petko Bakalov" width="63" height="80" /></a>
+<h4>Petko Bakalov gets Second Place for Poster Presentation at ACM GIS 2007</h4>
+<p>Ph.D. student <a href="http://www.cs.ucr.edu/%7Epbakalov/">Petko Bakalov</a> was runner up in the Poster Presentation Contest of the 15th <a href="http://www.cise.ufl.edu/dept/acmgis2007/">ACM International Symposium on Advances in Geographic Information Systems (ACM GIS 2007)</a> for his poster “TS2-tree - an Efficient Similarity Based Organization for Trajectory Data”, co-authored with <a href="http://www.cs.ucr.edu/%7Eeamonn/">Eamonn Keogh</a> and <a href="http://www.cs.ucr.edu/%7Etsotras/">Vassilis J. Tsotras</a>. GIS is the premier venue for geospatial research. Congratulations to Petko!</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news8"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Edyankov/"><img title="Dragomir Yankov" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_009.jpg" alt="Dragomir Yankov" width="67" height="80" /></a>
+<h4>Dragomir Yankov Awarded Best Paper Award at IEEE ICDM 2007</h4>
+<p>Congratulations to Ph.D. candidate <a href="http://www.cs.ucr.edu/%7Edyankov/">Dragomir Yankov</a>, whose paper, “<a href="http://www.cs.ucr.edu/%7Edyankov/publications/ICDM07_DiskawareDiscords.pdf">Disk Aware Discord Discovery: Finding Unusual Time Series in Terabyte Sized Datasets</a>” won the Best Paper Award at the <a href="http://www.ist.unomaha.edu/icdm2007/">IEEE 2007 International Conference on Data Mining (ICDM)</a>. Not only did Dragomir win the best paper award, but he is the only graduate student to have two first-author papers in the conference. Congratulations, Dragomir!</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news7"><a class="newsRight" href="http://wwwcontent.cs.ucr.edu/store/images/news/DLSPosterF_800.png"><img title="Distinguished Lecture Series" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_008b.jpg" alt="Distinguished Lecture Series Poster" width="100" height="62" /></a>
+<h4>Distinguished Lecture Series</h4>
+<p>The Computer Science &amp; Engineering Department is proud to present the <a href="http://wwwcontent.cs.ucr.edu/store/images/news/DLSPosterF_800.png">2007-2008 Distinguished Lecture Series</a>. See <a href="http://wwwcontent.cs.ucr.edu/department/seminars/">Upcoming Colloquia</a> or contact <a href="http://www.cs.ucr.edu/%7Estelo/">Prof. Lonardi</a> for more information.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news6"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Evahid/dd/"><img title="Digital Design by Frank Vahid" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_006.jpg" alt="Digital Design by Frank Vahid" width="66" height="80" /></a>
+<h4>New Textbook by Vahid Being Widely Adopted</h4>
+<p>The new textbook, “<a href="http://www.cs.ucr.edu/%7Evahid/dd/">Digital Design</a>” by Prof. <a href="http://www.cs.ucr.edu/%7Evahid/">Frank Vahid</a> of UCR's Dept. of Computer Science and Engineering has been widely adopted in its first year. Several top-ranked engineering schools, including <a href="http://www.umich.edu/">Univ. of Michigan</a>, <a href="http://www.ucsd.edu/">UC San Diego</a>, <a href="http://www.uci.edu/">UC Irvine</a>, <a href="http://www.arizona.edu/">Univ. of Arizona</a>, <a href="http://www.tamu.edu/">Texas A&amp;M</a>, and <a href="http://www.nd.edu/">Notre Dame</a>, have adopted the book, along with many dozens of other schools worldwide. The book not only provides a modern introduction to digital computer circuits, but inspires students through the use of numerous examples demonstrating engineering as a social discipline with significant positive impact on human lives.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news5"><a class="newsRight" href="http://www.cs.ucr.edu/%7Ewwu/"><img title="Wei Wu" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_005.jpg" alt="Wei Wu" width="60" height="80" /></a>
+<h4>Wei Wu Gets Best Paper Award at IEEE ICCD 2007</h4>
+<p>Congratulations to Ph.D. candidate <a href="http://www.cs.ucr.edu/%7Ewwu/">Wei Wu</a> whose paper, “Improving the Reliability of On-chip Data Cache under Process Variation” won the Best Paper Award at the 25th <a href="http://www.iccd-conference.org/">IEEE International Conference on Computer Design</a> for the Processor and Architecture track. Congratulations to Wei and co-authors <a href="http://www.cs.ucr.edu/%7Ejunyang/">Professor Jun Yang</a>, <a href="http://www.ee.ucr.edu/%7Estan/">Professor Sheldon Tan</a>, and Dr. Shih-Lien Lu from <a href="http://www.intel.com/">Intel</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news4"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Egupta/"><img title="Rajiv Gupta" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_004.jpg" alt="Rajiv Gupta" width="60" height="76" /></a>
+<h4>New CSE Faculty</h4>
+<p>The Department is very excited to welcome <a href="http://www.cs.ucr.edu/%7Egupta/">Professor Rajiv Gupta</a> in its faculty. Professor Gupta's area of research includes Compilers, Embedded Systems, Software Engineering, and Program Analysis.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news3"><a class="newsRight" href="http://www.cs.ucr.edu/%7Ebhuyan/"><img title="Laxmi Bhuyan" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_003.jpg" alt="Laxmi Bhuyan" width="60" height="76" /></a>
+<h4>Laxmi Bhuyan Appointed CSE Chair</h4>
+<p><a href="http://www.cs.ucr.edu/%7Ebhuyan/">Laxmi Bhuyan</a> is appointed as Chair of the Computer Science and Engineering Department starting <a href="http://www.engr.ucr.edu/NewsSystem/2007.shtml">July 2007</a>.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news2"><a class="newsLeft" href="http://wwwcontent.cs.ucr.edu/"><img title="Engineering Building Unit II" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_002.jpg" alt="Engineering Building Unit II" width="80" height="60" /></a>
+<h4>Over $5M in Grants for 2007</h4>
+<p>The year 2007 has brought a large number of new grants: 7 <acronym title="U.S. National Science Foundation">NSF</acronym> grants, 3 <acronym title="U.S. Department of Defense">DoD</acronym>/<acronym title="U.S. Army Research Laboratory">ARL</acronym>/<acronym title="Air Force Office of Scientific Research">AFOSR</acronym>, and 5 industry grants and gifts. Most of these grants are starting in the summer of 2007 and will last for 3 years. The total estimated amount of these new grants exceeds $5M.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news1"><a class="newsRight" href="http://www.cs.ucr.edu/%7Eanirban/"><img src="http://wwwcontent.cs.ucr.edu/store/images/news/news_001.jpg" alt="Anirban Banerjee" width="80" height="64" /></a>
+<h4>Anirban Banerjee Gets Best Paper Award at IFIP Networking 2007</h4>
+<p>Ph.D. student <a href="http://www.cs.ucr.edu/%7Eanirban/">Anirban Banerjee</a> gets the Best Paper Award at <a href="http://networking2007.uncc.edu/">IFIP Networking 2007</a> for his work, “<a href="http://www.cs.ucr.edu/%7Eanirban/pubs.html">Is Someone Tracking P2P Users?</a>”. Congratulations, Anirban!</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+<div id="csenews">
+<ul>
+<li id="news0"><a class="newsLeft" href="http://www.cs.ucr.edu/%7Ejiang/"><img title="Tao Jiang" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_000a.jpg" alt="Tao Jiang" width="60" height="80" /></a> <a class="newsRight" href="http://www.cs.ucr.edu/%7Enajjar/"><img title="Walid Najjar" src="http://wwwcontent.cs.ucr.edu/store/images/news/news_000b.jpg" alt="Walid Najjar" width="67" height="80" /></a>
+<h4>Tao Jiang named AAAS Fellow and Walid Najjar named IEEE Fellow</h4>
+<p>The Department congratulates <a href="http://www.cs.ucr.edu/%7Ejiang/">Tao Jiang</a>, who was named an <acronym title="American Association for the Advancement of Science">AAAS</acronym> Fellow and <a href="http://www.cs.ucr.edu/%7Enajjar/">Walid Najjar</a>, who was elevated to <acronym title="Institute of Electrical and Electronics Engineers">IEEE</acronym> Fellow.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.efp --><!-- /com.omniupdate.efp -->
+</div>
+			<hr />
+		</div>
+	  <!-- End Content Area -->
+
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div><!-- end pagewrapper -->
+
+<div class="clear"></div>
+
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+
+      <div class="prefooter">
+         <div class="column49">
+            <h3>General Campus Information</h3>
+            <address>
+            <span class="vcard">
+               <strong><span class="fn org">University of California, Riverside</span></strong><br />
+               <span class="adr">
+                  <span class="street-address">900 University Ave.</span><br />
+                  <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+               </span>
+               Tel: <span class="tel">(951) 827-1012</span><br /><br />
+            </span>
+            <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://library.ucr.edu/">UCR Libraries</a><br />
+            <a href="http://campusstatus.ucr.edu/">Campus Status</a> &bull; <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address>
+         </div>
+         <div class="column49">
+            <h3>Department Information</h3>
+            <address><strong>Department of Computer Science and Engineering</strong><br />
+<a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br /><br />
+Tel: (951) 827-5639<br />
+Fax: (951) 827-4643<br /></address>
+         </div>
+         <div class="column49R">
+            <h3>Related Links</h3>
+            <ul>
+<li><a href "http://www.ucr.edu">UC Riverside</a></li>
+<li><a href "http://www.engr.ucr.edu">Bourns College of Engineering</a></li>
+</ul>
+
+            
+         </div>
+         <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+
+      <div id="nav_footer">
+         <h3 class="accessibility">Campuswide Navigation</h3>
+	        <ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+      </div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a href= "http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01003&amp;site=cse&amp;path=%2Fdepartment%2Fnews%2Findex.html">Last modified: 2015-Sep-28</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>

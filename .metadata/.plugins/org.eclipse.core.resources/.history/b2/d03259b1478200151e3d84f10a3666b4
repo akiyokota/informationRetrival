@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+<head>
+<title>UCR Today:   New Paper-like Material Could Boost Electric Vehicle Batteries</title>
+<meta http-equiv="last-modified" content="2015-02-17" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta property="og:site_name" content="UCR Today" />
+<meta property="og:title" content="  New Paper-like Material Could Boost Electric Vehicle Batteries" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ucrtoday.ucr.edu/27263" />
+<meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2014/06/MG_2887-585x390.jpg" />
+<meta property="article:section" content="Science/Technology" />
+<meta name="description" content="February 17, 2015: Researchers create silicon nanofibers 100 times thinner than human hair for potential applications in batteries for electric cars and personal electronics." />
+<meta property="og:description" content="February 17, 2015: Researchers create silicon nanofibers 100 times thinner than human hair for potential applications in batteries for electric cars and personal electronics." />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/style.css" />
+<link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; Feed" href="http://ucrtoday.ucr.edu/feed" />
+
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','sean-nealon',3],['_setCustomVar',2,'tags','cengiz-ozkan hamed-hosseini-bay kazi-ahmed mihri-ozkan press',3],['_setCustomVar',3,'year','2015',3],['_setCustomVar',4,'categories','science-technology',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ucrtoday.ucr.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tn3-css'  href='http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://ucrtoday.ucr.edu/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/js/global.js?ver=1'></script>
+<link rel='prev' title='Improvement of Biology Instruction Forges Ahead With HHMI Financial Support' href='http://ucrtoday.ucr.edu/27269' />
+<link rel='next' title='The Envelope, Please!' href='http://ucrtoday.ucr.edu/27277' />
+<link rel='canonical' href='http://ucrtoday.ucr.edu/27263' />
+<link rel='shortlink' href='http://atu.cr/17flUa5' />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/print6.css" media="print" />
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie8.css" media="all" />
+<![endif]-->
+<!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie10.css" media="all" />
+<![endif]-->
+</head>
+<body class="single single-post postid-27263 single-format-standard singular">
+<div id="brandingbar_wrapper">
+	<div class="pagewrapper">
+    <ul id="accessibility_links">
+        <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li>
+        <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li>
+    </ul>
+    <hr />
+		<div id="brandingbar">
+			<h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1>
+
+			<div id="branding_overlay">
+				
+				<!-- Last Updated on Nov 3 2015, 7:58 am PST from Riverside / March Air Force Base, CA -->
+				<p id="l_weather" title="A Few Clouds, 53.0 °F (11.4 °C), winds East at 2.3 MPH (2 KT), 100% relative humidity."><img alt="A Few Clouds"src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/images/weather/few.png" height="64" width="100" /> <strong>53&deg;</strong> on campus</p>
+				<p>Follow Us:&nbsp;</p>
+				<ul class="social_links"><li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li><li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li><li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li><li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li></ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pagewrapper">
+	<div id="masthead">
+		<h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/images/design6/masthead_news.png" /><span class="accessibility">UCR Today</span></a></h1>
+
+		<div id="search">
+				<form method="get" id="searchform-x1446567811352291a5" action="http://ucrtoday.ucr.edu/">
+		<label for="s-x1446567811352291a5">Search:</label>
+		<input type="text" class="s field" name="s" id="s-x1446567811352291a5" />
+		<input type="submit" class="search submit" name="submit" value="Search" />
+	</form>
+		</div>
+	</div>
+
+	<ul id="cat_nav"><li><a href="/" id="cat_nav_first">Home</a></li><li><a href="/category/arts-culture">Arts/&#8203;Culture</a></li><li><a href="/category/politics-society">Politics/&#8203;Society</a></li><li><a href="/category/science-technology">Science/&#8203;Technology</a></li><li><a href="/category/business">Business</a></li><li><a href="/category/health" id="cat_nav_last">Health</a></li><li id="cat_nav_inside_ucr"><a href="/inside-ucr"><span class="accessibility">Inside UCR</span></a></li></ul>
+</div>
+<!-- Status: Normal -->
+<hr />
+<div class="pagewrapper">
+	<!-- Start Content -->
+	<div id="content">
+		<a name="main"></a>
+
+		<div class="column23">
+			<div class="boxed content" role="main">
+				
+			<h2>New Paper-like Material Could Boost Electric Vehicle Batteries</h2>
+					<p class="deck">Researchers create silicon nanofibers 100 times thinner than human hair for potential applications in batteries for electric cars and personal electronics</p>
+		<p class="byline">By <a href="http://ucrtoday.ucr.edu/author/snealon" title="View all posts by Sean Nealon" rel="author">Sean Nealon</a> on <em>February 17, 2015</em></p>			<div class="share">
+			<p>Share this article: </p>
+			<ul class="share_links">
+<li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20this%20article%20on%20UCR%20Today%3A%0A%0ANew%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries%0A%0AResearchers%20create%20silicon%20nanofibers%20100%20times%20thinner%20than%20human%20hair%20for%20potential%20applications%20in%20batteries%20for%20electric%20cars%20and%20personal%20electronics%0A%0Ahttp%3A%2F%2Fatu.cr%2F17flUa5&amp;subject=UCR%20Today%3A%20New%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries" title="E-mail this page to a friend" onclick="javascript:_gaq.push(['_trackEvent','Share','E-mail','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);"><img src="http://www.ucr.edu/images/icons/mail.png" height="16" width="16" alt="E-mail this page to a friend" /></a></li>
+<li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F17flUa5&amp;t=UCR%20Today%3A%20New%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries" title="Share this page on Facebook!" onclick="javascript:_gaq.push(['_trackEvent','Share','Facebook','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);" target="_blank"><img src="http://www.ucr.edu/images/icons/facebook.png" height="16" width="16" alt="Share this page on Facebook!" /></a></li>
+<li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fatu.cr%2F17flUa5&amp;title=UCR%20Today%3A%20New%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries" title="Publicly recommend on Google!" onclick="javascript:_gaq.push(['_trackEvent','Share','Google +1','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);" target="_blank"><img src="http://www.ucr.edu/images/icons/google-plus.png" height="16" width="16" alt="Publicly recommend on Google!" /></a></li>
+<li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F17flUa5&amp;title=UCR%20Today%3A%20New%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries" title="Add this page to LinkedIn!" onclick="javascript:_gaq.push(['_trackEvent','Share','LinkedIn','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);" target="_blank"><img src="http://www.ucr.edu/images/icons/linkedin.png" height="16" width="16" alt="Add this page to LinkedIn!" /></a></li>
+<li><a rel="nofollow" href="http://twitter.com/home?status=UCR%20Today%3A%20New%20Paper-like%20Material%20Could%20Boost%20Electric%20Vehicle%20Batteries%20http%3A%2F%2Fatu.cr%2F17flUa5%20%23UCRiverside" title="Share on Twitter!" onclick="javascript:_gaq.push(['_trackEvent','Share','Twitter','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);" target="_blank"><img src="http://www.ucr.edu/images/icons/twitter.png" height="16" width="16" alt="Share on Twitter!" /></a></li>
+<li><a rel="nofollow" href="javascript:window.print()" title="Print this page" onclick="javascript:_gaq.push(['_trackEvent','Share','Print','27263: New Paper-like Material Could Boost Electric Vehicle Batteries']);"><img src="http://www.ucr.edu/images/icons/printer.png" height="16" width="16" alt="Print this page" /></a></li>
+</ul>
+</div><div class="figure_main vert">
+<a href='http://ucrtoday.ucr.edu/23176/_mg_2887'><img width="374" height="249" src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/06/MG_2887-374x249.jpg" class="attachment-feature-vert" alt="Mihri and Cengiz Ozkan in their lab" /></a><p>Mihri and Cengiz Ozkan, both professors in the Bourns College of Engineering.</p>
+</div>
+<p>RIVERSIDE, Calif. (<a href="http://www.ucr.edu/" >www.ucr.edu</a>) — Researchers at the University of California, Riverside’s <a href="http://www.engr.ucr.edu/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.engr.ucr.edu/']);">Bourns College of Engineering</a> have developed a novel paper-like material for lithium-ion batteries. It has the potential to boost by several times the specific energy, or amount of energy that can be delivered per unit weight of the battery.</p>
+<p>This paper-like material is composed of sponge-like silicon nanofibers more than 100 times thinner than human hair. It could be used in batteries for electric vehicles and personal electronics.</p>
+<p>The findings were just published in a paper, “<a href="http://www.nature.com/srep/2015/150206/srep08246/full/srep08246.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.nature.com/srep/2015/150206/srep08246/full/srep08246.html']);">Towards Scalable Binderless Electrodes: Carbon Coated Silicon Nanofiber Paper via Mg Reduction of Electrospun SiO<sub>2</sub> Nanofibers</a>,” in the journal Nature Scientific Reports. The authors were <a href="http://www.ee.ucr.edu/~mihrilab/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.ee.ucr.edu/~mihrilab/']);">Mihri Ozkan</a>, a professor of electrical and computer engineering, <a href="http://www.engr.ucr.edu/~cengizlab/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.engr.ucr.edu/~cengizlab/']);">Cengiz S. Ozkan</a>, a professor of mechanical engineering, and six of their graduate students: Zach Favors, Hamed Hosseini Bay, Zafer Mutlu, Kazi Ahmed, Robert Ionescu and Rachel Ye.</p>
+<div id="attachment_27264" class="wp-caption alignright" style="width: 274px"><a href="http://ucrtoday.ucr.edu/27263/srep2"  rel="attachment wp-att-27264"><img class="wp-image-27264 size-medium" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/srep2-274x356.jpg" alt="Microscopic images of silicon nanofibers" width="274" height="356" /></a><p class="wp-caption-text">Scanning electron microscope images of (a) SiO2 nanofibers after drying, (b) SiO2 nanofibers under high magnification (c) silicon nanofibers after etching, and (d) silicon nanofibers under high magnification.</p></div>
+<p>The nanofibers were produced using a technique known as electrospinning, whereby 20,000 to 40,000 volts are applied between a rotating drum and a nozzle, which emits a solution composed mainly of tetraethyl orthosilicate (TEOS), a chemical compound frequently used in the semiconductor industry. The nanofibers are then exposed to magnesium vapor to produce the sponge-like silicon fiber structure.</p>
+<p>Conventionally produced lithium-ion battery anodes are made using copper foil coated with a mixture of graphite, a conductive additive, and a polymer binder. But, because the performance of graphite has been nearly tapped out, researchers are experimenting with other materials, such as silicon, which has a specific capacity, or electrical charge per unit weight of the battery, nearly 10 times higher than graphite.</p>
+<p>The problem with silicon is that is suffers from significant volume expansion, which can quickly degrade the battery. The silicon nanofiber structure created in the Ozkan’s labs circumvents this issue and allows the battery to be cycled hundreds of times without significant degradation.</p>
+<p>“Eliminating the need for metal current collectors and inactive polymer binders while switching to an energy dense material such as silicon will significantly boost the range capabilities of electric vehicles,” Favors said.</p>
+<div id="attachment_27266" class="wp-caption alignright" style="width: 356px"><a href="http://ucrtoday.ucr.edu/27263/srep08246-f1"  rel="attachment wp-att-27266"><img class="size-medium wp-image-27266" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/srep08246-f1-356x153.jpg" alt="silicon nanofiber images" width="356" height="153" /></a><p class="wp-caption-text">(a) Schematic representation of the electrospinning process and subsequent reduction process. Digital photographs of (b) as-spun SiO2 nanofibers paper, (c) etched silicon nanofiber paper, and (d) carbon-coated silicon nanofiber paper as used in the lithium-ion half-cell configuration.</p></div>
+<p>This technology also solves a problem that has plagued free-standing, or binderless, electrodes for years: scalability. Free-standing materials grown using chemical vapor deposition, such as carbon nanotubes or silicon nanowires, can only be produced in very small quantities (micrograms). However, Favors was able to produce several grams of silicon nanofibers at a time even at the lab scale.</p>
+<p>The researchers’ future work involves implementing the silicon nanofibers into a pouch cell format lithium-ion battery, which is a larger scale battery format that can be used in EVs and portable electronics.</p>
+<p>The research is supported by Temiz Energy Technologies. The UC Riverside Office of Technology Commercialization has filed patents for inventions reported in the research paper.</p>
+
+		<div class="clear"></div>
+
+		
+		<div class="contact_box"><div class="cb_wrapper">
+			<div class="left">
+				<h3>Media Contact</h3>
+				<p><strong><a href="http://ucrtoday.ucr.edu/author/snealon" rel="author">Sean Nealon</a></strong><br />
+				Tel: (951) 827-1287<br />
+				E-mail: <a href="mailto:sean.nealon@ucr.edu">sean.nealon@ucr.edu</a>
+<br />Twitter: <a href="http://twitter.com/#!/seannealon">seannealon</a>				</p>
+									<h3>Additional Contacts</h3>
+											<p><strong>Cengiz Ozkan</strong>
+													<br />Tel: 951-827-5016													<br />E-mail: <a href="mailto:cozkan@engr.ucr.edu">cozkan@engr.ucr.edu</a>
+												<p><strong>Mihri Ozkan</strong>
+													<br />Tel: 951-827-2900													<br />E-mail: <a href="mailto:mihri@ece.ucr.edu">mihri@ece.ucr.edu</a>
+											</p>
+							</div>
+
+			<div class="right">
+							</div>
+			<div class="clear"></div>
+		</div></div>
+
+		<p class="archived"><em>Archived under:</em> <a href="http://ucrtoday.ucr.edu/category/science-technology" rel="category tag">Science/Technology</a>, <a href="http://ucrtoday.ucr.edu/tag/cengiz-ozkan" rel="tag">Cengiz Ozkan</a>, <a href="http://ucrtoday.ucr.edu/tag/hamed-hosseini-bay" rel="tag">Hamed Hosseini Bay</a>, <a href="http://ucrtoday.ucr.edu/tag/kazi-ahmed" rel="tag">Kazi Ahmed</a>, <a href="http://ucrtoday.ucr.edu/tag/mihri-ozkan" rel="tag">Mihri Ozkan</a>, <a href="http://ucrtoday.ucr.edu/tag/press-release" rel="tag">press release</a>, <a href="http://ucrtoday.ucr.edu/tag/rachel-ye" rel="tag">Rachel Ye</a>, <a href="http://ucrtoday.ucr.edu/tag/robert-ionescu" rel="tag">Robert Ionescu</a>, <a href="http://ucrtoday.ucr.edu/tag/zachary-favors" rel="tag">Zachary Favors</a>, <a href="http://ucrtoday.ucr.edu/tag/zafer-mutlu" rel="tag">Zafer Mutlu</a></p>
+		<p class="top_page"><a href="#main">Top of Page</a></p>
+
+					</div>
+
+			
+		</div>
+
+		<div class="column3R">
+			<div id="yarpp_widget-2" class="boxed widget widget_yarpp_widget"><div class='yarpp-related-widget'>
+<h3>Related News</h3>
+<ol>
+			<li><a href="http://ucrtoday.ucr.edu/27531" rel="bookmark" title="Glass Coating Improves Battery Performance">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/06/MG_2887-e1424457670610-130x78.jpg" alt="Mihri and Cengiz Ozkan in their lab" class="landscape thumbnail" width="130" height="78" itemprop="image" />Glass Coating Improves Battery Performance<br /><strong>[Mar 2, 2015]</strong></a></li>
+			<li><a href="http://ucrtoday.ucr.edu/23646" rel="bookmark" title="Using Sand to Improve Battery Performance">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/07/027-130x78.jpg" alt="Battery sitting next to a pile of sand." class="landscape thumbnail" width="130" height="78" itemprop="image" />Using Sand to Improve Battery Performance<br /><strong>[Jul 8, 2014]</strong></a></li>
+			<li><a href="http://ucrtoday.ucr.edu/23176" rel="bookmark" title="Charging Portable Electronics in 10 Minutes">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/06/MG_2887-e1424457670610-130x78.jpg" alt="Mihri and Cengiz Ozkan in their lab" class="landscape thumbnail" width="130" height="78" itemprop="image" />Charging Portable Electronics in 10 Minutes<br /><strong>[Jun 10, 2014]</strong></a></li>
+			<li><a href="http://ucrtoday.ucr.edu/22587" rel="bookmark" title="Improved Supercapacitors for Super Batteries, Electric Vehicles">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/05/051-130x78.jpg" alt="From left, Mihrimah Ozkan, Cengiz Ozkan and Zachary Favors in the Ozkan&#039;s lab." class="landscape thumbnail" width="130" height="78" itemprop="image" />Improved Supercapacitors for Super Batteries, Electric Vehicles<br /><strong>[May 16, 2014]</strong></a></li>
+			<li><a href="http://ucrtoday.ucr.edu/22558" rel="bookmark" title="Silly Putty Material Inspires Better Batteries">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/05/044-130x78.jpg" alt="Researchers stand in lab." class="landscape thumbnail" width="130" height="78" itemprop="image" />Silly Putty Material Inspires Better Batteries<br /><strong>[May 15, 2014]</strong></a></li>
+	</ol>
+</div>
+</div>
+<div id="popular-widget-3" class="boxed widget popular-widget">
+	<ul id="pop_widget_tabs_3" class="pop_widget_tabs"><li><a href="#latest" rel="nofollow">Latest</a></li><li><a href="#viewed" rel="nofollow"><span>Most</span> Viewed</a></li></ul>
+	<div class="pop_inside_3 pop_inside">
+		<ul id="pop_widget_latest_3" class="pop_widget_links"><li><a href="http://ucrtoday.ucr.edu/32970">Oil-Based Pesticides Most Effective at Killing Contents of Brown Widow Spider Egg Sacs <strong>[Nov&nbsp;3,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32775">Regular Free Health Clinic to Launch in San Bernardino on Nov. 7 <strong>[Nov&nbsp;2,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32904">Doctoral Students Create Salton Sea Blog <strong>[Nov&nbsp;2,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32897">Students Create Green Storm Drain Filter <strong>[Nov&nbsp;2,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32863">UCR Enrollment is Now 21,539 <strong>[Nov&nbsp;1,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32881">UCR's 2015 Homecoming a Family Affair for Three Generations of Highlanders <strong>[Oct&nbsp;30,&nbsp;2015]</strong></a><div class="clear"></div></li>
+</ul>
+		<ul id="pop_widget_viewed_3" class="pop_widget_links"><li><a href="http://ucrtoday.ucr.edu/32823">Study Spells Out Why Some Insects Kill Their Mothers <strong>[Oct&nbsp;29,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32330">Cleaning Water One Stroke at a Time <strong>[Oct&nbsp;12,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32126">Panel to Discuss Californians’ Views of Climate Change <strong>[Oct&nbsp;6,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/31865">New Faculty at the School of Medicine <strong>[Oct&nbsp;6,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32320">Think Twice about Android Root <strong>[Oct&nbsp;12,&nbsp;2015]</strong></a><div class="clear"></div></li>
+<li><a href="http://ucrtoday.ucr.edu/32117">Who’s the Coolest of Them All? <strong>[Oct&nbsp;6,&nbsp;2015]</strong></a><div class="clear"></div></li>
+</ul>
+		<div class="clear"></div>
+</div>
+</div>
+<div id="text-8" class="boxed widget widget_text">			<div class="textwidget"><h3 id="ttl_email">E-Mail Subscription</h3>
+<p><strong>Don't miss the news!</strong> Receive an e-mail once a day with every new story straight to your inbox.</p><form class="form" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=UCRToday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<label for="fb_email">Enter your e-mail address:</label>
+<input type="text" style="width:170px" id="fb_email" name="email"/>
+<input type="hidden" value="UCRToday" name="uri"/><input type="hidden" name="loc" value="en_US"/>
+<input type="submit" value="Subscribe" />
+<p class="credit">Delivered by <a href="http://feedburner.google.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://feedburner.google.com']);" target="_blank">FeedBurner</a></p>
+</form></div>
+		</div><div id="text-3" class="boxed widget widget_text">			<div class="textwidget"><div class="shaded">
+<h3><img src="/wp-content/uploads/2012/08/ttl_expertsondemand.png" alt="" height="17" width="242" /><span class="accessibility">Experts on Demand</span></h3>
+<p class="kicker">UC Riverside has dozens of experts in virtually every field you can imagine.</p>
+<p>
+Whether it's the latest fad in Hollywood, the latest must-have gadget or the latest row in Washington, UCR has a vast pool of staff and faculty who can present a unique view right now.
+</p>
+<p>
+These interactions can take place in person, electronically, through a campus ISDN line, or even via video through our Digital Production Studio, which can put a UCR expert on the air anywhere in the world through AT&T's regional fiber network hub.
+</p>
+<p>
+UCR is ready to help you find the expertise you need to get the story. 
+</p>
+<p>
+<a class="final_link" href="http://mediasources.ucr.edu/" >Check out our Experts on Demand</a>
+</p>
+</div></div>
+		</div><div id="text-11" class="boxed widget widget_text">			<div class="textwidget"><div id="rss_sidebar" class="shaded">
+<h3>RSS Feeds</h3>
+<p><img class="size-full alignright wp-image-1067" title="Big RSS Icon" src="../wp-content/uploads/2012/01/icon_rss_big.png" alt="Standard white on orange RSS icon." width="49" height="49" />Subscribe to any of our RSS feeds.</p>
+<p><a class="final_link" href="../available-feeds">Available RSS feeds</a></p>
+</div></div>
+		</div>		</div>
+		<div class="clear"></div>
+	
+
+	</div><!-- #content -->
+</div><!-- #pagewrapper -->
+
+<div class="btf_wrapper">
+	<div class="pagewrapper">
+		<div id="btf">
+			<h2 id="btf_title"><span class="accessibility">Below the Fold</span><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/images/ttl_below_the_fold.png" height="16" width="222" /></h2>
+			<div class="column23">
+				<div id="widget_ucrnewsroom_faculty_profile-47" class="widget widget_faculty_profile"><h3>Faculty Profile | <strong>Science/Technology</strong></h3>
+		<div class="figure_fac_profile">
+		<img src="http://ucrtoday.ucr.edu/wp-content/uploads/2014/11/profile-Charles-Wyman-banner.jpg" alt="Charles Wyman" />
+		<p><a href="http://promise.ucr.edu/profile-sustainability-wyman.html" onclick="javascript:_gaq.push(['_trackEvent','outbound-profile','Charles Wyman']);"><strong>Charles Wyman</strong><br />Professor of Chemical & Environmental Engineering</a></p>
+		</div>
+
+		</div><div id="widget_ucrnewsroom_happenings-3" class="widget widget_happenings"><h3>Events and Happenings</h3>			<p class="archive_link"><a href="http://www.ucr.edu/happenings/" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','All Events &amp; Happenings']);">All Events &amp; Happenings</a></p>
+			<ul>
+				<li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=43307:20151105190000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','TANGERINE Film Screening & Q&A with Kitana Kiki Rodriguez & Sean Baker']);">
+					<img src="http://www.ucr.edu/images/happening/2912.jpg" width="124" height="57" alt="" />
+					<strong>TANGERINE Film Screening & Q&A with Kitana Kiki Rodriguez & Sean Baker</strong>
+					<span class="date">Thursday, November 5<br>7–9 p.m.</span>
+					<span class="location">Presented by UCR ARTSblock & UCR LGBT Resource Center. </span>
+					</a></li>
+				<li><a href="http://events.ucr.edu/cgi-bin/display.cgi?comp_id=43518:20151105183000" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Arts & Letters Lecture Series: Jillian Lauren']);">
+					<img src="http://www.ucr.edu/images/happening/2964.jpg" width="124" height="57" alt="" />
+					<strong>Arts & Letters Lecture Series: Jillian Lauren</strong>
+					<span class="date">Thursday, November 5<br>6:30–8 p.m.</span>
+					<span class="location">UCR Palm Desert Campus</span>
+					</a></li>
+				<li><a href="http://gohighlanders.com/news/2015/11/1/WSOC_1101155143.aspx" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Big West Semifinals: UCR Women’s Soccer v. Long Beach State ']);">
+					<img src="http://www.ucr.edu/images/happening/2976.jpg" width="124" height="57" alt="" />
+					<strong>Big West Semifinals: UCR Women’s Soccer v. Long Beach State </strong>
+					<span class="date">Thursday, November 5<br>5 p.m. </span>
+					<span class="location">At CSULB </span>
+					</a></li>
+				<li><a href="https://artplantae.files.wordpress.com/2015/09/fall-garden-workshop-ver2-double-sided.pdf" onclick="javascript:_gaq.push(['_trackEvent','outbound-happening','Fall Garden Workshops: Dry Land Gardening ']);">
+					<img src="http://www.ucr.edu/images/happening/2972.jpg" width="124" height="57" alt="" />
+					<strong>Fall Garden Workshops: Dry Land Gardening </strong>
+					<span class="date">Sunday, November 8<br>3:30 p.m. </span>
+					<span class="location">Community Garden (Lot 30)</span>
+					</a></li>
+
+			</ul>
+			</div>			</div>
+
+			<div class="column3R">
+				<div id="widget_ucrnewsroom_related_links-2" class="widget widget_links"><h3>Related Sites</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ucop.edu/sciencetoday/" title="external site: UCOP Science Today" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.ucop.edu/sciencetoday/']);">Science Today</a></li>
+<li><a href="http://espanol.ucanr.org/" title="external site: UC Ag and Natural Resources news (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://espanol.ucanr.org/']);">Servicio de Información en Español</a></li>
+<li><a href="http://news.ucanr.org/" title="external site: UC Ag and Natural Resources news" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://news.ucanr.org/']);">UC Agricultural and Natural Resources news</a></li>
+<li><a href="http://www.universityofcalifornia.edu/news/spanish/" title="external site: UC Newsroom (in Spanish)" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/spanish/']);">UC en Español</a></li>
+<li><a href="http://www.universityofcalifornia.edu/news/" title="external site: UC Newsroom" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://www.universityofcalifornia.edu/news/']);">UC Newsroom</a></li>
+
+	</ul>
+
+</div><div id="rss-6" class="widget widget_rss"><h3><a class='rsswidget' href='http://meltwaternews.com/magenta/xml/html/10/31/rss/v2_460435_hitsentence.rss.XML'><img style='border:0' width='14' height='14' src='http://ucrtoday.ucr.edu/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://meltwaternews.com/'>UCR in the News</a></h3><ul><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5896395&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=UCR+Finds+Sugar+Not+As+Bad+As+We+Think+For+Obesity+&#038;cdt=1438636680000&#038;sn=KVCR&#038;cc=United+States&#038;surl=http%3A%2F%2Fkvcrnews.org&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fkvcrnews.org%2Fpost%2Fucr-finds-sugar-not-bad-we-think-obesity'>UCR Finds Sugar Not As Bad As We Think For Obesity</a> <span class="rss-date">August 3, 2015</span></li><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5896577&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=Carlos+Ch%C3%A1vez%2C+Mexican+Modernist&#038;cdt=1438636680000&#038;sn=The+New+York+Times&#038;cc=United+States&#038;surl=http%3A%2F%2Fwww.nytimes.com&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fwww.nytimes.com%2F2015%2F08%2F02%2Farts%2Fmusic%2Fcarlos-chavez-mexican-modernist.html%3Fref%3Dmusic%26_r%3D0'>Carlos Chávez, Mexican Modernist</a> <span class="rss-date">August 3, 2015</span></li><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5895577&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=New+Invasive+Beetle-fungus+Complex+Found+in+Riverside+and+San+Diego+Counties&#038;cdt=1438627380000&#038;sn=KPCC&#038;cc=United+States&#038;surl=http%3A%2F%2Fbeta.criticalmention.com&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fbeta.criticalmention.com%2F%23%2Fplayer%2FshareId%3D289126%26partnerToken%3D027ffe24-6562-47f4-8bca-4ad14f3719da%26clientId%3DNone'>New Invasive Beetle-fungus Complex Found in Riverside and San Diego Counties</a> <span class="rss-date">August 3, 2015</span></li><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5895359&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=An+Economic+Recovery%2C+Brimming+With+Industrial+Complexes%2C+in+Southern+California&#038;cdt=1438624200000&#038;sn=The+New+York+Times&#038;cc=United+States&#038;surl=http%3A%2F%2Fwww.nytimes.com&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fwww.nytimes.com%2F2015%2F08%2F05%2Frealestate%2Fcommercial%2Fan-economic-recovery-brimming-with-industrial-complexes-in-southern-california.html'>An Economic Recovery, Brimming With Industrial Complexes, in Southern California</a> <span class="rss-date">August 3, 2015</span></li><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5888951&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=Some+college+students+on+financial+aid+don%27t+get+it+in+time+to+pay+fees+&#038;cdt=1438538340000&#038;sn=The+Los+Angeles+Times&#038;cc=United+States&#038;surl=http%3A%2F%2Fwww.latimes.com&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fwww.latimes.com%2Flocal%2Feducation%2Fla-me-college-aid-20150803-story.html%23page%3D1'>Some college students on financial aid don&#039;t get it in time to pay fees</a> <span class="rss-date">August 2, 2015</span></li><li><a class='rsswidget' href='http://service.meltwaternews.com/mnews/redirect.html?docId=5888401&#038;userId=374422&#038;cId=103137&#038;agentId=529135&#038;type=3&#038;etype=USER_CREATED&#038;t=Will+California%E2%80%99s+Drought+End+the+Joshua+Tree%3F&#038;cdt=1438536180000&#038;sn=Outside+Online&#038;cc=United+States&#038;surl=http%3A%2F%2Fwww.outsideonline.com&#038;an=Clicked+from+Archive%2C+Newsfeed%2C+or+Newsletter&#038;ue=kris.lovekin@ucr.edu&#038;url=http%3A%2F%2Fwww.outsideonline.com%2F2001361%2Fwill-californias-drought-end-joshua-tree'>Will California’s Drought End the Joshua Tree?</a> <span class="rss-date">August 2, 2015</span></li></ul></div>			</div>
+
+
+
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div class="pagewrapper">
+	<h3 class="accessibility">Footer</h3>
+	<div id="colophon">
+The University of California, Riverside (<a href="http://www.ucr.edu/">www.ucr.edu</a>) is a doctoral research university, a living laboratory for groundbreaking exploration of issues critical to Inland Southern California, the state and communities around the world. Reflecting California's diverse culture, UCR's enrollment has exceeded 21,000 students. The campus opened a medical school in 2013 and has reached the heart of the Coachella Valley by way of the UCR Palm Desert Center. The campus has an annual statewide economic impact of more than $1 billion.
+
+A broadcast studio with fiber cable to the AT&amp;T Hollywood hub is available for live or taped interviews. UCR also has ISDN for radio interviews. To learn more, call (951) UCR-NEWS.	</div>
+	<div id="footer">
+		<ul>
+			<li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li>
+			<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+			<li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li>
+			<li>&copy; 2015 Regents of the University of California</li>
+			<li>Last modified: 2015-Feb-17</li>
+		</ul>
+	</div>
+</div>
+
+<link rel='stylesheet' id='yarppRelatedCss-css'  href='http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-content/plugins/popular-widget2/_js/pop-widget.js?ver=1.1.0-rab8'></script>
+
+</body>
+</html>

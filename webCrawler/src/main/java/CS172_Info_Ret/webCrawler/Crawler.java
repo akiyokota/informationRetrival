@@ -84,7 +84,11 @@ public class Crawler {
 		List <NormalizedUrl> NormalizedList = new LinkedList<NormalizedUrl> ();
 		try {
 			List<String> urlList = new LinkedList<String> ();
-			Document doc = Jsoup.connect(url).get();
+			Document doc;
+			Jsoup.connect(url).timeout(5000);
+			doc = Jsoup.connect(url).ignoreContentType(true).get();
+			if(doc==null) 
+				return null;
 			urlList = new ParseHTML().parseHTML(doc);
 			
 			for (String u : urlList) {
@@ -258,8 +262,16 @@ public class Crawler {
 	 * return false if it didn't
 	 */
 	public boolean isDup(String url) {
+		String tempurl = url;
+		if(tempurl.endsWith("/")) {
+			tempurl = tempurl.substring(0, tempurl.length()-1);
+		}
 		for (String s : history) {
-			if (s.equals(url)) 
+			String temps = s;
+			if(temps.endsWith("/")) {
+				temps = temps.substring(0, temps.length()-1);
+			}
+			if (temps.equals(tempurl)) 
 				return true;
 		}
 		return false;
@@ -420,6 +432,13 @@ public class Crawler {
 	}
 	
 	/**
+	 * This method prints the url current crawling and the depth of the page
+	 */
+	private void printAction(Pair urlPair) {
+		System.out.println("URL: " + urlPair.getURL() + "\tDepth: " + urlPair.getDepth());
+	}
+	
+	/**
 	 * This is the main crawling method
 	 */
 	public void crawl(Integer numHops, Integer numPages, String filePathStore, String filePathSeeds) {
@@ -438,6 +457,10 @@ public class Crawler {
 					continue;
 				//put this in history to prevent from crawling again
 				recordHistory(urlPair.getURL());
+				
+				//report current action
+				printAction(urlPair);
+				
 				//download page ---> storage
 				String htmlFile = filePathStore + history.size() +".html";
 				utility.writeFile(htmlFile, fetchPageToMemory(urlPair.getURL()));
@@ -450,13 +473,15 @@ public class Crawler {
 				}
 				//extract link
 				List<NormalizedUrl> nUrlList = removeDups(urlExtraction(urlPair.getURL()));
+				if(nUrlList==null) 
+					continue;
 				//valid url -> queue
 				if(robots!=null)
 					enqueueUrls(nUrlList, robots, urlPair);
 				else {
 					for(NormalizedUrl n : nUrlList) {
 						if(nUrl.getProtocol().equals("http")) {
-							urlQueue.add(new Pair(n.generateCleanUrl(), urlPair.getDepth()));
+							urlQueue.add(new Pair(n.generateCleanUrl(), urlPair.getDepth()+1));
 						}
 					}
 				}

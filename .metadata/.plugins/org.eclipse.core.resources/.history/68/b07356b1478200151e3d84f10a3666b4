@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US">
+<head>
+<title>UCR Today:   Researchers Show How Brain’s Wiring Leads to Cognitive Control</title>
+<meta http-equiv="last-modified" content="2015-10-01" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta property="og:site_name" content="UCR Today" />
+<meta property="og:title" content="  Researchers Show How Brain’s Wiring Leads to Cognitive Control" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ucrtoday.ucr.edu/31801" />
+<meta property="og:image" content="http://ucrtoday.ucr.edu/wp-content/uploads/2015/09/Brain-nodes-vertical-469x585.jpeg" />
+<meta property="article:section" content="Science/Technology" />
+<meta name="description" content="October 1, 2015: Researchers convert brain scans into “wiring diagrams” of connections between brain regions to show which parts exert most “cognitive control” over thoughts and actions." />
+<meta property="og:description" content="October 1, 2015: Researchers convert brain scans into “wiring diagrams” of connections between brain regions to show which parts exert most “cognitive control” over thoughts and actions." />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/style.css" />
+<link rel="pingback" href="http://ucrtoday.ucr.edu/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="UCR Today &raquo; Feed" href="http://ucrtoday.ucr.edu/feed" />
+
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','sean-nealon',3],['_setCustomVar',2,'tags','bourns-college-of-engineering fabio-pasqualetti press-releas',3],['_setCustomVar',3,'year','2015',3],['_setCustomVar',4,'categories','science-technology',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/ucrtoday.ucr.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://ucrtoday.ucr.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tn3-css'  href='http://www.ucr.edu/js/jlib/skins/tn3/tn3.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://ucrtoday.ucr.edu/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/js/global.js?ver=1'></script>
+<link rel='prev' title='China Worries, Financial Market Drama Not Hindering Economic Outlook' href='http://ucrtoday.ucr.edu/31752' />
+<link rel='next' title='Liftoff for Alternative Futurisms' href='http://ucrtoday.ucr.edu/31901' />
+<link rel='canonical' href='http://ucrtoday.ucr.edu/31801' />
+<link rel='shortlink' href='http://atu.cr/1M46cvD' />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/print6.css" media="print" />
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/min/f=fixiequotes.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie8.css" media="all" />
+<![endif]-->
+<!--[if lte IE 10]>
+<link rel="stylesheet" type="text/css" href="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/ie10.css" media="all" />
+<![endif]-->
+</head>
+<body class="single single-post postid-31801 single-format-standard singular">
+<div id="brandingbar_wrapper">
+	<div class="pagewrapper">
+    <ul id="accessibility_links">
+        <li class="skip"><a tabindex="1" href="#main" accesskey="2" title="Skip Navigation">Skip Navigation</a></li>
+        <li class="skip"><a tabindex="2" href="http://ucrtoday.ucr.edu/" accesskey="1" rel="home" title="Home Page">Home Page</a></li>
+    </ul>
+    <hr />
+		<div id="brandingbar">
+			<h1><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_name_gray.png" width="216" height="45" alt="" /><span class="accessibility">University of California, Riverside</span></a></h1>
+
+			<div id="branding_overlay">
+				
+				<!-- Last Updated on Nov 3 2015, 7:58 am PST from Riverside / March Air Force Base, CA -->
+				<p id="l_weather" title="A Few Clouds, 53.0 °F (11.4 °C), winds East at 2.3 MPH (2 KT), 100% relative humidity."><img alt="A Few Clouds"src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/images/weather/few.png" height="64" width="100" /> <strong>53&deg;</strong> on campus</p>
+				<p>Follow Us:&nbsp;</p>
+				<ul class="social_links"><li><a id="footer_link_facebook" href="http://www.facebook.com/UCRiverside" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li><li><a id="footer_link_twitter" href="http://twitter.com/UCRiverside" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li><li><a id="footer_link_youtube" href="http://www.youtube.com/UCRiverside" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li><li><a id="footer_link_rss" href="/feed" title="Subscribe to UCR Today via RSS"><span class="accessibility">Subscribe to UCR Today via RSS</span></a></li></ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="pagewrapper">
+	<div id="masthead">
+		<h1><a href="http://ucrtoday.ucr.edu/"><img alt="" src="http://ucrtoday.ucr.edu/wp-content/themes/ucr-newsroom.1.28/images/design6/masthead_news.png" /><span class="accessibility">UCR Today</span></a></h1>
+
+		<div id="search">
+				<form method="get" id="searchform-x1446567777e65030" action="http://ucrtoday.ucr.edu/">
+		<label for="s-x1446567777e65030">Search:</label>
+		<input type="text" class="s field" name="s" id="s-x1446567777e65030" />
+		<input type="submit" class="search submit" name="submit" value="Search" />
+	</form>

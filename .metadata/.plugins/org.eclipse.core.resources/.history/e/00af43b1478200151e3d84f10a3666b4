@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link rel="shortcut icon" href="http://universityofcalifornia.edu/sites/all/themes/university-of-california/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<link rel="shortlink" href="http://universityofcalifornia.edu/node/5569" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="University of California" />
+<meta property="og:title" content="UC researchers present 10 scalable solutions for climate change" />
+<meta property="og:url" content="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<meta property="og:description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta property="og:updated_time" content="2015-10-28T14:56:50-07:00" />
+<meta property="og:image" content="http://universityofcalifornia.edu/sites/default/files/bending_curve_ram_686.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@UC_Newsroom" />
+<meta name="twitter:url" content="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<meta name="twitter:title" content="UC researchers present 10 scalable solutions for climate change" />
+<meta name="twitter:description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta name="twitter:image:src" content="http://universityofcalifornia.edu/sites/default/files/bending_curve_ram_686.jpg" />
+<meta property="article:published_time" content="2015-10-27T12:46:49-07:00" />
+<meta property="article:modified_time" content="2015-10-28T14:56:50-07:00" />
+
+	<title>UC researchers present 10 scalable solutions for climate change | University of California</title>
+
+	<meta name="MobileOptimized" content="width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="image_src" href="/sites/all/themes/university-of-california/assets/images/ucal-fb-image.jpg" />
+	<meta http-equiv="cleartype" content="on">
+	<meta name="google-site-verification" content="6a2ovdOyVm5F5jMt0tqOY23PzR_tWZMUHRxIYWM6Wbc" />
+
+	<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_l-dpDwzUQSxvuZnUP-GBXp7UYHCPehpq3von_WJS8Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_NPMXeI-jHvcYcSWeYa7A7qob1PXp-UOwATosrZ0kYYI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+
+	<!--[if lte IE 9]>
+	<script src="/sites/all/themes/zen/js/html5.js"></script>
+	<script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+	<link type="text/css" rel="stylesheet" href="/sites/all/themes/university-of-california/assets/css/release/styles-ie9.min.css" media="all">
+	<link type="text/css" rel="stylesheet" href="/sites/all/themes/university-of-california/assets/css/release/styles-ie8.min.css" media="all">
+	<![endif]-->
+
+	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5569 node-type-news-story news news-detail section-news no-js" >
+	<script type="text/javascript">
+		var body = document.getElementsByTagName('body')[0];
+		body.className = body.className.replace( 'no-js', '' );
+	</script>
+
+	<!--[if lt IE 8]>
+				<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+	<![endif]-->
+
+	
+	<a href="#main" class="skiplink" tabindex="1">Skip to Main Content</a>
+<!-- Beginning of Page -->
+<div class="page">
+
+	<!-- Lightbox -->
+	<div class="lightbox">
+		<div class="lightbox-background"></div>
+
+		<div class="lightbox-content-container">
+			<div class="sprites-lightbox-close lightbox-close pointer">&times;</div>
+			<div class="lightbox-content">
+				<header></header>
+				<section class="content">
+					
+					<!-- Content populated dynamically -->
+
+				</section>
+				<footer></footer>
+			</div>
+		</div>
+	</div>
+	<!-- End Lightbox -->
+
+	<!-- Header -->
+	<header class="header main container" role="banner">
+				<div class="logo"><a href="/" rel="home"><img src="/sites/all/themes/university-of-california/assets/images/sprites/logo.png"  alt="University of California"></a></div>
+
+		<ul class="mobile-nav-controls pointer">
+			<li class="mobile-menu"></li>
+			<li class="mobile-search"></li>
+		</ul>
+
+		<div class="nav-container">
+
+			
+				<div class="top-nav" role="complementary">
+					  <div class="region region-top-navigation">
+    <div id="block-menu-menu-top-menu" class="block block-menu top-menu-container first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://admission.universityofcalifornia.edu/" class="menu__link">Admissions</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://jobs.universityofcalifornia.edu/" class="menu__link">Jobs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/uc-system/contact-us" class="menu__link">Contact</a></li>
+</ul>
+	</div>
+
+</div>
+<div id="block-menu-menu-social" class="block block-menu social-menu-container last even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://www.facebook.com/universityofcalifornia" class="menu__link">Facebook</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://twitter.com/UC_Newsroom" class="menu__link">Twitter</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://ucresearch.tumblr.com" class="menu__link">Tumblr</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+				</div>
+				
+
+			
+			
+				<nav class="main-nav" role="navigation">
+					  <div class="region region-main-navigation">
+    <div id="block-menu-block-1" class="block block-menu-block first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-active-trail is-expanded first expanded active-trail menu-mlid-465"><a href="/news" class="menu__link is-active-trail active-trail">News</a><ul class="menu"><li class="menu__item is-active-trail is-expanded first expanded active-trail menu-mlid-468"><a href="/news" class="menu__link is-active-trail active-trail">All News</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-469"><a href="/news/research" class="menu__link">Research</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-470"><a href="/news/health" class="menu__link">Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-471"><a href="/news/arts-and-humanities" class="menu__link">Arts &amp; Humanities</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-472"><a href="/news/students-and-alumni" class="menu__link">Students &amp; Alumni</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-473"><a href="/news/faculty-and-staff" class="menu__link">Faculty &amp; Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-474"><a href="/news/administration" class="menu__link">Administration</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2464"><a href="http://universityofcalifornia.edu/global-food-initiative" class="menu__link">Global Food Initiative</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-475"><a href="/videos" class="menu__link">Video</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-476"><a href="/in-the-news" class="menu__link">In the News</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-477"><a href="/press-room" class="menu__link">Press Room</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-1289"><a href="/press-room/contacts" class="menu__link">Media contacts</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-547"><a href="/%23" title="Right Content" class="menu__link">Right Content</a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="views|0d9428dc19f1f04c041041732d1aff01" id="#-drop-link-547">More</a><div class="menu-attach-block-wrapper orientation-vertical">
+	<div id="block-views-0d9428dc19f1f04c041041732d1aff01" class="block block-views first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<div class="view view-meganav-right-column view-id-meganav_right_column view-display-id-meganav_right_news view-dom-id-b8bfdfd3da1cadd11910df7215113100">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<div class="meganav-right-content views-view-fields">
+
+	<a href="/news/5393/southland-wildfires-two-types-both-raging">
+		<img typeof="foaf:Image" src="http://universityofcalifornia.edu/sites/default/files/Sequoia-Natl-Forest-fire_686.jpg" width="686" height="487" alt="Wildfire in Sequoia National Forest" />	</a>
+
+	<p class="entry-title">
+		<a href="/news/5393/southland-wildfires-two-types-both-raging">
+			Southland wildfires: two types, both raging		</a>
+	</p>
+
+	<div class="entry-body"><p>Santa Ana-fanned fires in autumn spread much faster than conflagrations in the dry summer months, but both will wreak more damage in the coming decades.</p>
+</div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+	</div>
+
+</div>
+</div>
+</li>
+<li class="menu__item is-leaf last leaf menu-mlid-549"><a href="/%23" title="Lower Content" class="menu__link">Lower Content</a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="views|tweets-block" id="#-drop-link-0">More</a><div class="menu-attach-block-wrapper orientation-horizontal">
+	<div id="block-views-tweets-block" class="block block-views even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<div class="view view-tweets view-id-tweets view-display-id-block view-dom-id-a2ee4c75fd3ec210c7de8a74bc9dc6c0">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="twitter-feed views-view-fields">
+
+	<hr />
+	
+	<header>
+		<p><a href="https://twitter.com/UC_Newsroom" target="_self">@UC_Newsroom</a></p>
+	</header>
+
+	<div class="tweet-text">
+		<span class="field-content">West Nile virus killing millions more birds than previously thought. <a target="_blank" rel="nofollow" href="http://twitter.com/UCLA">@UCLA</a> <a target="_blank" rel="nofollow" href="https://t.co/wdBRFxmXbt">https://t.co/wdBRFxmXbt</a> <a target="_blank" rel="nofollow" href="https://t.co/B6GjYWdIl2">https://t.co/B6GjYWdIl2</a></span>	</div>
+
+</div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>
+	</div>
+
+</div>
+</div>
+</li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-466"><a href="/uc-system" class="menu__link">UC System</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-551"><a href="/uc-system" class="menu__link">Overview</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-552"><a href="/uc-system/parts-of-uc" class="menu__link">Parts of UC</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-560"><a href="/uc-system/stewardship" class="menu__link">Stewardship</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-558"><a href="/uc-system/working-uc" class="menu__link">Working at UC</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-559"><a href="/uc-system/leadership" class="menu__link">Leadership</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1287"><a href="http://senate.universityofcalifornia.edu/" class="menu__link">Academic Senate</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1286"><a href="http://regents.universityofcalifornia.edu/" class="menu__link">Board of Regents</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1288"><a href="http://www.ucop.edu/" class="menu__link">Office of the President</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2536"><a href="/infocenter" class="menu__link">Infocenter</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1285"><a href="/support-uc" class="menu__link">Support UC</a></li>
+</ul></div>
+
+	</div>
+
+</div>
+<div id="block-block-15" class="block block-block block-search last even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<form action="/search-results" class="gss navbar-search" id="search-block-form" method="get">
+	<div class="container-inline">
+	<div class="form-item form-type-textfield form-item-search-block-form">
+	<label class="visuallyhidden" for="edit-search-block-form--2">Search</label><input tabindex="1" autocomplete="off" class="search-query form-text ui-autocomplete-input" id="edit-search-block-form--2" maxlength="128" name="qg" size="15" style="width: 7em;" title="Enter the terms you wish to search for." type="text" value="" />
+	</div>
+	<div class="form-actions form-wrapper" id="edit-actions">
+	<input class="form-submit" id="edit-submit" name="op" type="submit" value="Search" />
+	</div></div></form>
+	</div>
+
+</div>
+  </div>
+					
+				</nav>
+
+			
+		</div>
+
+	</header>
+	<!-- End Header -->
+
+	<!-- Hero -->
+	
+		<div class="page-background"></div>
+
+		<!-- End Hero -->
+
+	<!-- Main Container-->
+	<div class="container main">
+
+		<div class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/news">News</a></li><li>UC researchers present 10 scalable solutions for climate change</li></ol></div>
+		
+			<h2 class="page-title">News</h2>
+
+		
+		
+		<div class="content">
+
+			<!-- Sidebar Container Desktop --> 
+			
+				<nav class="sidebar-container" role="navigation">
+
+					
+						<div class="sidebar left-sidebar-upper">
+						
+							<div class="background"></div>
+							  <div class="region region-left-sidebar-upper">
+    <div id="block-menu-block-2" class="block block-menu-block first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Categories</h2>
+				
+		<div class="menu-block-wrapper menu-block-2 menu-name-menu-news-filters parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-active-trail is-leaf first leaf active-trail menu-mlid-539"><a href="/news" title="All" class="menu__link is-active-trail active-trail">All News</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-540"><a href="/news/research" title="Research" class="menu__link">Research</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-541"><a href="/news/health" title="Health" class="menu__link">Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-542"><a href="/news/arts-and-humanities" title="Arts and Humanities" class="menu__link">Arts &amp; Humanities</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-543"><a href="/news/students-and-alumni" title="Students and Alumni" class="menu__link">Students &amp; Alumni</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-544"><a href="/news/faculty-and-staff" title="Faculty and Staff" class="menu__link">Faculty &amp; Staff</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-545"><a href="/news/administration" title="Administration" class="menu__link">Administration</a></li>
+</ul></div>
+
+	</div>
+
+</div>
+<div id="block-menu-menu-other-news" class="block block-menu menu-other-news last even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Other News</h2>
+				
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/videos" class="menu__link">Video</a></li>
+<li class="menu__item is-leaf leaf"><a href="/in-the-news" class="menu__link">UC in the News</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/press-room" class="menu__link">Press Room</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+
+						</div>
+
+					
+					
+						<div class="sidebar left-sidebar-lower">
+
+							<div class="background"></div>
+							  <div class="region region-left-sidebar-lower">
+    <div id="block-menu-menu-campus-newrooms" class="block block-menu first last odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Campus Newsrooms</h2>
+				
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://newscenter.berkeley.edu/" class="menu__link">Berkeley</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://news.ucdavis.edu/" class="menu__link">Davis</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://news.uci.edu/" class="menu__link">Irvine</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://newsroom.ucla.edu/portal/ucla/default.aspx" class="menu__link">Los Angeles</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ucmerced.edu/news" class="menu__link">Merced</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://ucrtoday.ucr.edu/" class="menu__link">Riverside</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://ucsdnews.ucsd.edu/" class="menu__link">San Diego</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ucsf.edu/news" class="menu__link">San Francisco</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.news.ucsb.edu/" class="menu__link">Santa Barbara</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://news.ucsc.edu/" class="menu__link">Santa Cruz</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+
+						</div>
+
+					
+				</nav>
+
+						<!-- End Sidebar Container Desktop --> 
+
+			<!-- Main Page Content -->
+			<div id="main" tabindex="-1" class="page-content responsive-grid " role="main">
+
+				
+
+
+
+<!-- Main Article -->
+<article class="article-post node-5569 node node-news-story node-promoted view-mode-full">
+
+	
+		<!-- Article Header -->
+		<header class="article-post-header">
+			<div class="left-column">
+				<h1 class="post-title">
+
+	UC researchers present 10 scalable solutions for climate change
+</h1>
+				<div class="meta-data">
+
+					
+					<span class="byline">By Andy Murdock, UC Newsroom</span>
+
+					
+											<span class="date">Tuesday, October 27, 2015</span>
+									</div>
+			</div>
+
+			<div class="share-links right-column" role="complementary">
+				<h4>Share</h4>
+
+				<div class="clear"></div>
+
+				        <ul class="addthis-container share-links">
+          <li><a class="addthis_button_facebook js-social-share" href="https://www.facebook.com/sharer/sharer.php?u=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change">Share on Facebook</a></li>
+          <li><a class="addthis_button_twitter js-social-share" href="https://twitter.com/intent/tweet/?text=UC researchers present 10 scalable solutions for climate change&amp;url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change&amp;via=UC_Newsroom">Share on Twitter</a></li>
+          <li><a class="addthis_button_linkedin js-social-share" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" target="_blank">Share on LinkedIn</a></li>
+          <li><a class="addthis_button_reddit" href="http://www.reddit.com/submit/?url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" target="_blank">Share on Reddit</a></li>
+        </ul>
+			</div>
+
+		</header>
+		<!-- End Article Header -->
+
+		<!-- Article Content -->
+		<div class="post-content">
+			<div class="left-column">
+
+				
+				<div class="article-image">
+
+					
+						<div class="video-container">
+							<div id="article-video" class="video immediate" alt="SqlfReFU8Kk"></div>
+						</div>
+
+					
+					
+						<div class="image-meta">
+
+							
+								<p class="credit">Credit: University of California</p>
+
+							
+							
+								<p class="caption">Renowned atmospheric scientist V. Ramanathan of UC San Diego's Scripps Institution of Oceanography explains how the state of California and the UC system together can lead the charge through the Carbon Neutrality Initiative and ‘bend the curve’ in global warming. </p>
+
+							
+
+						</div>
+
+					
+				</div>
+
+				
+				
+				<div class="story-highlights">
+					<h4>
+
+	The 10 scalable solutions
+</h4>
+					
+
+	<p>More details on each of these solutions can be found in the executive summary of "Bending the Curve." A full report will be published in spring 2016.</p>
+
+<p><a href="http://universityofcalifornia.edu/news/10-scalable-solutions">Read the solutions in their entirety here.</a></p>
+
+<p>The complete executive summary of "Bending the Curve" is <a href="http://universityofcalifornia.edu/sites/default/files/Bending_the_Curve_F5_spreads.pdf">online</a>.</p>
+
+				</div>
+
+				
+				
+
+	<h3>University of California climate experts today (Oct. 27) announced 10 scalable solutions for moving the world towards carbon neutrality, a practical framework that outlines both immediate and longer-term actions for staving off catastrophic climate change.</h3>
+
+<p>Gov. Jerry Brown, who joined UC President Janet Napolitano at the UC Carbon and Climate Neutrality Summit at UC San Diego, said the solutions from the UC Climate Solutions Group could help shape talks among global leaders at the United Nations Conference on Climate Change in Paris this November.&nbsp;</p>
+
+<p>“This is a call&nbsp;to action. If we put all our best minds together in California with the research integrity and capacity of the University of California, that is a very formidable force, and nothing less than that is required,” said Brown.</p>
+
+<h3>The urgency of action</h3>
+
+<p>The effects of global warming already&nbsp;are beginning to wreak havoc around the world, with direct impact on human lives. Napolitano called it one of the greatest security challenges the world faces.</p>
+
+<p>“Climate change impacts issues as varied as disease management, food security, the preservation of water resources, the stability of fragile governments, and transportation infrastructure,” Napolitano said. “Addressing these challenges, and reducing our carbon footprint, is a moral imperative.”</p>
+
+<p>The UC Climate Solutions Group, composed of 50 top experts from all 10 UC campuses and the associated national laboratories, also stressed the moral implications of climate change in the executive summary of their report, "Bending the Curve: Ten scalable solutions for carbon neutrality and climate stability," highlighting that the people most at risk are the world’s 3 billion poorest people, while the majority of pollution is created by the wealthiest 1 billion.</p>
+
+<p>“15 percent of us contribute 60 percent of the pollution. We’re leaving behind a planet of uncertain future for our children, grandchildren and generations unborn,” said Veerabhadran Ramanathan, chair of the&nbsp;UC Climate Solutions Group.</p>
+
+<h3>Actions we can take now</h3>
+
+<p>The summary report emphasizes that action on climate change is urgently needed, and that we already have the tools to slow global warming in the short-term. Taking immediate action will afford us the time needed to put in place the emerging technologies and make the cultural shifts that will allow the world to transition to a carbon-neutral future.</p>
+
+<p>Carbon dioxide (CO<sub>2</sub>) remains the single largest contributor to climate change, but for a quick win the group focused on the strategy of curbing short-lived climate pollutants (SLCPs): methane, black carbon, HFCs and ozone. Whereas CO<sub>2</sub> remains in the atmosphere for decades to centuries, SLCPs have much stronger global warming potential but remain for much shorter periods of time – some for just days or weeks.</p>
+
+<p>“The good news is that because they have such short lifetimes, you can ameliorate their actions in the earth’s atmosphere very quickly,” said William Collins, director of the Climate &amp; Ecosystem Sciences Division at Lawrence Berkeley National Laboratory.</p>
+
+<p>SLCP emissions can be cut back quickly using existing technology and regulatory mechanisms that have proven effective for other climate pollutants. Globally, if methane emissions are cut by 50 percent, black carbon by 90 percent and HFCs fully eliminated by 2030, global warming will be cut in half by 2050 – and there are additional side benefits.</p>
+
+<p>“Mitigating SLCPs buys you lower climate forcing, buys you reduced sea level rise, buys you major public health benefits, buys you higher crop yields, buys you a more vibrant economy – there’s really no downside,” said Collins.</p>
+
+<p>The report also emphasizes the need to scale up the use of existing carbon-neutral technologies as quickly as possible. Solar and wind power, electric light-duty vehicles, and efficient devices, particularly for lighting, air conditioning and industrial processes, are ready for widespread use now and the barriers to their adoption need to be lowered.</p>
+
+<h3>Saving human lives</h3>
+
+<p>While there are longer-term economic and ecological impacts of climate change, the report points out that many of the immediate effects already&nbsp;are impacting human lives.</p>
+
+<p>The harmful effects of climate change, including sea level rise and increased heat waves, droughts and drinking water shortages, will only get worse under “business as usual” scenarios, as will loss of life and food crops due to air pollution.</p>
+
+<p>“Indoor and outdoor pollution is now one of the leading causes of death worldwide, causing over 7 million premature deaths annually,” said Helena Molin Valdés, head of the Secretariat, Climate and Clean Air Coalition, United Nations Environment Program.</p>
+
+<h3>Societal solutions</h3>
+
+<p>Recognizing that climate change is not merely a technical challenge, the 10 solutions in the report also address the societal, regulatory and moral angles to the war on climate change as well as the difficulty of communicating the urgency to the public.</p>
+
+<p>Because fundamental changes in attitudes and behaviors are critical, the group is urging researchers and scholars to come together with community and religious leaders to create a culture of climate action to take concrete steps toward solving our shared climate crisis.</p>
+
+<h3>California as a model</h3>
+
+<p>Of the 10 solutions proposed by the group, the report points out that seven have been or are in the process of being enacted in California, including recent efforts on SLCP mitigation.</p>
+
+<p>Highlighting California’s economic growth and success with governance, regulations and&nbsp;market-based instruments, as well as technologies developed by UC and tested in living laboratories throughout the state, the group suggested that subnational efforts like those in California can show the way forward for other parts of the world.&nbsp;</p>
+
+<p>“California has a long tradition of imagination and leadership and looking over the horizon,” Brown said.</p>
+
+
+			</div>
+
+			<aside class="right-column">
+
+				
+					<div class="post-widget subjects">
+						<h4>Explore related subjects</h4>
+
+						
+<ul>
+
+	
+		<li><a href="/subject/carbon-neutrality-initiative" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Carbon Neutrality Initiative</a></li>
+
+	
+		<li><a href="/subject/term/climate-change" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Climate change</a></li>
+
+	
+		<li><a href="/subject/term/ecology-environment" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ecology &amp; environment</a></li>
+
+	
+</ul>
+					</div>
+
+				
+				
+				
+					<div class="post-widget related">
+						<h4>Related Links</h4>
+
+						
+<ul>
+
+	
+		<li><a href="http://universityofcalifornia.edu/sites/default/files/Bending_the_Curve_F5_spreads.pdf">Bending the Curve executive summary</a></li>
+
+	
+		<li><a href="http://www.environment.ucla.edu/articles/bending-the-curve-can-we-flat-line-global-warming-by-2050">‘Bending the Curve’: Can We Flat-Line Global Warming by 2050?</a></li>
+
+	
+		<li><a href="http://www.ucop.edu/initiatives/carbon-neutrality-initiative.html">UC Carbon Neutrality Initiative</a></li>
+
+	
+		<li><a href="http://www.cop21.gouv.fr/en">Paris 2015 UN Climate Change Conference</a></li>
+
+	
+		<li><a href="http://newsroom.ucla.edu/stories/ucla-uc-experts-release-report-with-solutions-to-slow-climate-change">UCLA, UC experts release report with solutions to slow climate change</a></li>
+
+	
+		<li><a href="http://www.ucmerced.edu/news/2015/uc-merced-experts-part-new-uc-climate-report">UC Merced Experts Part of New UC Climate Report</a></li>
+
+	
+		<li><a href="http://www.sfgate.com/business/energy/article/UC-climate-change-experts-create-blueprint-to-6592211.php">Associated Press: University of California unveils plan to curb climate change</a></li>
+
+	
+</ul>
+					</div>
+
+				
+				
+					<div class="post-widget related">
+						<h4>Related Stories</h4>
+
+						
+<ul>
+
+	
+		<li><a href="/news/california-universities-launch-experiment-go-carbon-neutral-scale">California universities launch experiment to go carbon-neutral &#039;at scale&#039;</a></li>
+
+	
+		<li><a href="/news/bending-curve-climate-change-california-and-world">Bending the curve on climate change for California and the world</a></li>
+
+	
+		<li><a href="/news/solar-power-purchase-sets-stage-total-renewable-energy-use">Solar power purchase sets stage for total renewable energy use</a></li>
+
+	
+		<li><a href="/news/uc-making-big-moves-toward-carbon-neutrality">UC making big moves toward carbon neutrality</a></li>
+
+	
+</ul>
+					</div>
+
+				
+				
+			</aside>
+		</div>
+		<!-- End Article Content -->
+
+		<!-- Article Footer -->
+		<div class="post-footer-wrapper">
+			<div class="post-footer clearfix">
+				<h4>Share This Story</h4>
+				        <ul class="addthis-container share-links">
+          <li><a class="addthis_button_facebook js-social-share" href="https://www.facebook.com/sharer/sharer.php?u=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change">Share on Facebook</a></li>
+          <li><a class="addthis_button_twitter js-social-share" href="https://twitter.com/intent/tweet/?text=UC researchers present 10 scalable solutions for climate change&amp;url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change&amp;via=UC_Newsroom">Share on Twitter</a></li>
+          <li><a class="addthis_button_linkedin js-social-share" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" target="_blank">Share on LinkedIn</a></li>
+          <li><a class="addthis_button_reddit" href="http://www.reddit.com/submit/?url=http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" target="_blank">Share on Reddit</a></li>
+        </ul>
+				<div class="right-footer-nav" role="complementary">
+					<ul>
+						<li><a href="/news" class="return">All News</a></li>
+						<li><a href="#" class="back-to-top">Back to Top</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- End Article Footer -->
+
+	
+</article>
+<!-- End Main Article -->
+
+				
+			</div>
+			<!-- End Main Page Content -->
+
+			<!-- Sidebar Container Mobile --> 
+			
+				<nav class="sidebar-container-mobile" role="navigation">
+
+					
+						<div class="sidebar left-sidebar-upper">
+						
+							<div class="background"></div>
+							  <div class="region region-left-sidebar-upper">
+      <div class="region region-left-sidebar-upper">
+    <div id="block-menu-block-2" class="block block-menu-block first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Categories</h2>
+				
+		<div class="menu-block-wrapper menu-block-2 menu-name-menu-news-filters parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-active-trail is-leaf first leaf active-trail menu-mlid-539"><a href="/news" title="All" class="menu__link is-active-trail active-trail">All News</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-540"><a href="/news/research" title="Research" class="menu__link">Research</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-541"><a href="/news/health" title="Health" class="menu__link">Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-542"><a href="/news/arts-and-humanities" title="Arts and Humanities" class="menu__link">Arts &amp; Humanities</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-543"><a href="/news/students-and-alumni" title="Students and Alumni" class="menu__link">Students &amp; Alumni</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-544"><a href="/news/faculty-and-staff" title="Faculty and Staff" class="menu__link">Faculty &amp; Staff</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-545"><a href="/news/administration" title="Administration" class="menu__link">Administration</a></li>
+</ul></div>
+
+	</div>
+
+</div>
+<div id="block-menu-menu-other-news" class="block block-menu menu-other-news last even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Other News</h2>
+				
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/videos" class="menu__link">Video</a></li>
+<li class="menu__item is-leaf leaf"><a href="/in-the-news" class="menu__link">UC in the News</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/press-room" class="menu__link">Press Room</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+  </div>
+
+						</div>
+
+					
+					
+						<div class="sidebar left-sidebar-lower">
+
+							<div class="background"></div>
+							  <div class="region region-left-sidebar-lower">
+      <div class="region region-left-sidebar-lower">
+    <div id="block-menu-menu-campus-newrooms" class="block block-menu first last odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+							<h2 class="block__title block-title">Campus Newsrooms</h2>
+				
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://newscenter.berkeley.edu/" class="menu__link">Berkeley</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://news.ucdavis.edu/" class="menu__link">Davis</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://news.uci.edu/" class="menu__link">Irvine</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://newsroom.ucla.edu/portal/ucla/default.aspx" class="menu__link">Los Angeles</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ucmerced.edu/news" class="menu__link">Merced</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://ucrtoday.ucr.edu/" class="menu__link">Riverside</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://ucsdnews.ucsd.edu/" class="menu__link">San Diego</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.ucsf.edu/news" class="menu__link">San Francisco</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://www.news.ucsb.edu/" class="menu__link">Santa Barbara</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://news.ucsc.edu/" class="menu__link">Santa Cruz</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+  </div>
+
+						</div>
+
+					
+				</nav>
+
+						<!-- End Sidebar Container Mobile --> 
+
+		</div>
+
+	</div>
+	<!-- End Main Container -->
+
+	<!-- Page Bottom -->
+		<!-- End Page Bottom -->
+
+	<!-- Footer -->
+	<footer>
+		
+		<div class="container footer-content">
+
+			<div class="footer-link-container">
+
+				<div class="footer-links left" role="complementary">
+					<ul class="links footer-links-menu"><li class="menu-894 first"><a href="http://www.ucop.edu/">Office of the President</a></li>
+<li class="menu-895"><a href="http://senate.universityofcalifornia.edu/">Academic Senate</a></li>
+<li class="menu-896 last"><a href="http://regents.universityofcalifornia.edu/">Board of Regents</a></li>
+</ul>				</div>
+
+				<div class="social right" role="complementary">
+					<ul class="links social-menu"><li class="menu-695 first"><a href="https://www.facebook.com/universityofcalifornia" title="Facebook">Facebook</a></li>
+<li class="menu-696"><a href="https://twitter.com/UC_Newsroom" title="Twitter">Twitter</a></li>
+<li class="menu-697 last"><a href="http://ucresearch.tumblr.com" title="Tumblr">Tumblr</a></li>
+</ul>				</div>
+
+			</div>
+			
+			<p class="copyright">&copy; 2015 The Regents of the University of California<span class="divider">|</span><a href="http://www.ucop.edu/terms/index.html">Terms of Use</a></p>		
+
+		</div>
+
+	</footer>
+	<!-- End Footer -->
+
+</div>
+<!-- End of Page -->
+
+	
+	<script src="http://universityofcalifornia.edu/sites/default/files/js/js_UWQINlriydSoeSiGQxToOUdv493zEa7dpsXC1OtYlZU.js"></script>
+<script src="http://universityofcalifornia.edu/sites/default/files/js/js_Ix_7a_9wFT-XaCXRwYeMhhNb1XuNxMYEtOwr10_Y0Kg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"university_of_california","theme_token":"0avi0JVa7QpzBHKx7oDyH66Hwym2mP9M-eCceYa95FE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.js":1,"http:\/\/connect.soundcloud.com\/sdk.js":1,"sites\/all\/themes\/university-of-california\/assets\/scripts\/build\/vendor.js":1,"sites\/all\/themes\/university-of-california\/assets\/scripts\/build\/app.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/themes\/university-of-california\/assets\/css\/bootstrap.min.css":1,"sites\/all\/themes\/university-of-california\/assets\/css\/icons\/style.css":1,"sites\/all\/themes\/university-of-california\/assets\/css\/styles.css":1,"sites\/all\/themes\/university-of-california\/assets\/css\/styles-ie10.css":1,"sites\/all\/themes\/university-of-california\/system.menus.css":1,"sites\/all\/themes\/university-of-california\/system.messages.css":1,"sites\/all\/themes\/university-of-california\/system.theme.css":1}}});</script>
+
+	
+	<!-- Tracking -->
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+	{ (i[r].q=i[r].q||[]).push(arguments)}
+	,i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-18163990-1', 'universityofcalifornia.edu');
+	ga('send', 'pageview');
+	</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cf222f542f","applicationID":"5524217","transactionName":"M1AHYxMEDURYWhBQVgoaMEUISkxeV10BQRcUXRU=","queueTime":0,"applicationTime":33,"ttGuid":"","agentToken":"","atts":"HxcEFVseHko=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
+</html>

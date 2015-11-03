@@ -1,1 +1,2 @@
-http://www.cs.ucr.edu
+http://ucrtoday.ucr.edu/feed
+http://cs.ucr.edu

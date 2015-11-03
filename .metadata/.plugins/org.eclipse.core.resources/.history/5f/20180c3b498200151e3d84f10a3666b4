@@ -1,0 +1,3578 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]> <! <![endif]-->
+<html class='no-js'>
+<!-- <![endif] -->
+  <head>
+    <title>NRC Rankings Overview: Computer Sciences - The Chronicle of Higher Education</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link type="text/css" rel="stylesheet" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/css/theme.min.css" />
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/js/jquery-1.11.2.min.js"></script>
+
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta property="og:title" content="NRC Rankings Overview: Computer Sciences" />
+<meta name="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://chronicle.com/article/NRC-Rankings-Overview-/124721/" />
+<meta property="og:site_name" content="The Chronicle of Higher Education" />
+<meta property="article:published_time" content="2010-09-30T14:59:00-0400" />
+<meta property="article:tag" content="" />
+<meta property="og:image" content="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/ognameplate.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-57x57-precomposed.png">
+    <link rel=”mask-icon” href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/favicon.svg" color="#000000">
+    <!--[if lt IE 9]>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/html5shiv.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/selectivizr/selectivizr.min.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/respond/respond.min.js"></script>
+    <![endif]-->
+<!-- chartbeat -->
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+
+allAdsJson = {"zone":"chronicle\/content\/article","ads":{"desktop":{"leaderboard_0":{"sizes":[[728,90]],"targeting":{"tile":1}}},"mobile":[]},"targeting":{"channel":["news","faculty"]}};
+
+})();
+
+</script>  </head>
+  <body class="">
+    <a href="#maincontent" class="sr-only sr-only-focusable">Skip to main content</a>
+<div class="center-block text-center">
+    <div class="ad show-ad leaderboard" id="leaderboard_0"></div>
+</div>
+
+<header class="header__container" role="banner">
+    <div class="header__container--inner container">
+        <div class="header--row row">
+            <div class="col-sm-12">
+                <nav>
+                    <div class="clearfix">
+                        <ul class="pull-right clearfix nav-user_nav hidden-xs">
+                            <li class=""><a href="https://chronicle-store.com/?PK=MHENAV&cid=henav">Store</a></li>
+                                                            <li class=""><a href="/account/login?goto=/article/NRC-Rankings-Overview-/124721">Log In</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="pull-right clearfix subscribe">
+                                                    <a class="btn btn-primary btn-subscribe" href='/subscribe/?PK=M1224&cid=MH1WH1'>Subscribe Today</a>
+                                            </div>
+                </nav>
+                <a href="http://chronicle.com/"><img alt="The Chronicle of Higher Education" class="img-responsive navbar--logo" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/header-logo.png" /></a>            </div>
+            <div class="col-sm-12">
+                <nav class='navbar navbar-default' role='navigation'>
+    <div class="navbar-header">
+        <div class="mobile-controls clearfix visible-xs visible-sm">
+            <a data-toggle="collapse" class="searchbar-toggle pull-right" href="#search-collapse-header">
+                <div class="">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </div>
+            </a>
+            <button type="button" class='navbar-toggle pull-left' data-target='#nb-collapse-header' data-toggle='collapse'>
+                <span class="sr-only">Toggle navigation</span>
+                <div class="navbar-toggle__icons pull-left">
+                    <span class="navigation-label"> </span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+                <span class="navbar-toggle__text pull-left">NEWS</span>
+
+            </button>
+        </div>
+    </div>
+        <div class="visible-xs visible-sm">
+        <div class="collapse navbar-collapse searchbar" id="search-collapse-header">
+            <form method="get" action="/search/" class="mobile-search">
+                <div class="input-group">
+                    <label for="site_search_by_keyword" class="sr-only">Search the Chronicle</label>
+                    <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword" class="form-control" role="search">
+                    <div class="input-group-btn">
+                        <button type="submit" class="btn btn-primary" aria-label="Search" >Go</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class='collapse navbar-collapse' role="navigation" id="nb-collapse-header">
+        <ul class='nav navbar-nav'>
+                                    
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Home/5/'>Home</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Home/5/'>Home</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm active" aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/News/6/'>News</a>
+                </li>
+                <li class='btn-group active hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/News/6/'>News</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle News Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Faculty/7'>Faculty</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Administration/16'>Administration</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Technology/30'>Technology</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Community-Colleges/33'>Community Colleges</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Special-Reports/35'>Special Reports</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/People/36'>People</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/specialreport/Current-Issue/1'>Current Issue</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Archives/39'>Archives</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Global/433'>Global</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Global/433'>Global</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Opinion-Ideas/40/?eio=58977'>Opinion & Ideas</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Opinion-Ideas/40/?eio=58977'>Opinion & Ideas</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Opinion & Ideas Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/The-Chronicle-Review/41'>The Chronicle Review</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Commentary/44'>Commentary</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Books/55'>Books</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/letters/'>Letters</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Crosswords/43'>Crosswords</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/academicDestination/index'>Academic Destinations</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/campusViewpoint/topics'>Campus Viewpoints</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Facts-Figures/58'>Facts & Figures</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Facts-Figures/58'>Facts & Figures</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Blogs/164'>Blogs</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Blogs/164'>Blogs</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Blogs Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='/blogs/ticker'>The Ticker</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/wiredcampus'>Wired Campus</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/linguafranca'>Lingua Franca</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/profhacker?eio=61142'>ProfHacker</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Advice/66/'>Advice</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Advice/66/'>Advice</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/forums/'>Forums</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/forums/'>Forums</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='https://chroniclevitae.com/job_search/new?cid=chenav'>Jobs</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='https://chroniclevitae.com/job_search/new?cid=chenav'>Jobs</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Jobs Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='/employer/alpha'>Employer Profiles</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/For-Employers/64'>For Employers</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                                <li class="btn-group dropdown visible-md">
+                <a href="#" class="dropdown-toggle btn" data-toggle="dropdown"><span class="glyphicon glyphicon-search"></span>&nbsp;&nbsp;<span class="caret"></span></a>
+                <div class="navbar__search dropdown-menu dropdown-menu--tablet-search col-sm-6 pull-right" id="search-icon-collapse-header">
+                    <form method="get" action="/search/" class="mobile-search">
+                        <div class="input-group">
+                            <label for="site_search_by_keyword" class="sr-only">Search the Chronicle</label>
+                            <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword" class="form-control" role="search">
+                            <div class="input-group-btn">
+                                <button type="submit" class="btn btn-primary" aria-label="Search">Go</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </li>
+        </ul>
+        <form class="navbar-form navbar-right hidden-md hidden-sm hidden-xs" role="search" action="/search/" method="get">
+            <div class="form-group">
+                <label for="site_search_by_keyword_nav" class="sr-only">Search the Chronicle</label>
+                <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword_nav" class="form-control" role="search">
+            </div>
+            <span class="" style="margin-left:-4px;">
+                <button type="submit" class="btn btn-primary" aria-label="Search" >Go</button>
+            </span>
+        </form>
+    </div>
+</nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class='container article'>
+  <div class="row">
+    <div id="maincontent" class='col-md-8 content-center' role="main">
+      <article class='clearfix content-item__container--article'>
+            <header>
+                <ul class='content-item__share pull-right'>
+                                            <li><ul class="content-item__share--buttons">
+<li class='st_facebook'></li>
+<li class='st_twitter' st_via='chronicle'></li>
+<li class='st_googleplus'></li>
+<li class='st_email'></li>
+</ul></li>
+                                        <li class="content-item__print share-divider print-btn" data-print onclick="javascript:print()"></li>
+                    <li class="content-item__comment"><a href='#comments-anchor' data-disqus-identifier='article/124721'>Comments</a></li>                                    </ul>
+                <span class="visible-xs"><br><br></span>
+
+                                    <span class="content-item__tone"><a href="http://chronicle.com/section/Faculty/7">Faculty</a><br></span>
+                                
+                <h1 class="content-item__title">Doctoral Programs by the Numbers</h1>
+                
+                                <div class="content-item__spacer">
+                                        <span class="content-item__date">
+                        September 30, 2010                    </span>
+                </div>
+            </header>
+                        <div class="content-item__story">
+                <script type="text/javascript">// <![CDATA[
+function sortTable(col) {
+
+  // Get the table section to sort.
+  var tblEl = document.getElementById("planetData");
+
+  // Set the table display style to "none" - necessary for Netscape 6 
+  // browsers.
+  var oldDsply = tblEl.style.display;
+  tblEl.style.display = "none";
+
+  // Sort the rows based on the content of the specified column using a
+  // selection sort.
+
+  var tmpEl;
+  var i, j;
+  var minVal, minIdx;
+  var testVal;
+  var cmp;
+
+  for (i = 0; i < tblEl.rows.length - 1; i++) {
+
+    // Assume the current row has the minimum value.
+    minIdx = i;
+    minVal = getTextValue(tblEl.rows[i].cells[col]);
+
+    // Search the rows that follow the current one for a smaller value.
+    for (j = i + 1; j < tblEl.rows.length; j++) {
+      testVal = getTextValue(tblEl.rows[j].cells[col]);
+      cmp = compareValues(minVal, testVal);
+      // If this row has a smaller value than the current minimum, remember its
+      // position and update the current minimum value.
+      if (cmp > 0) {
+        minIdx = j;
+        minVal = testVal;
+      }
+    }
+
+    // By now, we have the row with the smallest value. Remove it from the
+    // table and insert it before the current row.
+    if (minIdx > i) {
+      tmpEl = tblEl.removeChild(tblEl.rows[minIdx]);
+      tblEl.insertBefore(tmpEl, tblEl.rows[i]);
+    }
+  }
+
+  // Restore the table's display style.
+  tblEl.style.display = oldDsply;
+
+  return false;
+}
+
+function sortTable2(col) {
+
+  // Get the table section to sort.
+  var tblEl = document.getElementById("planetData2");
+
+  // Set up an array of reverse sort flags, if not done already.
+  if (tblEl.reverseSort == null)
+    tblEl.reverseSort = new Array();
+
+  // If this column was the last one sorted, reverse its sort direction.
+  if (col == tblEl.lastColumn)
+    tblEl.reverseSort[col] = !tblEl.reverseSort[col];
+
+  // Remember this column as the last one sorted.
+  tblEl.lastColumn = col;
+
+  // Set the table display style to "none" - necessary for Netscape 6 
+  // browsers.
+  var oldDsply = tblEl.style.display;
+  tblEl.style.display = "none";
+
+  // Sort the rows based on the content of the specified column using a
+  // selection sort.
+
+  var tmpEl;
+  var i, j;
+  var minVal, minIdx;
+  var testVal;
+  var cmp;
+
+  for (i = 0; i < tblEl.rows.length - 1; i++) {
+
+    // Assume the current row has the minimum value.
+    minIdx = i;
+    minVal = getTextValue(tblEl.rows[i].cells[col]);
+
+    // Search the rows that follow the current one for a smaller value.
+    for (j = i + 1; j < tblEl.rows.length; j++) {
+      testVal = getTextValue(tblEl.rows[j].cells[col]);
+      cmp = compareValues(minVal, testVal);
+      // Reverse order?
+      if (tblEl.reverseSort[col])
+        cmp = -cmp;
+      // If this row has a smaller value than the current minimum, remember its
+      // position and update the current minimum value.
+      if (cmp > 0) {
+        minIdx = j;
+        minVal = testVal;
+      }
+    }
+
+    // By now, we have the row with the smallest value. Remove it from the
+    // table and insert it before the current row.
+    if (minIdx > i) {
+      tmpEl = tblEl.removeChild(tblEl.rows[minIdx]);
+      tblEl.insertBefore(tmpEl, tblEl.rows[i]);
+    }
+  }
+
+  // Restore the table's display style.
+  tblEl.style.display = oldDsply;
+
+  return false;
+}
+
+//-----------------------------------------------------------------------------
+// Functions to get and compare values during a sort.
+//-----------------------------------------------------------------------------
+
+// This code is necessary for browsers that don't reflect the DOM constants
+// (like IE).
+if (document.ELEMENT_NODE == null) {
+  document.ELEMENT_NODE = 1;
+  document.TEXT_NODE = 3;
+}
+
+function getTextValue(el) {
+
+  var i;
+  var s;
+
+  // Find and concatenate the values of all text nodes contained within the
+  // element.
+  s = "";
+  for (i = 0; i < el.childNodes.length; i++)
+    if (el.childNodes[i].nodeType == document.TEXT_NODE)
+      s += el.childNodes[i].nodeValue;
+    else if (el.childNodes[i].nodeType == document.ELEMENT_NODE &&
+             el.childNodes[i].tagName == "BR")
+      s += " ";
+    else
+      // Use recursion to get text within sub-elements.
+      s += getTextValue(el.childNodes[i]);
+
+  return normalizeString(s);
+}
+
+function compareValues(v1, v2) {
+
+  var f1, f2;
+
+  // If the values are numeric, convert them to floats.
+
+  f1 = parseFloat(v1);
+  f2 = parseFloat(v2);
+  if (!isNaN(f1) && !isNaN(f2)) {
+    v1 = f1;
+    v2 = f2;
+  }
+
+  // Compare the two values.
+  if (v1 == v2)
+    return 0;
+  if (v1 > v2)
+    return 1
+  return -1;
+}
+
+// Regular expressions for normalizing white space.
+var whtSpEnds = new RegExp("^\\s*|\\s*$", "g");
+var whtSpMult = new RegExp("\\s\\s+", "g");
+
+function normalizeString(s) {
+
+  s = s.replace(whtSpMult, " ");  // Collapse any multiple whites space.
+  s = s.replace(whtSpEnds, "");   // Remove leading or trailing white space.
+
+  return s;
+}
+// ]]></script>
+<p>Select a Field:</p>
+<blockquote><a href="http://chronicle.com/article/NRC-Rankings-Overview-/124698/">Aerospace Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124699">Agricultural and Resource Economics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124700/">American Studies</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Animal/124701/">Animal Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124703/">Anthropology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Applied/124704/">Applied Mathematics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124705/">Astrophysics and Astronomy</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124707/">Biochemistry, Biophysics, and Structural Biology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124709/">Biology/Integrated Biology/Integrated Biomedical Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124710/">Biomedical Engineering and Bioengineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Cell/124711/">Celland Developmental Biology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124712/">Chemical Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124713/">Chemistry</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Civil/124715/">Civil and Environmental Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124716/">Classics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124717/">Communication</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124718/">Comparative Literature</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124720/">Computer Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124721/">Computer Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Earth/124722/">Earth Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Ecology/124723/">Ecology and Evolutionary Biology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124724/">Economics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124726/">Electrical and Computer Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124727/">Engineering Science and Materials</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-English/124728/">English Language and Literature</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124729/">Entomology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Food/124730/">FoodScience</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124731/">Forestry and Forest Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-French/124732/">French and Francophone Language and Literature</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124733/">Genetics and Genomics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124734/">Geography</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-German/124735/">German Language and Literature</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-History/124736/">History</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-History/124737/">History of Art, Architecture and Archaeology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124738/">Immunology and Infectious Disease</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124739/">Kinesiology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124740/">Languages, Societies and Cultures</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124741/">Linguistics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124742/">Materials Science and Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124743/">Mathematics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124744/">Mechanical Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124745/">Microbiology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Music/124746/">Music</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124747/">Neuroscience and Neurobiology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Nursing/124748/">Nursing</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124749/">Nutrition</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124750/">Oceanography, Atmospheric Sciences and Meteorology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124751/">Operations Research, Systems Engineering and Industrial Engineering</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124752/">Pharmacology, Toxicology and Environmental Health</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124753/">Philosophy</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Physics/124754/">Physics</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124755/">Physiology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Plant/124719/">Plant Sciences</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124714/">Political Science</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-/124708/">Psychology</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Public/124706/">Public Affairs, Public Policy and Public Administration</a> |  <a href="http://chronicle.com/article/NRC-Rankings-Overview-Public/124702/">Public Health</a> |  <a href="http://chronicle.com/article/nrc-religion/124664/">Religion</a> |  <a href="http://chronicle.com/article/nrc-sociology/124663/">Sociology</a> |  <a href="http://chronicle.com/article/nrc-spanish/124661/">Spanish and Portuguese Language and Literature</a> |  <a href="http://chronicle.com/article/nrc-statistics/124660/">Statistics and Probability</a> |  <a href="http://chronicle.com/article/nrc-theatre/124659/">Theatre and Performance Studies</a></blockquote>
+<h1>Computer Sciences</h1>
+<p>The National Research Council assessed programs according to 21 different criteria. Here are the NRC's five major ratings summarizing those criteria. For a detailed explanation, see our <a href="http://chronicle.com/article/New-Doctoral-Program/124634/ &lt;view-source:http://chronicle.com/article/New-Doctoral-Program/124634&gt;&lt;/a&gt;">FAQ.</a></p>
+<blockquote><strong>S-Rank:</strong> Programs are ranked highly if they are strong in the criteria that scholars say are most important.<br /> <strong>Research:</strong> Derived from faculty publications, citation rates, grants, and awards.<br /> <strong>Students:</strong> Derived from students' completion rates, financial aid, and other criteria.<br /> <strong>Diversity:</strong> Reflects gender balance, ethnic diversity, and the proportion of international students.<br /> <strong>R-Rank:</strong> Programs are ranked highly if they have similar features to programs viewed by faculty as top-notch.</blockquote>
+<div class="article-asset">
+<table style="width: 600px; padding-bottom: 8px;" border="0" cellspacing="0">
+<tbody>
+<tr>
+</tr>
+</tbody>
+<thead> 
+<tr style="vertical-align: bottom;">
+<th style="text-align: left;"><a onclick="return sortTable2(0)">Institution, program</a></th> <th style="text-align: right;"><a onclick="return sortTable2(1)">S-Rank High</a></th> <th style="text-align: right;"><a onclick="return sortTable2(2)">S-Rank Low</a></th> <th style="text-align: right;"><a onclick="return sortTable2(3)">Research High</a></th> <th style="text-align: right;"><a onclick="return sortTable2(4)">Research Low</a></th> <th style="text-align: right;"><a onclick="return sortTable2(5)">Students High</a></th> <th style="text-align: right;"><a onclick="return sortTable2(6)">Students Low</a></th> <th style="text-align: right;"><a onclick="return sortTable2(7)">Diversity High</a></th> <th style="text-align: right;"><a onclick="return sortTable2(8)">Diversity Low</a></th> <th style="text-align: right;"><a onclick="return sortTable2(9)">R-Rank High</a></th> <th style="text-align: right;"><a onclick="return sortTable2(10)">R-Rank Low</a></th>
+</tr>
+</thead> 
+<tbody id="planetData2">
+<tr>
+<td style="text-align: left;"><strong>Arizona State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">57</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Auburn U.</strong><br />Computer Science &amp; Software Engineering</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">106</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Bingham-<br />tonton U. (SUNY)</strong><br />Computer Sciences</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">106</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Boston U.</strong><br />Computer Science</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">91</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Brandeis U.</strong><br />Computer Science</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">90</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Brigham Young U.</strong><br />Computer Science</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">122</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">124</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Brown U.</strong><br />Computer Science</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">34</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>California Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">88</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Carnegie Mellon U.</strong><br />Computer Sciences</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Case Western Reserve U.</strong><br />Computing and Information Science</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">112</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>City U. of New York Graduate Center</strong><br />Computer Science</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">98</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Clemson U.</strong><br />Computer Science</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">122</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">121</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>College of William and Mary</strong><br />Computer Sciences</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">106</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Columbia U.</strong><br />Computer Science</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">31</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Cornell U.</strong><br />Computer Science</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">12</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Dartmouth College</strong><br />Computer Sciences</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">90</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Duke U.</strong><br />Computer Science</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">27</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Florida Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">88</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Florida Inter-<br />national U.</strong><br />Computer Science</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Florida State U.</strong><br />Computer Sciences</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">90</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>George Washing-<br />ton U.</strong><br />Computer Science</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">109</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Georgia Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">28</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Georgia State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">78</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Harvard U.</strong><br />DEAS-Computer Sciences</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">123</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Illinois Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">99</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Indiana U. at Blooming-<br />ton</strong><br />Computer Science</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">65</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Iowa State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">82</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Johns Hopkins U.</strong><br />Computer Science</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">69</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">88</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Kansas State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">120</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Kent State U. Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">92</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Lehigh U.</strong><br />Computer Science &amp; Engineering</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">75</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Louisiana State U. at Baton Rouge</strong><br />Computer Science</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">39</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Massachu-<br />setts Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Michigan State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">32</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Mississippi State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">116</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>New Jersey Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">69</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">104</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>New Jersey Institute of Technology</strong><br />Information Systems</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">126</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>New Mexico State U. at Las Cruces</strong><br />Computer Sciences</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">114</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>New York U.</strong><br />Computer Science</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">71</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>North Carolina State U.</strong><br />Computer Sciences</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">75</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>North Dakota State U. Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">111</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>North-<br />eastern U.</strong><br />Computer Science</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">87</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>North-<br />western U.</strong><br />Computer Science</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">69</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">73</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Ohio State U. Main Campus</strong><br />Computer and Information Science</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">46</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Oklahoma State U. Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">91</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Old Dominion U.</strong><br />Computer Science</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">119</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Oregon Health and Science U.</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">124</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Oregon State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">88</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Pennsyl-<br />vania State U.</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">45</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Princeton U.</strong><br />Computer Science</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Purdue U. Main Campus</strong><br />Computer Sciences</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">42</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rensselaer Polytechnic Institute</strong><br />Computer Science</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">93</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rice U.</strong><br />Computer Science</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">60</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Rutgers U. at New Brunswick</strong><br />Computer Science</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">85</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Southern Methodist U.</strong><br />Computer Science</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">122</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">125</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Stanford U.</strong><br />Computer Science</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>State U. of New York at Albany</strong><br />Computer Science</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">120</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>State U. of New York at Stony Brook</strong><br />Computer Science</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">35</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Stevens Institute of Technology</strong><br />Computer Science</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Syracuse U. Main Campus</strong><br />Computer Sciences</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">114</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Temple U.</strong><br />Computer and Information Science</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">123</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Texas A&amp;M U.</strong><br />Computer Science</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">48</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Texas Tech U.</strong><br />Computer Science</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">121</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Tufts U.</strong><br />Computer Science</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">46</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. at Buffalo (SUNY)</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">52</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Alabama</strong><br />Computer Sciences</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">112</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Alabama at Birmingham</strong><br />Computer and Information Sciences</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">121</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Alabama at Huntsville</strong><br />Computer Science</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">123</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Arizona</strong><br />Computer Science</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">89</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Arkansas Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">120</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Berkeley</strong><br />Computer Science</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">123</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">6</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Davis</strong><br />Computer Science</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">54</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Irvine</strong><br />Information and Computer Sciences</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">41</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Los Angeles</strong><br />Computer Science</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">16</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Riverside</strong><br />Computer Science</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">59</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at San Diego</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Santa Barbara</strong><br />Computer Science</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">18</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of California at Santa Cruz</strong><br />Computer Science</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">57</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Central Florida</strong><br />Computer Science</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">95</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Chicago</strong><br />Computer Science</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">50</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Cincinnati Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">91</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Colorado at Boulder</strong><br />Computer Science</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">63</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Connec-<br />ticut</strong><br />Computer Science Engineering Ph.D.</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">99</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Delaware</strong><br />Computer and Information Sciences</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">88</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Florida</strong><br />Computer Engineering</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">85</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Georgia</strong><br />Computer Science</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">92</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Houston main campus</strong><br />Computer Science</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">115</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Illinois at Chicago</strong><br />Computer Science</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">99</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Illinois at Urbana-<br />Champaign</strong><br />Computer Science</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">54</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">16</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Iowa</strong><br />Computer Science</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">91</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Kansas</strong><br />Computer Science</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">106</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">119</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Kentucky</strong><br />Computer Science</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">95</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Louisiana at Lafayette</strong><br />Computer Science</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">99</td>
+<td style="text-align: right;">122</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">124</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Maryland at College Park</strong><br />Computer Science</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Maryland-<br />Baltimore County</strong><br />Computer Science</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">79</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">123</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">103</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Massachu-<br />setts at Amherst</strong><br />Computer Science</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">44</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Memphis</strong><br />Computer Science</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">123</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">126</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Michigan at Ann Arbor</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Minnesota-<br />Twin Cities</strong><br />Computer Science</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">41</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Nebraska at Lincoln</strong><br />Computer Science</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">60</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of New Mexico Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">109</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of North Carolina at Chapel Hill</strong><br />Computer Science</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">14</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of North Carolina at Charlotte</strong><br />Ph.D. in Information Technology</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">87</td>
+<td style="text-align: right;">112</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of North Texas</strong><br />Computer Science</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">121</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Oklahoma Norman Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">92</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">92</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Oregon</strong><br />Computer and Information Sciences</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">98</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Pennsyl-<br />vania</strong><br />Computer and Information Science-SEAS</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">18</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Pittsburgh Main Campus</strong><br />Computer Science</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">49</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Rochester</strong><br />Computer Science</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">32</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of South Carolina at Columbia</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">97</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">38</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">109</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of South Florida</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">66</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Southern California</strong><br />Computer Science</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">82</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">35</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Southern Mississippi</strong><br />Computational Science</td>
+<td style="text-align: right;">119</td>
+<td style="text-align: right;">126</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">86</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">126</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Tennessee</strong><br />Computer Science</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">96</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">111</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">61</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">95</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Texas at Austin</strong><br />Computer Sciences</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">66</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">103</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">125</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Texas at Dallas</strong><br />Computer Science</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+<td style="text-align: right;">N/R</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Utah</strong><br />Computer Science</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">94</td>
+<td style="text-align: right;">117</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">68</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Virginia</strong><br />Computer Science</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">78</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">57</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">43</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Washing-<br />ton</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">32</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>U. of Wisconsin at Madison</strong><br />Computer Sciences</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">89</td>
+<td style="text-align: right;">88</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Vanderbilt U.</strong><br />Computer Science</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">64</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">84</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">87</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Virginia Tech</strong><br />Computer Science and Applications</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">83</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">46</td>
+<td style="text-align: right;">93</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">78</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Washing-<br />ton State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">60</td>
+<td style="text-align: right;">102</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">113</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">109</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Washing-<br />ton U. in St. Louis</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">81</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">95</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">108</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">72</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Wayne State U.</strong><br />Computer Science</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">118</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">112</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">102</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Western Michigan U.</strong><br />Computer Sciences</td>
+<td style="text-align: right;">67</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">91</td>
+<td style="text-align: right;">80</td>
+<td style="text-align: right;">121</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">124</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Wright State U. Main Campus</strong><br />Computer Science and Engineering</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">105</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">110</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">114</td>
+<td style="text-align: right;">124</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">112</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Yale U.</strong><br />Computer Science</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">85</td>
+<td style="text-align: right;">116</td>
+<td style="text-align: right;">31</td>
+<td style="text-align: right;">52</td>
+</tr>
+</tbody>
+<tfoot> 
+<tr>
+<td class="align-left" colspan="11"><strong>Methodology:</strong> This interactive tool is based on rankings developed by the NRC. For a complete explanation of the methods the research council used, go to <a href="http://download.nap.edu/cart/deliver.cgi?record_id=12974">its site;</a> registration may be required.<br /></td>
+</tr>
+</tfoot>
+</table>
+</div>            </div>
+
+            
+                
+                
+                                
+
+                                                <div class="clearfix"></div>
+
+                
+                                    <script>
+
+var disqus_config = function() {
+    this.page.remote_auth_s3 = "W10= e63c7556b15db4307abb92f862b828c5bc9d7259 1446568535";
+    this.page.api_key = "8pbwCAIOPGwEmzYNmPudqmDq4r3UgCqEyXlMncZ8PIjHVZJB3U7sSiFrvrGZ5d7U";
+    this.sso = {
+          name:   "Chronicle",
+          button: "https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/disqus-log-in.gif",
+          url:    "http://chronicle.com/account/login?return_url=close",
+          logout: "http://chronicle.com/account/logout?return_url=/article/NRC-Rankings-Overview-/124721",
+          width:  "575",
+          height: "510"
+    };
+    // track comments with our own analytics code
+    this.callbacks.onNewComment = [function() { sc_track_comment(); }];
+};
+var disqus_shortname = 'thechronicleofhighereducation',
+    disqus_identifier = 'article/124721',
+    disqus_url = 'http://chronicle.com/article/NRC-Rankings-Overview-/124721',
+    disqus_title = 'NRC Rankings Overview: Computer Sciences';
+
+</script>
+
+            <div id="comments-anchor" class="content-item__footer">
+                <div class="row">
+                    <div class="disqus col-md-12">
+                        <div class="text-center visible-xs">
+                            <a class="content-item__return-to-top btn btn-default" href="#">Return to Top <span class="glyphicon glyphicon-arrow-up"></span></a>
+                        </div>
+                        <br>
+                                                                                                            	<div class="text-center"><a class="show-disqus btn btn-default" href="#disqus_thread">Show Comments</a></div>
+    <div id="disqus_thread"></div>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                            </div>
+                </div>
+            </div> <!-- end .content-item__footer -->
+            </article>
+    </div>
+    <div class='col-md-4 clearfix content-right' role="complementary">
+      <div class="widget">
+    <div class="center-block text-center">
+    <div class="ad show-ad" id="rightrail_5638e25765d90" data-gpt-slot="true" data-gpt-placement="rightrail" data-gpt-sizes="[[300,250],[300,600]]"></div>
+</div></div>
+<div class="widget">
+    <div class="row">
+    <div class="col-md-12">
+        <div class="cta__newsletter__container">
+            <h3>Get Academe Today</h3>
+            <div>
+                            <p>The Chronicle's free daily newsletter</p>                        </div>
+            <a class="newsletter-signup btn btn-primary" data-modal="chronframe" data-modal-url="/account/signupnewsletter/1" data-modal-title="Sign Up for Academe Today">Sign Up Now</a>
+        </div>
+    </div>
+</div>
+</div>
+<div class="widget widgetname-trending-content">
+        <div class="trending-resources__container">
+        <div class="trending-resources__container--header">
+            Trending now
+        </div>
+        <div class="trending-resources__container--content">
+                                <div class="trending-resources__container__body">
+                                                    <a href="http://chronicle.com/article/How-Many-College-Students-Are/234033?cid=trend_right_a"><img src="https://chronicle-assets.s3.amazonaws.com/5/img/photos/biz/photo_73855_wide_325x163.jpg" alt="photo_73855_wide_325x163" /></a>                                                                        <p class="trending-resources__container--kicker">
+                            <span class="content-card__content-type--text">Students</span>
+                                                    </p>
+                                                <span class="content-card__heading">
+                            <a class="content-card__heading--link" href="http://chronicle.com/article/How-Many-College-Students-Are/234033?cid=trend_right_a">How Many College Students Are Going Hungry?</a>                        </span>
+                        <div class="content-card__abstract"></div>
+                    </div>
+                                <div class="trending-resources__container__body">
+                                                    <a href="http://chronicle.com/article/Why-the-Debate-Over-a-New/233996?cid=trend_right_a"><img src="https://chronicle-assets.s3.amazonaws.com/5/img/photos/biz/photo_73779_wide_325x163.jpg" alt="photo_73779_wide_325x163" /></a>                                                                        <p class="trending-resources__container--kicker">
+                            <span class="content-card__content-type--text">Admissions & Student Aid</span>
+                                                    </p>
+                                                <span class="content-card__heading">
+                            <a class="content-card__heading--link" href="http://chronicle.com/article/Why-the-Debate-Over-a-New/233996?cid=trend_right_a">Why the Debate Over a New Admissions Process Matters</a>                        </span>
+                        <div class="content-card__abstract"></div>
+                    </div>
+                                <div class="trending-resources__container__body">
+                                                    <a href="http://chronicle.com/article/History-That-Makes-Us-Stupid/233971?cid=trend_right_a"><img src="https://chronicle-assets.s3.amazonaws.com/5/img/photos/biz/photo_73753_wide_325x163.jpg" alt="photo_73753_wide_325x163" /></a>                                                                        <p class="trending-resources__container--kicker">
+                            <span class="content-card__content-type--text">The Chronicle Review</span>
+                                                    </p>
+                                                <span class="content-card__heading">
+                            <a class="content-card__heading--link" href="http://chronicle.com/article/History-That-Makes-Us-Stupid/233971?cid=trend_right_a">History That Makes Us Stupid</a>                        </span>
+                        <div class="content-card__abstract"></div>
+                    </div>
+                    </div>
+    </div>
+</div>
+<div class="widget">
+    <div class="center-block text-center">
+    <div class="ad show-ad" id="rightrail_5638e2576989a" data-gpt-slot="true" data-gpt-placement="rightrail" data-gpt-sizes="[[300,250]]"></div>
+</div></div>
+<div class="widget widgetname-relatedcontentfeed">
+    <div class="latest-resources__container">
+    <div class="latest-resources__container--header">
+        Latest in Faculty    </div>
+    <div class="latest-resources__container--content">
+                    <div class="content-card__container--article">
+    <div class="content-card__body">
+            <p class="content-card__date">
+                <span class="content-card__content-type--text"></span>
+                            </p>
+        <span class="content-card__heading">
+              <a class="content-card__heading--link" href="http://chronicle.com/article/How-to-Help-Researchers/233998?cid=rc_right">How to Help Researchers' Discoveries Go Viral</a>                &nbsp;<span class="premium-icon glyphicon glyphicon-lock" aria-hidden="true"></span>        </span>
+        <div class="content-card__abstract"></div>
+    </div>
+</div>                    <div class="content-card__container--article">
+    <div class="content-card__body">
+            <p class="content-card__date">
+                <span class="content-card__content-type--text"></span>
+                            </p>
+        <span class="content-card__heading">
+              <a class="content-card__heading--link" href="http://chronicle.com/article/3-Million-Grant-Puts-PhD/233997?cid=rc_right">$3-Million Grant Puts Ph.D. Candidates in 2-Year-College Classrooms</a>                &nbsp;<span class="premium-icon glyphicon glyphicon-lock" aria-hidden="true"></span>        </span>
+        <div class="content-card__abstract"></div>
+    </div>
+</div>                    <div class="content-card__container--article">
+    <div class="content-card__body">
+            <p class="content-card__date">
+                <span class="content-card__content-type--text"></span>
+                            </p>
+        <span class="content-card__heading">
+              <a class="content-card__heading--link" href="http://chronicle.com/article/Subscription-Scare-Fuels/234003?cid=rc_right">Subscription Scare Fuels Worries Over Who Controls Data That Scholars Need</a>                        </span>
+        <div class="content-card__abstract"></div>
+    </div>
+</div>            </div>
+</div>
+</div>
+<div class="widget widgetname-vitaejobcenter">
+    <h2><span class="suggest">Jobs</span><span class="conjunct">on</span><span class="logo">Vitae</span></h2>
+<span class="job-count">Search 10,402 opportunities</span>
+<div class="vitae-jobs--gradient-bg">
+
+    <div class='clearfix hidden-xs'>
+    <h4 class='media-heading'>Browse by Position Type</h4>
+    <div class="keyword-box">
+        <ul>
+            <li><a target="_blank" href="https://chroniclevitae.com/jobs/position_types">All Types</a>|</li><li><a target="_blank" href="https://chroniclevitae.com/jobs/position_types/1">Faculty/Research</a>|</li><li><a target="_blank" href="https://chroniclevitae.com/jobs/position_types/88">Administrative</a>|</li><li><a target="_blank" href="https://chroniclevitae.com/jobs/position_types/147">Executive</a>|</li><li><a target="_blank" href="https://chroniclevitae.com/jobs/position_types/176">Jobs Outside Academe</a></li>        </ul>
+        <div class="clearfix"></div>
+    </div>
+    </div>
+<div class="jobs-center--search__form">
+    <h4 class='media-heading'>Search by Keyword</h4>
+
+    <form method="get" class="jobs__body form-inline" role="form" action="https://chroniclevitae.com/job_search" target="_blank">
+
+        <input name="cid" value="cpw_jobsearch" type="hidden" id="form_cid">
+
+        <div class="jobs-center--search--form input-group">
+
+            <div class="input-group-btn jobs__search-dropdown">
+
+                <input type="hidden" value="1" name="facetClear">
+                <input name="utf8" type="hidden" value="&#x2713;"/>
+                                <input type="hidden" name="job_search[position_type]" class="jobs__position"/>
+                <button type="button" class="dropdown-toggle btn btn-default jobs__search-dropdown" data-toggle="dropdown">
+                    All Types <span class="caret"></span>
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="h8" href="#" data-value="">All Types</a></li>
+                    <li><a class="h8" href="#" data-value="1">Faculty/Research</a></li><li><a class="h8" href="#" data-value="88">Administrative</a></li><li><a class="h8" href="#" data-value="147">Executive</a></li><li><a class="h8" href="#" data-value="176">Outside Academe</a></li>                </ul>
+            </div>
+            <input type="text" name="job_search[keywords]" placeholder="Keywords" class="form-control" style="float: right" autocomplete="off">
+        </div>
+        <button class="btn btn-block" type="submit" name="Search">Search</button>    </form>
+</div>
+<div class="vitae-topjobs__box">
+    <div class='jobs'>
+        <h4 class='media-heading'>Top Jobs</h4>
+        <div class='jobs__topjobs-slider carousel slide'> <!-- topjobs-slider-onlyone ? -->
+            <div class="vitae-topjobs__container carousel-inner"> <!-- Jobs Container -->
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000905623-01?cid=topjobs">Vice President for Student Life and Dean o...</a>                    </div>
+                    <address>
+                        Hanover College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906189-01?cid=topjobs">Assistant or Associate Professor of Applie...</a>                    </div>
+                    <address>
+                        University of Portland                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906112-01?cid=topjobs">Multiple Positions in the School of Educat...</a>                    </div>
+                    <address>
+                        Point Loma Nazarene University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000905291-01?cid=topjobs">Assistant or Associate Professor of Indust...</a>                    </div>
+                    <address>
+                        University of Southern California                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906232-01?cid=topjobs">Director of Assessment</a>                    </div>
+                    <address>
+                        Georgian Court University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000905493-01?cid=topjobs">Faculty Position Openings for Fall 2016</a>                    </div>
+                    <address>
+                        Indiana University East                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906388-01?cid=topjobs">Director of Communications and External Re...</a>                    </div>
+                    <address>
+                        Los Angeles Community College District                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906398-01?cid=topjobs">Multiple Positions</a>                    </div>
+                    <address>
+                        Flagler College                     </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906461-01?cid=topjobs">Interdisciplinary Professional Master of S...</a>                    </div>
+                    <address>
+                        Northeastern University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906476-01?cid=topjobs">Dean of University Libraries</a>                    </div>
+                    <address>
+                        University of Wyoming                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906591-01?cid=topjobs">CLINICAL TRACK FACULTY POSITIONS AT WASHIN...</a>                    </div>
+                    <address>
+                        Washington State University College of Nur...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906702-01?cid=topjobs">Director, Technology and Cyber Law Clinic</a>                    </div>
+                    <address>
+                        Boston University School of Law                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906803-01?cid=topjobs">Paul Batalden Chair in Health Care Deliver...</a>                    </div>
+                    <address>
+                        Dartmouth Institute for Health Policy & Cl...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906887-01?cid=topjobs">Assistant/Associate/Full Professor, Chemis...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906897-01?cid=topjobs">Director of Orchestral Studies/Music Direc...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000903325-01?cid=topjobs">Faculty Positions</a>                    </div>
+                    <address>
+                        Al Jouf University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906996-01?cid=topjobs">President - Pierpont Community & Technical...</a>                    </div>
+                    <address>
+                        Pierpont Community & Technical College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906997-01?cid=topjobs">Summer 2016 Instructors</a>                    </div>
+                    <address>
+                        University of Louisville                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907109-01?cid=topjobs">Assistant Professor in Journalism and Medi...</a>                    </div>
+                    <address>
+                        Colorado State University - Department of ...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907111-01?cid=topjobs">Associate Dean for Curriculum and Director...</a>                    </div>
+                    <address>
+                        Georgetown University School of Medicine                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907123-01?cid=topjobs">ONE (1) TENURE-TRACK FACULTY POSITION IN N...</a>                    </div>
+                    <address>
+                        Virginia Tech                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907196-01?cid=topjobs">Clinical Asst. Professor, Science Educatio...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907233-01?cid=topjobs">Tenure-Track Faculty Positions of Chemistr...</a>                    </div>
+                    <address>
+                        South University of Science and Technology...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907236-01?cid=topjobs">Richard and Susan Levy Chair in Health Car...</a>                    </div>
+                    <address>
+                        The Dartmouth Institute for Health Policy ...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907259-01?cid=topjobs">Associate Dean</a>                    </div>
+                    <address>
+                        Wayne State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907269-01?cid=topjobs">Assistant Professor of Athletic Training</a>                    </div>
+                    <address>
+                        Texas State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907271-01?cid=topjobs">Assistant Professor</a>                    </div>
+                    <address>
+                        Wayne State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907332-01?cid=topjobs">Assistant Professor in Chicana/o and Latin...</a>                    </div>
+                    <address>
+                        Arizona State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000905271-01?cid=topjobs">Dean of the College of Human Environmental...</a>                    </div>
+                    <address>
+                        University of Missouri                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907428-01?cid=topjobs">Assessment Specialist (Instructor-level Fa...</a>                    </div>
+                    <address>
+                        Rowan University School of Osteopathic Med...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907434-01?cid=topjobs">Assistant or Associate Professor, Departme...</a>                    </div>
+                    <address>
+                        College of Charleston, Computer Science                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907440-01?cid=topjobs">Computer Science Position (Associate or As...</a>                    </div>
+                    <address>
+                        Rollins College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907487-01?cid=topjobs">Two Positions: Assistant/Associate Profess...</a>                    </div>
+                    <address>
+                        Texas Tech University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907494-01?cid=topjobs">Executive Director of Human Resources</a>                    </div>
+                    <address>
+                        Southwest Tennessee Community College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907289-01?cid=topjobs">Director of Institutional Advancement</a>                    </div>
+                    <address>
+                        Los Angeles Community College District                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906565-01?cid=topjobs">Department Head (Tenure-Track/Tenured Posi...</a>                    </div>
+                    <address>
+                        University of Illinois at Chicago, College...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907577-01?cid=topjobs">Assistant or Associate Professor of Cybers...</a>                    </div>
+                    <address>
+                        The George Washington University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906800-01?cid=topjobs">Assistant or Associate Professor in Geoene...</a>                    </div>
+                    <address>
+                        Virginia Tech                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907583-01?cid=topjobs">Four Endowed Professorships in Human Healt...</a>                    </div>
+                    <address>
+                        Michigan Technological University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907097-01?cid=topjobs">Assistant/Associate Professor</a>                    </div>
+                    <address>
+                        University of Missouri-Kansas City                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000903859-01?cid=topjobs">Dean of College of Natural Sciences</a>                    </div>
+                    <address>
+                        University of Hawaii at Manoa                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906903-01?cid=topjobs">Assistant Dean - College of Business & Eco...</a>                    </div>
+                    <address>
+                        University of Wisconsin-Whitewater                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907609-01?cid=topjobs">Department of Mining and Minerals Engineer...</a>                    </div>
+                    <address>
+                        Virginia Tech                     </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907644-01?cid=topjobs">The Assistant Vice President for Instituti...</a>                    </div>
+                    <address>
+                        Salem Academy and College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906943-01?cid=topjobs">Dean, College of Pharmacy</a>                    </div>
+                    <address>
+                        Southwestern Oklahoma State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907653-01?cid=topjobs">Senior Director of Annual Giving</a>                    </div>
+                    <address>
+                        Salem Academy and College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907669-01?cid=topjobs">Assistant Professor in Community Health: S...</a>                    </div>
+                    <address>
+                        University of California - Irvine                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906759-01?cid=topjobs">Tenure Track Faculty in College of Educati...</a>                    </div>
+                    <address>
+                        Eastern Michigan University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907723-01?cid=topjobs">Assistant/Associate Professor: Public Heal...</a>                    </div>
+                    <address>
+                        California State University, Chico                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906923-01?cid=topjobs">Assistant Professor</a>                    </div>
+                    <address>
+                        Columbia University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907076-01?cid=topjobs">Faculty Position in Bio-inspired Science a...</a>                    </div>
+                    <address>
+                        Virginia Tech                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907775-01?cid=topjobs">Lecturer, Dept. of Chemistry/Biochemistry</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907777-01?cid=topjobs">Assistant Professor, Construction Manageme...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907011-01?cid=topjobs">Assistant Professor of German/Film Studies</a>                    </div>
+                    <address>
+                        St. Lawrence University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906553-01?cid=topjobs">Lecturer Position in Biology</a>                    </div>
+                    <address>
+                        Georgia State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000906753-01?cid=topjobs">Education - Assistant Professor</a>                    </div>
+                    <address>
+                        St. Lawrence University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907009-01?cid=topjobs">Assistant Professor of Francophone Studies...</a>                    </div>
+                    <address>
+                        St. Lawrence University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907750-01?cid=topjobs">Assistant Professor of Biology 9 Month Ten...</a>                    </div>
+                    <address>
+                        Sul Ross State University Rio Grande Colle...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907918-01?cid=topjobs">Senior Research Fellow in Sport Business &...</a>                    </div>
+                    <address>
+                        Leeds Beckett University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907926-01?cid=topjobs">Senior Lecturer in Sport Coaching</a>                    </div>
+                    <address>
+                        Leeds Beckett University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907949-01?cid=topjobs">Online Academic Coach (Virtual, Part-Time,...</a>                    </div>
+                    <address>
+                        Instructional Connections, LLC                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907855-01?cid=topjobs">Assistant Professor of English, Tenure Tra...</a>                    </div>
+                    <address>
+                        Texas A&M University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907662-01?cid=topjobs">Faculty Positions</a>                    </div>
+                    <address>
+                        University of South Carolina Beaufort                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908049-01?cid=topjobs">President</a>                    </div>
+                    <address>
+                        CUTTINGTON UNIVERSITY                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908082-01?cid=topjobs">Vice President, Administrative Affairs</a>                    </div>
+                    <address>
+                        College of Lake County                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908108-01?cid=topjobs">Research Fellow in Sport Business & Market...</a>                    </div>
+                    <address>
+                        Leeds Beckett University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907748-01?cid=topjobs">Assistant/Associate/Full Professor Positio...</a>                    </div>
+                    <address>
+                        Rutgers University, Newark and New Brunswi...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907753-01?cid=topjobs">Non-Tenure Track Finance Position</a>                    </div>
+                    <address>
+                        Rutgers University,  Newark and New Brunsw...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907726-01?cid=topjobs">Dean of University Libraries</a>                    </div>
+                    <address>
+                        The University of Mississippi                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907731-01?cid=topjobs">Dean of Academics</a>                    </div>
+                    <address>
+                        The United States Coast Guard Academy                     </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907722-01?cid=topjobs">Dean, College of Liberal Arts</a>                    </div>
+                    <address>
+                        Colorado State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907784-01?cid=topjobs">Open Rank, College of Education</a>                    </div>
+                    <address>
+                        University of Oregon, College of Education                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907598-01?cid=topjobs">Lecturer on Computational Science</a>                    </div>
+                    <address>
+                        Harvard  University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907717-01?cid=topjobs">Assistant Lecturer Agricultural Communicat...</a>                    </div>
+                    <address>
+                        University of Wyoming                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908139-01?cid=topjobs">Director of the Lincoln Scholars Program</a>                    </div>
+                    <address>
+                        Centre College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908164-01?cid=topjobs">Director MCW Libraries</a>                    </div>
+                    <address>
+                        Medical College of Wisconsin                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907973-01?cid=topjobs">Multiple Tenure Track Positions in the Sch...</a>                    </div>
+                    <address>
+                        University of Southern California                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908149-01?cid=topjobs">College of Education at Georgia College & ...</a>                    </div>
+                    <address>
+                        Georgia College & State University                     </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907002-01?cid=topjobs">Assistant, Associate or Full Professor </a>                    </div>
+                    <address>
+                        University of Wisconsin-Madison                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907743-01?cid=topjobs">Multiple Faculty Opportunities Available</a>                    </div>
+                    <address>
+                        University of Wisconsin-Milwaukee College ...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000907864-01?cid=topjobs">Chair, Department of Communication Science...</a>                    </div>
+                    <address>
+                        Baylor University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000905844-01?cid=topjobs">Chairperson, Department of Urban and Regio...</a>                    </div>
+                    <address>
+                        Jackson State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908241-01?cid=topjobs">Chair Department of English</a>                    </div>
+                    <address>
+                        Michigan State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908256-01?cid=topjobs">Chair of the Department of Educational Stu...</a>                    </div>
+                    <address>
+                        Indiana University-Purdue University Fort ...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908266-01?cid=topjobs">Director of Graduate Studies</a>                    </div>
+                    <address>
+                        Virginia Commonwealth University School of...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908314-01?cid=topjobs">Assistant Professor of Intercultural Commu...</a>                    </div>
+                    <address>
+                        Arizona State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908318-01?cid=topjobs">Assistant Professor of Music Theory</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908324-01?cid=topjobs">Associate Dean/Professor, College of the A...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908384-01?cid=topjobs">Assistant Professor of Organizational Comm...</a>                    </div>
+                    <address>
+                        Arizona State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908490-01?cid=topjobs">Frederick Law Olmsted Professorships In Su...</a>                    </div>
+                    <address>
+                        Georgia Institute of Technology                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908515-01?cid=topjobs">Faculty Positions</a>                    </div>
+                    <address>
+                        Mars Hill University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908585-01?cid=topjobs">Asst./Assoc. Professor, Higher Ed. Leaders...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908587-01?cid=topjobs">Assistant or Associate Professor, TESOL</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908591-01?cid=topjobs">Assistant/Associate Professor of Special E...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908592-01?cid=topjobs">Assistant Professor of Elementary Literacy</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908649-01?cid=topjobs">Director of Athletics and Recreation</a>                    </div>
+                    <address>
+                        Grinnell College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908666-01?cid=topjobs">Assistant Professor: Physiological Genomic...</a>                    </div>
+                    <address>
+                        University of Colorado Denver                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908679-01?cid=topjobs">Assistant Professor of Computer Science</a>                    </div>
+                    <address>
+                        Boston University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908710-01?cid=topjobs">Assistant/Associate Professor Nuclear Engi...</a>                    </div>
+                    <address>
+                        Oregon State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908711-01?cid=topjobs">Three (3) Faculty Positions in Safety and ...</a>                    </div>
+                    <address>
+                        University of Virginia                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908746-01?cid=topjobs">Assistant Professor of Administrative Scie...</a>                    </div>
+                    <address>
+                        Boston University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908753-01?cid=topjobs">Associate Dean for Academic Affairs</a>                    </div>
+                    <address>
+                        University of Arkansas for Medical Science...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908780-01?cid=topjobs">Instructional Faculty - Accounting</a>                    </div>
+                    <address>
+                        California State University, San Bernardin...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908847-01?cid=topjobs">Assoc. Dean, Grad. Studies/Research Profes...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908848-01?cid=topjobs">Lecturer/Sr. Lecturer, Business Communicat...</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908851-01?cid=topjobs">Associate Director, Housing Facilities and...</a>                    </div>
+                    <address>
+                        Indiana University-Purdue University India...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000908735-01?cid=topjobs">Vice President for Student Life and Dean o...</a>                    </div>
+                    <address>
+                        Agnes Scott College                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909044-01?cid=topjobs">Open Rank Faculty in Mechanical Engineerin...</a>                    </div>
+                    <address>
+                        Virginia Tech                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909076-01?cid=topjobs">Executive Director - Center for Distance E...</a>                    </div>
+                    <address>
+                        Mississippi State University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909122-01?cid=topjobs">Dean of Students</a>                    </div>
+                    <address>
+                        Campbell University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909139-01?cid=topjobs">Director, Institute of Neurobiology, Unive...</a>                    </div>
+                    <address>
+                        Institute of Neurobiology, University of P...                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909161-01?cid=topjobs">Chair,  Department of Occupational Therapy</a>                    </div>
+                    <address>
+                        Western Michigan University                    </address>
+                </div>
+    <!-- List this for each job -->
+                <div class="vitae-topjobs__job item">
+                    <div class='title'>
+                        <a data-omniture-widget="vitaejobcenter-topjob" target="_blank" href="https://chroniclevitae.com/jobs/0000909166-01?cid=topjobs">Clinical Assistant Professor of Nursing</a>                    </div>
+                    <address>
+                        Kennesaw State University                    </address>
+                </div>
+     <!-- End each job -->
+        </div>
+            <div class="jobs__topjobs-slider__controls">
+                <a class="left carousel-control" href=".jobs__topjobs-slider" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                <a class="right carousel-control" href=".jobs__topjobs-slider" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+        </div>
+                </div> <!-- Jobs Container -->
+    </div>
+</div>
+<div class='clearfix hidden-xs vitae-post-job'>
+    <a target="_blank" class="jobs__post__btn btn pull-left" href="https://careers.chronicle.com/">Post a Job</a>
+    <div class='marketing-text'>
+        <p>In print and online today</p>
+    </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>
+<div class='visible-xs-block footer__subscribe btn btn-subscribe'>
+              <a class="btn btn-block btn-subscribe btn-primary" href="/subscribe/?PK=M1224&cid=MH2WF1">
+              <div class="footer__btn--subscribe col-xs-12">
+                  Subscribe Today
+              </div>
+          </a>
+    </div>
+    <footer class="footer" role="contentinfo">
+        <div class='footer__container'>
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-9">
+                    <a href="/">
+                        <img alt="Chronicle of Higher Education" class="footer--logo" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/footer-logo.png" />                    </a>
+                </div>
+                <div class='hidden-xs col-sm-4 col-md-3 row'>
+                                      <a class="footer__btn" href="/subscribe/?PK=M1224&cid=MH2WF1">
+                          <div class="footer__btn--subscribe col-lg-12">
+                              Subscribe Today
+                          </div>
+                      </a>
+                
+                </div>
+            </div>
+            <div class="row">
+                <div class='col-sm-12'>
+                    <div class="row">
+                        <div class='col-md-4 visible-md visible-lg'>
+                            <address>1255 Twenty-Third St., N.W. <br />Washington, D.C. 20037</address>
+                        </div>
+                        <div class='page-footer__links col-md-8'>
+
+                            <ul class='list-unstyled col-sm-3 col-xs-6'>
+                                <li>
+                                    <a class='page-footer__twitter' target="_blank" href='http://twitter.com/chronicle'><span class="icon-twitter"></span>&nbsp;Twitter</a>
+                                </li>
+                                <li>
+                                    <a class='page-footer__facebook' target="_blank" href='http://www.facebook.com/chronicle.of.higher.education'><span class="icon-facebook"></span>&nbsp;Facebook</a>
+                                </li>
+                            </ul>
+                            <ul class='list-unstyled col-sm-3 col-xs-6'>
+                                                                <li>
+                                    <a href="http://chronicle.com/account/login?cid=che_lgi&goto=%2Farticle%2FNRC-Rankings-Overview-%2F124721">Log In</a>
+                                </li>
+                                                                <li>
+                                    <a href="/page/Newsletters/621">Get Newsletters</a>
+                                </li>
+                                <li>
+                                    <a href='http://chronicle.com/page/Events/623'>Events</a>
+                                </li>
+                            </ul>
+                            <ul class='list-unstyled col-sm-3 col-xs-6'>
+                                <li>
+                                    <a href="/page/About-the-Chronicle/609">About The Chronicle</a>
+                                </li>
+                                <li>
+                                    <a href="/page/Advertise/611">Advertise</a>
+                                </li>
+                                <li>
+                                    <a href="/page/Contact-Us/613">Contact Us</a>
+                                </li>
+                            </ul>
+
+                            <ul class='list-unstyled col-sm-3 col-xs-6'>
+                                <li>
+                                    <a href="/page/help/615">Help</a>
+                                </li>
+                                 <li>
+                                    <a href="/sitemap">Site Map</a>
+                                </li>
+                                <li>
+                                    <a href="/page/Privacy-Policy/617/">Privacy Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/page/User-Agreement/619/">User Agreement</a>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class='page-footer__copyright'>Copyright &copy; 2015 The Chronicle of Higher Education</div>
+                </div>
+            </div>
+        </div>
+    </footer>
+  <div class="modal fade" id="frameModal" tabindex="-1" role="dialog" aria-labelledby="frameModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 id="frameModalLabel" class="modal-title"></h4>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <div class="modal fade" id="remoteModal" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/js/parsley.min.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/js/theme.min.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/elqNow/elqCfg.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/elqNow/elqImg.js"></script>
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-295043-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<!--BEGIN QUALTRICS SITE INTERCEPT-->
+<script type='text/javascript'>
+    (function(){var g=function(e,h,f,g){
+        this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+        this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+        this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+        this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+        this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+        try{(new g(100,"r","QSI_S_ZN_86Avj0qK1qmGKPz","//zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_ZID=ZN_86Avj0qK1qmGKPz&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+</script><div id='ZN_86Avj0qK1qmGKPz'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+<!--END SITE INTERCEPT--> <script type="text/javascript">
+//var __st_loadLate=true; //if __st_loadLate is defined then the widget will not load on domcontent ready
+var switchTo5x=true;
+</script>
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+    function clickCallback(event,service){
+        if ( typeof sc_content_share === 'function' ) {
+            sc_content_share(service);
+        }
+    }
+    stLight.options({publisher: "7037d67e-537b-4eb5-a53d-edaaf2dc328e", minorServices:false, onhover: false});
+    stLight.subscribe("click",clickCallback);
+</script><!-- chartbeat -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    var _chartbeat_section;
+    var _chartbeat_author;
+
+    if (document.location.href.indexOf('/forums/') == -1)
+    {
+        /** CONFIGURATION START **/
+        _sf_async_config.uid = 52508;
+        _sf_async_config.domain = 'chronicle.com';
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.path = window.location.pathname;
+        /** CONFIGURATION END **/
+
+                //Send content ID if present
+        var _cbq = window._cbq || [];
+        _cbq.push(['_content_id', 'article::124721']);
+        
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+                if (s.prop2)
+                {
+                    _chartbeat_author = s.prop2.replace(/^.+:([^:]+)$/,'$1');
+                }
+                else
+                {
+                    _chartbeat_author = '[no author]';
+                }
+
+                if (s.channel)
+                {
+                    _chartbeat_section = s.channel.replace(/^.+:([^:]+)$/,'$1');
+                }
+
+                if (s.list1)
+                {
+                    _chartbeat_section += ","+s.list1.replace(":", ",");
+                }
+
+                if (s.prop4)
+                {
+                    _chartbeat_section += ","+s.prop4;
+                }
+
+                _chartbeat_section = _chartbeat_section.replace(/\,$/,'');
+
+            _sf_async_config.sections = _chartbeat_section;  //CHANGE THIS
+            _sf_async_config.authors = _chartbeat_author;    //CHANGE THIS
+
+            //lowercase path & remove trailing slash
+            _sf_async_config.domain = _sf_async_config.domain.toLowerCase();
+            _sf_async_config.path = _sf_async_config.path.toLowerCase();
+            if(_sf_async_config.path.substr(-1) == "/") {
+                _sf_async_config.path = _sf_async_config.path.slice(0, -1);
+            }
+
+            var e = document.createElement('script');
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+          }
+
+          if (window.attachEvent){
+              window.attachEvent('onload', loadChartbeat);
+          }else{
+              window.addEventListener('load', loadChartbeat, false);
+          }
+
+        })();
+    }
+    </script>
+
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/omniture/omniture_s_code.js"></script>
+<script type="text/javascript">
+
+s.prop1="faculty"
+s.prop2=""
+s.prop3="[no sub sub-section]"
+s.prop5="nrc-rankings-overview-computer-sciences"
+s.prop6="124721"
+s.prop48="article"
+s.prop4="article:free:full"
+s.prop40="824"
+s.prop18="free"
+s.prop20="logged out"
+s.channel="news"
+s.list1="[no topics]"
+s.pageName="che:article:124721"
+s.events="event2,event45,event49"
+var s_code=s.t();if(s_code)document.write(s_code);
+</script>
+
+
+
+     <script type="text/javascript">
+        $(function() {
+        /*
+ * Ads
+ */
+
+// create a new Ads instance and call doAds()
+var adManager = new AdManager();
+adManager.initAds();
+
+/*
+ * User Favorites
+ */
+var fav = new Favorites();
+
+/*
+ * Form Valdation
+ * --------------
+ */
+var v = new FormValidation();
+v.initFormValidation();
+v.search();
+v.jobApplyForm();
+
+/*
+ * Jobs "Select" Menu
+ */
+var dd = new Dropdown();
+dd.setJobsDropdown();
+
+/*
+ * Modals
+ * ------
+ *
+ * Modals
+ */
+var modals = new Modals();
+modals.loginAuth();
+modals.chronFrameOpen();
+if ($('div[data-auto-open-modal-url]').length) {
+  modals.autoOpen(
+    $('div[data-auto-open-modal-url]').attr('data-auto-open-modal-url'),
+    $('div[data-auto-open-modal-title]').attr('data-auto-open-modal-title')
+  );
+}
+
+/*
+ * Account Events
+ * ------
+ *
+ * Username Generator
+ * Logout
+ */
+var accounts = new Accounts();
+accounts.logout();
+
+/*
+ * Top Jobs Slider
+ * ------
+ *
+ * Generates a top jobs slider for each element
+ */
+
+var topJobs = new Slider();
+$('.jobs__topjobs-slider').each(function() {
+  topJobs.addSlider($(this), { random: true });
+})
+
+/*
+ * Layout
+ * ------
+ */
+//var layout = new Layout();
+//layout.findLayouts();
+
+
+/*
+ * Disqus
+ * ------
+ *
+ * This module uses code from the disqus controller and view (externaljs module). The js module is in the modules
+ * directory.
+ */
+if (typeof(disqus_shortname) === 'string') {
+  var disqus = new Disqus();
+}
+
+/*
+ * Article Sidebar
+ */
+var sidebar = new ArticleSidebar();
+sidebar.positionSidebar();
+
+/*
+ * Util functions
+ */
+ var util = new Util();
+ util.bindSelectChangeRefresh();
+
+ /**
+  * job search toggle bind
+  */
+ util.bindFacetToggle();
+
+ util.bindPopover();
+        });
+     </script>
+  </body>
+</html>

@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]> <! <![endif]-->
+<html class='no-js'>
+<!-- <![endif] -->
+  <head>
+    <title>NRC Rankings Overview: Computer Sciences - The Chronicle of Higher Education</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link type="text/css" rel="stylesheet" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/css/theme.min.css" />
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/js/jquery-1.11.2.min.js"></script>
+
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta property="og:title" content="NRC Rankings Overview: Computer Sciences" />
+<meta name="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://chronicle.com/article/NRC-Rankings-Overview-/124721/" />
+<meta property="og:site_name" content="The Chronicle of Higher Education" />
+<meta property="article:published_time" content="2010-09-30T14:59:00-0400" />
+<meta property="article:tag" content="" />
+<meta property="og:image" content="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/ognameplate.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-144x144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-120x120-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/app-icons/apple-touch-icon-57x57-precomposed.png">
+    <link rel=”mask-icon” href="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/favicon.svg" color="#000000">
+    <!--[if lt IE 9]>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/html5shiv.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/selectivizr/selectivizr.min.js"></script>
+	<script type="text/javascript" src="https://chronicle-assets.s3.amazonaws.com/5/public/assets/js/respond/respond.min.js"></script>
+    <![endif]-->
+<!-- chartbeat -->
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+
+allAdsJson = {"zone":"chronicle\/content\/article","ads":{"desktop":{"leaderboard_0":{"sizes":[[728,90]],"targeting":{"tile":1}}},"mobile":[]},"targeting":{"channel":["news","faculty"]}};
+
+})();
+
+</script>  </head>
+  <body class="">
+    <a href="#maincontent" class="sr-only sr-only-focusable">Skip to main content</a>
+<div class="center-block text-center">
+    <div class="ad show-ad leaderboard" id="leaderboard_0"></div>
+</div>
+
+<header class="header__container" role="banner">
+    <div class="header__container--inner container">
+        <div class="header--row row">
+            <div class="col-sm-12">
+                <nav>
+                    <div class="clearfix">
+                        <ul class="pull-right clearfix nav-user_nav hidden-xs">
+                            <li class=""><a href="https://chronicle-store.com/?PK=MHENAV&cid=henav">Store</a></li>
+                                                            <li class=""><a href="/account/login?goto=/article/NRC-Rankings-Overview-/124721">Log In</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="pull-right clearfix subscribe">
+                                                    <a class="btn btn-primary btn-subscribe" href='/subscribe/?PK=M1224&cid=MH1WH1'>Subscribe Today</a>
+                                            </div>
+                </nav>
+                <a href="http://chronicle.com/"><img alt="The Chronicle of Higher Education" class="img-responsive navbar--logo" src="https://chronicle-assets.s3.amazonaws.com/5/public/theme/che2015/img/header-logo.png" /></a>            </div>
+            <div class="col-sm-12">
+                <nav class='navbar navbar-default' role='navigation'>
+    <div class="navbar-header">
+        <div class="mobile-controls clearfix visible-xs visible-sm">
+            <a data-toggle="collapse" class="searchbar-toggle pull-right" href="#search-collapse-header">
+                <div class="">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </div>
+            </a>
+            <button type="button" class='navbar-toggle pull-left' data-target='#nb-collapse-header' data-toggle='collapse'>
+                <span class="sr-only">Toggle navigation</span>
+                <div class="navbar-toggle__icons pull-left">
+                    <span class="navigation-label"> </span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+                <span class="navbar-toggle__text pull-left">NEWS</span>
+
+            </button>
+        </div>
+    </div>
+        <div class="visible-xs visible-sm">
+        <div class="collapse navbar-collapse searchbar" id="search-collapse-header">
+            <form method="get" action="/search/" class="mobile-search">
+                <div class="input-group">
+                    <label for="site_search_by_keyword" class="sr-only">Search the Chronicle</label>
+                    <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword" class="form-control" role="search">
+                    <div class="input-group-btn">
+                        <button type="submit" class="btn btn-primary" aria-label="Search" >Go</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class='collapse navbar-collapse' role="navigation" id="nb-collapse-header">
+        <ul class='nav navbar-nav'>
+                                    
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Home/5/'>Home</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Home/5/'>Home</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm active" aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/News/6/'>News</a>
+                </li>
+                <li class='btn-group active hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/News/6/'>News</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle News Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Faculty/7'>Faculty</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Administration/16'>Administration</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Technology/30'>Technology</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Community-Colleges/33'>Community Colleges</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Special-Reports/35'>Special Reports</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/People/36'>People</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/specialreport/Current-Issue/1'>Current Issue</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Archives/39'>Archives</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Global/433'>Global</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Global/433'>Global</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Opinion-Ideas/40/?eio=58977'>Opinion & Ideas</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Opinion-Ideas/40/?eio=58977'>Opinion & Ideas</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Opinion & Ideas Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/The-Chronicle-Review/41'>The Chronicle Review</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Commentary/44'>Commentary</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Books/55'>Books</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/letters/'>Letters</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/Crosswords/43'>Crosswords</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/academicDestination/index'>Academic Destinations</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/campusViewpoint/topics'>Campus Viewpoints</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Facts-Figures/58'>Facts & Figures</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Facts-Figures/58'>Facts & Figures</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='http://chronicle.com/section/Blogs/164'>Blogs</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='http://chronicle.com/section/Blogs/164'>Blogs</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Blogs Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='/blogs/ticker'>The Ticker</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/wiredcampus'>Wired Campus</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/linguafranca'>Lingua Franca</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='/blogs/profhacker?eio=61142'>ProfHacker</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/section/Advice/66/'>Advice</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/section/Advice/66/'>Advice</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='/forums/'>Forums</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='/forums/'>Forums</a>
+                
+                </li>
+                            
+                <li class="visible-xs visible-sm " aria-hidden="true">
+                    <a  class="dropdown-item" href='https://chroniclevitae.com/job_search/new?cid=chenav'>Jobs</a>
+                </li>
+                <li class='btn-group  hidden-xs hidden-sm'>
+                
+                    <a  class="btn" href='https://chroniclevitae.com/job_search/new?cid=chenav'>Jobs</a>
+                    <a type="button" class="btn dropdown-toggle hidden-sm" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" role="button">
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Jobs Menu</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        
+                            <li>
+                                <a  href='/employer/alpha'>Employer Profiles</a>
+                            </li>
+                        
+                            <li>
+                                <a  href='http://chronicle.com/section/For-Employers/64'>For Employers</a>
+                            </li>
+                        
+                    </ul>
+                
+                </li>
+                                <li class="btn-group dropdown visible-md">
+                <a href="#" class="dropdown-toggle btn" data-toggle="dropdown"><span class="glyphicon glyphicon-search"></span>&nbsp;&nbsp;<span class="caret"></span></a>
+                <div class="navbar__search dropdown-menu dropdown-menu--tablet-search col-sm-6 pull-right" id="search-icon-collapse-header">
+                    <form method="get" action="/search/" class="mobile-search">
+                        <div class="input-group">
+                            <label for="site_search_by_keyword" class="sr-only">Search the Chronicle</label>
+                            <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword" class="form-control" role="search">
+                            <div class="input-group-btn">
+                                <button type="submit" class="btn btn-primary" aria-label="Search">Go</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </li>
+        </ul>
+        <form class="navbar-form navbar-right hidden-md hidden-sm hidden-xs" role="search" action="/search/" method="get">
+            <div class="form-group">
+                <label for="site_search_by_keyword_nav" class="sr-only">Search the Chronicle</label>
+                <input type="text" name="q" placeholder="Search the Chronicle" id="site_search_by_keyword_nav" class="form-control" role="search">
+            </div>
+            <span class="" style="margin-left:-4px;">
+                <button type="submit" class="btn btn-primary" aria-label="Search" >Go</button>
+            </span>
+        </form>
+    </div>
+</nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class='container article'>
+  <div class="row">
+    <div id="maincontent" class='col-md-8 content-center' role="main">
+      <article class='clearfix content-item__container--article'>
+            <header>
+                <ul class='content-item__share pull-right'>
+                                            <li><ul class="content-item__share--buttons">
+<li class='st_facebook'></li>
+<li class='st_twitter' st_via='chronicle'></li>
+<li class='st_googleplus'></li>
+<li class='st_email'></li>
+</ul></li>
+                                        <li class="content-item__print share-divider print-btn" data-print onclick="javascript:print()"></li>
+                    <li class="content-item__comment"><a href='#comments-anchor' data-disqus-identifier='article/124721'>Comments</a></li>                                    </ul>
+                <span class="visible-xs"><br><br></span>
+
+                                    <span class="content-item__tone"><a href="http://chronicle.com/section/Faculty/7">Faculty</a><br></span>
+                                
+                <h1 class="content-item__title">Doctoral Programs by the Numbers</h1>
+                
+                                <div class="content-item__spacer">
+                                        <span class="content-item__date">
+                        September 30, 2010                    </span>
+                </div>
+            </header>
+                        <div class="content-item__story">
+                <script type="text/javascript">// <![CDATA[
+function sortTable(col) {
+
+  // Get the table section to sort.
+  var tblEl = document.getElementById("planetData");
+
+  // Set the table display style to "none" - necessary for Netscape 6 
+  // browsers.
+  var oldDsply = tblEl.style.display;
+  tblEl.style.display = "none";
+
+  // Sort the rows based on the content of the specified column using a
+  // selection sort.
+
+  var tmpEl;
+  var i, j;
+  var minVal, minIdx;
+  var testVal;
+  var cmp;
+
+  for (i = 0; i < tblEl.rows.length - 1; i++) {
+
+    // Assume the current row has the minimum value.
+    minIdx = i;
+    minVal = getTextValue(tblEl.rows[i].cells[col]);
+
+    // Search the rows that follow the current one for a smaller value.
+    for (j = i + 1; j < tblEl.rows.length; j++) {
+      testVal = getTextValue(tblEl.rows[j].cells[col]);
+      cmp = compareValues(minVal, testVal);
+      // If this row has a smaller value than the current minimum, remember its
+      // position and update the current minimum value.
+      if (cmp > 0) {
+        minIdx = j;
+        minVal = testVal;
+      }
+    }
+
+    // By now, we have the row with the smallest value. Remove it from the
+    // table and insert it before the current row.
+    if (minIdx > i) {
+      tmpEl = tblEl.removeChild(tblEl.rows[minIdx]);
+      tblEl.insertBefore(tmpEl, tblEl.rows[i]);
+    }
+  }
+
+  // Restore the table's display style.
+  tblEl.style.display = oldDsply;
+
+  return false;
+}
+
+function sortTable2(col) {
+
+  // Get the table section to sort.
+  var tblEl = document.getElementById("planetData2");
+
+  // Set up an array of reverse sort flags, if not done already.
+  if (tblEl.reverseSort == null)
+    tblEl.reverseSort = new Array();
+
+  // If this column was the last one sorted, reverse its sort direction.
+  if (col == tblEl.lastColumn)
+    tblEl.reverseSort[col] = !tblEl.reverseSort[col];
+
+  // Remember this column as the last one sorted.
+  tblEl.lastColumn = col;
+
+  // Set the table display style to "none" - necessary for Netscape 6 
+  // browsers.
+  var oldDsply = tblEl.style.display;
+  tblEl.style.display = "none";
+
+  // Sort the rows based on the content of the specified column using a
+  // selection sort.
+
+  var tmpEl;
+  var i, j;
+  var minVal, minIdx;
+  var testVal;
+  var cmp;
+
+  for (i = 0; i < tblEl.rows.length - 1; i++) {
+
+    // Assume the current row has the minimum value.
+    minIdx = i;
+    minVal = getTextValue(tblEl.rows[i].cells[col]);
+
+    // Search the rows that follow the current one for a smaller value.
+    for (j = i + 1; j < tblEl.rows.length; j++) {
+      testVal = getTextValue(tblEl.rows[j].cells[col]);
+      cmp = compareValues(minVal, testVal);
+      // Reverse order?
+      if (tblEl.reverseSort[col])
+        cmp = -cmp;
+      // If this row has a smaller value than the current minimum, remember its
+      // position and update the current minimum value.
+      if (cmp > 0) {
+        minIdx = j;

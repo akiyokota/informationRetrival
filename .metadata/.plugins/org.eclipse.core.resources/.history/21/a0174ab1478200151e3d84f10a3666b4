@@ -1,0 +1,1499 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html  xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head"><title>
+	Exclusive Interview: An Engineer’s Take on the Science of ‘The Avengers’ > ENGINEERING.com
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaDescription" name="DESCRIPTION" content="Professor with a passion for superheroes explores the hit Marvel franchise from an engineering standpoint " /><meta id="MetaKeywords" name="KEYWORDS" content="Designer Edge engineering, interview, Avengers, Ultron" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2000-2013 ENGINEERING.com" /><meta id="MetaAuthor" name="AUTHOR" content="ENGINEERING.com" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/DesktopModules/DnnForge - NewsArticles/module.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/2015_2Column_Article/2Column_Article.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/Eng2010_v1/table_resizable_elelctronics.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=36" type="text/css" rel="stylesheet"/><link href="/desktopmodules/dnnforge - newsarticles/includes/shadowbox/shadowbox.css?cdv=36" type="text/css" rel="stylesheet"/><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js?cdv=36" type="text/javascript"></script><link id="Template_10902" rel="stylesheet" type="text/css" href="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Template.css" /><link id="Template_429" rel="stylesheet" type="text/css" href="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Template.css" /><meta property="og:image" content="http://www.engineering.com/portals/0/BlogFiles/Avengers.jpg" />
+<meta data-sj-meta-image content="http://res.cloudinary.com/engineering-com/image/fetch/w_100,h_80,f_jpg,c_fill/http://www.engineering.com/portals/0/BlogFiles/Avengers.jpg" /><link rel="canonical" href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10028/Exclusive-Interview-An-Engineers-Take-on-the-Science-of-The-Avengers.aspx"/><meta data-sj-meta-title content="Exclusive Interview: An Engineer’s Take on the Science of ‘The Avengers’"/>
+<script type="text/javascript">
+    var _sj = _sj || [];
+    _sj.push(['company', 'engineeringcom']);
+    _sj.push(['collection', 'contentonly']);
+    (function () {
+        var sj = document.createElement('script');
+        sj.type = 'text/javascript';
+        sj.async = true;
+        sj.src = 'https://www.sajari.com/js/sj.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(sj, s);
+    })();
+ </script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" title="windows livewriter manifest" href="http://www.engineering.com/desktopmodules/dnnforge%20-%20newsarticles/api/metaweblog/wlwmanifest.xml" />
+
+<link type="application/rsd+xml" rel="EditURI" title="RSD" href="http://www.engineering.com/desktopmodules/dnnforge%20-%20newsarticles/api/rsd.ashx?id=38901&url=http://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx" />
+</head>
+<body id="Body">
+    
+    <form method="post" action="/DesignerEdge/DesignerEdgeArticles/ArticleID/10028/Exclusive-Interview-An-Engineers-Take-on-The-Avengers.aspx" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="KB_JSTester_JSEnabled" id="KB_JSTester_JSEnabled" value="0" />
+<input type="hidden" name="KB_JSTester_JQueryVsn" id="KB_JSTester_JQueryVsn" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTYzNDk3MTAxD2QWCGYPFgIeBFRleHQFeTwhRE9DVFlQRSBodG1sIFBVQkxJQyAiLS8vVzNDLy9EVEQgWEhUTUwgMS4wIFRyYW5zaXRpb25hbC8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9UUi94aHRtbDEvRFREL3hodG1sMS10cmFuc2l0aW9uYWwuZHRkIj5kAgIPFgIfAAVDIHhtbDpsYW5nPSJlbi1VUyIgbGFuZz0iZW4tVVMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sImQCBA9kFh4CAg8WAh4HY29udGVudAUYdGV4dC9odG1sOyBjaGFyc2V0PVVURi04ZAIDDxYCHwEFD3RleHQvamF2YXNjcmlwdGQCBA8WAh8BBQh0ZXh0L2Nzc2QCBQ8WBB8BZB4HVmlzaWJsZWhkAgYPFgIfAQVqUHJvZmVzc29yIHdpdGggYSBwYXNzaW9uIGZvciBzdXBlcmhlcm9lcyBleHBsb3JlcyB0aGUgaGl0IE1hcnZlbCBmcmFuY2hpc2UgZnJvbSBhbiBlbmdpbmVlcmluZyBzdGFuZHBvaW50IGQCBw8WAh8BBTZEZXNpZ25lciBFZGdlIGVuZ2luZWVyaW5nLCBpbnRlcnZpZXcsIEF2ZW5nZXJzLCBVbHRyb25kAggPFgIfAQUjQ29weXJpZ2h0IDIwMDAtMjAxMyBFTkdJTkVFUklORy5jb21kAgkPFgQfAWQfAmhkAgoPFgIfAQUPRU5HSU5FRVJJTkcuY29tZAILDxYCHwEFCERPQ1VNRU5UZAIMDxYCHwEFBkdMT0JBTGQCDQ8WAh8BBQ1JTkRFWCwgRk9MTE9XZAIODxYCHwEFBjEgREFZU2QCDw8WAh8BBQdHRU5FUkFMZAIQDxYCHwEFJFJldmVhbFRyYW5zKER1cmF0aW9uPTAsVHJhbnNpdGlvbj0xKWQCBg9kFgICAQ9kFgRmD2QWAmYPFgIfAmgWAmYPZBYCZg9kFgYCAw8QZGQWAGQCDw9kFgJmDw8WBh4ISW1hZ2VVcmwFFC9pbWFnZXMvY29sbGFwc2UuZ2lmHg1BbHRlcm5hdGVUZXh0BQhNaW5pbWl6ZR4HVG9vbFRpcAUITWluaW1pemVkZAIRD2QWAgIBD2QWAgIBD2QWEAIBDxBkZBYAZAIFDxBkZBYAZAIHDxBkZBYAZAILDxBkZBYAZAIPDxBkZBYAZAIVDxBkZBYAZAIZDxBkZBYBZmQCHQ8QZGQWAGQCCA9kFgJmD2QWEAIHD2QWBGYPDxYKHghDc3NDbGFzcwUISGVhZEdyYXkfAAUFTG9naW4fBQUFTG9naW4eC05hdmlnYXRlVXJsBacBaHR0cDovL3d3dy5lbmdpbmVlcmluZy5jb20vTG9naW4uYXNweD9yZXR1cm51cmw9JTJmRGVzaWduZXJFZGdlJTJmRGVzaWduZXJFZGdlQXJ0aWNsZXMlMmZBcnRpY2xlSUQlMmYxMDAyOCUyZkV4Y2x1c2l2ZS1JbnRlcnZpZXctQW4tRW5naW5lZXJzLVRha2Utb24tVGhlLUF2ZW5nZXJzLmFzcHgeBF8hU0ICAmRkAgIPFgIfAmgWAgIBDw8WCh8GBQhIZWFkR3JheR8ABQVMb2dpbh8FBQVMb2dpbh8HBacBaHR0cDovL3d3dy5lbmdpbmVlcmluZy5jb20vTG9naW4uYXNweD9yZXR1cm51cmw9JTJmRGVzaWduZXJFZGdlJTJmRGVzaWduZXJFZGdlQXJ0aWNsZXMlMmZBcnRpY2xlSUQlMmYxMDAyOCUyZkV4Y2x1c2l2ZS1JbnRlcnZpZXctQW4tRW5naW5lZXJzLVRha2Utb24tVGhlLUF2ZW5nZXJzLmFzcHgfCAICZGQCDQ9kFgICAQ8WAh4FY2xhc3MFLERubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTExNDA4FgICAQ9kFgQCAw8PFgIfAmhkZAIFD2QWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQ2QCEQ9kFgICAQ8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMTc5ORYCAgEPZBYEAgMPDxYCHwJoZGQCBQ9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAhMPZBYCZg8WAh8JBTdEbm5Nb2R1bGUgRG5uTW9kdWxlLURubkZvcmdlLU5ld3NBcnRpY2xlcyBEbm5Nb2R1bGUtNDI5FgICAQ9kFgJmD2QWAgIBDw9kFgIfCQUpRE5OTW9kdWxlQ29udGVudCBNb2REbm5Gb3JnZU5ld3NBcnRpY2xlc0NkAhUPZBYEZg8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMDM0MRYCAgEPZBYGAgEPZBYCAgIPFgIfAmhkAgQPDxYCHwJoZGQCBg9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kRE5OSFRNTENkAgEPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTA0MDYWAgIBD2QWAmYPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8CaGQCFw9kFgRmDxYCHwkFLERubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTEwNDkxFgICAQ9kFgJmD2QWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQxYCAgEPZBYCAgIPFgIfAmhkAgEPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTE5NDQWAgIBD2QWBAIDDw8WAh8CaGRkAgUPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDZAIZD2QWCmYPFgIfCQUrRG5uTW9kdWxlIERubk1vZHVsZS1YTW9kUHJvIERubk1vZHVsZS0xMDkzNhYCAgEPZBYGAgEPZBYCAgIPFgIfAmhkAgQPDxYCHwJoZGQCBg9kFgICAQ8PZBYCHwkFHEROTk1vZHVsZUNvbnRlbnQgTW9kWE1vZFByb0MWAgIBDw8WAh4LQ3VycmVudFZpZXcLKXJLbm93QmV0dGVyLlhNb2RQcm8uWE1vZFBybytWaWV3VHlwZUVudW0sIEtub3dCZXR0ZXIuWE1vZFBybywgVmVyc2lvbj00LjAuMy4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwBZBYGAgIPFgIeCWlubmVyaHRtbAUGJm5ic3A7ZAIGDxYCHwJoZAIID2QWAmYPZBYCZg9kFgICAQ9kFgJmDxYCHgtfIUl0ZW1Db3VudAIEFggCAQ9kFgJmDxUJAzM2NA5zaWVtZW5zQkFlYm9va2RodHRwOi8vaW1hZ2UuZW5naW5lZXJpbmcuY29tLzIzOTU3NS9hcnRpY2xlcy9vY3QyMDE1L0JBLUNBTXN1cnZleWVib29rL0JBLUNBTSUyMFN1cnZleSUyMGVCb29rLTEuanBnAzM2NA5zaWVtZW5zQkFlYm9va09SZXBvcnQ6IEZlYXIgb2YgdGhlIENBRC9DQU0gQ29tYm8g4oCTIFdoYXTigJlzIFN0b3BwaW5nIERlc2lnbiB0byBNYW51ZmFjdHVyaW5nAzM2NA5zaWVtZW5zQkFlYm9vawhEb3dubG9hZGQCAg9kFgJmDxUJAzM2Mw5hbHRhaXIyMDYtd2ViMU5odHRwOi8vaW1hZ2UuZW5naW5lZXJpbmcuY29tLzIzOTU3NS9hcnRpY2xlcy9vY3QyMDE1L2FsdGFpcjIwNi9hbHRhaXIyMDYtMS5wbmcDMzYzDmFsdGFpcjIwNi13ZWIxV0xpdmUgV2ViaW5hcjogQ3JlYXRlIFJhZGljYWxseSBCZXR0ZXIgUHJvZHVjdHMgd2l0aCBEZXNpZ24gT3B0aW1pemF0aW9uIGFuZCAzRCBQcmludGluZwMzNjMOYWx0YWlyMjA2LXdlYjELU2lnbiBVcCBOb3dkAgMPZBYCZg8VCQMzNjENQU1EZmlyZXBybzQxNFZodHRwOi8vaW1hZ2UuZW5naW5lZXJpbmcuY29tLzIzOTU3NS9hcnRpY2xlcy9vY3QyMDE1L2FtZGZpcmVwcm80MTQvYW1kZmlyZXBybzQxNC0xLmpwZwMzNjENQU1EZmlyZXBybzQxND9XZWJpbmFyOiBUaGUgUmlnaHQgR1BVIGZvciBZb3VyIERlc2lnbiBhbmQgRW5naW5lZXJpbmcgV29ya2Zsb3cDMzYxDUFNRGZpcmVwcm80MTQNV2F0Y2ggV2ViaW5hcmQCBA9kFgJmDxUJAzM1NxNzaWVtZW5zd2ViaW5hcjI0NC00X2h0dHA6Ly9pbWFnZS5lbmdpbmVlcmluZy5jb20vMjM5NTc1L2FydGljbGVzL3NlcHQyMDE1L3NpZW1lbnN3ZWJpbmFyMjQ0L3NpZW1lbnN3ZWJpbmFyMjQ0LTQucG5nAzM1NxNzaWVtZW5zd2ViaW5hcjI0NC00UFdlYmluYXI6IEZlYXIgb2YgdGhlIENBRC9DQU0gQ29tYm8g4oCTIFdoYXTigJlzIFN0b3BwaW5nIERlc2lnbiB0byBNYW51ZmFjdHVyaW5nAzM1NxNzaWVtZW5zd2ViaW5hcjI0NC00DVdhdGNoIFdlYmluYXJkAgEPFgIfCQUsRG5uTW9kdWxlIERubk1vZHVsZS1ETk5fSFRNTCBEbm5Nb2R1bGUtMTA1NjQWAgIBD2QWAmYPZBYCAgEPD2QWAh8JBRxETk5Nb2R1bGVDb250ZW50IE1vZEROTkhUTUxDFgICAQ9kFgICAg8WAh8CaGQCAg8WAh8JBThEbm5Nb2R1bGUgRG5uTW9kdWxlLUxhdGVzdEFydGljbGVzRW5nQ29tIERubk1vZHVsZS0xMDkwMhYCAgEPZBYGAgEPZBYCAgIPFgIfAmhkAgQPDxYCHwJoZGQCBg9kFgICAQ8PZBYCHwkFKUROTk1vZHVsZUNvbnRlbnQgTW9kTGF0ZXN0QXJ0aWNsZXNFbmdDb21DZAIDDxYCHwkFLERubk1vZHVsZSBEbm5Nb2R1bGUtRE5OX0hUTUwgRG5uTW9kdWxlLTEwODAwFgICAQ9kFgYCAQ9kFgICAg8WAh8CaGQCBA8PFgIfAmhkZAIGD2QWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQ2QCBA8WAh8JBSxEbm5Nb2R1bGUgRG5uTW9kdWxlLUROTl9IVE1MIERubk1vZHVsZS0xMDAwNBYCAgEPZBYCZg8WAh8JBQxETk5BbGlnbmxlZnQWAgIBDw9kFgIfCQUcRE5OTW9kdWxlQ29udGVudCBNb2RETk5IVE1MQ2QCGw8WAh8JBQxETk5FbXB0eVBhbmVkZE8wP9lEl1HKVZ1jyYe0q9MIS5Dw" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a89093640-ae6b-44c3-b8ea-010c934f8924%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK8r6qcAgL+5PGyAgLR9YnYDgzPdRierE8vnhH8kbx9ofnP19UV" />
+</div>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnncore.js?cdv=36" type="text/javascript"></script><script src="/desktopmodules/dnnforge - newsarticles/includes/shadowbox/shadowbox.js?cdv=36" type="text/javascript"></script>
+        
+        
+<link href="/Portals/_default/Skins/e2015/bootstrap/css/bootstrap.min.css" rel='stylesheet'>
+<link rel="stylesheet" href="/Portals/_default/Skins/e2015/main.min.css" type="text/css" media="screen" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600,700' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="screen" href="/Portals/_default/Skins/e2015/style_ie8.css"/>
+<![endif]-->
+<script>
+var dimensionValue1 = 'Ilan Mester';  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-346666-1', 'auto');
+  ga('set', 'dimension1', dimensionValue1);
+  ga('send', 'pageview');
+
+</script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script defer src="/Portals/_default/Skins/e2015/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+   if($(window).width() < 768 ) {
+        $('#sidebar_content').remove(); 
+            
+}
+else {
+}
+});
+</script>
+<script>
+$('#affix_nav').affix({
+});	
+</script>
+
+
+<script type="text/javascript">
+			var addthis_config = {
+    	  		data_ga_property: 'UA-346666-1',
+	      		data_ga_social: true
+   			};
+
+			var addthis_share = {
+				url_transforms : {
+     				shorten: {
+         				twitter: 'bitly'
+	    			}
+  				}, 
+				shorteners : {
+    				bitly : {}
+				}
+			};
+		</script>
+<!--Standard External Scripts -->
+<script async type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=jsemkiw"></script>
+<!-- End of External Scripts -->
+
+<!--Script for image and video  Upload-->
+<script defer type="text/javascript">    
+    function OnRadEditorLoad(editor, args)    
+    {    
+        editor.get_filtersManager().add(new MyFilter());    
+        var images = editor.get_document().getElementsByTagName("IMG");    
+        for (var i = 0; i < images.length; i++)    
+         {    
+            var image = images[i];                                
+            if (image && image.getAttribute("NAME"))    
+             {                                                    
+                image.className = "articleImage";
+            }    
+          }    
+    }    
+    MyFilter = function()    
+     {    
+        MyFilter.initializeBase(this);    
+        this.set_isDom(false);    
+        this.set_enabled(true);    
+        this.set_name("RadEditor filter");    
+        this.set_description("RadEditor filter description");    
+    }    
+     MyFilter.prototype =    
+     {    
+        getHtmlContent : function(content)    
+        {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var images = oDiv.getElementsByTagName("IMG");    
+            for (var i = 0; i < images.length; i++)    
+             {    
+                var image = images[i];                                
+				if (image && image.getAttribute("NAME"))    
+				{                                                    
+					image.className = "";    
+				}    
+            }    
+            return oDiv.innerHTML;    
+        },    
+  
+        getDesignContent : function(content)    
+         {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var images = oDiv.getElementsByTagName("IMG");    
+            for (var i = 0; i < images.length; i++)    
+            {    
+                var image = images[i];                                
+				if (image && image.getAttribute("NAME"))    
+				{                                                    
+					image.className = "articleImage";
+				}    
+            }    
+            return oDiv.innerHTML;    
+        }    
+    }    
+    MyFilter.registerClass('MyFilter', Telerik.Web.UI.Editor.Filter);    
+	
+	Telerik.Web.UI.Editor.CommandList["InsertImage"] = function(commandName, editor, args)  
+{  
+    var elem = editor.getSelectedElement(); //returns the selected element.  
+       if (elem.tagName == "IMG")  
+       {  
+            editor.selectElement(elem);  
+            argument = elem;  
+       }  
+       else  
+       {  
+          var content = editor.getSelectionHtml();   
+          var image = editor.get_document().createElement("IMG");  
+          image.innerHTML = content;            
+          argument = image;  
+       }  
+       var myCallbackFunction = function(sender, args)  
+       {  
+           editor.pasteHtml(args.imageName)
+       }  
+       editor.showExternalDialog(  
+        '/DesktopModules/Admin/RadEditorProvider/Dialogs/InsertImage.aspx',  
+        argument,  
+        640,  
+        580,  
+        myCallbackFunction,  
+         null,  
+         'Insert Image',  
+        true,  
+        Telerik.Web.UI.WindowBehaviors.Close + Telerik.Web.UI.WindowBehaviors.Move,  
+        false,  
+        true);  
+};  
+
+</script> 
+
+<script defer type="text/javascript">    
+    function OnRadEditorLoad(editor, args)    
+    {    
+        editor.get_filtersManager().add(new MyFilter());    
+        var links = editor.get_document().getElementsByTagName("DIV");    
+        for (var i=0; i< links.length; i++)    
+         {    
+            var link = links[i];                                
+            if (link && link.getAttribute("NAME"))    
+             {                                                    
+                link.className = "articleVideo";
+            }    
+          }    
+    }    
+    MyFilter = function()    
+     {    
+        MyFilter.initializeBase(this);    
+        this.set_isDom(false);    
+        this.set_enabled(true);    
+        this.set_name("RadEditor filter");    
+        this.set_description("RadEditor filter description");    
+    }    
+     MyFilter.prototype =    
+     {    
+        getHtmlContent : function(content)    
+        {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var links = oDiv.getElementsByTagName("A");    
+            for (var i=0; i< links.length; i++)    
+             {    
+                 var link = links[i];                                
+                    if (link && link.getAttribute("NAME"))    
+                    {                                                    
+                        link.className = "";    
+                     }    
+            }    
+            return oDiv.innerHTML;    
+        },    
+  
+        getDesignContent : function(content)    
+         {    
+            var oDiv = document.createElement("DIV");    
+            oDiv.innerHTML = content;    
+            var links = oDiv.getElementsByTagName("A");    
+            for (var i=0; i< links.length; i++)    
+            {    
+                var link = links[i];                                
+                    if (link && link.getAttribute("NAME"))    
+                    {                                                    
+                        link.className = "articleVideo";
+                    }    
+            }    
+            return oDiv.innerHTML;    
+        }    
+    }    
+    MyFilter.registerClass('MyFilter', Telerik.Web.UI.Editor.Filter);    
+	
+	Telerik.Web.UI.Editor.CommandList["InsertVideo"] = function(commandName, editor, args)  
+{  
+    var elem = editor.getSelectedElement(); //returns the selected element.  
+       if (elem.tagName == "A")  
+       {  
+            editor.selectElement(elem);  
+            argument = elem;  
+       }  
+       else  
+       {  
+          var content = editor.getSelectionHtml();   
+          var link = editor.get_document().createElement("A");  
+          link.innerHTML = content;            
+          argument = link;  
+       }  
+       var myCallbackFunction = function(sender, args)  
+       {  
+           editor.pasteHtml(args.videoName)
+       }  
+       editor.showExternalDialog(  
+        '/DesktopModules/Admin/RadEditorProvider/Dialogs/InsertVideo.aspx',  
+        argument,  
+        570,  
+        400,  
+        myCallbackFunction,  
+         null,  
+         'Insert Video',  
+        true,  
+        Telerik.Web.UI.WindowBehaviors.Close + Telerik.Web.UI.WindowBehaviors.Move,  
+        false,  
+        true);  
+};  
+
+</script>  
+
+
+<!--End Script for Image UPload-->
+
+
+
+<body>	
+	<div class="container" id="partner_sites" style="border-bottom:1px solid #fff;">
+		<div class="row" style="margin-bottom:3px;">
+			<div class="col-md-12 hidden-sm hidden-xs" style="height:35px;">
+				<ul class="partner_links_container">
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.engineering.com/"><b>ENGINEERING.com</b></a></li>
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.eng-tips.com/">Eng-Tips Forums </a></li>
+					<li class="partner_links"><a style="color:#5d646c;" href="http://www.tek-tips.com/">Tek-Tips Forums </a></li>
+				</ul>	
+			
+			<div>
+				<p class="login_register"><a id="dnn_dnnLOGIN_loginLink" title="Login" class="HeadGray" href="http://www.engineering.com/Login.aspx?returnurl=%2fDesignerEdge%2fDesignerEdgeArticles%2fArticleID%2f10028%2fExclusive-Interview-An-Engineers-Take-on-The-Avengers.aspx">Login</a>
+<!--close loginGroup--></p>
+				<p class="login_register">
+<!---->
+ 
+<a id="dnn_dnnUser_hypRegister" class="HeadGray" href="http://www.engineering.com/Registration/tabid/5119/Default.aspx?returnurl=http%3a%2f%2fwww.engineering.com%2fDesignerEdge%2fDesignerEdgeArticles.aspx">Register</a></p>
+			</div>
+			<div style="margin-left:600px;top:0px;padding:0px;margin-top:-10px;">
+				<script>
+  (function() {
+    var cx = '008413334578704215410:owcsyexxtys';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
+			</div>
+			</div>			
+		</div>		
+	</div>
+
+
+
+<script>
+function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block') {
+          e.style.display = 'none';
+		  }
+       else {
+          e.style.display = 'block';
+		  }
+    }
+function toggle_visibility2(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block') {
+          e.style.display = 'none';
+		  }
+       else {
+          e.style.display = 'none';
+		  }
+    }
+
+var popout = function () {
+	$('#open_mobi_nav').click(function () {
+		$('#mobile_docked_nav').animate({left:'400px'},300);		
+	});
+	$('.close_mobi_nav').click(function () {
+		$('#mobile_docked_nav').animate({left:'-400px'},300);		
+	});
+};
+
+$(document).ready(popout);
+
+
+</script>
+
+
+
+<div class="container-fluid" id="affix_nav" style="background-color:#252528;" data-spy="affix" data-offset-top="40">
+
+		<!-- Start of main navbar -->
+		<nav class="navbar navbar-default" style="background-color:#252528;">
+		<div id="nav_container" class="row" role="navigation">			
+			<div class="navbar-header">
+				<!-- make some kind of collapse and toggle for the minified nav -->
+				<div class="col-sm-12 hidden-md hidden-lg">
+					<a href="#" style="margin-right:15px;"><div id="open_mobi_nav" class="toggle_container">						
+							<p class="toggle_switch"></p>
+							<p class="toggle_switch"></p>
+							<p class="toggle_switch"></p>						
+					</div></a>
+					<div id="brand_logo_mobile_container" class="col-xs-10">
+						<a href="http://www.engineering.com/"><img id="brand_logo_mobile" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+					</div>
+				</div>				
+				<div class="hidden-sm hidden-xs">
+					<a href="http://www.engineering.com/"><img id="brand_logo" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+				</div>
+			</div>	
+			
+			<div class="hidden-sm hidden-xs">
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<div class="dropdown">
+					<a href="http://www.engineering.com/">
+					<div id="news" class="nav_news_active"  onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="NewsdropdownMenu" class="nav_item" style="font-size:14px;">News</p>
+					</div>
+					</a>
+					<ul id="news_dropdown" style="margin-left:auto;display:block;z-index:0;" class="dropdown-menu" role="menu" aria-labelledby="NewsdropdownMenu">
+							<li role="presentation"><a id="designeredge" class="secondary_active" role="menuitem" tabindex="-1" href="/DesignerEdge/DesignerEdgeArticles.aspx">Designer Edge</a></li>
+							<li role="presentation"><a id="designsoft" class="" role="menuitem" tabindex="-1" href="/DesignSoftware/DesignSoftwareArticles.aspx">CAD/CAE</a></li>
+<li role="presentation"><a id="cam" class="" role="menuitem" tabindex="-1" href="/CAM.aspx">CAM</a></li>	
+<li role="presentation"><a id="bim" class="" role="menuitem" tabindex="-1" href="/BIM.aspx">BIM</a></li>	
+							<li role="presentation"><a id="manufact" class="" role="menuitem" tabindex="-1" href="/AdvancedManufacturing.aspx">Manufacturing</a></li>
+							<li role="presentation"><a id="3dprint" class="" role="menuitem" tabindex="-1" href="/3DPrinting/3DPrintingArticles.aspx">3D Printing</a></li>								
+							<li role="presentation"><a id="electronics" class="" role="menuitem" tabindex="-1" href="/ElectronicsDesign/ElectronicsDesignArticles.aspx">Electronics</a></li>
+							<li role="presentation"><a id="education" class="" role="menuitem" tabindex="-1" href="/Education/EducationArticles.aspx">Education</a></li>
+							<li role="presentation"><a id="plm" class="" role="menuitem" tabindex="-1" href="/PLMERP.aspx">PLM/ERP</a></li>							
+					</ul>	
+				</div>
+				<div class="dropdown">
+                                     <a href="/Industries.aspx">
+						<div id="industries" class="nav_industries" onmouseover="toggle_visibility2('more_jobs')" >
+							<p id="IndustriesdropdownMenu" class="nav_item" style="font-size:14px;">Industries</p>
+						</div>				
+						<ul id="industries_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="IndustriesdropdownMenu">
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=2">Aerospace</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=1">Automotive</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=3">Consumer Goods</a></li>
+							<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=4">Architecture & Construction</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Industries/IndustryArticle.aspx?industry=5">Defence & Military</a></li>
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" onmouseover="toggle_visibility('more_industries')">More <span style="font-size:12px;color:white;" class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></a></li>
+						 </ul>
+				</div>
+				<div class="dropdown">
+					<a href="/Jobs/tabid/5120/Default.aspx ">
+					<div id="jobs" class="nav_jobs" onmouseover="toggle_visibility2('more_industries')">
+						<p id="JobsdropdownMenu" style="font-size:14px;" class="nav_item">Jobs</p>
+					</div>
+					</a>
+					 <ul id="job_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="JobsdropdownMenu">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Jobs/JobArticles.aspx">Articles</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Jobs/Employers.aspx">Post For Free</a></li>
+<!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#" onmouseover="toggle_visibility('more_jobs')">
+							Browse  <span style="font-size:12px;color:white;" class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span>
+							</a></li>	-->					
+					 </ul>
+				</div>
+				<div class="dropdown">
+					<a href="/GamesPuzzles/tabid/82/Default.aspx">
+					<div id="games" class="nav_games" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="GamesdropdownMenu" class="nav_item" style="font-size:14px;">Games</p>
+					</div>
+					</a>
+
+					<ul id="games_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="GamesdropdownMenu">
+					 <li role="presentation"><a role="menuitem" tabindex="-1" href="/GamesPuzzles/TopGames.aspx">Top Games</a></li>
+					</ul> 
+				</div>
+				<div class="dropdown">
+					<a href="/Videos/tabid/4624/Default.aspx">
+					<div id="videos" class="nav_videos" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="VideosdropdownMenu" class="nav_item" style="font-size:14px;">Videos</p>
+					</div>
+					</a>
+					<ul id="videos_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="VideosdropdownMenu">
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/EngineeringVideoChannels.aspx">Channels</a></li>
+                                                <li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/EngineeringVideoChannels.aspx">Shows</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/PopularVideos.aspx">Most Popular</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Videos/RecentVideos.aspx">Recently Added</a></li>
+					</ul>					
+				</div>
+				<div class="dropdown">
+					<a href="/Resources.aspx">
+					<div id="resources" class="nav_resources" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="ResourcesdropdownMenu" class="nav_item" style="font-size:14px;">Resources</p>
+					</div>
+					</a>
+					<ul id="resources_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="ResourcesdropdownMenu">
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=3">3D Printing</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=6">Design Tech</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=11">Education</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=4">Electronics</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Resources.aspx?sec=13">Manufacturing</a></li>
+					 </ul>					
+				</div>
+				<div class="dropdown">
+                                  <a href="/Webinars.aspx">
+					<div id="webinars" class="nav_webinars" onmouseover="toggle_visibility2('more_industries');toggle_visibility2('more_jobs')">
+						<p id="WebinarsdropdownMenu" class="nav_item" style="font-size:14px;">Webinars</p>
+					</div>	
+</a>
+					<ul id="webinars_dropdown" style="margin-left:auto;" class="dropdown-menu" role="menu" aria-labelledby="WebinarsdropdownMenu">
+<li role="presentation"><a role="menuitem" tabindex="-1" href="/Webinars.aspx">Upcoming Webinars</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="/Webinars/webinarhistory.aspx">View Previous Webinars</a></li>
+						
+					 </ul>
+				</div>				
+			</div>
+		</div>
+		</div>
+		</nav>
+		<!-- End of main navbar -->
+		<!-- Start of secondary navbar -->
+		<div class="hidden-sm hidden-xs">
+			<div id="secondary_nav" class="row">
+
+<!-- IE 8 navbar -->                          
+
+ <div id="ie8_nav" style="text-align:center;">
+<a style="color:white;margin-right:15px;" href="http://www.engineering.com/"> News</a>
+<a style="color:white;margin-right:15px;" href="/Industries.aspx"> Industries</a>
+<a style="color:white;margin-right:15px;" href="/Jobs/tabid/5120/Default.aspx"> Jobs</a>
+<a style="color:white;margin-right:15px;" href="/GamesPuzzles/tabid/82/Default.aspx"> Games</a>
+<a style="color:white;margin-right:15px;" href="/Videos/tabid/4624/Default.aspx"> Videos</a>
+<a style="color:white;margin-right:15px;" href="/Resources.aspx"> Resources</a>
+<a style="color:white;margin-right:15px;" href="/Webinars.aspx"> Webinars</a>
+</div> 
+
+                         </div>	
+		</div>
+	</div>
+		<!-- End of seconary navbar -->
+		<div id="mobile_docked_nav"  class="hidden-md hidden-lg">				
+			<div id="mobile_toggle_logo" class="close_mobi_nav">
+				<a href="#" style="margin-right:15px;"><div style="margin-left:30px;" class="toggle_container" >					
+						<p class="toggle_switch"></p>
+						<p class="toggle_switch"></p>
+						<p class="toggle_switch"></p>					
+				</div></a>
+				<a href="http://www.engineering.com/"><img style="margin-left:-5px;"  id="brand_logo_mobile" src="http://file1.engineering.com/e2015/engcom_logo.png" class="img-responsive"/></a>
+			</div>                               		
+				<div class="mobile_nav_choice_first">
+					<a href="http://www.engineering.com/"><p class="mobile_nav_item">Home</p></a>					
+				</div>					
+				<a onclick="toggle_visibility('mobile_news')">
+					<div class="mobile_nav_choice">
+						<p class="mobile_nav_item">News</p>					
+					</div>
+				</a>
+				<div id="mobile_news">
+					<ul class="news_list">
+							<a href="/DesignerEdge/DesignerEdgeArticles.aspx"><li class="news_item">Designer Edge</li></a>
+							<a href="/DesignSoftware/DesignSoftwareArticles.aspx"><li class="news_item">CAD/CAE</li></a>
+<a href="/CAM.aspx"><li class="news_item">CAM</li></a>
+<a href="/BIM.aspx"><li class="news_item">BIM</li></a>
+							<a href="/3DPrinting/3DPrintingArticles.aspx"><li class="news_item">3D Printing</li></a>
+							<a href="/PLMERP.aspx"><li class="news_item">PLM/ERP</li></a>
+							<a href="/ElectronicsDesign/ElectronicsDesignArticles.aspx"><li class="news_item">Electronics</li></a>
+							<a href="/Education/EducationArticles.aspx"><li class="news_item">Education</li></a>
+							<a href="/AdvancedManufacturing.aspx"><li class="news_item">Manufacturing</li></a>
+					</ul>
+				</div>
+				<a onclick="toggle_visibility('industry_choice')">
+					<div class="mobile_nav_choice">
+						<p class="mobile_nav_item">Industries</p>
+					</div>	
+				</a>
+				<div id="industry_choice">
+					<ul class="news_list">							
+							<a href="/Industries/IndustryArticle.aspx?industry=2"><li class="news_item">Aerospace</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=1"><li class="news_item">Automotive</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=3"><li class="news_item">Consumer Goods</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=4"><li class="news_item">Architecture & Construction</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=5"><li class="news_item">Defence & Military</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=6"><li class="news_item">Electronics & Semiconductors</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=7"><li class="news_item">Energy, Process & Utilities</li></a>
+							<a href="/Industries/IndustryArticle.aspx?industry=8"><li class="news_item">Manufacturing</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=9"><li class="news_item">Marine & Offshore</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=10"><li class="news_item">Transportation</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=11"><li class="news_item">Materials</li></a>
+                                                        <a href="/Industries/IndustryArticle.aspx?industry=12"><li class="news_item">Medical</li></a>
+					</ul>
+				</div>
+				<div class="mobile_nav_choice">
+					<a href="/Jobs/tabid/5120/Default.aspx"><p class="mobile_nav_item">Jobs</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/GamesPuzzles/tabid/82/Default.aspx"><p class="mobile_nav_item">Games</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/Videos/tabid/4624/Default.aspx"><p class="mobile_nav_item">Videos</p></a>
+				</div>	
+				<div class="mobile_nav_choice">
+					<a href="/Resources.aspx"><p class="mobile_nav_item">Resources</p></a>
+				</div>
+				<div class="mobile_nav_choice">
+					<a href="/Webinars.aspx"><p class="mobile_nav_item">Webinars</p></a>
+				</div>
+<div class="mobile_nav_choice">
+<div style="margin-left:auto;margin-right:auto;width:200px;padding-top:8px;color:#000;">
+ <script>
+  function() {
+    var cx = '008413334578704215410:owcsyexxtys';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  }();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</div>
+<div class="mobile_nav_choice">
+					<div class="hidden-md hidden-lg" style="border-bottom: 1px solid #fff;">
+   <a href="http://www.google.com/newsstand/s/editions/CAow85bwCg/ENGINEERING.com" target="_blank"> <img  id="newsstand_banner_mobi"  style="margin-left:auto;margin-right:auto;" src="http://res.cloudinary.com/engineering-com/image/upload/v1438971625/Newsstand-Banner_cleliw.jpg" class="img-responsive"></a>
+</div>
+<script>
+$('#newsstand_banner_mobi').click(function() { 
+ga('send', 'event', 'NewsstandBannerMobileNav', 'clicked');
+});
+</script>
+				</div>			
+		</div>
+	
+	<!-- End of Full-Width Items -->
+	
+<div class="container" id="more_industries" style="display:none;" onmouseover="toggle_visibility2('more_jobs')"> 
+		<div class="row">
+			<div id="industries_second_nav" class="col-md-12">
+				<ul id="industries_second_list">
+					<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=6"><li class="industries_secondlist_item">Electronics & Semiconductors</li></a>
+					<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=7"><li class="industries_secondlist_item">Energy, Process & Utilities</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=8"><li class="industries_secondlist_item">Manufacturing</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=9"><li class="industries_secondlist_item">Marine & Offshore</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=10"><li   class="industries_secondlist_item">Transportation</li></a>
+<a class="industrylink" href="/Industries/IndustryArticle.aspx?industry=11"><li class="industries_secondlist_item">Materials</li></a>
+<a class="industrylink"  href="/Industries/IndustryArticle.aspx?industry=12"><li class="industries_secondlist_item">Medical</li></a>
+				</ul>
+			</div>
+		</div>
+	</div>
+<!--
+<div class="container" id="more_jobs" style="display:none;" onmouseover="toggle_visibility2('more_industries')"> 
+		<div class="row">
+			<div style="background-color:#5d646c;border-top:1px solid #fff;margin-left:245px;width:7%;position:absolute;z-index:99999;">
+				<ul style="list-style-type:none;color:#fff;padding:0px;padding-top:5px;padding-left:5px;">
+					<a class="industrylink" href="/Jobs/BrowsebyCompany.aspx "><li class="more_dropdown_options">By Company</li></a>
+					<a class="industrylink"  href="/Jobs/JobsbyState.aspx "><li class="more_dropdown_options" style="margin-top:5px;">By State</li></a>
+					<a href="/Jobs/Engineering_Jobs_Search.aspx " class="industrylink" ><li class="more_dropdown_options" style="margin-top:5px;">All Jobs</li></a>
+				</ul>
+			</div>
+		</div>
+	</div>
+-->
+
+
+	
+<div class="container" style="margin-top:20px;">
+	<div class="row">
+		<div id="dnn_Leaderboard" class="col-md-9 col-sm-9 col-xs-12" style="margin-left:-10px;">
+		<div class="DnnModule DnnModule-DNN_HTML DnnModule-11408"><a name="11408"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr11408_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_11408 --><div id="dnn_ctr11408_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11408_HtmlModule_lblContent" class="Normal">
+	<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+var mapping1 = googletag.sizeMapping().
+  addSize([0, 0], []).  
+  addSize([300, 200], [320,50]). // Mobile
+  addSize([768, 200], [728, 90]). // Desktop
+  build();
+
+var mapping2 = googletag.sizeMapping().
+  addSize([0, 0], []).  
+  addSize([992, 200], [[300, 600],[300,250]]). // Desktop
+  build();
+
+
+googletag.defineSlot('/14357335/Engcom_DesignerEdge_BigBox', [[300, 250], [300, 600]], 'div-gpt-ad-1399570842959-0').defineSizeMapping(mapping2).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art[GET:ArticleID]");
+googletag.defineSlot('/14357335/Engcom_DesignerEdge_BigBox2', [[300, 250], [300, 600]], 'div-gpt-ad-1399570842959-1').defineSizeMapping(mapping2).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art[GET:ArticleID]");
+googletag.defineSlot('/14357335/Engcom_DesignerEdge_Leaderboard', [[728, 90],[320,50]], 'div-gpt-ad-1399570842959-2').defineSizeMapping(mapping1).setCollapseEmptyDiv(true).addService(googletag.pubads())
+.setTargeting("vid", "art[GET:ArticleID]");
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<div id="div-gpt-ad-1399570842959-2">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1399570842959-2'); });
+</script>
+</div>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_11408 --></td>
+
+	</tr>
+</table></div></div>
+		<div id="dnn_ButtonAd" class="col-md-3 hidden-sm hidden-xs">
+                    <a href="/MastersDiscovery"><img style="padding-left:5px;" src="http://file1.engineering.com/e2015/MastersDiscoveryTool_Tile.jpg"/></a>
+		</div>
+	</div>
+</div>
+<div class="container" id="secondnav_inpage">
+	<div class="row">
+		<div id="dnn_secondnav" class="col-md-12 hidden-xs">
+			
+
+		<div class="DnnModule DnnModule-DNN_HTML DnnModule-11799"><a name="11799"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr11799_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_11799 --><div id="dnn_ctr11799_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11799_HtmlModule_lblContent" class="Normal">
+	<div class="col-md-3 col-sm-3 col-xs-4" id="onpage_nav_title">
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx">
+<p class="inpage_nav_item_title">Designer Edge</p>
+</a>
+</div>
+<div class="col-md-1 col-sm-3 col-xs-2" id="subnav_title">
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx">
+<p class="inpage_nav_item">Articles</p>
+</a>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-2" id="subnav_title">
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/articleType/TagView/Tag/Moonshot.aspx">
+<p class="inpage_nav_item">Moonshots</p>
+</a>
+</div>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_11799 --></td>
+
+	</tr>
+</table></div></div>
+	</div>
+</div>
+<div id="main_content" class="container" style="margin-top:15px;padding-top:10px;margin-bottom:20px;">
+	<div class="row">		
+		<div class="col-md-8" id="main_content_container">		
+			<div id="dnn_ContentPane" class="ContentPane"><div class="DnnModule DnnModule-DnnForge-NewsArticles DnnModule-429"><a name="429"></a><div id="dnn_ctr429_ContentPane"><!-- Start_Module_429 --><div id="dnn_ctr429_ModuleContent" class="DNNModuleContent ModDnnForgeNewsArticlesC">
+	
+
+
+<div class="NewsArticles">
+    <!-- Menu.Item -->
+<div class="Normal" align="center">
+<!--	
+    <span style="float: right;">
+        <a rel="nofollow" href="/DesktopModules/DnnForge%20-%20NewsArticles/Rss.aspx?TabID=6067&amp;ModuleID=429&amp;MaxCount=25">
+            <img src="/DesktopModules/DnnForge - NewsArticles/Templates/Electronics Design/Images/rssbutton.gif" alt="25 Latest Articles" style="border-width: 0px;"/>
+        </a>
+    </span>	
+	 -->
+
+<span style="float: right; width: 250px;">	
+		</span>
+
+	<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx" class="MenuTopSelected">Current   Articles</a> 
+	|
+	<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/articleType/Archives.aspx" class="MenuTop">Archives</a> 
+	|
+	<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/articleType/Search.aspx" class="MenuTop">Search</a> 
+
+		
+			
+	
+</div>
+
+
+<!-- View.Item -->
+
+		
+<div class="article" style="border-bottom:2px solid #5d646c;" >
+
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10028/Exclusive-Interview-An-Engineers-Take-on-the-Science-of-The-Avengers.aspx"  class="article_title" style="color:#5d646c;">Exclusive Interview: An Engineer’s Take on the Science of ‘The Avengers’</a><br/><a href="http://www.engineering.com/Author/ID/289293/IlanMester">Ilan Mester</a> posted on April 28, 2015 | <a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10028/Exclusive-Interview-An-Engineers-Take-on-the-Science-of-The-Avengers.aspx#disqus_thread"  data-disqus-identifier="art10028"></a>  | 6738 views<br/>
+<div style="margin:5px 0 5px 0;">	
+		<div class="addthis_responsive_sharing"></div>
+ </div>
+</div>
+
+	
+	
+	<div class="articleEntry" style="font-family: 'Open Sans', sans-serif;font-size:16px;color:#5a5a5a;line-height:2;font-weight: 500;">
+        <div style="margin-bottom: 15px; width: 100%;" align="center"><img alt="Source: " class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit/Avengers_ws8gko.jpg" />
+<div style="margin-top: 8px; font-style: italic; font-size: 90%; word-wrap: break-word; line-height: 15px;">Pictured: Mechanical Engineer Suveen Mathaudhu. Source: UCR</div>
+</div>
+<br />
+<p>What do <em>The Avengers</em> and engineering have in common? Apparently a lot.&nbsp; Suveen Mathaudhu is an assistant professor of mechanical engineering at the <a href="http://www.ucr.edu/" target="_blank">University of California, Riverside</a>. He&rsquo;s also a self-professed comic-book super fan who helped curate an exhibit about the role of material science in comic books such as <em>Iron Man </em>and <em>Captain America</em>. </p>
+<p>With the release of the highly-anticipated <em><a href="http://marvel.com/avengers" target="_blank">Avengers: Age of Ultron</a></em>, we thought it would be interesting to get Mathaudhu&rsquo;s take on the movie and its relevance to engineering. He analyzed three key moments from the Marvel flick&rsquo;s trailers and teasers: </p>
+<p><strong>Ultron, vibranium and the real world&nbsp;</strong></p>
+<p><strong><iframe width="100%" height="345" src="//www.youtube.com/embed/tmeOjFno6Do" frameborder="0"></iframe><br />
+<br />
+</strong>According to the engineering professor, vibranium is quite common in the Marvel universe. It also happens to be one of the strongest and lightest fictional metals &ndash; in addition to being relatively rare. </p>
+<p>&ldquo;Captain America&rsquo;s shield is made of vibranium,&rdquo; says Mathaudhu.&nbsp;&ldquo;The Winter Soldier&rsquo;s arm as depicted in <em>Captain America 2</em> is likely made of vibranium as well.&nbsp; A holding cell in <em>Agents of Shield</em> is said to be made out of vibranium.&nbsp; I&rsquo;m speculating that in the trailers &ndash; and probably in the movie &ndash;&nbsp; Ultron is in search of the vibranium to coat himself or make a physical version of himself that is near impervious to damage.&rdquo;&nbsp; </p>
+<p>He adds: &ldquo;Why is this interesting from an engineering perspective? As society pushes towards better fuel efficiency and sustainability, we are now searching for metals and alloys that are also light and strong. Fundamentally, lighter equates to increased fuel efficiency, and with US CAFE standards in place, there is a surge in lightweight Al-, Mg-, Ti- and Advanced High Strength Steel Alloys (AHSS) for vehicles. This weight reduction must also be accomplished without any loss in safety for the passengers. The new Ford F-150s are a bold step in this direction via their use of aluminum frames.&rdquo; <br />
+<strong>&nbsp;</strong></p>
+<p><strong>Modular manufacturing in the <em>Avengers</em>&nbsp;<br />
+<br />
+<iframe width="100%" height="345" src="//www.youtube.com/embed/mjx-02XWuzk" frameborder="0"></iframe><br />
+</strong></p>
+<p>Mathaudhu says the Hulkbuster is a well-known Iron Man suit that has gone through multiple incarnations in the Marvel comics. Previews indicate it will make its big screen debut in <em>Avengers: Age of Ultron</em>. But how does this apply to engineering? The University of California professor has an explanation.</p>
+<p>&ldquo;There is currently quite a bit of buzz being generated to the idea of 3D printing/additive manufacturing based on its ability to make one-of-a-kind components in the same way that Stark likely does for his various Iron Man suits,&rdquo; says Mathaudhu.&nbsp;&ldquo;He can quickly build what he needs, when he needs it.&nbsp; One interesting aspect of the trailer is that Iron Man has a drone ship that&rsquo;s able to release replacement parts/modular parts to the Hulkbuster when some parts are damaged. I&rsquo;m speculating that unless the drone ship has some set number of replacement parts, perhaps it has an additive manufacturing-like capability to make replacement parts on the spot.&rdquo;</p>
+<p><strong>Quicksilver and high-speed travel</strong></p>
+<p><strong><iframe width="100%" height="345" src="//www.youtube.com/embed/bClGSkZymoM" frameborder="0"></iframe><br />
+</strong></p>
+<p>Quicksilver is estimated to move at a speed of Mach 10, which Mathaudhu says would equate to approximately 6,500 to 7,800 MPH (depending on weather conditions). This speed would produce an extreme amount of friction, along with impact damage as a result of contact with other objects.&nbsp;&nbsp; </p>
+<p>&ldquo;The U.S. DoD has been looking at a variety of technologies to enable hypersonic travel, such as DARPA&rsquo;s Falcon, which would go a measly Mach 6,&rdquo; the engineering professor says. &ldquo;However, progress is being hindered by the lack of high-temperature materials and cooling systems.&nbsp;Fundamentally, the tiles that broke during the shuttle disaster were thermal protection tiles that got damaged and broke from impacts and then heat damage to the structure resulted during re-entry.&rdquo; <br />
+<br />
+He adds: &ldquo;There is now a resurgence in <a href="http://www.greencarcongress.com/2015/04/20150403-hrl.html" target="_blank">developing such materials</a>. In the comics, Quicksilver is resistant to frictional damage, impact damage, and the lack of oxygen, but in the movies, perhaps we can speculate that his suit is a special material made to accommodate the rigors of his high-speed traveling?&nbsp;I know it doesn&rsquo;t cover his whole body, so it doesn&rsquo;t make complete sense, but we can take some liberties here.&rdquo;<strong></strong></p>
+<div class="hidden-md hidden-lg">
+   <a href="http://www.google.com/newsstand/s/CAow85bwCg " target="_blank"> <img  id="newsstand_banner"  style="margin-left:auto;margin-right:auto;" src="http://res.cloudinary.com/engineering-com/image/upload/v1438971625/Newsstand-Banner_cleliw.jpg" class="img-responsive"></a>
+</div>
+<script>
+$('#newsstand_banner').click(function() { 
+ga('send', 'event', 'NewsstandBanner', 'clicked');
+});
+</script>
+        
+    </div>
+    
+
+    
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding: 10px 0 0 0;"></div>
+
+
+
+
+
+<div>
+    <div class="section_header" style="margin-bottom:10px;"><p class="main_content_heading" style="width:220px;">Recommended For You</p></div>
+    <!-- Related.Header -->
+<ul class="newsArticlesList"><!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10910/Methane-Fueled-Rocket-Aims-for-Mars.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/methane_thruster_during_ignition_phase.jpg" /></a>
+<br/>
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10910/Methane-Fueled-Rocket-Aims-for-Mars.aspx" class="related-links">Methane-Fueled Rocket Aims for Mars</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10909/Lithium-Air-Batteries-The-Key-to-Replacing-the-Internal-Combustion-Engine.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/bigstock-Electric-Car-in-Charging-Stati-75002101.jpg" /></a>
+<br/>
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10909/Lithium-Air-Batteries-The-Key-to-Replacing-the-Internal-Combustion-Engine.aspx" class="related-links">Lithium-Air Batteries: The Key to Replacing the Internal Combustion Engine?</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10904/Talking-Robot-Simulates-Human-Personalities.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/chao-1446135811082.png" /></a>
+<br/>
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10904/Talking-Robot-Simulates-Human-Personalities.aspx" class="related-links">Talking Robot Simulates Human Personalities</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Item -->
+	
+<div class="col-md-3" style="margin-bottom:20px;">
+		<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10900/Acoustic-Hologram-Levitates-Without-Physical-Contact.aspx" class="related-links" border="0"><img class="img-responsive" src="http://res.cloudinary.com/engineering-com/image/fetch/w_140,h_95,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/tractorbeam-article.jpg" /></a>
+<br/>
+<a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10900/Acoustic-Hologram-Levitates-Without-Physical-Contact.aspx" class="related-links">Acoustic Hologram Levitates Without Physical Contact</a>
+</div>
+	
+
+
+
+		
+
+<!-- Related.Footer -->
+</ul>
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:  0 0 0;"></div>
+<p>&nbsp;</p>
+
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script async type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'engineeringcom'; // required: replace example with your forum shortname
+var disqus_identifier = 'art10028';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'engineeringcom'; // required: replace example with your forum shortname
+		var disqus_identifier = 'art10028';
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+</script>
+
+
+<script type="text/javascript">
+    $('.NewsArticles a[href]').filter(function () {
+        return /(jpg|gif|png)$/.test($(this).attr('href'))
+    }).attr('rel', 'shadowbox[10028]');
+    
+    Shadowbox.init({
+        handleOversize: "drag"
+    });
+</script>
+</div>
+</div><!-- End_Module_429 --></div>
+</div></div>								
+		</div>
+		<div class="col-md-4 hidden-sm hidden-xs" id="sidebar_content">
+				<div id="dnn_Picks"><div class="DnnModule DnnModule-DNN_HTML DnnModule-10341"><a name="10341"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10341_TITLE_titleLabel" class="Head">Subscribe</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10341_ContentPane" class="ContentCss"><!-- Start_Module_10341 --><div id="dnn_ctr10341_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10341_HtmlModule_lblContent" class="Normal">
+	<script type="text/javascript">
+$(document).ready(function () {
+	$("#func_switch").click(function() {
+	var email = document.getElementById('email').value;
+	window.open("http://www.engineering.com/MailPreferences.aspx?Email="+email+""); 
+	});
+});
+
+</script>
+<div style="margin-bottom: 10px;" class="addthis_horizontal_follow_toolbox"></div>
+<div class="row">
+<div class="col-md-8">
+<input type="text" name="email" class="form-control" id="email" placeholder="Sign up for news" />
+</div>
+<div class="col-md-4">
+<button type="submit" class="btn btn-primary" id="func_switch">Submit</button>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10341 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10406"><a name="10406"></a><div id="dnn_ctr10406_ContentPane"><!-- Start_Module_10406 --><div id="dnn_ctr10406_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10406_HtmlModule_lblContent" class="Normal">
+		<script type="text/javascript">
+var dimensionValue = 'Ilan Mester';
+ga('set', 'dimension1', dimensionValue);
+<script type="text/javascript"></body></html></script>
+	</div>
+
+
+
+
+
+
+</div><!-- End_Module_10406 --></div>
+</div></div>
+				<div id="dnn_BoxAd"><div class="DnnModule DnnModule-DNN_HTML DnnModule-10491"><a name="10491"></a><div id="dnn_ctr10491_ContentPane"><!-- Start_Module_10491 --><div id="dnn_ctr10491_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10491_HtmlModule_lblContent" class="Normal">
+		<!-- Engcom_DesignerEdge_BigBox -->
+<div id="div-gpt-ad-1399570842959-0">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1399570842959-0'); });
+</script>
+</div>
+	</div>
+
+
+
+
+
+
+</div><br><!-- End_Module_10491 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-11944"><a name="11944"></a>
+<table cellSpacing=0 cellPadding=0 width=100% border=0>
+	<tr>
+                <td></td>
+        	<td></td>
+	</tr>
+</table>
+<table width="100%"  cellpadding="2" cellspacing="0">
+	<tr>
+		<td id="dnn_ctr11944_ContentPane" bgcolor="#FFFFFF"><!-- Start_Module_11944 --><div id="dnn_ctr11944_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11944_HtmlModule_lblContent" class="Normal">
+	<div class="section_header_right" style="margin-bottom:8px;">
+<p class="main_content_heading">Share A File</p>
+</div>
+<link href="https://360.autodesk.com/Content/css/a360Viewer/widget.css" rel="stylesheet" type="text/css">
+<script src="https://360.autodesk.com/Scripts/a360Viewer/widget.js" type="text/javascript"></script>
+<style type="text/css">
+    .container-360{
+    width: 300px;
+    height: 250px;
+    background-image: url("http://file2.engineering.com/A360Viewer_300x250_F3D-Generic-Autodesk_V7.gif");
+    position: relative;
+    }
+    #a360ViewerWidget{
+    width: 255px;
+    height: 103px;
+    position: absolute;
+    top: 101px;
+    left: 25px;
+    opacity: 0;
+    -webkit-animation: fadeIn 500ms linear 14500ms forwards;
+    -o-animation: fadeIn 500ms linear 14500ms forwards;
+    animation: fadeIn 500ms linear 14500ms forwards;
+    }
+    @-webkit-keyframes fadeIn {
+    100%{opacity: 1;}
+    }
+</style>
+<a href="https://360.autodesk.com/viewer">
+<div class="container-360" id="cont">
+<div id="a360ViewerWidget">
+</div>
+<script type="text/javascript">
+            var adskViewerWidget = adskViewerWidget();
+            var widgetType = adskViewerWidget.GetRenderedType();
+            adskViewerWidget.Init('#a360ViewerWidget', true);
+
+            if(widgetType === 1){
+                //click widget
+                document.getElementById("cont").style.backgroundImage = "url('http://file2.engineering.com/A360Viewer_300x250_F3D-Generic-Autodesk_V7.jpg')";
+                document.getElementById("a360ViewerWidget").style.opacity = "1";
+            }
+            else{
+                //hover widget
+                document.getElementById("a360ViewerWidget").style.opacity = "0";
+                document.getElementById("cont").style.backgroundImage = "url('http://file2.engineering.com/A360Viewer_300x250_F3D-Generic-Autodesk_V7.gif')";
+            }
+        </script>
+<script>ga('send', 'event', 'A360', 'Load');</script>
+</div>
+</a>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_11944 --></td>
+
+	</tr>
+</table></div></div>
+				<div id="dnn_BoxContent"><div class="DnnModule DnnModule-XModPro DnnModule-10936"><a name="10936"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10936_TITLE_titleLabel" class="Head">Resources</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10936_ContentPane" class="ContentCss"><!-- Start_Module_10936 --><div id="dnn_ctr10936_ModuleContent" class="DNNModuleContent ModXModProC">
+	
+
+
+
+
+<style>
+.resource-mainLink {
+    color:#525258;
+    font-family:'Open Sans',sans-serif;
+  font-size:12px;
+  font-weight:700;
+}
+
+.resource-images {	margin : 0 10px 0 0;
+	border:1px;
+	border-style:solid; 
+	border-color:#333333; 	
+	float: left;
+	min-width:120px;
+	min-height:90px;
+	max-width:120px;
+	max-height:90px;
+	position:relative;
+	overflow:hidden;
+	padding: 0px;}
+	
+.download{color: #005f95; 
+}	
+</style>
+
+
+	
+  
+  <div class="resource">
+		<div class="resource-images"><a href="http://www.engineering.com/ResourceMain.aspx?resid=364&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemensBAebook"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://image.engineering.com/239575/articles/oct2015/BA-CAMsurveyebook/BA-CAM%20Survey%20eBook-1.jpg" class="img-responsive"/></a></div>
+		<div><a href="http://www.engineering.com/ResourceMain.aspx?resid=364&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemensBAebook" class="resource-mainLink">Report: Fear of the CAD/CAM Combo – What’s Stopping Design to Manufacturing</a> <br> <a href="http://www.engineering.com/ResourceMain.aspx?resid=364&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemensBAebook"><span class="download">Download</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+		<div class="resource-images"><a href="http://www.engineering.com/ResourceMain.aspx?resid=363&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=altair206-web1"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://image.engineering.com/239575/articles/oct2015/altair206/altair206-1.png" class="img-responsive"/></a></div>
+		<div><a href="http://www.engineering.com/ResourceMain.aspx?resid=363&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=altair206-web1" class="resource-mainLink">Live Webinar: Create Radically Better Products with Design Optimization and 3D Printing</a> <br> <a href="http://www.engineering.com/ResourceMain.aspx?resid=363&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=altair206-web1"><span class="download">Sign Up Now</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+		<div class="resource-images"><a href="http://www.engineering.com/ResourceMain.aspx?resid=361&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=AMDfirepro414"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://image.engineering.com/239575/articles/oct2015/amdfirepro414/amdfirepro414-1.jpg" class="img-responsive"/></a></div>
+		<div><a href="http://www.engineering.com/ResourceMain.aspx?resid=361&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=AMDfirepro414" class="resource-mainLink">Webinar: The Right GPU for Your Design and Engineering Workflow</a> <br> <a href="http://www.engineering.com/ResourceMain.aspx?resid=361&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=AMDfirepro414"><span class="download">Watch Webinar</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  <div class="resource">
+		<div class="resource-images"><a href="http://www.engineering.com/ResourceMain.aspx?resid=357&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemenswebinar244-4"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_200,h_150,f_jpg,c_fill/http://image.engineering.com/239575/articles/sept2015/siemenswebinar244/siemenswebinar244-4.png" class="img-responsive"/></a></div>
+		<div><a href="http://www.engineering.com/ResourceMain.aspx?resid=357&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemenswebinar244-4" class="resource-mainLink">Webinar: Fear of the CAD/CAM Combo – What’s Stopping Design to Manufacturing</a> <br> <a href="http://www.engineering.com/ResourceMain.aspx?resid=357&utm_source=recommended_designeredge&utm_medium=web&utm_campaign=siemenswebinar244-4"><span class="download">Watch Webinar</span></a></div>
+  </div>
+  
+  <div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+  
+  
+
+</div><!-- End_Module_10936 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10564"><a name="10564"></a><div id="dnn_ctr10564_ContentPane"><!-- Start_Module_10564 --><div id="dnn_ctr10564_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10564_HtmlModule_lblContent" class="Normal">
+		<!-- Engcom_DesignerEdge_BigBox2 -->
+<div id="div-gpt-ad-1399570842959-1">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1399570842959-1'); });
+</script>
+</div>
+	</div>
+
+
+
+
+
+
+</div><br /><!-- End_Module_10564 --></div>
+</div><div class="DnnModule DnnModule-LatestArticlesEngCom DnnModule-10902"><a name="10902"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10902_TITLE_titleLabel" class="Head">Most Read</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10902_ContentPane" class="ContentCss"><!-- Start_Module_10902 --><div id="dnn_ctr10902_ModuleContent" class="DNNModuleContent ModLatestArticlesEngComC">
+	<style>
+.most-read-article 
+{
+	margin-top: 10px;
+    clear: both;
+    text-align: left;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+	font-weight:600;
+	line-height:1.3;
+}
+
+a.most-read-mainLink {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:link {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:active {color: #333333; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600;  
+}
+a.most-read-mainLink:visited{color: #333333; 
+font-family: Georgia, "Times New Roman", Times, font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+a.most-read-mainLink:hover {color: #005f95; 
+font-family: 'Open Sans', sans-serif;
+font-size:13px; 
+font-weight:600; 
+}
+
+.most-read-articleImage { 
+	margin : 0 10px 0 0;
+	border:1px;
+	border-style:solid; 
+	border-color:#333333; 	
+	float: left;
+	min-width:60px;
+	min-height:40px;
+	max-width:60px;
+	max-height:40px;
+	position:relative;
+	overflow:hidden;
+	padding: 0px;
+}
+.view-count{color: #FF3300; 
+}
+</style><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/Education/EducationArticles/ArticleID/10898/How-to-Study-Engineering-and-Still-Have-A-Life.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/151029-flickr-AaronSmith-ComputerLab.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/Education/EducationArticles/ArticleID/10898/How-to-Study-Engineering-and-Still-Have-A-Life.aspx" class="most-read-mainLink">How to Study Engineering and Still Have A Life</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10893/Volocopter--The-Worlds-First-Green-Helicopter.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/volo product.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10893/Volocopter--The-Worlds-First-Green-Helicopter.aspx" class="most-read-mainLink">Volocopter - The World's First Green Helicopter</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10900/Acoustic-Hologram-Levitates-Without-Physical-Contact.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/tractorbeam-article.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10900/Acoustic-Hologram-Levitates-Without-Physical-Contact.aspx" class="most-read-mainLink">Acoustic Hologram Levitates Without Physical Contact</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10896/Meet-the-Shatterproof-Cell-Phone.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/cp-moto x force-eg-2.png" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10896/Meet-the-Shatterproof-Cell-Phone.aspx" class="most-read-mainLink">Meet the Shatterproof Cell Phone</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10897/Makers-Create-Giant-Hulkbuster-Iron-Man-Costumes.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/hulkbuster torso.JPG" /></a></div>
+		
+		<div><a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/10897/Makers-Create-Giant-Hulkbuster-Iron-Man-Costumes.aspx" class="most-read-mainLink">Makers Create Giant Hulkbuster Iron Man Costumes</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div><div class="most-read-article">
+    <div class="most-read-articleEntry">
+        <div class="most-read-articleImage"><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10894/Will-Manufacturers-Cover-Insurance-for-Driverless-Car-Owners.aspx"><img src="http://res.cloudinary.com/engineering-com/image/fetch/w_60,h_40,f_jpg,c_fill/http://www.engineering.com/Portals/0/BlogFiles/Driving_Google_Self-Driving_Car.jpg" /></a></div>
+		
+		<div><a href="http://www.engineering.com/AdvancedManufacturing/ArticleID/10894/Will-Manufacturers-Cover-Insurance-for-Driverless-Car-Owners.aspx" class="most-read-mainLink">Will Manufacturers Cover Insurance for Driverless Car Owners?</a> </div>
+    </div>   
+</div>
+<div style="clear:both; border-bottom: 1px dotted #cccccc; padding:0 0 5px 0;"></div>
+
+
+
+
+
+</div><!-- End_Module_10902 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10800"><a name="10800"></a>
+
+
+	<div class="section_header_right" style="margin-bottom:8px;">
+		<p class="main_content_heading"><span id="dnn_ctr10800_TITLE_titleLabel" class="Head">Community</span>
+
+
+</p>
+	</div>
+	<div class="header-box-right"></div>
+
+<div style="clear:both"></div>
+<div id="dnn_ctr10800_ContentPane" class="ContentCss"><!-- Start_Module_10800 --><div id="dnn_ctr10800_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10800_HtmlModule_lblContent" class="Normal">
+	<script type="text/javascript" src="http://engineeringcom.disqus.com/combination_widget.js?num_items=5&hide_mods=1&color=grey&default_tab=popular&excerpt_length=300"></script>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10800 --></div>
+<div style="clear:both"></div></div><div class="DnnModule DnnModule-DNN_HTML DnnModule-10004"><a name="10004"></a><div id="dnn_ctr10004_ContentPane" class="DNNAlignleft"><!-- Start_Module_10004 --><div id="dnn_ctr10004_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr10004_HtmlModule_lblContent" class="Normal">
+	<p style="margin-top:15px;"><a href="http://itunes.apple.com/app/engineering-com/id429258010?mt=8" target="_blank"><img height="90" alt="iPhone/iPad App" src="http://file2.engineering.com/engcom/images/logos/iphone-button-300.jpg" style="border-width: 0px; border-style: solid;"></a></p>
+<p><a href="https://market.android.com/details?id=com.impinge.Engineering&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5pbXBpbmdlLkVuZ2luZWVyaW5nIl0" target="_blank"><img height="90" align="top" src="http://file2.engineering.com/february-2012/android-button-300.jpg" alt="Android App" style="margin-bottom: 5px; border-width: 0px; border-style: solid;"></a></p>
+</div>
+
+
+
+
+
+
+</div><!-- End_Module_10004 --></div>
+</div></div>
+				<div id="dnn_LeaderboardRight" class="DNNEmptyPane"></div>			
+		</div>		
+	</div>
+</div>
+
+<style>
+#footer_logo {
+	opacity:0.3;
+	}
+#footer_logo:hover {
+	opacity:1;
+}
+.footer {
+	color:#ffffff;
+}
+A.footer:link,
+A.footer:visited,
+A.footer:active
+ {
+color:#ffffff;
+}
+
+</style>
+<div class="container" id="footer_nav" style="margin-bottom:20px;background-color:#5d646c;color:#fff;padding:10px;">
+	<div class="row">
+		<div class="col-md-12">		
+			<strong style="margin-bottom:5px;">About ENGINEERING.com</strong><br />
+			<font class="footer">ENGINEERING.com brings the most influential voices in engineering to a worldwide audience of engineers.  Our stories are informative, inspiring and entertaining.</font><br /><br />
+			<div class="col-md-4">
+				<a href="http://www.engineering.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/engcom_color.png "/></a>
+			</div>
+			<div class="col-md-4">
+				<a href="http://www.eng-tips.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/engtips_color.png "/></a>
+			</div>
+			<div class="col-md-4">
+				<a href="http://www.tek-tips.com/"><img class="img-responsive" id="footer_logo" src="http://file2.engineering.com/engcom/images/logos/tektips_color.png "/></a>
+			</div>
+		</div>	
+	</div>
+	<div class="row">
+		<div class="col-md-6">
+			<p class="footer">Copyright &copy; 2015 ENGINEERING.com, Inc.<br/>
+			All rights reserved. Registration on or use of this site constitutes acceptance of our <a href="/Home/PrivacyPolicy/tabid/197/Default.aspx" class="footer">Privacy Policy.</a></p>
+		</div>
+	</div>
+	<div class="row">	
+		<div class="col-md-12">
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">Company</strong><br />
+				<a href="/Home/AboutUs/tabid/196/Default.aspx" class="footer">About Us</a><br />
+                                <a href="/Home/OurTeam.aspx" class="footer">Our Team</a><br />
+				<a href="/Home/ContactUs/tabid/198/Default.aspx" class="footer">Contact Us</a><br />
+				<a href="/engineeringcompartners.aspx" class="footer">Partners</a><br />
+				<a href="/Home/Contributors.aspx" class="footer">Contributors</a>
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;"> 
+				<strong style="margin-bottom:5px;">Follow</strong><br />
+				<a href="/Mobile.aspx" class="footer">Mobile Apps</a><br />
+				<a href="/Home/Podcasts.aspx" class="footer">Podcasts</a><br />
+				<a href="/Home/Follow.aspx" class="footer">RSS</a><br />
+				<a href="/MailPreferences.aspx" class="footer">Newsletters</a><br />			
+				<a href="http://www.youtube.com/user/engineeringdotcom" target="_blank" class="footer">YouTube</a><br />
+				<a href="http://www.facebook.com/engineeringcom" target="_blank" class="footer">Facebook</a><br />
+				<a href="/Home/Follow.aspx" class="footer">Twitter</a><br />
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">Sections</strong><br />
+				<a href="/3DPrinting/3DPrintingArticles.aspx" class="footer">3D Printing</a><br />
+				<a href="/DesignSoftware/DesignSoftwareArticles.aspx" class="footer">CAD/CAE</a><br />
+                                <a href="/DesignerEdge/DesignerEdgeArticles.aspx" class="footer">Designer Edge</a><br />
+								
+                                <a href="/CAM.aspx" class="footer">CAM</a><br />
+				<a href="/BIM.aspx" class="footer">BIM</a><br />
+                                <a href="/Education/EducationArticles.aspx" class="footer">Education</a><br />
+				<a href="/ElectronicsDesign/ElectronicsDesignArticles.aspx" class="footer">Electronics</a><br />
+				<a href="/GamesPuzzles/tabid/82/Default.aspx" class="footer">Games and Puzzles</a><br />
+				<a href="/Jobs/tabid/5120/Default.aspx" class="footer">Jobs</a><br />
+				<a href="/Videos/tabid/4624/Default.aspx" class="footer">Videos</a><br/>
+                                <a href="/Resources.aspx" class="footer">Resources</a><br />
+				<a href="/Webinars.aspx" class="footer">Webinars</a>	
+			</div>				
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">More Resources</strong><br />
+				<a href="/Library/ArticlesPage/tabid/85/articleType/CategoryView/categoryId/9/Calculators.aspx" class="footer">Calculators</a><br />
+				<a href="/Resources.aspx" class="footer">Resources</a><br />
+				<a href="/Library/tabid/78/Default.aspx" class="footer">Library</a><br />
+				<a href="/Directories/tabid/71/Default.aspx" class="footer">Directories</a><br />
+				<a href="/Blogs/tabid/3207/Default.aspx" class="footer">Blogs</a><br />
+				<a href="/AskForum.aspx" class="footer">Ask@</a><br />
+				<a href="/ProductShowcase.aspx" class="footer">Showcase</a><br />		
+				<a href="/Education/MastersofEngineeringManagement.aspx" class="footer">Masters of Engineering Management</a><br />				
+			</div>			
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">For Advertisers</strong><br />
+				<a href="http://advertise.engineering.com/media-guide-product-offerings-directory" class="footer" target="_blank">Advertise With Us</a><br />
+				<a href="http://advertise.engineering.com/industry-solutions" class="footer" target="_blank">Industry Solutions</a><br />
+				<a href="http://advertise.engineering.com/digitalportfolio" class="footer" target="_blank">Digital Portfolio</a><br />
+				<a href="http://advertise.engineering.com/digital-marketing-for-engineers-blog" class="footer" target="_blank">Digital Marketing Blog</a><br />
+				<a href="http://advertise.engineering.com/media-guide" class="footer" target="_blank">Media Guide</a>
+			</div>		
+			<div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
+				<strong style="margin-bottom:5px;">For Contributors</strong><br />
+				<a href="/Home/BecomeaContributor.aspx" class="footer">Apply Here</a><br />
+				<a href="/Home/Contributors.aspx" class="footer">Contributor Directory</a>
+			</div>	
+		</div>        
+	</div>
+</div>
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/1147371.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code --> 
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-b0hFPX_Dy1okM"
+};
+</script>
+<script defer type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-b0hFPX_Dy1okM.gif" style="display: none;" alt="Quantcast" border="0" height="1" width="1">
+</noscript>
+<!-- End Quantcast tag -->
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script><script type="text/javascript">
+  document.getElementById("KB_JSTester_JSEnabled").value = "1";
+  if(typeof jQuery != 'undefined'){document.getElementById("KB_JSTester_JQueryVsn").value = jQuery.fn.jquery;}
+</script>
+</form>
+    
+    
+</body>
+</html>

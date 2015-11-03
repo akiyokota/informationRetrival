@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+
+<!-- WordPress Theme by WPExplorer (http://www.wpexplorer.com) -->
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<!--[if IE]><![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title> UCR Magazine</title>
+
+	<meta http-equiv="last-modified" content="2015-10-14" />
+	<meta property="og:site_name" content="UCR Magazine" />
+	<meta property="og:title" content="Fall 2015 Issue" />
+	<meta property="og:url" content="http://magazine.ucr.edu/" />
+	<meta property="og:image" content="http://magazine.ucr.edu/thumbnail.jpg" />
+	<meta name="description" content="UCR: The Magazine of the University of California, Riverside" />
+	<meta property="og:description" content="UCR: The Magazine of the University of California, Riverside" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="alternate" type="application/rss+xml" title="UCR Magazine &raquo; Feed" href="http://magazine.ucr.edu/feed" />
+
+	<link rel="pingback" href="http://magazine.ucr.edu/xmlrpc.php" />
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3051875-1']);
+				            _gaq.push(['_setDomainName','.ucr.edu'],['_setAllowHash',false],['_setCustomVar',1,'author','robert-bottomley',3],['_setCustomVar',3,'year','2015',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/magazine.ucr.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive-lightbox-nivo-css'  href='http://magazine.ucr.edu/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-default-css'  href='http://magazine.ucr.edu/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css?ver=1.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='adapt-style-css'  href='http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/css/font-awesome.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/css/responsive.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://p.jwpcdn.com/6/12/jwplayer.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-content/plugins/new-nine-adaptive-images/script.js?ver=1.5.2'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/js/fitvids.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpexLocalize = {"responsiveMenuText":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/js/global.js?ver=1'></script>
+<link rel='canonical' href='http://magazine.ucr.edu/' />
+<link rel='shortlink' href='http://atu.cr/10TV0ia' />
+<script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/css/ancient-ie.css" /><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+
+<!-- Begin Body -->
+<body class="home page page-id-3175 page-template page-template-templates page-template-issue page-template-templatesissue-php">
+
+<header id="masterhead" class="clearfix">
+	<div class="wrap clearfix">
+        <h1 id="logo">
+            <a href="http://magazine.ucr.edu/"><img src="http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/images/ucr_monogram.png" alt="UCR Magazine" /><span> The Magazine of UC Riverside</span></a>
+        </h1><!--  /logo -->
+<h2>Fall 2015</h2>        <!--nav id="masternav" class="clearfix">
+                    </nav--><!-- /masternav -->
+		<a id="archives" class="img_link" href="http://magazine.ucr.edu/archives.html"><span class="accessibility">Past Issues</span></a>
+			<form method="get" class="searchform" id="searchform-x1446568575d5a7359" action="http://magazine.ucr.edu/" role="search">
+		<label for="s-x1446568575d5a7359">Search</label>
+		<input type="search" class="s field" name="s" id="s-x1446568575d5a7359" />
+	</form>
+	</div>
+</header><!-- /masterhead -->
+
+
+<div class="wrap clearfix">
+	<section id="l_main_stories" class="clearfix">
+
+		<a href='/3168' style="background-image: url(http://magazine.ucr.edu/wp-content/uploads/2015/10/a-year-in-the-life.jpg)" onclick="javascript:_gaq.push(['_trackEvent','Home Page','Main Stories','3168: A Year in The Life of Three Learning Community Students']);">
+			<div>
+				<h3>A Year in Three Lives….</h3>
+				<p>UCR freshmen soar with help from their learning communities</p>
+				<p class="l_read_more"><i class="icon-double-angle-right"></i> Read Article</p>
+			</div>
+		</a>
+		<span class="divider"></span>
+
+		<a href='/3125' style="background-image: url(http://magazine.ucr.edu/wp-content/uploads/2015/10/eCigHome.jpg)" onclick="javascript:_gaq.push(['_trackEvent','Home Page','Main Stories','3125: Seven Myths About E-Cigarettes Busted']);">
+			<div>
+				<h3>Busting E-Cigarette Myths</h3>
+				<p>UCR researchers are finding that e-cigarettes aren't so safe after all</p>
+				<p class="l_read_more"><i class="icon-double-angle-right"></i> Read Article</p>
+			</div>
+		</a>
+		<span class="divider"></span>
+
+		<a href='/3170' style="background-image: url(http://magazine.ucr.edu/wp-content/uploads/2015/10/reza_feature_image.jpg)" onclick="javascript:_gaq.push(['_trackEvent','Home Page','Main Stories','3170: The Life and Times of Reza Aslan']);">
+			<div>
+				<h3>The Life and Times of Reza Aslan</h3>
+				<p>UCR creative writing professor and viral darling stands his ground</p>
+				<p class="l_read_more"><i class="icon-double-angle-right"></i> Read Article</p>
+			</div>
+		</a>
+		<span class="divider"></span>
+
+		<a href='/3098' style="background-image: url(http://magazine.ucr.edu/wp-content/uploads/2015/09/EndowChairHome.jpg)" onclick="javascript:_gaq.push(['_trackEvent','Home Page','Main Stories','3098: Widening the Conversation About Judaism']);">
+			<div>
+				<h3>Judaism: Widening the Conversation</h3>
+				<p>Michael Alexander aims to link UCR to a transnational Jewish community</p>
+				<p class="l_read_more"><i class="icon-double-angle-right"></i> Read Article</p>
+			</div>
+		</a>
+		<span class="divider"></span>
+	</section>
+
+
+	<section id="l_other_stuff" class="clearfix">
+		<div class="col-wide">
+			
+		<div class="widget_magazine_issue clearfix">
+			<header>
+				<img src="http://magazine.ucr.edu/wp-content/uploads/2015/09/mag_fall_2015.jpg" width="150" height="194" alt="UCR Magazine Fall 2015" />
+				<h3>Fall 2015</h3>
+				<p>Learning Communities</p>
+			</header>
+			<p>UC Riverside is now nationally recognized (even by the White House) for its student graduation rates and nearly equal graduation rates across all racial and ethnic groups—a rarity among universities—and its learning communities for freshmen are a key reason why.</p>
+
+			<p><a class="img_button tri" id="l_read_mag_bttn" href="http://issuu.com/ucriverside/docs/ucr-magazine-fall-2015?mode=window" onclick="javascript:_gaq.push(['_trackEvent','Read Full Issue','http://issuu.com/ucriverside/docs/ucr-magazine-fall-2015?mode=window']);" target="_blank"><span class="accessibility">Read the Full Magazine</span></a></p>
+<p><a class="img_button" id="l_txt_only_bttn" href="/text/fall-2015.html" onclick="javascript:_gaq.push(['_trackEvent','Text Only Issue','/text/fall-2015.html']);"><span class="accessibility">Read the text-only version</span></a> 
+<a class="img_button" id="l_download_pdf_bttn" href="/wp-content/uploads/2015/10/UCR-Magazine-Fall-2015.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','/wp-content/uploads/2015/10/UCR-Magazine-Fall-2015.pdf']);"><span class="accessibility">Download PDF</span></a></p>
+		</div>
+<div class="widget_text clearfix">			<div class="textwidget"><div class="share">
+<p><i class="fa fa-share-alt fa-lg"></i> Share this issue: </p><ul class="share_links">
+<li><a rel="nofollow" href="mailto:?body=Thought%20you%20might%20be%20interested%20in%20the Fall%202015%20issue%20of%20UCR%20Magazine%0A%0Ahttp%3A%2F%2Fatu.cr%2F1jp8Sxm&amp;subject=UCR%20Magazine%20Fall%202015" title="E-mail this page to a friend" onclick="javascript:_gaq.push(['_trackEvent','Share','E-mail','Fall 2015']);"><i class="fa fa-envelope-o fa-lg"><span class="accessibility">E-mail this page to a friend</span></i></a></li>
+<li><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fatu.cr%2F1jp8Sxm&amp;t=UCR%20Magazine%20Fall%202015%20issue"  title="Share this page on Facebook!" onclick="javascript:_gaq.push(['_trackEvent','Share','Facebook','Fall 2015']);" target="_blank"><i class="fa fa-facebook-square fa-lg"><span class="accessibility">Share this page on Facebook!</span></i></a></li>
+<li><a rel="nofollow" href="https://plusone.google.com/_/+1/confirm?hl=en&amp;url=http%3A%2F%2Fatu.cr%2F1jp8Sxm&amp;title=UCR%20Magazine%20Fall%202015%20issue"  title="Publicly recommend on Google!" onclick="javascript:_gaq.push(['_trackEvent','Share','Google +1','Fall 2015']);" target="_blank"><i class="fa fa-google-plus-square fa-lg"><span class="accessibility">Publicly recommend on Google!</span></i></a></li>
+<li><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=UC%20Riverside&amp;url=http%3A%2F%2Fatu.cr%2F1jp8Sxm&amp;title=UCR%20Magazine%20Fall%202015%20issue"  title="Add this page to LinkedIn!" onclick="javascript:_gaq.push(['_trackEvent','Share','LinkedIn','Fall 2015']);" target="_blank"><i class="fa fa-linkedin-square fa-lg"><span class="accessibility">Add this page to LinkedIn!</span></i></a></li>
+<li><a rel="nofollow" href="http://twitter.com/home?status=UCR%20Magazine%20Fall%202015%20issue%20http%3A%2F%2Fatu.cr%2F1jp8Sxm%20via%20%40UCRiverside"  title="Share on Twitter!" onclick="javascript:_gaq.push(['_trackEvent','Share','Twitter','Fall 2015']);" target="_blank"><i class="fa fa-twitter fa-lg"><span class="accessibility">Share on Twitter!</span></i></a></li>
+<li><a rel="nofollow" href="javascript:window.print()" title="Print this page" onclick="javascript:_gaq.push(['_trackEvent','Share','Print','Fall 2015']);"><i class="fa fa-print fa-lg"><span class="accessibility">Print this page</span></i></a></li>
+</ul>
+</div></div>
+		</div>		</div>
+
+		<div class="col-narrow">
+			<div class="widget_issue_links clearfix issue_links_features"><h3><i class="fa fa-newspaper-o fa-lg"></i>Other Features</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://magazine.ucr.edu/3172">Head Baseball Coach Troy Percival</a></li>
+<li><a href="http://magazine.ucr.edu/3157">Juan Felipe Herrera: ‘My Voice Is Made by Everyone’s Voices’</a></li>
+<li><a href="http://magazine.ucr.edu/3132">Tamica Smith Jones, UCR’s New Director of Intercollegiate Athletics</a></li>
+
+	</ul>
+</div>
+		</div>
+
+		<div class="col-narrow">
+			<div class="widget_issue_links clearfix issue_links_extras"><h3><i class="fa fa-bookmark-o fa-lg"></i>Online Extras</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://vimeo.com/105972211" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','https://vimeo.com/105972211']);">A Video Explains the University Innovation Alliance</a></li>
+<li><a href="http://homecoming.ucr.edu/" target="" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','http://homecoming.ucr.edu/']);">Everything you Need to Know about UCR Homecoming 2015</a></li>
+<li><a href="https://youtu.be/iykpWev3NLY" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','https://youtu.be/iykpWev3NLY']);">PBS NewsHour Profiles UCR Professor Emeritus Juan Felipe Herrera</a></li>
+<li><a href="https://youtu.be/AMqMFOiZAYA" target="_blank" onclick="javascript:_gaq.push(['_trackEvent','outbound-blogroll','https://youtu.be/AMqMFOiZAYA']);">UCR Director of Intercollegiate Athletics Tamica Smith Jones at her Welcome Reception</a></li>
+
+	</ul>
+</div>
+		</div>
+
+
+	</section>
+
+	<section id="l_news" class="clearfix">
+
+		<div class="widget_mrss clearfix"><h3><a class="widget_mrss_icon" href="http://ucrtoday.ucr.edu/feed/features" title="Syndicate UC Riverside News and Happenings"><img style="border:0" width="14" height="14" src="http://magazine.ucr.edu/wp-includes/images/rss.png" alt="RSS" /></a> <a href="http://ucrtoday.ucr.edu/" title="UC Riverside News and Happenings">Other News at UCR Today</a></h3>
+<ul>
+<li><a href="http://ucrtoday.ucr.edu/32843" onclick="javascript:_gaq.push(['_trackEvent','outbound-mrss','UC Riverside Cited for Success with Pell Grant Students','http%3A%2F%2Fucrtoday.ucr.edu%2F32843']);" title="A new report from the Institute for Higher Education Policy includes UC Riverside among universities doing the most  to accept and graduate low-income college students."><img alt="" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/UCR-Mojan-Deriss-2015-5-130x78.jpg" /><strong>UC Riverside Cited for Success with Pell Grant Students</strong>
+ <span class="mrss-date">October 29, 2015</span>  </a></li>
+<li><a href="http://ucrtoday.ucr.edu/32738" onclick="javascript:_gaq.push(['_trackEvent','outbound-mrss','Climate Heroes Named at UC Riverside','http%3A%2F%2Fucrtoday.ucr.edu%2F32738']);" title="The University of California, Riverside has announced the name of the professor who has been named a climate action champion and the students who have been named climate neutrality fellows."><img alt="" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/MihriOzkan-Photo41-e1445881806860-130x78.jpg" /><strong>Climate Heroes Named at UC Riverside</strong>
+ <span class="mrss-date">October 26, 2015</span>  </a></li>
+<li><a href="http://ucrtoday.ucr.edu/32706" onclick="javascript:_gaq.push(['_trackEvent','outbound-mrss','Three Students Receive Global Food Initiative Fellowships','http%3A%2F%2Fucrtoday.ucr.edu%2F32706']);" title="Three students at UC Riverside have received UC Global Food Initiative Fellowships to work on food-related research projects."><img alt="" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Holly-Mayton-e1445638457471-130x78.jpg" /><strong>Three Students Receive Global Food Initiative Fellowships</strong>
+ <span class="mrss-date">October 23, 2015</span>  </a></li>
+<li><a href="http://ucrtoday.ucr.edu/32513" onclick="javascript:_gaq.push(['_trackEvent','outbound-mrss','A New Metrolink Line Presents a Safety Conundrum at UCR','http%3A%2F%2Fucrtoday.ucr.edu%2F32513']);" title="A new Metrolink line that runs through Riverside will be a boon to commuters, but potentially a danger to students, staff and faculty who hike to the giant concrete &quot;C&quot; on the Box Springs mountain to paint it gold or just to enjoy the view."><img alt="" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/W2aaF8N_O7I-130x78.jpg" /><strong>A New Metrolink Line Presents a Safety Conundrum at UCR</strong>
+ <span class="mrss-date">October 21, 2015</span>  </a></li>
+<li><a href="http://ucrtoday.ucr.edu/32473" onclick="javascript:_gaq.push(['_trackEvent','outbound-mrss','UCR Medallion Goes to Henry Coil at Chancellor’s Dinner','http%3A%2F%2Fucrtoday.ucr.edu%2F32473']);" title="More than 250 people turned out for UC Riverside’s Chancellor’s Dinner Saturday, Oct. 17, to build scholarship opportunities for students and recognize distinguished alumni and supporters of the campus and community."><img alt="" src="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/9024UCR000002-e1445448188428-130x78.jpg" /><strong>UCR Medallion Goes to Henry Coil at Chancellor’s Dinner</strong>
+ <span class="mrss-date">October 19, 2015</span>  </a></li>
+</ul>
+</div>
+	</section>
+
+
+</div><!-- /wrap -->
+
+
+<footer id="footer" class="clearfix">
+	<div id="footer_utils">
+		<div class="wrap clearfix">
+			<a id="archives_footer" class="img_link" href="http://magazine.ucr.edu/archives.html">Past Issues</a>
+				<form method="get" class="searchform" id="searchform-x14465685755cd2e8c9" action="http://magazine.ucr.edu/" role="search">
+		<label for="s-x14465685755cd2e8c9">Search</label>
+		<input type="search" class="s field" name="s" id="s-x14465685755cd2e8c9" />
+	</form>
+		</div>
+	</div>
+
+	<div class="wrap clearfix">
+			<div id="footer-1" class="footer-widget-col clearfix">
+			<div class="footer-widget widget_text clearfix">			<div class="textwidget"><p>UCR Magazine is published by the Office of Strategic Communications, University of California, Riverside, and it is distributed free to the University community. Editorial offices: 900 University Ave., 1156 Hinderaker Hall, University of California, Riverside, Riverside, CA 92521, telephone (951) 827-6397. Unless otherwise indicated, text may be reprinted without permission. Please credit University of California, Riverside.</p>
+</div>
+		</div>		</div><!-- /footer-1 -->
+		<div id="footer-2" class="footer-widget-col clearfix">
+			<div class="footer-widget widget_text clearfix">			<div class="textwidget"><ul class="social_links"><li><a id="footer_link_facebook" class="img_button tri" href="http://www.facebook.com/UCRiverside" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com/UCRiverside']);" target="_blank" title="Visit UCR’s Facebook page (external site: Facebook)"><span class="accessibility">Visit UCR’s Facebook page</span></a></li><li><a id="footer_link_twitter" class="img_button tri" href="http://twitter.com/UCRiverside" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com/UCRiverside']);" target="_blank" title="Follow UCR on Twitter (external site: Twitter)"><span class="accessibility">Follow UCR on Twitter</span></a></li><li><a id="footer_link_youtube" class="img_button tri" href="http://www.youtube.com/UCRiverside" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.youtube.com/UCRiverside']);" target="_blank" title="Visit UCR’s YouTube channel (external site: YouTube)"><span class="accessibility">Visit UCR’s YouTube channel</span></a></li><li><a id="footer_link_rss" class="img_button tri" href="/feed" target="_blank" title="Subscribe to UCR Magazine via RSS"><span class="accessibility">Subscribe to UCR Magazine via RSS</span></a></li></ul>
+<p>Do you want to receive a printed version of UCR Magazine?</p>
+<p><a href="mailto:kris.lovekin@ucr.edu"><i class="fa fa-envelope-o"></i> Contact Kris Lovekin</a></p></div>
+		</div>		</div><!-- /footer-2 -->
+		<div id="footer-3" class="footer-widget-col clearfix">
+			<div class="footer-widget widget_text clearfix"><h3>Tell Us What You Think</h3>			<div class="textwidget"><p>What would you like to see in our magazine?</p>
+<p><a href="mailto:lille.bose@ucr.edu?subject=UCR%20Magazine%20Story%20Suggestion">Suggest a story</a></p>
+</div>
+		</div>		</div><!-- /footer-3 -->
+			<div id="footer-bottom" class="clearfix">
+			<a id="footer-logo" href="http://www.ucr.edu/" title="UCR home page"><img src="http://magazine.ucr.edu/wp-content/themes/ucr-mag.0.21/images/ucr_logo_wh.png" alt="UC Riverside" /></a>
+			<ul>
+				<li><a href="/feedback" accesskey="9" title="Send Feedback E-mail">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html" accesskey="8" title="Terms and Conditions">Terms and Conditions</a></li>
+				<li>&copy;&nbsp;2015 Regents of the University of California</li>
+				<!--li>Last modified: 2015-Oct-14</li-->
+			</ul>
+		</div><!-- /footer-bottom -->
+	</div><!-- /wrap-->
+</footer>
+
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js?ver=1.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"nivo","selector":"lightbox","customEvents":"","activeGalleries":"0","effect":"fade","clickOverlayToClose":"1","keyboardNav":"1","errorMessage":"The requested content cannot be loaded. Please try again later."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://magazine.ucr.edu/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.6.3'></script>
+
+</body>
+</html>

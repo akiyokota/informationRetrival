@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<title>How a few legitimate app developers threaten the entire Android userbase | Ars Technica</title>
+    <script type="text/javascript">
+    ars = {"ASSETS":"http:\/\/cdn.arstechnica.net\/wp-content\/themes\/arstechnica\/assets","HOME_URL":"http:\/\/arstechnica.com","LOGIN_URL":"https:\/\/arstechnica.com\/services\/login-desktop.html?v=1","CIVIS":"\/civis","THEME":"dark","VIEW":"mobile","MOBILE":true,"PREMIER":false,"LOGGED":false,"ENV":"production","AD":{"kw":["section_security","discipline","android","hacking-2","security","int"],"zone":"int","queue":[]},"TOTAL":70986,"UNREAD":0,"RECENT":[772141,771021,772051,772021,771235,771999,771839,767853,771785,771647,771727,771719,771681,771589,771611,771531,771519,770291,771507,771525,771517,771451,771481,771399,769411],"LOGINS":true,"CROSS":false,"GEOALERTS":true,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"COUNTRY":"us","SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"security"};
+  </script>
+
+
+  <!--[if lte IE 8]><script type="text/javascript" src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/modernizr/modernizr.js"></script><![endif]-->
+
+      <link rel="stylesheet" type="text/css" media="all" href="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/css/ars.min.59a79a7ce04d926a17e3c89fe7771406.css" />
+        <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <link rel="shortcut icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://cdn.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" sizes="180x180" href="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/ars-ios-icon.png" />
+  <link rel="icon" sizes="192x192" href="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/material-ars.png" />
+
+    <meta name="application-name" content="Ars Technica"/>
+  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
+  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=https://cdn.arstechnica.net/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=https://cdn.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="advertising" content="ask" />
+  <meta property="fb:admins" content="592156917" />
+  <meta property="fb:admins" content="108943" />
+  <meta property="fb:admins" content="10103365229664579" />
+
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="theme-color" content="#000000" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- cache hit 3821:single/meta:b92fd8db3953ff0ef8f831e5120c725e -->
+<meta name='parsely-page' content='{"title":"How a few legitimate app developers threaten the entire Android userbase","link":"http:\/\/arstechnica.com\/security\/2015\/10\/how-a-few-legitimate-app-developers-threaten-the-entire-android-userbase\/","type":"post","author":"Dan Goodin","post_id":761291,"pub_date":"2015-10-16T16:42:55Z","section":"Risk Assessment","tags":["android-rooting","exploits","malware","root","vulnerabilities","type: report"],"image_url":"http:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/10\/android-figure-150x150.jpg"}'>
+<meta name='parsely-metadata' content='{"type":"report","title":"How a few legitimate app developers threaten the entire Android userbase","post_id":761291,"lower_deck":"There&apos;s a dark side to Android root providers, even when they&apos;re fully disclosed.","image_url":"http:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/10\/android-figure-150x150.jpg","listing_image_url":"http:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/10\/android-figure-300x150.jpg"}'>
+
+<link rel="canonical" href="http://arstechnica.com/security/2015/10/how-a-few-legitimate-app-developers-threaten-the-entire-android-userbase/" />
+
+
+<link rel="alternate" hreflang="en-gb" href="http://arstechnica.co.uk/security/2015/10/how-a-few-legitimate-app-developers-threaten-the-entire-android-userbase/" />
+<link rel="alternate" hreflang="en-us" href="http://arstechnica.com/security/2015/10/how-a-few-legitimate-app-developers-threaten-the-entire-android-userbase/" />
+
+<link rel="shorturl" href="http://arstechnica.com/?p=761291" />
+
+<meta name="description" content="There&#39;s a dark side to Android root providers, even when they&#39;re fully disclosed." />
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="http://arstechnica.com/security/2015/10/how-a-few-legitimate-app-developers-threaten-the-entire-android-userbase/">
+<meta name="twitter:title" content="How a few legitimate app developers threaten the entire Android userbase">
+<meta name="twitter:description" content="There&#39;s a dark side to Android root providers, even when they&#39;re fully disclosed.">
+

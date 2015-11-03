@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://ucrtoday.ucr.edu/wp-content/plugins/xslt/template.xsl"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>UCR Today</title>
+	<atom:link href="http://ucrtoday.ucr.edu/feed" rel="self" type="application/rss+xml" />
+	<link>http://ucrtoday.ucr.edu</link>
+	<description>UC Riverside News and Happenings</description>
+	<lastBuildDate>Tue, 03 Nov 2015 14:30:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.1</generator>
+<encoded>http%3A%2F%2Fucrtoday.ucr.edu%2Ffeed</encoded>	<image>
+		<title>UCR Today</title>
+		<url>http://ucrtoday.ucr.edu/UCRmonogram.png</url>
+		<link>http://ucrtoday.ucr.edu</link>
+		<width>115</width>
+		<height>83</height>
+		<description>UC Riverside News and Happenings</description>
+	</image>
+	<item>
+		<title>Oil-Based Pesticides Most Effective at Killing Contents of Brown Widow Spider Egg Sacs</title>
+		<link>http://ucrtoday.ucr.edu/32970</link>
+		<comments>http://ucrtoday.ucr.edu/32970#comments</comments>
+		<pubDate>Tue, 03 Nov 2015 14:30:25 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[brown widow spider]]></category>
+		<category><![CDATA[CNAS]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[Dong-Hwan Choe]]></category>
+		<category><![CDATA[Entomological Society of America]]></category>
+		<category><![CDATA[Entomology]]></category>
+		<category><![CDATA[pesticide]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[Rick Vetter]]></category>
+		<category><![CDATA[spiders]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32970</guid>
+		<description><![CDATA[Researchers at UC Riverside may have found that oil-based pesticides are more effective than water-based pesticides at killing the contents of brown widow spider egg sacs.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32970/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/11/FemaleBrownWidowSpider-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/11/FemaleBrownWidowSpider.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Regular Free Health Clinic to Launch in San Bernardino on Nov. 7</title>
+		<link>http://ucrtoday.ucr.edu/32775</link>
+		<comments>http://ucrtoday.ucr.edu/32775#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 19:06:39 +0000</pubDate>
+		<dc:creator><![CDATA[Kathy Barton]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[clinics]]></category>
+		<category><![CDATA[Global Medical Brigades]]></category>
+		<category><![CDATA[lestonnac Free Clinic]]></category>
+		<category><![CDATA[medical students]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[San bernardino]]></category>
+		<category><![CDATA[School of Medicine]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32775</guid>
+		<description><![CDATA[What began as single-day, once-a-year free clinic for San Bernardino County residents with no or limited health coverage will become a regular occurrence in a new partnership between UCR medical students, the Lestonnac Free Clinic organization, and the UCR chapter of Global Medical Brigades.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32775/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/2018-standardized-patients-105-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/2018-standardized-patients-105.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Doctoral Students Create Salton Sea Blog</title>
+		<link>http://ucrtoday.ucr.edu/32904</link>
+		<comments>http://ucrtoday.ucr.edu/32904#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 18:18:31 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Nealon]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[and Social Sciences and Bourns College of Engineering]]></category>
+		<category><![CDATA[arts]]></category>
+		<category><![CDATA[Caroline Kim]]></category>
+		<category><![CDATA[College of Humanities]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[Drew Story]]></category>
+		<category><![CDATA[Gustavo Mellior]]></category>
+		<category><![CDATA[Holly Mayton]]></category>
+		<category><![CDATA[Jaben Richards]]></category>
+		<category><![CDATA[Katherine Muller]]></category>
+		<category><![CDATA[Melissa Morgan]]></category>
+		<category><![CDATA[Miguel Garcia]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[Salton Sea]]></category>
+		<category><![CDATA[Salton Sea Sense]]></category>
+		<category><![CDATA[Samuel Patton]]></category>
+		<category><![CDATA[Stacia Dudley]]></category>
+		<category><![CDATA[Todd Luce]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32904</guid>
+		<description><![CDATA[A group of University of California, Riverside graduate students has created a blog written in English and Spanish devoted to the Salton Sea to raise awareness to the scientific and policy questions affecting the body of water.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32904/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/11/salton-sea-team-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/11/salton-sea-team.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Students Create Green Storm Drain Filter</title>
+		<link>http://ucrtoday.ucr.edu/32897</link>
+		<comments>http://ucrtoday.ucr.edu/32897#comments</comments>
+		<pubDate>Mon, 02 Nov 2015 18:05:29 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Nealon]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[Bourns College of Engineering]]></category>
+		<category><![CDATA[Diego Novoa]]></category>
+		<category><![CDATA[EPA]]></category>
+		<category><![CDATA[Franklin Gonzalez]]></category>
+		<category><![CDATA[Johny Nguyen]]></category>
+		<category><![CDATA[Karim Masarweh]]></category>
+		<category><![CDATA[Kawai Tam]]></category>
+		<category><![CDATA[Kenneth Orellana]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[Sustain-a-Drain]]></category>
+		<category><![CDATA[Taljinder Kaur]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32897</guid>
+		<description><![CDATA[A team of students from the University of California, Riverside Bourns College of Engineering was recently awarded a $15,000 grant from the Environmental Protection Agency for a reusable storm drain filter that is less costly and more environmentally friendly than currently available models.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32897/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/DSC_0138-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/DSC_0138.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UCR Enrollment is Now 21,539</title>
+		<link>http://ucrtoday.ucr.edu/32863</link>
+		<comments>http://ucrtoday.ucr.edu/32863#comments</comments>
+		<pubDate>Sun, 01 Nov 2015 21:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[Kris Lovekin]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Fall 2015 enrollment]]></category>
+		<category><![CDATA[UCR enrollment]]></category>
+		<category><![CDATA[University of California Riverside enrollment]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32863</guid>
+		<description><![CDATA[UCR enrollment is holding steady, with a new total enrollment of 21,539. ]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32863/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/09/UCR-Freshman-Convocation-2015-17-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/09/UCR-Freshman-Convocation-2015-17.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UCR&#8217;s 2015 Homecoming a Family Affair for Three Generations of Highlanders</title>
+		<link>http://ucrtoday.ucr.edu/32881</link>
+		<comments>http://ucrtoday.ucr.edu/32881#comments</comments>
+		<pubDate>Sat, 31 Oct 2015 01:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[Jeanette Marantos]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Bob Marshall]]></category>
+		<category><![CDATA[Calvin Dickenson]]></category>
+		<category><![CDATA[Highlander]]></category>
+		<category><![CDATA[parent participation points]]></category>
+		<category><![CDATA[scot fest]]></category>
+		<category><![CDATA[ScotUCR Homecoming 2015]]></category>
+		<category><![CDATA[Thomas Scanlon]]></category>
+		<category><![CDATA[UCR]]></category>
+		<category><![CDATA[Wendy Marshall]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32881</guid>
+		<description><![CDATA[Bob Marshall, Wendy Marshall and Calvin Dickenson — three generations of UCR Highlanders — are  visting the campus on Nov. 14 for a full day — and night — of 2015 Homecoming activities, which are open to everyone]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32881/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Bob-Wendy-Calbin-Marshall-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Bob-Wendy-Calbin-Marshall.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Mathematician Named Fellow of American Mathematical Society</title>
+		<link>http://ucrtoday.ucr.edu/32891</link>
+		<comments>http://ucrtoday.ucr.edu/32891#comments</comments>
+		<pubDate>Fri, 30 Oct 2015 22:11:30 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[American Mathematical Society]]></category>
+		<category><![CDATA[AMS]]></category>
+		<category><![CDATA[award]]></category>
+		<category><![CDATA[CNAS]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[Department of Mathematics]]></category>
+		<category><![CDATA[mathematics]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[Vyjayanthi Chari]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32891</guid>
+		<description><![CDATA[UC Riverside's Vyjayanthi Chari has been named a fellow of the American Mathematical Society for 2016.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32891/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Vyjayanthi-Chari-e1424450233214-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/02/Vyjayanthi-Chari-e1424450233214.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UC Riverside Cited for Success with Pell Grant Students</title>
+		<link>http://ucrtoday.ucr.edu/32843</link>
+		<comments>http://ucrtoday.ucr.edu/32843#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 23:02:12 +0000</pubDate>
+		<dc:creator><![CDATA[Kris Lovekin]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Politics/Society]]></category>
+		<category><![CDATA[Bill and Melinda Gates Foundation]]></category>
+		<category><![CDATA[diversity]]></category>
+		<category><![CDATA[first year learning communities]]></category>
+		<category><![CDATA[graduation]]></category>
+		<category><![CDATA[Steven Brint]]></category>
+		<category><![CDATA[summer bridge]]></category>
+		<category><![CDATA[supplemental instruction]]></category>
+		<category><![CDATA[undergraduate education]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32843</guid>
+		<description><![CDATA[A new report from the Institute for Higher Education Policy includes UC Riverside among universities doing the most  to accept and graduate low-income college students.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32843/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/UCR-Mojan-Deriss-2015-5-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/UCR-Mojan-Deriss-2015-5.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Study Spells Out Why Some Insects Kill Their Mothers</title>
+		<link>http://ucrtoday.ucr.edu/32823</link>
+		<comments>http://ucrtoday.ucr.edu/32823#comments</comments>
+		<pubDate>Thu, 29 Oct 2015 20:14:03 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[ants]]></category>
+		<category><![CDATA[bees]]></category>
+		<category><![CDATA[CNAS]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[Department of Entomology]]></category>
+		<category><![CDATA[evolution]]></category>
+		<category><![CDATA[insects]]></category>
+		<category><![CDATA[Kevin Poole]]></category>
+		<category><![CDATA[National Science Foundation]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[reproduction]]></category>
+		<category><![CDATA[wasp]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32823</guid>
+		<description><![CDATA[UC Riverside's Kevin Loope explains why among social insects some queens and not others get killed by workers. ]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32823/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Observation-nest-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Observation-nest.jpg" medium="image" />
+	</item>
+		<item>
+		<title>So You Think You Can Steal My Dance?</title>
+		<link>http://ucrtoday.ucr.edu/32799</link>
+		<comments>http://ucrtoday.ucr.edu/32799#comments</comments>
+		<pubDate>Wed, 28 Oct 2015 23:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[Mojgan Sherkat]]></dc:creator>
+				<category><![CDATA[Arts/Culture]]></category>
+		<category><![CDATA[anthea kraut]]></category>
+		<category><![CDATA[choreography]]></category>
+		<category><![CDATA[College of Humanities Arts and Social Sciences]]></category>
+		<category><![CDATA[copyright]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[Department of Dance]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[new book]]></category>
+		<category><![CDATA[press release]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32799</guid>
+		<description><![CDATA[Anthea Kraut, an associate professor in the Department of Dance at the University of California, Riverside, has written a new book, “Choreographing Copyright: Race, Gender and Intellectual Property Rights in American Dance,” that will be released on Nov. 2.
+]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32799/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Anthea-Kraut-1-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Anthea-Kraut-1.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Laila Lalami Novel Honored Again</title>
+		<link>http://ucrtoday.ucr.edu/32790</link>
+		<comments>http://ucrtoday.ucr.edu/32790#comments</comments>
+		<pubDate>Wed, 28 Oct 2015 21:20:32 +0000</pubDate>
+		<dc:creator><![CDATA[Bettye Miller]]></dc:creator>
+				<category><![CDATA[Arts/Culture]]></category>
+		<category><![CDATA[award]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[creative writing]]></category>
+		<category><![CDATA[faculty]]></category>
+		<category><![CDATA[Laila Lalami]]></category>
+		<category><![CDATA[press release]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32790</guid>
+		<description><![CDATA[ Laila Lalami has won the 2015 Zora Neale Hurston/Richard Wright Legacy Award for Fiction for her novel “The Moor’s Account.”]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32790/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Lalami-Pulitzer-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Lalami-Pulitzer.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Climate Heroes Named at UC Riverside</title>
+		<link>http://ucrtoday.ucr.edu/32738</link>
+		<comments>http://ucrtoday.ucr.edu/32738#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 17:54:49 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Nealon]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[Benjamin Sommerkorn]]></category>
+		<category><![CDATA[Bourns College of Engineering]]></category>
+		<category><![CDATA[Carbon Neutrality Initiative]]></category>
+		<category><![CDATA[Chao Wang]]></category>
+		<category><![CDATA[Drew Story]]></category>
+		<category><![CDATA[Hannah Campi]]></category>
+		<category><![CDATA[janet napolitano]]></category>
+		<category><![CDATA[Mihri Ozkan]]></category>
+		<category><![CDATA[press release]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32738</guid>
+		<description><![CDATA[The University of California, Riverside has announced the name of the professor who has been named a climate action champion and the students who have been named climate neutrality fellows.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32738/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/MihriOzkan-Photo41-e1445881806860-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/MihriOzkan-Photo41.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Nanoquakes Probe New 2-Dimensional Material</title>
+		<link>http://ucrtoday.ucr.edu/32718</link>
+		<comments>http://ucrtoday.ucr.edu/32718#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 17:07:14 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[CNAS]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[Department of Chemistry]]></category>
+		<category><![CDATA[graduate student]]></category>
+		<category><![CDATA[Graphene]]></category>
+		<category><![CDATA[Ludwig Bartels]]></category>
+		<category><![CDATA[molybdenum]]></category>
+		<category><![CDATA[nanotechnology]]></category>
+		<category><![CDATA[National Science Foundation]]></category>
+		<category><![CDATA[press release]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32718</guid>
+		<description><![CDATA[Scientists, including several at UC Riverside, have found a new and exciting way to elucidate the properties of novel two-dimensional semiconductors.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32718/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Edwin-Preciado-e1445880001902-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Edwin-Preciado.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UC Riverside Analyzes the Benefits of Urban Trees</title>
+		<link>http://ucrtoday.ucr.edu/31776</link>
+		<comments>http://ucrtoday.ucr.edu/31776#comments</comments>
+		<pubDate>Mon, 26 Oct 2015 16:44:11 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[Darrel Jenerette]]></category>
+		<category><![CDATA[drought]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[water]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=31776</guid>
+		<description><![CDATA[What have your trees done for you lately?  According to UC Riverside Professor of Botany and Plant Science Darrel Jenerette, trees cool our homes, neighborhoods, and improve our health. Now he is exploring the hypothesis that the cooling provided by your trees may also help save water, an important virtue during California’s unprecedented drought.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/31776/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/09/Jenerette3-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/09/Jenerette3.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Three Students Receive Global Food Initiative Fellowships</title>
+		<link>http://ucrtoday.ucr.edu/32706</link>
+		<comments>http://ucrtoday.ucr.edu/32706#comments</comments>
+		<pubDate>Fri, 23 Oct 2015 21:44:43 +0000</pubDate>
+		<dc:creator><![CDATA[Iqbal Pittalwala]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[#GlobalFood]]></category>
+		<category><![CDATA[agriculture]]></category>
+		<category><![CDATA[BCOE]]></category>
+		<category><![CDATA[CAFE]]></category>
+		<category><![CDATA[carbon neutrality]]></category>
+		<category><![CDATA[Carbon Neutrality Initiative]]></category>
+		<category><![CDATA[CNAS]]></category>
+		<category><![CDATA[College of Natural and Agricultural Sciences]]></category>
+		<category><![CDATA[community garden]]></category>
+		<category><![CDATA[fellowship]]></category>
+		<category><![CDATA[fellowships]]></category>
+		<category><![CDATA[food]]></category>
+		<category><![CDATA[food production]]></category>
+		<category><![CDATA[graduate student]]></category>
+		<category><![CDATA[Holly Mayton]]></category>
+		<category><![CDATA[John Cook]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[Sharon Walker]]></category>
+		<category><![CDATA[sustainability]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32706</guid>
+		<description><![CDATA[Three students at UC Riverside have received UC Global Food Initiative Fellowships to work on food-related research projects.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32706/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Holly-Mayton-e1445638457471-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Holly-Mayton.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UCR Officials to take part in Carbon Neutrality Conference</title>
+		<link>http://ucrtoday.ucr.edu/32662</link>
+		<comments>http://ucrtoday.ucr.edu/32662#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 19:46:56 +0000</pubDate>
+		<dc:creator><![CDATA[Sean Nealon]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Science/Technology]]></category>
+		<category><![CDATA[Carbon Neutrality Initiative]]></category>
+		<category><![CDATA[cool campus challenge]]></category>
+		<category><![CDATA[John Cook]]></category>
+		<category><![CDATA[Juliann Allison]]></category>
+		<category><![CDATA[Kim Wilcox]]></category>
+		<category><![CDATA[Matt Barth]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32662</guid>
+		<description><![CDATA[Chancellor Kim Wilcox and Professor Juliann Allison have prominent roles in the UC Carbon and Climate Neutrality Conference being held Oct. 26 and 27 at UC San Diego.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32662/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/11/7059CAM005008-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2014/11/7059CAM005008.jpg" medium="image" />
+	</item>
+		<item>
+		<title>The Month in Photos: October 2015</title>
+		<link>http://ucrtoday.ucr.edu/32609</link>
+		<comments>http://ucrtoday.ucr.edu/32609#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 19:37:53 +0000</pubDate>
+		<dc:creator><![CDATA[Bethanie Le]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[Africa]]></category>
+		<category><![CDATA[Anil Deolalikar]]></category>
+		<category><![CDATA[Ghana]]></category>
+		<category><![CDATA[International Affairs]]></category>
+		<category><![CDATA[LGBT]]></category>
+		<category><![CDATA[Politics/Society]]></category>
+		<category><![CDATA[President John Dramani Mahama]]></category>
+		<category><![CDATA[rusty bailey]]></category>
+		<category><![CDATA[sexual violence prevention]]></category>
+		<category><![CDATA[slideshow]]></category>
+		<category><![CDATA[suicide]]></category>
+		<category><![CDATA[the month in photos]]></category>
+		<category><![CDATA[UCR Wellness Program]]></category>
+		<category><![CDATA[women's resource center]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32609</guid>
+		<description><![CDATA[With the 2015-16 academic year taking form, October was a lively month for the UCR campus. UCR featured two different exhibitions, bringing awareness to sexual violence and the impact on suicide, celebrated National Disability Employment Awareness Month, hosted the monthly "Walk and Talk with Leadership" series with Dean of the School of Public Policy Anil Deolalikar and the annual Chancellor's Dinner, held a “Conversations with Master Teachers” class and even welcomed the visits of two prominent political figures: Mayor of Riverside, Rusty Bailey, and the President of Ghana, John Dramani Mahama. ]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32609/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/IMG_7159-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/IMG_7159.jpg" medium="image" />
+	</item>
+		<item>
+		<title>A New Metrolink Line Presents a Safety Conundrum at UCR</title>
+		<link>http://ucrtoday.ucr.edu/32513</link>
+		<comments>http://ucrtoday.ucr.edu/32513#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 19:08:40 +0000</pubDate>
+		<dc:creator><![CDATA[Kris Lovekin]]></dc:creator>
+				<category><![CDATA[Health]]></category>
+		<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[campus traditions]]></category>
+		<category><![CDATA[hike]]></category>
+		<category><![CDATA[Metrolink]]></category>
+		<category><![CDATA[press release]]></category>
+		<category><![CDATA[rail]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[transportation]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32513</guid>
+		<description><![CDATA[A new Metrolink line that runs through Riverside will be a boon to commuters, but potentially a danger to students, staff and faculty who hike to the giant concrete "C" on the Box Springs mountain to paint it gold or just to enjoy the view. ]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32513/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/W2aaF8N_O7I-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/W2aaF8N_O7I.jpg" medium="image" />
+	</item>
+		<item>
+		<title>UCR&#8217;s Popular &#8216;Orange Infused&#8217; Ice Cream is a Homegrown Treat</title>
+		<link>http://ucrtoday.ucr.edu/32653</link>
+		<comments>http://ucrtoday.ucr.edu/32653#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 18:59:10 +0000</pubDate>
+		<dc:creator><![CDATA[Jeanette Marantos]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[#GlobalFood]]></category>
+		<category><![CDATA[Moo Moo Ice Cream Truck]]></category>
+		<category><![CDATA[orange-infused ice cream]]></category>
+		<category><![CDATA[UCR citrus]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32653</guid>
+		<description><![CDATA[UCR's Moo Moo Ice Cream truck was pretty popular Oct. 20, when it was passing out free samples of UCR's homegrown orange-infused ice cream during lunch, in preparation for the national Food Day push “Toward a Greener Diet” on Oct. 24.]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32653/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Orange-ice-Alvin-Lim-serves-Norm-Ellstrand--e1445450970598-130x78.jpg" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Orange-ice-Alvin-Lim-serves-Norm-Ellstrand--e1445450970598.jpg" medium="image" />
+	</item>
+		<item>
+		<title>Keep Your Raingear and Technology Handy &#8230;</title>
+		<link>http://ucrtoday.ucr.edu/32316</link>
+		<comments>http://ucrtoday.ucr.edu/32316#comments</comments>
+		<pubDate>Wed, 21 Oct 2015 15:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[Kris Lovekin]]></dc:creator>
+				<category><![CDATA[Inside UCR]]></category>
+		<category><![CDATA[El Nino]]></category>
+		<category><![CDATA[emergency preparedness]]></category>
+		<category><![CDATA[Organizational Excellence]]></category>
+
+		<guid isPermaLink="false">http://ucrtoday.ucr.edu/?p=32316</guid>
+		<description><![CDATA[ Extremely wet weather is predicted for this winter by the National Weather Service. UC Riverside emergency response planners are finding sandbags and cleaning out drains to prepare for the storms known as “El Nino.”]]></description>
+		<wfw:commentRss>http://ucrtoday.ucr.edu/32316/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/Hinderaker-rain.m4v" length="0" type="video/mp4" />
+	
+		<media:thumbnail url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/hinderaker-rain-e1445459110380-130x78.png" />
+		<media:content url="http://ucrtoday.ucr.edu/wp-content/uploads/2015/10/hinderaker-rain.png" medium="image" />
+	</item>
+	</channel>
+</rss>

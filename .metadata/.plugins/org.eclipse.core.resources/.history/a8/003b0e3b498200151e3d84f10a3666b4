@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product#"><!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<link rel="shortcut icon" href="http://universityofcalifornia.edu/sites/all/themes/university-of-california/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<link rel="shortlink" href="http://universityofcalifornia.edu/node/5569" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="University of California" />
+<meta property="og:title" content="UC researchers present 10 scalable solutions for climate change" />
+<meta property="og:url" content="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<meta property="og:description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta property="og:updated_time" content="2015-10-28T14:56:50-07:00" />
+<meta property="og:image" content="http://universityofcalifornia.edu/sites/default/files/bending_curve_ram_686.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@UC_Newsroom" />
+<meta name="twitter:url" content="http://universityofcalifornia.edu/news/uc-researchers-present-10-scalable-solutions-climate-change" />
+<meta name="twitter:title" content="UC researchers present 10 scalable solutions for climate change" />
+<meta name="twitter:description" content="These solutions offer a practical framework outlining both immediate and longer-term actions for moving toward carbon neutrality." />
+<meta name="twitter:image:src" content="http://universityofcalifornia.edu/sites/default/files/bending_curve_ram_686.jpg" />
+<meta property="article:published_time" content="2015-10-27T12:46:49-07:00" />
+<meta property="article:modified_time" content="2015-10-28T14:56:50-07:00" />
+
+	<title>UC researchers present 10 scalable solutions for climate change | University of California</title>
+
+	<meta name="MobileOptimized" content="width">
+	<meta name="HandheldFriendly" content="true">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="image_src" href="/sites/all/themes/university-of-california/assets/images/ucal-fb-image.jpg" />
+	<meta http-equiv="cleartype" content="on">
+	<meta name="google-site-verification" content="6a2ovdOyVm5F5jMt0tqOY23PzR_tWZMUHRxIYWM6Wbc" />
+
+	<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_l-dpDwzUQSxvuZnUP-GBXp7UYHCPehpq3von_WJS8Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_NPMXeI-jHvcYcSWeYa7A7qob1PXp-UOwATosrZ0kYYI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://universityofcalifornia.edu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="all" />
+
+	<!--[if lte IE 9]>
+	<script src="/sites/all/themes/zen/js/html5.js"></script>
+	<script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+	<link type="text/css" rel="stylesheet" href="/sites/all/themes/university-of-california/assets/css/release/styles-ie9.min.css" media="all">
+	<link type="text/css" rel="stylesheet" href="/sites/all/themes/university-of-california/assets/css/release/styles-ie8.min.css" media="all">
+	<![endif]-->
+
+	
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-5569 node-type-news-story news news-detail section-news no-js" >
+	<script type="text/javascript">
+		var body = document.getElementsByTagName('body')[0];
+		body.className = body.className.replace( 'no-js', '' );
+	</script>
+
+	<!--[if lt IE 8]>
+				<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+	<![endif]-->
+
+	
+	<a href="#main" class="skiplink" tabindex="1">Skip to Main Content</a>
+<!-- Beginning of Page -->
+<div class="page">
+
+	<!-- Lightbox -->
+	<div class="lightbox">
+		<div class="lightbox-background"></div>
+
+		<div class="lightbox-content-container">
+			<div class="sprites-lightbox-close lightbox-close pointer">&times;</div>
+			<div class="lightbox-content">
+				<header></header>
+				<section class="content">
+					
+					<!-- Content populated dynamically -->
+
+				</section>
+				<footer></footer>
+			</div>
+		</div>
+	</div>
+	<!-- End Lightbox -->
+
+	<!-- Header -->
+	<header class="header main container" role="banner">
+				<div class="logo"><a href="/" rel="home"><img src="/sites/all/themes/university-of-california/assets/images/sprites/logo.png"  alt="University of California"></a></div>
+
+		<ul class="mobile-nav-controls pointer">
+			<li class="mobile-menu"></li>
+			<li class="mobile-search"></li>
+		</ul>
+
+		<div class="nav-container">
+
+			
+				<div class="top-nav" role="complementary">
+					  <div class="region region-top-navigation">
+    <div id="block-menu-menu-top-menu" class="block block-menu top-menu-container first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://admission.universityofcalifornia.edu/" class="menu__link">Admissions</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://jobs.universityofcalifornia.edu/" class="menu__link">Jobs</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/uc-system/contact-us" class="menu__link">Contact</a></li>
+</ul>
+	</div>
+
+</div>
+<div id="block-menu-menu-social" class="block block-menu social-menu-container last even">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<ul class="menu"><li class="menu__item is-leaf first leaf"><a href="https://www.facebook.com/universityofcalifornia" class="menu__link">Facebook</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://twitter.com/UC_Newsroom" class="menu__link">Twitter</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://ucresearch.tumblr.com" class="menu__link">Tumblr</a></li>
+</ul>
+	</div>
+
+</div>
+  </div>
+				</div>
+				
+
+			
+			
+				<nav class="main-nav" role="navigation">
+					  <div class="region region-main-navigation">
+    <div id="block-menu-block-1" class="block block-menu-block first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-active-trail is-expanded first expanded active-trail menu-mlid-465"><a href="/news" class="menu__link is-active-trail active-trail">News</a><ul class="menu"><li class="menu__item is-active-trail is-expanded first expanded active-trail menu-mlid-468"><a href="/news" class="menu__link is-active-trail active-trail">All News</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-469"><a href="/news/research" class="menu__link">Research</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-470"><a href="/news/health" class="menu__link">Health</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-471"><a href="/news/arts-and-humanities" class="menu__link">Arts &amp; Humanities</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-472"><a href="/news/students-and-alumni" class="menu__link">Students &amp; Alumni</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-473"><a href="/news/faculty-and-staff" class="menu__link">Faculty &amp; Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-474"><a href="/news/administration" class="menu__link">Administration</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2464"><a href="http://universityofcalifornia.edu/global-food-initiative" class="menu__link">Global Food Initiative</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-475"><a href="/videos" class="menu__link">Video</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-476"><a href="/in-the-news" class="menu__link">In the News</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-477"><a href="/press-room" class="menu__link">Press Room</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-1289"><a href="/press-room/contacts" class="menu__link">Media contacts</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-547"><a href="/%23" title="Right Content" class="menu__link">Right Content</a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="views|0d9428dc19f1f04c041041732d1aff01" id="#-drop-link-547">More</a><div class="menu-attach-block-wrapper orientation-vertical">
+	<div id="block-views-0d9428dc19f1f04c041041732d1aff01" class="block block-views first odd">
+
+	<header>
+		<div class="entry-color"></div>
+	</header>
+
+	<div class="block-content-wrapper">
+		<div class="background"></div>
+
+						
+		<div class="view view-meganav-right-column view-id-meganav_right_column view-display-id-meganav_right_news view-dom-id-b8bfdfd3da1cadd11910df7215113100">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    
+<div class="meganav-right-content views-view-fields">
+
+	<a href="/news/5393/southland-wildfires-two-types-both-raging">
+		<img typeof="foaf:Image" src="http://universityofcalifornia.edu/sites/default/files/Sequoia-Natl-Forest-fire_686.jpg" width="686" height="487" alt="Wildfire in Sequoia National Forest" />	</a>
+
+	<p class="entry-title">
+		<a href="/news/5393/southland-wildfires-two-types-both-raging">
+			Southland wildfires: two types, both raging		</a>
+	</p>
+
+	<div class="entry-body"><p>Santa Ana-fanned fires in autumn spread much faster than conflagrations in the dry summer months, but both will wreak more damage in the coming decades.</p>
+</div>
+
+</div>
+  </div>
+    </div>
+  
+  
+  

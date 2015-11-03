@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Internships and Careers</title>
+<meta http-equiv="last-modified" content="2015-10-16" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Internships and Careers</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Internships and Careers</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li><a href="/education/heres_why/" title="Admissions">Admissions<br /><span></span></a></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a></li><li><a href="/people/faculty" title="People">People<br /><span></span></a></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li><a href="/education/" title="Education">Education<br /><span></span></a></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>Internships & Careers</h3></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" toolbar="TITLE" -->
+<!-- /com.omniupdate.div -->
+
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" --><!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --><div id="centerContent" class="column">
+<h4>Internships and Careers</h4>
+<p>CSE students: are you looking for an internship or career position? Make sure that you speak with your faculty advisor (if you are a PhD student) before beginning your job search.&nbsp; Also utilize our <a href="http://www1.cs.ucr.edu/people/phd/">alumni contacts</a> to get connected, Amy Ricks our campus <a href="http://www.careers.ucr.edu">Career Center</a> for additional job postings. Below are some industry links from companies actively recruiting at UCR to help you in your search. Good luck!</p>
+<ul>
+<li>
+<h5><a href="http://www.aftercollege.com/career-networks/university-of-california-riverside/department-of-computer-science/">Computer Science and Engineering Career Network</a></h5>
+</li>
+<li>
+<h5><a href="https://www.cia.gov/careers/student-opportunities/index.html">CIA</a></h5>
+</li>
+<li>
+<h5><a href="http://www.esri.com/careers/index.html">ESRI</a></h5>
+</li>
+<li>
+<h5>Google</h5>
+<ul>
+<li><a href="http://www.google.com/students/intern">Internships</a></li>
+<li><a href="http://www.google.com/students/eng">Careers</a></li>
+</ul>
+</li>
+<li>
+<h5>Microsoft Research</h5>
+<ul>
+<li><a href="http://research.microsoft.com/en-us/jobs/">Microsoft Research</a></li>
+<li><a href="http://careers.microsoft.com/gclp.aspx">Careers</a></li>
+</ul>
+</li>
+<li>
+<h5><a href="http://www.amazon.com/Careers-University-Recruiting/b/ref=amb_link_5763542_3?ie=UTF8&amp;node=203348011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=left-2&amp;pf_rd_r=1VJ0ZJ56QSYXRMK41Q9C&amp;pf_rd_t=101&amp;pf_rd_p=338669801&amp;pf_rd_i=239362011">Amazon</a></h5>
+</li>
+<li>
+<h5><a href="http://www.intel.com/jobs/?iid=gg_about+intel_jobs">Intel</a></h5>
+</li>
+<li>
+<h5><a href="http://www.cisco.com/web/about/ac40/about_cisco_careers_home.html">Cisco Systems</a></h5>
+</li>
+<li>
+<h5><a href="http://www.lab126.com/careers.htm">Lab126</a></h5>
+</li>
+<li>
+<h5><a href="http://www.netapp.com/us/careers/university/">NetApp</a></h5>
+</li>
+<li>
+<h5><a href="http://hire.jobvite.com/CompanyJobs/Careers.aspx?c=qMW9Vfww&amp;category=Engineering+%26+IT">Tivo</a></h5>
+</li>
+</ul>
+</div><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.efp --><!-- /com.omniupdate.efp -->
+</div>
+			<hr />
+		</div>
+	  <!-- End Content Area -->
+
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div><!-- end pagewrapper -->
+
+<div class="clear"></div>
+
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+
+      <div class="prefooter">
+         <div class="column49">
+            <h3>General Campus Information</h3>
+            <address>
+            <span class="vcard">
+               <strong><span class="fn org">University of California, Riverside</span></strong><br />
+               <span class="adr">
+                  <span class="street-address">900 University Ave.</span><br />
+                  <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+               </span>
+               Tel: <span class="tel">(951) 827-1012</span><br /><br />
+            </span>
+            <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://library.ucr.edu/">UCR Libraries</a><br />
+            <a href="http://campusstatus.ucr.edu/">Campus Status</a> &bull; <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address>
+         </div>
+         <div class="column49">
+            <h3>Department Information</h3>
+            <address><strong>Department of Computer Science and Engineering</strong><br />
+<a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br /><br />
+Tel: (951) 827-5639<br />
+Fax: (951) 827-4643<br /></address>
+         </div>
+         <div class="column49R">
+            <h3>Related Links</h3>
+            <ul>
+<li><a href "http://www.ucr.edu">UC Riverside</a></li>
+<li><a href "http://www.engr.ucr.edu">Bourns College of Engineering</a></li>
+</ul>
+
+            
+         </div>
+         <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+
+      <div id="nav_footer">
+         <h3 class="accessibility">Campuswide Navigation</h3>
+	        <ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+      </div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a href= "http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01003&amp;site=cse&amp;path=%2Finternships%2Findex.html">Last modified: 2015-Oct-16</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>
