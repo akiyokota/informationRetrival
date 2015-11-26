@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Why Choose UCR?</title>
+<meta http-equiv="last-modified" content="2015-09-17" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Why Choose UCR?</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Why Choose UCR?</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>Admissions</h3><ul><li><a href="/education/heres_why/" title="Why Choose UCR?">Why Choose UCR?</a></li><li><a href="/education/graduate/admissions/" title="Graduate Admissions">Graduate Admissions</a></li><li><a href="http://admissions.ucr.edu/" title="Undergraduate Admissions">Undergraduate Admissions</a></li><li><a href="/education/undergraduate/infocurrentstudents/" title="Undergraduate Readmissions">Undergraduate Readmissions</a></li><li><a href="http://www.universityofcalifornia.edu/admissions/transfer/index.html" title="Transferring to UC">Transferring to UC</a></li></ul></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a></li><li><a href="/people/faculty" title="People">People<br /><span></span></a></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li><a href="/education/" title="Education">Education<br /><span></span></a></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li><a href="/internships/" title="Internships & Careers">Internships & Careers<br /><span></span></a></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<div class="header">
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" -->
+<!-- /com.omniupdate.div --></div>
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="home-image" group="Everyone" button="657" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --><p><a title="Click for full-size image" href="/images/UCRCSEMap.png" target="_blank"><img src="/images/UCRCSEMap-700x144.png" alt="Banner" /></a></p><!-- /com.omniupdate.div -->
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" --><!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --><div id="centerContent" class="column">
+<h3>Why Choose Riverside?</h3>
+<p>UCR has a&nbsp;beautifully scenic and park-like campus that is within a short driving distance from all Southern California attractions. Riverside is uniquely situated so that residents may go surfing in the morning, mountain hiking (skiing in winter) in the afternoon and enjoy a winery or a night out in downtown LA or San Diego. With many community and campus activities and organizations, there is something for everyone at UCR! As a part of the CSE student body at UCR, students enjoy the benefits of a smaller campus, which include a relaxed and personal atmosphere with specialized attention and guidance from faculty. As a part of the prestigious UC system, students may also take advantage of the innovative research, first-rate professors, and worldwide networking.</p>
+<ul>
+<li>First-rate research institution</li>
+<li>Excellent career opportunities for alumni</li>
+<li>Very diverse and culturally aware campus</li>
+<li>New, state of the art facilities</li>
+<li>Superior student recognition</li>
+<li>Strong sense of community and pride</li>
+<li>Worldwide networking through UC connections, graduate research, conferences and more</li>
+<li>Enthusiastic CSE staff and advisers that are able to assist students through their academic careers</li>
+</ul>
+<p>&nbsp;</p>
+<div style="text-align: center;"><iframe src="https://www.youtube.com/embed/jDkA2RqvH8Q" frameborder="0" width="560" height="315"><!-- intentionally non-empty iframe; for xsl --></iframe></div>
+<p>&nbsp;</p>
+<p><strong>Quick facts about UC Riverside:</strong></p>
+<p>1. UCR is ranked 43rd among the best national public universities | U.S. News &amp; World Report, 2010</p>
+<p>2. <strong>UCR Bourns College of Engineering is ranked 35th among public schools of engineering</strong> | U.S. News &amp; World Report, 2010</p>
+<p>3. UCR is ranked #5 in the nation for ethnic diversity | U.S. News &amp; World Report, 2010</p>
+<p>4.<cite>&nbsp;</cite>Washington Monthly 2011 ranked UCR 5<sup>th</sup> in the nation in contributing to the public good.</p>
+<p>For further information on UCR campus and student life, please visit <a href="http://www.universityofcalifornia.edu/admissions/">http://www.universityofcalifornia.edu/admissions/</a>.<br /><br /></p>
+<p>&nbsp;<a href="/people/phd">Our recent graduates</a> have found careers at companies including IBM, AT&amp;T, Google, Intel, Microsoft, Qualcomm, ESRI, and eBay and faculty positions including UC Irvine, University of Massachusetts, Case Western Reserve University, George Mason University, Florida Atlantic University, University of Arizona and Northeastern University.</p>
+<p><strong>Google Day</strong> - After hiring many of our graduate students over the last few years, <a href="http://www.google.com/intl/en/corporate/index.html">Google</a> decided to&nbsp;further their&nbsp;relationship with CSE @ UCR and&nbsp;directly concentrate on recruiting more of our students, in an event nicknamed Google Day.&nbsp; They visit annually and provide a direct recruiting pipeline with our program, along with many employment and research opportunities. Check-out some <a href="/store/images/news/GoogleAlums.jpg">pictures</a> of the <a href="/store/images/news/GoogleCrowd.jpg">event</a>. Google Day is held in the fall quarter, other workshops and campus visits are held in the winter quarter, and hiring decisions for the summer/end of academic year are typically made in the spring quarter.</p>
+<p><strong>Microsoft Tech Talks</strong> - After recently hiring impressive CSE graduate students, <a title="Microsoft" href="http://www.microsoft.com/en/us/default.aspx" target="_blank">Microsoft</a> has also decided to partner with CSE @ UCR to focus more energy on actively recruiting our M.S. and Ph.D. students. They currently&nbsp;provide exclusive employment opportunities for both internship and full-time candidates, for summer and post-graduation. The first 'Microsoft Tech Talk' took place on Friday, October 10, 2008 and was a huge success. We have welcomed them back to our campus several times since then, and frequently host Microsoft for mock interview and information sessions, new product introductions (to include great prizes from Microsoft) and other seminars designed to better prepare our students for industry success.</p>
+<p>UCR has recently been reported on the <strong>US News and World Report 'Best Colleges: Up-and-Coming National Universities'</strong> List. According to US News and World Report, "College presidents, provosts, and admissions deans were asked to nominate up to 10 colleges in their <em>U.S. News</em> America's Best Colleges ranking category "that are making improvements in academics, faculty, students, campus life, diversity, and facilities. These schools are worth watching because they are making promising and innovative changes. This item on the peer survey enabled college officials to pick schools within their ranking category that are rapidly evolving in ways that the public should be aware of and that are not always quickly noticeable in a college's year-to-year rankings."</p>
+<p>The Financial Engineer (TFE) Times’&nbsp;2016 Master of Computer Science&nbsp;Rankings are the most comprehensive rankings for graduate computer science&nbsp;programs&nbsp;in the United States. TFE Times <strong>ranked the UCR Master of Computer Science program 37th out of 240</strong>+ programs.&nbsp; The new TFE ranking lists us ahead of many competitive schools (including other UC counterparts) that have much larger programs. <a href="https://tfetimes.com/2016-computer-science-rankings/">https://tfetimes.com/2016-computer-science-rankings/. </a></p>
+</div><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.efp --><!-- /com.omniupdate.efp -->
+</div>
+			<hr />
+		</div>
+	  <!-- End Content Area -->
+
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div><!-- end pagewrapper -->
+
+<div class="clear"></div>
+
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+
+      <div class="prefooter">
+         <div class="column49">
+            <h3>General Campus Information</h3>
+            <address>
+            <span class="vcard">
+               <strong><span class="fn org">University of California, Riverside</span></strong><br />
+               <span class="adr">
+                  <span class="street-address">900 University Ave.</span><br />
+                  <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+               </span>
+               Tel: <span class="tel">(951) 827-1012</span><br /><br />
+            </span>
+            <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://library.ucr.edu/">UCR Libraries</a><br />
+            <a href="http://campusstatus.ucr.edu/">Campus Status</a> &bull; <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address>
+         </div>
+         <div class="column49">
+            <h3>Department Information</h3>
+            <address><strong>Department of Computer Science and Engineering</strong><br />
+<a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br /><br />
+Tel: (951) 827-5639<br />
+Fax: (951) 827-4643<br /></address>
+         </div>
+         <div class="column49R">
+            <h3>Related Links</h3>
+            <ul>
+<li><a href "http://www.ucr.edu">UC Riverside</a></li>
+<li><a href "http://www.engr.ucr.edu">Bourns College of Engineering</a></li>
+</ul>
+
+            
+         </div>
+         <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+
+      <div id="nav_footer">
+         <h3 class="accessibility">Campuswide Navigation</h3>
+	        <ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+      </div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a href= "http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01003&amp;site=cse&amp;path=%2Feducation%2Fheres_why%2Findex.html">Last modified: 2015-Sep-17</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>

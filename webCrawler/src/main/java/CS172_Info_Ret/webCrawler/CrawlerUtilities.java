@@ -86,7 +86,7 @@ public class CrawlerUtilities {
 	public Queue<Pair> loadSeeds (String directory) {
 		Queue<Pair> urlQueue = new LinkedList<Pair> ();
 		for ( String file : ListSegments(directory)) {
-			for ( String url : TokenizeByNewLine(readFile(directory + file))) 
+			for ( String url : TokenizeByNewLine(readFile(directory + "/" +  file))) 
 				urlQueue.add(new Pair(url, 0));
 		}
 		return urlQueue;

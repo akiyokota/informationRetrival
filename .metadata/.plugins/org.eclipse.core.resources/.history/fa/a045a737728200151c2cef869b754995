@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Computer Science and Engineering: Colloquia/Events</title>
+<meta http-equiv="last-modified" content="2015-10-30" />
+<meta name="version" content="1.204 1.233 " />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/design6bis.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/wide6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/blue6a.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/print6.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/css/local.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/sifr.css" media="all" />
+
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/sifr-config.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.ucr.edu/js/lib.js"></script>
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie6-wide6.css" media="all" />
+<script defer type="text/javascript" src="http://www.ucr.edu/pngfix.js"></script>
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.ucr.edu/css/ie7.css" media="all" />
+<script type="text/javascript" src="http://www.ucr.edu/fixiequotes.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+// <![CDATA[
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// ]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+try {
+var pageTracker = _gat._getTracker("UA-3051875-1");
+pageTracker._setDomainName("ucr.edu");
+pageTracker._trackPageview();
+} catch(err) {}
+// ]]>
+</script>
+</head>
+<body>
+<div class="pagewrapper">
+	<ul id="accessibility_links">
+		<li class="skip"><a tabindex="1" href="#main" accesskey="2">Skip Navigation</a></li>
+		<li class="skip"><a tabindex="2" href="http://www1.cs.ucr.edu/" accesskey="1">Home Page</a></li>
+		<!--li class="skip"><a href="/about/accessibility.asp" accesskey="0">Accessibility Statement</a></li-->
+	</ul>
+	<hr />
+	<div id="brandingbar">
+	  <img class="overlay" src="/images/overlay.png" alt="" />	  <h2><a href="http://www.ucr.edu/" title="UCR Home Page"><img src="http://www.ucr.edu/images/design6/ucr_logo.gif" width="150" height="53" alt="UCR" title="UCR Home page" /></a></h2>
+	</div>
+</div>
+
+<div id="masthead" style="background-image:url(/images/masthead.jpg);\ <!-- image modified, originally from http://www.themza.com, released GPL - http://www.gnu.org/copyleft/gpl.html>
+	<h1><a href="http://www1.cs.ucr.edu/"><span class="printonly">Computer Science and Engineering</span></a></h1>
+</div>
+
+<!-- Status: Normal -->
+<hr />
+
+<!-- Start Breadcrumbs -->
+<div class="breadcrumbs">
+	<h3 class="accessibility">Breadcrumbs</h3>
+	<ul>
+		<li><a href="http://www.ucr.edu/" title="UCR Home">UCR Home</a> &gt;</li>
+<li><a href="http://www.engr.ucr.edu/">Bourns College of Engineering</a> &gt;</li>
+<li><a href="http://www1.cs.ucr.edu/">Computer Science and Engineering</a> &gt;</li>
+<li class="lastitem">Colloquia/Events</li>
+	</ul>
+</div>
+<!-- End Breadcrumbs -->
+<div class="pagewrapper">
+
+	<div id="search">
+		<div id="nav_utility">
+			<ul>
+				<li><a href="http://www.ucr.edu/alpha.html">A to Z Listing</a></li>
+				<li><a href="http://campusmap.ucr.edu/">Campus Map</a></li>
+				<li><a href="http://www.ucr.edu/find_people.php">Find People</a></li>
+			</ul>
+		</div>
+
+		<form id="searchbox" action="http://www.ucr.edu/search.php"><p>
+		<label for="SearchText" accesskey="4">Search for:</label>
+		<input type="text" size="19" maxlength="255" id="SearchText" name="q" value="" />
+		<input id="go" type="submit" name="sa" value="Go" />
+		</p></form>
+		<script type="text/javascript" src="http://www.ucr.edu/js/watermark.js"></script>
+	</div>	<hr />
+	<!-- Start Content (Navigation and Content columns) -->
+	<div id="content">
+
+		<h2>Colloquia/Events</h2>
+
+		<!-- Start Sidebar -->
+		<div id="sidebar">
+			<div class="nav">
+				<h3 class="accessibility">Main Navigation</h3>
+				<ul>
+				<li><a href="/" title="Home">Home<br /><span></span></a></li><li><a href="/education/heres_why/" title="Admissions">Admissions<br /><span></span></a></li><li><a href="/department/overview/" title="Department">Department<br /><span></span></a><ul><li><a href="/department/overview/" title="Overview">Overview</a></li><li><a href="/department/chairs_message/" title="Chair's Message">Chair's Message</a></li><li class="currentpage"><h3><dfn>Current page is: </dfn>Colloquia/Events</h3></li><li><a href="/department/news/" title="News Archive">News Archive</a></li><li><a href="/department/computing/" title="Computing Facilities">Computing Facilities</a></li><li><a href="/department/directions/" title="Map & Directions">Map & Directions</a></li><li><a href="/department/contactus/" title="Contact Us">Contact Us</a></li></ul></li><li><a href="/people/faculty" title="People">People<br /><span></span></a></li><li><a href="/research/labs" title="Research">Research<br /><span></span></a></li><li><a href="/education/" title="Education">Education<br /><span></span></a></li><li><a href="/employment/" title="CSE Employment">CSE Employment<br /><span></span></a></li><li><a href="/internships/" title="Internships & Careers">Internships & Careers<br /><span></span></a></li><li><a href="/department/giving/" title="Support CSE @ UCR">Support CSE @ UCR<br /><span></span></a></li>				</ul>
+			</div>
+<h4>Department Intranet</h4>
+<ul>
+<li><a href="http://csedept.cs.ucr.edu">Login</a></li>
+<li><a href="http://www1.cs.ucr.edu/faq/">Account FAQs</a></li>
+<li><a href="http://squirrelmail.cs.ucr.edu">CS Webmail</a></li>
+<li><a href="http://wwwcontent.cs.ucr.edu/rss/">RSS Feed</a></li>
+<li><a href="https://password.cs.ucr.edu/">Password Reset</a> (CS labs only)</li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-projector-reservation/">Projector Reservations</a></li>
+<li><a href="https://sites.google.com/a/ucr.edu/cse-colloquium-waiver/">Colloquium Attendance Waiver</a></li>
+</ul>
+		</div>
+		<hr />
+		<!-- End Sidebar -->
+
+		<!-- Start Content Area -->
+		<div id="main">
+			<!-- com.omniupdate.editor csspath="/z-omniupdate/css/macy-wide.css" cssmenu="" width="992" -->
+<div class="header">
+<!-- com.omniupdate.div label="title" group="Everyone" button="734" --><!-- com.omniupdate.editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700" --><!-- /com.omniupdate.div --></div>
+<div id="omnicontent">
+
+<!-- com.omniupdate.div label="maincontent" group="Everyone" button="657" --><!-- ouc:editor csspath="/z-omniupdate/css/style.css" cssmenu="/z-omniupdate/css/style.txt" width="700"/ --><iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ucr.edu_fac0v9e7hb5u1coetfakmtjagk%40group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FLos_Angeles" frameborder="0" scrolling="no" width="100%" height="600"><!-- intentionally non-empty iframe; for xsl --></iframe> <br />
+<p>&nbsp;</p>
+<p><span style="font-size: 1em; line-height: 1.5em;"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <!-- See Conley (cread@cs) before altering the DTD -->
+  <!--
+   UCR Computer Science Extranet Application developed by:
+    Benjamin Arai
+     and
+    Conley Read.
+
+   If you would like to get in touch, please contact us at:
+
+    barai@cs.ucr.edu, http://www.benjaminarai.com/
+    cread@cs.ucr.edu, http://www.conleyread.com/
+
+    Back-end written by Hoang Nguyen
+  -->
+
+<!--
+  <title>Colloquia/Seminars | UCR Department of Computer Science &amp; Engineering</title>
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed | UCR Department of Computer Science &amp; Engineering" href="/rss/">
+
+  <script type="text/javascript" src="/js/menu.js"></script>
+  <script type="text/javascript">
+  // Bust my page out of any frames
+  if (top != self) {
+    top.location.href = location.href;
+  }
+  </script>
+-->
+</head>
+
+<body>
+<!--
+  <div id="header">
+  <div id="logobar">
+    <p id="logobar1">Department of Computer Science and Engineering</p>
+    <div id="logoleft">
+      <a href="/"><img src="/images/logobar2/new_logo2.png" alt="Department of Computer Science and Engineering Logo" title="Department of Computer Science and Engineering" /></a>
+    </div>
+    <div id="logoright">
+      <a href="http://www.engr.ucr.edu/" target="_blank"><img src="/images/logobar2/logobar_coe.png" alt="Bourns College of Engineering Logo" title="Bourns College of Engineering" /></a><a href="http://www.ucr.edu/" target="_blank"><img src="/images/logobar2/logobar_ucr.png" alt="University of California, Riverside Logo" title="University of California, Riverside" /></a>
+    </div>
+  </div>
+  <div id="masthead">
+    <div id="pageCrumbs">
+      <a href="/">Home</a>
+ &#187; <a href="/department/">Department</a> &#187; <a href="/department/seminars/">Colloquia/Seminars</a>    </div>
+    <div id="breadCrumb">
+          </div>
+  </div>
+</div>
+-->
+<div id="container">
+  <div id="centerContent" class="column">
+    <script type="text/javascript" src="/js/tabs.js"></script>
+
+<h3>Colloquia/Events</h3>
+<p>See also: <a href="http://www1.cs.ucr.edu/department/distinguished_lecturers/">Distinguished Lecture Series</a></p>
+<h4>Upcoming Colloquia and Events</h4>
+<div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/523">Detecting and Fixing Performance Bugs using Execution and Code Patterns</a></em></h4>
+  <p>
+    <strong>Adrian Nistor</strong><br />Chapman University<br />November 6, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/523"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />PSY 2000  </p>
+</div>
+<br />
+
+<h4>Past Colloquia and Events</h4>
+
+<div id="seminars" class="tabWindow">
+
+<div class="spacer"><br /></div>
+</div>
+
+  <div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/524">Zooming into the 3D Genome Architecture</a></em></h4>
+  <p>
+    <strong>Wenxiu Ma</strong><br />UC Riverside<br />November 2, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/524"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />PSY 2000  </p>
+</div>
+<div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/522">The END of X, the BEGINNING of Y and what it means for the microprocessor of 2025</a></em></h4>
+  <p>
+    <strong>Yale N. Patt</strong><br />University of Texas at Austin<br />October 30, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/522"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />PSY 2000  </p>
+</div>
+<div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/519">Accelerating Large-Scale Datacenter Servi</a></em></h4>
+  <p>
+    <strong>Andrew Putnam</strong><br />Microsoft<br />October 26, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/519"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />PSY 2000  </p>
+</div>
+<div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/518">Optimizing video delivery over the mobile Internet: performance and pricing</a></em></h4>
+  <p>
+    <strong>Jiasi Chen</strong><br />UC Riverside<br />October 16, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/518"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />PSY 2000  </p>
+</div>
+<div class="year2016">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/517">DLS: De Bruijn Graphs and Fragile Regions in the Human Genome</a></em></h4>
+  <p>
+    <strong>Pavel Pevzner</strong><br />UCSD<br />October 5, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/517"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />WCH 138  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/516">JEPC: An event-processing middleware that not only overcomes heterogeneity of systems </a></em></h4>
+  <p>
+    <strong>Bernhard Seeger</strong><br />University of Marburg<br />June 1, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/516"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/515">Quantifying News Media Slant Through Crowdsourced Content Analysis</a></em></h4>
+  <p>
+    <strong>Ceren Budak</strong><br />Microsoft Research New York<br />April 10, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/515"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/514">Attacking The Browser</a></em></h4>
+  <p>
+    <strong>Alexandros Kapravelos</strong><br />UCSB<br />April 8, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/514"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/513">Enabling Parallel Execution and Large-Scope Behavior Prediction of Modern Software – A Principled Approach</a></em></h4>
+  <p>
+    <strong>Zhijia Zhao</strong><br />NCSU <br />April 6, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/513"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/512">The Future of Parallel Computing with GPU</a></em></h4>
+  <p>
+    <strong>Adwait Jog</strong><br />Penn State<br />April 3, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/512"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/511">Towards One-Size-Fits-All Data Systems</a></em></h4>
+  <p>
+    <strong>Alekh Jindal </strong><br />MIT<br />March 13, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/511"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/510">From Chaos to Harmony: Making Sense of Massive Imperfect Data</a></em></h4>
+  <p>
+    <strong>Ting Wang</strong><br />IBM Thomas J. Watson Research Center<br />March 9, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/510"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/509">Learning Invariants for Software Reliability and Security</a></em></h4>
+  <p>
+    <strong>Pranav Garg</strong><br />University of Illinois at Urbana-Champaign<br />March 6, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/509"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/508">Towards Querying and Mining of Big-Graphs</a></em></h4>
+  <p>
+    <strong>Arijit Khan</strong><br />ETH Zurich<br />March 2, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/508"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/507">Video To Go: Optimizing video delivery over mobile networks</a></em></h4>
+  <p>
+    <strong>Jiasi Chen</strong><br />Princeton University<br />February 27, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/507"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/506">Rethinking Storage Vertically</a></em></h4>
+  <p>
+    <strong>Yiying  Zhang</strong><br />UCSD<br />February 23, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/506"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/503">Computing Education Research:   Pushing the Borders of Computing Today to Educate the Innovators of Tomorrow    </a></em></h4>
+  <p>
+    <strong>Diana Franklin</strong><br />UCSB<br />February 20, 2015, 2:00pm &mdash; 3:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/503"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />WCH 205/206  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/505">Debugging Concurrent Programs with Guarantees</a></em></h4>
+  <p>
+    <strong>Peng Liu</strong><br />Purdue University<br />February 20, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/505"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/504">Are the apps the source of all evil?  A security and privacy perspective</a></em></h4>
+  <p>
+    <strong>Michalis Faloutsos</strong><br />University of New Mexico<br />February 18, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/504"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/502">Rethinking System Support for I/O Devices</a></em></h4>
+  <p>
+    <strong>Ardalan Amiri Sani</strong><br />Rice University<br />February 13, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/502"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/501">Building Secure Operating Systems</a></em></h4>
+  <p>
+    <strong>Vasileios Kemerlis</strong><br />Columbia University<br />February 9, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/501"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/499">Towards Automatic Security Testing of Software</a></em></h4>
+  <p>
+    <strong>Sang Kil Cha</strong><br />Carnegie Mellon University<br />February 6, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/499"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/500">Energy Proportional Datacenters </a></em></h4>
+  <p>
+    <strong>Daniel Wong</strong><br />USC<br />February 4, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/500"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/498">Towards Next Generation High Performance Computing</a></em></h4>
+  <p>
+    <strong>I-Hsin Chung</strong><br />IBM Research<br />February 2, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/498"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/497">Parallelism for High Performance Data Processing: a rethinking 　</a></em></h4>
+  <p>
+    <strong>Xian-He Sun</strong><br />Illinois Institute of Technology<br />January 30, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/497"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/496">Enter the Dragon: A Peek Inside of Qualcomm's Snapdragon Memory Controller Team</a></em></h4>
+  <p>
+    <strong>Korey Sewell</strong><br />Qualcomm<br />January 26, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/496"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/495">Real Estate Analytics</a></em></h4>
+  <p>
+    <strong>Joseph Barr</strong><br />HomeUnion<br />January 9, 2015, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/495"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/494">Towards &quot;on the fly&quot; Data Cleaning </a></em></h4>
+  <p>
+    <strong>Sharad Mehrotra</strong><br />UC Irvine<br />December 8, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/494"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/493">Reverse engineering of gene regulatory networks by utilizing high dimensional biological datasets</a></em></h4>
+  <p>
+    <strong>Serdar Bozdag</strong><br />Marquette University <br />November 14, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/493"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/492">AsterixDB: A Scalable, Open Source BDMS</a></em></h4>
+  <p>
+    <strong>Mike Carey</strong><br />UC Irvine<br />November 10, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/492"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/491">Geotagging One Hundred Million Twitter Accounts with Total Variation Minimization</a></em></h4>
+  <p>
+    <strong>Ryan Compton</strong><br />Howard Hughes Research Laboratories<br />November 3, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/491"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/490">Measurement and Modeling of Online Social Networks</a></em></h4>
+  <p>
+    <strong>Minas Gjoka</strong><br />UC Irvine<br />October 27, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/490"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/489">Computing Education Research: Pushing the Borders of  Computing Today to Educate the Innovators of Tomorrow Today to Educate the Innovators of Tomorrow</a></em></h4>
+  <p>
+    <strong>Diana Franklin</strong><br />UCSB<br />October 20, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/489"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/488">Large-Scale Quantum Computing Architectures:  A Systems Perspective</a></em></h4>
+  <p>
+    <strong>Fred Chong</strong><br />UCSB<br />October 17, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/488"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+<div class="year2015">  <h4><em><a href="http://wwwcontent.cs.ucr.edu/department/eventlookup/487">Heterogeneous massive parallel systems:  past, present and challenges of future systems</a></em></h4>
+  <p>
+    <strong>Avi Mendelson</strong><br />Israel Institute of Technology<br />October 3, 2014, 11:10am &mdash; 12:00pm <a href="http://wwwcontent.cs.ucr.edu/department/event_vcs/487"><img src="/images/ical_export.gif" alt="Import into an iCal-compatible calendar" title="Import into an iCal-compatible calendar" /></a>
+<br />MSE 116  </p>
+</div>
+</div>
+
+<script type="text/javascript">
+tabFilter(null,'seminars','div','year2016','block');
+document.getElementById('seminarTabs').style.display = 'block';
+</script>
+
+<br /><br />
+
+
+<h3 id="distinguished">Distinguished Lecture Series</h3>
+
+<ul>
+  <li><h4><a href="http://static.cs.ucr.edu/store/images/news/DLSPosterF_800.png">2007-2008 Distinguished Lecture Series</a></h4>
+    <ul>
+      <li><a href="http://www.cs.ucla.edu/~dt/">Demetri Terzopoulos</a>, University of California Los Angeles</li>
+      <li><a href="http://pdos.csail.mit.edu/~kaashoek/">Frans Kaashoek</a>, Massachusetts Institute of Technology</li>
+      <li><a href="http://www-hto.usc.edu/people/msw/Waterman.html">Michael Waterman</a>, University of Southern California</li>
+      <li><a href="http://research.microsoft.com/users/lamport/">Leslie Lamport</a>, Microsoft Corporation</li>
+      <li><a href="http://www.cs.berkeley.edu/~jordan/">Michael Jordan</a>, University of California Berkeley</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>Past Speakers:</h4>
+<ul>
+  <li><a href="http://research.microsoft.com/~Gray/">Jim Gray</a>, Microsoft Corporation</li>
+  <li><a href="http://users.ece.utexas.edu/~patt/">Yale Patt</a>, University of Texas at Austin</li>
+  <li><a href="http://graphics.stanford.edu/~hanrahan/">Pat Hanrahan</a>, Stanford University</li>
+  <li><a href="http://www.cs.ucla.edu/~lk/">Leonard Kleinrock</a>, University of California Los Angeles</li>
+  <li><a href="http://www.cs.berkeley.edu/~karp/">Richard Karp</a>, University of California Berkeley</li>
+  <li><a href="http://www.cs.cmu.edu/~satya/">Mahadev Satyanarayanan</a>, Carnegie Mellon University</li>
+  <li>Fred Baker, Cisco Systems, Inc.</li>
+  <li><a href="http://manber.com/">Udi Manber</a>, Yahoo! Inc.</li>
+  <li><a href="http://www.rr.cs.cmu.edu/">Raj Reddy</a>, Carnegie Mellon University</li>
+  <li><a href="http://www.sis.pitt.edu/~mbsclass/hall_of_fame/rabin.html">Mike Rabin</a>, Harvard University</li>
+  <li><a href="http://www.ee.columbia.edu/~egc/">Ed Coffman</a>, Columbia University</li>
+  <li><a href="http://robotics.eecs.berkeley.edu/~sastry/">Shankar Sastry</a>, University of California Berkeley</li>
+  <li><a href="http://www1.cs.columbia.edu/~mihalis/">Mihalis Yannakakis</a>, Stanford University</li>
+  <li>Mike Carey, BEA Systems, Inc.</li>
+
+</ul>
+<br />
+  </div> 
+</div>
+</body>
+</html>
+</span></p><!-- /com.omniupdate.div -->
+<!-- com.omniupdate.efp --><!-- /com.omniupdate.efp -->
+</div>
+			<hr />
+		</div>
+	  <!-- End Content Area -->
+
+		<div class="clear"></div>
+	</div>
+	<!-- End Content -->
+</div><!-- end pagewrapper -->
+
+<div class="clear"></div>
+
+<div class="footerwrapper">
+	<h2>More Information</h2>
+	<div class="pagewrapper">
+
+      <div class="prefooter">
+         <div class="column49">
+            <h3>General Campus Information</h3>
+            <address>
+            <span class="vcard">
+               <strong><span class="fn org">University of California, Riverside</span></strong><br />
+               <span class="adr">
+                  <span class="street-address">900 University Ave.</span><br />
+                  <span class="locality">Riverside</span>, <span class="region">CA</span> <span class="postal-code">92521</span><br />
+               </span>
+               Tel: <span class="tel">(951) 827-1012</span><br /><br />
+            </span>
+            <a href="http://www.ucr.edu/employment.html">Career Opportunities</a> &bull; <a href="http://library.ucr.edu/">UCR Libraries</a><br />
+            <a href="http://campusstatus.ucr.edu/">Campus Status</a> &bull; <a href="http://campusmap.ucr.edu/directions.php">Directions to UCR</a></address>
+         </div>
+         <div class="column49">
+            <h3>Department Information</h3>
+            <address><strong>Department of Computer Science and Engineering</strong><br />
+<a href="http://campusmap.ucr.edu/campusMap.php?loc=ENGR2" title="Campus Map">351 Winston Chung Hall</a><br /><br />
+Tel: (951) 827-5639<br />
+Fax: (951) 827-4643<br /></address>
+         </div>
+         <div class="column49R">
+            <h3>Related Links</h3>
+            <ul>
+<li><a href "http://www.ucr.edu">UC Riverside</a></li>
+<li><a href "http://www.engr.ucr.edu">Bourns College of Engineering</a></li>
+</ul>
+
+            
+         </div>
+         <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+
+      <div id="nav_footer">
+         <h3 class="accessibility">Campuswide Navigation</h3>
+	        <ul><li><a id="nav_footer_home" href="http://www.ucr.edu/"><span>Home</span></a></li><li><a id="nav_footer_about_ucr" href="http://www.ucr.edu/about/"><span>About UCR</span></a></li><li><a id="nav_footer_academics" href="http://www.ucr.edu/academics/"><span>Academics</span></a></li><li><a id="nav_footer_admissions" href="http://www.ucr.edu/admissions/"><span>Admissions</span></a></li><li><a id="nav_footer_athletics" href="http://www.ucr.edu/athletics/"><span>Athletics</span></a></li><li><a id="nav_footer_happenings" href="http://www.ucr.edu/happenings/"><span>Happenings</span></a></li><li><a id="nav_footer_research" href="http://www.ucr.edu/research/"><span>Research</span></a></li><li><a id="nav_footer_resources" href="http://www.ucr.edu/resources/"><span>Campus Resources</span></a></li><li><a id="nav_footer_giving" href="http://www.ucr.edu/giving/"><span>Giving to UCR</span></a></li></ul>
+      </div>
+		<h3 class="accessibility">Footer</h3>
+		<div id="footer">
+			<ul>
+				<li><a href="/sendmail.html?type=feedback" title="Send Feedback E-mail" accesskey="9">Feedback</a></li>
+				<li><a href="http://www.ucr.edu/privacy.html">Privacy Policy</a></li>
+				<li><a href="http://www.ucr.edu/terms.html">Terms and Conditions</a></li>
+				<li>&copy; 2015 Regents of the University of California</li>
+				<li><a href= "http://cms-prod-1.ucr.edu/10?action=de&amp;skin=oucampus&amp;account=D01003&amp;site=cse&amp;path=%2Fdepartment%2Fseminars%2Findex.html">Last modified: 2015-Oct-30</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+</body>
+</html>

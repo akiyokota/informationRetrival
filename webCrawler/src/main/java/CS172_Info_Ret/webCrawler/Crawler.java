@@ -86,7 +86,7 @@ public class Crawler {
 			List<String> urlList = new LinkedList<String> ();
 			Document doc;
 			Jsoup.connect(url).timeout(5000);
-			doc = Jsoup.connect(url).ignoreContentType(true).get();
+			doc = Jsoup.connect(url).ignoreContentType(true).ignoreHttpErrors(true).get();
 			if(doc==null) 
 				return null;
 			urlList = new ParseHTML().parseHTML(doc);
@@ -462,7 +462,7 @@ public class Crawler {
 				printAction(urlPair);
 				
 				//download page ---> storage
-				String htmlFile = filePathStore + history.size() +".html";
+				String htmlFile = filePathStore + "/" + history.size() +".html";
 				utility.writeFile(htmlFile, fetchPageToMemory(urlPair.getURL()));
 				utility.appendToFile(mappingPath, urlPair.getURL() + ":" + htmlFile);
 					
