@@ -11,6 +11,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
@@ -118,5 +119,14 @@ public class CrawlerUtilities {
 		   return true;
 		}
 		return false;
+	}
+	
+	/**
+	 * prints the key, value pair in the given map
+	 */
+	public void MapPrinter(Map<String,String> map) {
+		for(String key: map.keySet()) {
+			System.out.println("Key=" + key + " , value=" + map.get(key));
+		}
 	}
 }
