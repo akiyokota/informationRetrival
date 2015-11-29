@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script src="script.js"></script>
+<style>
+.queryBox {
+	width:300px;
+    height:100px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-100px 0 0 -150px;
+}
+
+
+.searchBox{
+    height:350x;
+    font-size:14pt;
+}
+
+
+.searchButton {
+    background-color: #000000;
+    color: #FFFFFF;
+
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+</style>
+
+<script>
+function search() {
+	var node = document.getElementById("url");
+
+	node.innerHTML="";
+	var xmlHttp = new XMLHttpRequest();
+	var q = document.getElementById("query").value;
+    xmlHttp.open( "POST", 'http://localhost:8080/webCrawler/searchEngine', false ); // false for synchronous request
+    xmlHttp.send( q );
+    var response = xmlHttp.responseText;
+    var urls = JSON.parse(response)
+    var list = "";
+     for(var index in urls) {
+    	var li = document.createElement('li');
+    	var textnode = document.createElement('a');
+    	textnode.textContent = urls[index];
+    	textnode.setAttribute('href', urls[index]);
+    	li.appendChild(textnode);
+    	node.appendChild(li);
+    } 
+}
+</script>
+
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<center>
+	<input class="searchBox" type="text" name="query" id="query">
+	<button class="searchButton" type="button" onclick="search();">Search</button>
+</center>
+
+<div class="result">
+	<ul id="url">
+	</ul>
+</div>
+
+</body>
+</html>

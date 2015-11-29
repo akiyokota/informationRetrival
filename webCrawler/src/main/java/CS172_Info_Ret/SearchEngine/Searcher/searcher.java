@@ -2,6 +2,8 @@ package CS172_Info_Ret.SearchEngine.Searcher;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -17,7 +19,11 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 
 public class searcher {
-	public static final String INDEX_DIR = "./index/";
+	public static final String INDEX_DIR = "/Users/ayokota/Desktop/projects/informationRetrival/webCrawler/index";
+	
+	public searcher() {
+		
+	}
 	
 	public static Query buildQuery (String s) {
 		Query q =  null;
@@ -71,8 +77,30 @@ public class searcher {
 		return new Scanner( System.in ).nextLine();
 	}
 	
+	public static List<String> DocToList(ScoreDoc[] hits) {
+		List<String> result = null;
+		try {
+			result = new LinkedList<String> ();
+			Path index_path = Paths.get(INDEX_DIR);
+			
+			IndexReader reader = DirectoryReader.open(FSDirectory.open(index_path));
+			IndexSearcher searcher = new IndexSearcher(reader);
+			
+			for (int i = 0; i < hits.length; ++i) {
+				int docId = hits[i].doc;
+				Document d = searcher.doc(docId);
+				//System.out.println((i + 1) + ". " + d.get("url") );
+				result.add(d.get("url"));
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return result;
+	}
+	
 	public static void main(String[] args) {
 		//display(search(buildQuery(ask())));
 		display(search(buildQuery(ask())));
+		//System.out.println("hello");
 	}
 }
